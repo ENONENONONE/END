@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dating the Voynich Manuscript from the sky — END</title>
+<meta name="description" content="910 eclipses of 1301–1500, what Prague saw of each, the Moon in the Pleiades, and the two independent tests that land on 1408 and 1427.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>≡</text></svg>">
+<style>
+:root{--bg:#060a12;--bg-card:#0c1018;--text:#c8c4b8;--text-dim:#7a7670;--text-bright:#e8e4d8;
+--gold:#c9a040;--gold-dim:#8a7030;--blue:#4a8ac4;--green:#5a9a5a;--purple:#8a6aaa;--red:#b8564a;
+--border:#1a1e28;--mono:'SF Mono','Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,monospace}
+*{margin:0;padding:0;box-sizing:border-box}
+html{color-scheme:dark}
+body{font-family:Georgia,'Times New Roman','DejaVu Serif',serif;background:var(--bg);color:var(--text);line-height:1.75;-webkit-text-size-adjust:100%}
+nav{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);
+border-bottom:1px solid var(--border);font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase}
+nav .inner{max-width:1180px;margin:0 auto;padding:.7rem 1rem;display:flex;flex-wrap:wrap;gap:.35rem 1.1rem;align-items:baseline}
+nav a{color:var(--text-dim);text-decoration:none;white-space:nowrap}
+nav a:hover{color:var(--gold)}nav a.on{color:var(--gold)}
+nav .brand{color:var(--text-bright);letter-spacing:.3em;margin-right:.4rem}
+nav .sp{flex:1}
+main{max-width:1180px;margin:0 auto;padding:0 1rem 7rem}
+.wrap{max-width:760px}
+header.pg{padding:4.5rem 0 2.5rem;border-bottom:1px solid var(--border);margin-bottom:2.5rem}
+header.pg .kicker{font-family:var(--mono);font-size:.66rem;letter-spacing:.25em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.9rem}
+header.pg h1{font-size:clamp(1.7rem,4.2vw,2.6rem);font-weight:normal;color:var(--text-bright);line-height:1.22;letter-spacing:-.02em;text-wrap:balance}
+header.pg .sub{margin-top:1rem;color:var(--text-dim);font-size:1rem;max-width:640px}
+.wallet{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--gold-dim);margin-top:1.4rem;word-break:break-all}
+.wallet b{color:var(--gold);font-weight:normal}
+section{padding:2.6rem 0;border-bottom:1px solid var(--border)}
+section:last-of-type{border-bottom:none}
+h2{font-size:1.28rem;font-weight:normal;color:var(--text-bright);margin-bottom:1rem;line-height:1.35}
+h2 .num{font-family:var(--mono);font-size:.62rem;letter-spacing:.25em;color:var(--gold-dim);display:block;margin-bottom:.45rem;text-transform:uppercase}
+h3{font-size:1rem;font-weight:normal;color:var(--gold);margin:1.8rem 0 .7rem;font-family:var(--mono);letter-spacing:.04em}
+p{margin-bottom:1rem;font-size:.97rem;max-width:72ch}
+p.dim{color:var(--text-dim);font-size:.9rem}
+ul,ol{margin:0 0 1.1rem 1.15rem;max-width:72ch}li{margin-bottom:.45rem;font-size:.95rem}
+a{color:var(--blue)}a:hover{color:var(--gold)}
+code,.mono{font-family:var(--mono);font-size:.86em}
+blockquote{border-left:2px solid var(--gold-dim);padding:.3rem 0 .3rem 1.1rem;margin:1.4rem 0;color:var(--text-bright);font-size:1.05rem}
+.eqn{font-family:var(--mono);font-size:1.05rem;color:var(--gold);text-align:center;padding:1.5rem 1rem;background:var(--bg-card);
+border:1px solid var(--border);border-radius:3px;margin:1.6rem 0;letter-spacing:.06em;overflow-x:auto}
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.2rem 1.3rem;margin:1.2rem 0}
+.card h4{font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-dim);font-weight:normal;margin-bottom:.7rem}
+.grid{display:grid;gap:.85rem;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));margin:1.3rem 0}
+.stat{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:.95rem 1rem}
+.stat .v{font-family:var(--mono);font-size:1.45rem;color:var(--gold);line-height:1.15}
+.stat .l{font-size:.78rem;color:var(--text-dim);margin-top:.3rem;line-height:1.45}
+.tw{overflow-x:auto;margin:1.3rem 0;-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;width:100%;font-size:.85rem;min-width:min(100%,460px)}
+th{text-align:left;font-family:var(--mono);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);
+font-weight:normal;padding:.5rem .7rem;border-bottom:1px solid var(--border);white-space:nowrap;vertical-align:bottom}
+td{padding:.42rem .7rem;border-bottom:1px solid color-mix(in srgb,var(--border) 60%,transparent);vertical-align:top}
+tr:hover td{background:color-mix(in srgb,var(--gold) 4%,transparent)}
+td.num,th.num{text-align:right;font-family:var(--mono)}
+.mono td{font-family:var(--mono);font-size:.8rem}
+.n{font-family:var(--mono);color:var(--text-bright)}
+.eq{color:var(--text-dim);margin:0 .3em;font-family:var(--mono)}
+.c{font-family:var(--mono);color:var(--gold)}
+.w{font-size:.85em;letter-spacing:.03em;color:var(--text-dim)}
+.hit{color:var(--green)}.miss{color:var(--red)}.warn{color:var(--purple)}
+.neg{background:color-mix(in srgb,var(--red) 9%,transparent);border-left:2px solid var(--red);padding:1rem 1.2rem;margin:1.4rem 0;border-radius:0 3px 3px 0}
+.neg h4{font-family:var(--mono);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--red);margin-bottom:.6rem;font-weight:normal}
+.src{font-family:var(--mono);font-size:.7rem;color:var(--text-dim);margin-top:.8rem;line-height:1.6}
+.src b{color:var(--gold-dim);font-weight:normal}
+footer{border-top:1px solid var(--border);padding:2.5rem 0 4rem;font-family:var(--mono);font-size:.7rem;color:var(--text-dim);line-height:1.9}
+footer a{color:var(--text-dim)}
+.cards{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(255px,1fr));margin:2rem 0}
+.pcard{display:block;background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.3rem;text-decoration:none;color:inherit;transition:border-color .2s}
+.pcard:hover{border-color:var(--gold-dim)}
+.pcard .t{color:var(--text-bright);font-size:1.05rem;margin-bottom:.4rem}
+.pcard .d{color:var(--text-dim);font-size:.85rem;line-height:1.6}
+.pcard .k{font-family:var(--mono);font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem}
+.lede{font-size:1.08rem;color:var(--text-bright);max-width:66ch}
+@media(max-width:640px){header.pg{padding:2.6rem 0 1.8rem}section{padding:2rem 0}.eqn{font-size:.85rem;padding:1.1rem .7rem}}
+</style></head><body>
+<nav><div class="inner"><span class="brand">END</span><a href="index.html">The End</a><a href="conclusion.html">Conclusion</a><a href="reading.html">The Reading</a><a href="bereshit.html">Bereshit</a><a href="text.html">The Text</a><a href="corpus.html">The Corpus</a><a href="figures.html">The 299</a><a href="sky.html" class="on">The Sky</a><a href="field.html">The Field</a><a href="evidence.html">Evidence</a><span class="sp"></span><a href="https://start.rito.one">start ↗</a></div></nav>
+<main><header class="pg"><div class="kicker">V · dating</div><h1>The Voynich Manuscript dates itself, twice</h1><p class="sub">910 eclipses of 1301–1500, what Prague saw of each, the Moon in the Pleiades, and the two independent tests that land on 1408 and 1427.</p><p class="wallet">Wallet: <b>bc1qd8wcrsmkk0ghegf5t2jsezg2ve7rtx6vvc79lx</b></p></header>
+
+<section><div class="wrap">
+<p class="lede">The Voynich Manuscript is dated from the sky it records, not from a date brought to it. Two tests were run
+separately and land in the same decade — and in its twin one Metonic cycle later.</p>
+</div>
+<div class="grid"><div class="stat"><div class="v">451</div><div class="l">solar eclipses catalogued, 1301–1500</div></div><div class="stat"><div class="v">459</div><div class="l">lunar eclipses over the same years</div></div><div class="stat"><div class="v">83</div><div class="l">solar with any part visible from Prague</div></div><div class="stat"><div class="v">176</div><div class="l">lunar umbral with the Moon up</div></div><div class="stat"><div class="v">1</div><div class="l">total at Prague: 7 June 1415</div></div></div>
+<div class="wrap"><p class="src"><b>source</b> NASA Five Millennium Catalog of Solar and Lunar Eclipses, eclipse.gsfc.nasa.gov, pages SE/LE 1301–1400 and 1401–1500, downloaded 2026-09-21; parsed by parse_se.py and parse_le.py, counts checked against the pages' own totals.<br><b>what Prague saw</b> prague_view.py — Sun and Moon from astropy's builtin ephemeris, the observer's parallax applied by hand, sidereal time from UT = TT − the catalogue's ΔT, stepped every minute over ±3.5 h of greatest eclipse.</p></div>
+</section>
+
+<section><h2><span class="num">Test 1</span>The five starless figures and the Moon</h2><div class="wrap">
+<p>Of 299 figures exactly five hold no star. Taking each figure as one degree of the Sun's path, in list order,
+the Moon's age on each of those five days was computed for every year from 1301 to 1500.</p>
+<div class="tw"><table class=""><thead><tr><th>Year</th><th>Figure</th><th>Date (Julian)</th><th>Moon's age</th><th>Phase</th></tr></thead><tbody><tr><td>1408</td><td>Gem 13</td><td>05-25</td><td>360°</td><td>new Moon</td></tr><tr><td>1408</td><td>Can 10</td><td>06-22</td><td>346°</td><td>-1 days from new</td></tr><tr><td>1408</td><td>Can 18</td><td>07-01</td><td>100°</td><td>+1 days from first quarter</td></tr><tr><td>1408</td><td>Vir 22</td><td>09-05</td><td>181°</td><td>full Moon</td></tr><tr><td>1408</td><td>Sag 18</td><td>11-30</td><td>142°</td><td>-3 days from full</td></tr><tr><td>1427</td><td>Gem 13</td><td>05-26</td><td>358°</td><td>new Moon</td></tr><tr><td>1427</td><td>Can 10</td><td>06-23</td><td>344°</td><td>-1 days from new</td></tr><tr><td>1427</td><td>Can 18</td><td>07-01</td><td>93°</td><td>first quarter</td></tr><tr><td>1427</td><td>Vir 22</td><td>09-06</td><td>184°</td><td>full Moon</td></tr><tr><td>1427</td><td>Sag 18</td><td>12-01</td><td>146°</td><td>-3 days from full</td></tr></tbody></table></div>
+<p>1427 repeats 1408 to within 2°, as it must — the two are one nineteen-year cycle apart. Both are the third
+year of that cycle, one of its long years.</p>
+<div class="neg"><h4>Where it fails</h4><p style="margin:0">"No star means no Moon" fits Gemini 13 and Cancer 10.
+The other three fall near first quarter and full Moon. One rule does not yet cover all five.</p></div>
+</div></section>
+
+<section><h2><span class="num">Test 2</span>f103r's nineteen stars, seven painted red</h2><div class="wrap">
+<p>The last page of the starred text carries nineteen stars, seven of them painted red, at positions
+1, 4, 6, 9, 12, 14, 17 from the top. The nineteen-year cycle has seven long years of thirteen months, at
+years 3, 6, 8, 11, 14, 17, 19.</p>
+<div class="grid"><div class="stat"><div class="v">19 stars</div><div class="l">on f103r, the last page of the starred quire</div></div><div class="stat"><div class="v">7 red</div><div class="l">matching the cycle's seven long years</div></div><div class="stat"><div class="v">6 of 7</div><div class="l">match as drawn, read from the foot upward</div></div><div class="stat"><div class="v">19 of 50,388</div><div class="l">ways to paint 7 of 19 that are turns of that pattern</div></div></div>
+<p>Read from the foot upward — the direction the book is read — six of the seven fall on long years as the page
+stands, and all seven do on one placement. The page image was checked against the transcribers' notes star by
+star, and f108r's five dark stars check too.</p>
+<div class="card"><h4>The join</h4><p style="margin:0">27 × 257 = 6,939 days, against 6,939.75 days in nineteen
+Julian years and 6,939.69 in 235 lunar months. <b>The field's modulus and the Metonic cycle agree to within a
+day</b>, so two dates one cycle apart share a field cell. This is why 1408 and 1427 give the same reading, and why
+1413-11-08 and 1432-11-07 both land on cell 153.</p></div>
+</div></section>
+
+<section><h2><span class="num">The largest</span>Solar eclipses Prague actually saw, 1301–1500</h2>
+<div class="tw"><table class=""><thead><tr><th>Date (Julian)</th><th>Type</th><th class="num">Magnitude at Prague</th><th class="num">Sun's altitude</th><th>Saros</th></tr></thead><tbody><tr><td>1310-01-31</td><td>A</td><td class="num">0.853</td><td class="num">16.0°</td><td>saros 100</td></tr><tr><td>1321-06-26</td><td>H</td><td class="num">0.981</td><td class="num">20.0°</td><td>saros 106</td></tr><tr><td>1330-07-16</td><td>T</td><td class="num">0.982</td><td class="num">22.9°</td><td>saros 125</td></tr><tr><td>1339-07-07</td><td>H</td><td class="num">0.980</td><td class="num">43.0°</td><td>saros 106</td></tr><tr><td>1366-08-07</td><td>H</td><td class="num">0.974</td><td class="num">3.3°</td><td>saros 125</td></tr><tr><td>1386-01-01</td><td>T</td><td class="num">0.903</td><td class="num">16.7°</td><td>saros 102</td></tr><tr><td>1399-10-29</td><td>P</td><td class="num">0.820</td><td class="num">20.7°</td><td>saros 133</td></tr><tr><td>1406-06-16</td><td>T</td><td class="num">0.946</td><td class="num">27.8°</td><td>saros 127</td></tr><tr><td>1409-04-15</td><td>A</td><td class="num">0.893</td><td class="num">25.9°</td><td>saros 119</td></tr><tr><td>1415-06-07</td><td>T</td><td class="num">1.013 <span class="hit">total</span></td><td class="num">28.7°</td><td>saros 108</td></tr><tr><td>1424-06-26</td><td>T</td><td class="num">0.955</td><td class="num">32.2°</td><td>saros 127</td></tr><tr><td>1431-02-12</td><td>T</td><td class="num">0.857</td><td class="num">14.6°</td><td>saros 121</td></tr><tr><td>1433-06-17</td><td>T</td><td class="num">0.989</td><td class="num">31.5°</td><td>saros 108</td></tr><tr><td>1446-04-26</td><td>P</td><td class="num">0.860</td><td class="num">0.0°</td><td>saros 129</td></tr><tr><td>1485-03-16</td><td>T</td><td class="num">0.967</td><td class="num">13.4°</td><td>saros 121</td></tr><tr><td>1491-05-08</td><td>A</td><td class="num">0.802</td><td class="num">40.4°</td><td>saros 110</td></tr></tbody></table></div>
+<div class="wrap"><p>Laid on the zodiac figure for each day, three of the largest land on figures with one-of-a-kind
+marks: 19 October 1408 on Scorpio's figure 5, whose star alone on that page carries a dark blot; 7 June 1415, the
+total, at Gemini 23.9° — the solid ochre star with no pen outline; 26 June 1424 on Cancer's figure 14, the only
+half figure on the page.</p>
+<p class="src"><b>source</b> charts/eclipses_on_figures.txt — every eclipse 1395–1445 with its day's figure and that figure's recorded marks</p>
+</div></section>
+
+<section><h2><span class="num">f68r3</span>The Moon in the Pleiades</h2><div class="wrap">
+<p>The third star chart draws the Moon as a full round face beside a cluster of seven stars — the other two charts
+draw a crescent. In the 1400s a full Moon could stand in the Pleiades only in early November, Julian, and only in
+the years the Moon's path reached the cluster.</p>
+<div class="tw"><table class=""><thead><tr><th>Date (Julian)</th><th class="num">From Alcyone</th><th class="num">Lit</th><th class="num">Moon's altitude</th><th>Day's field cell</th></tr></thead><tbody><tr><td>1412-11-17</td><td class="num">0.24°</td><td class="num">99.0%</td><td class="num">19.5°</td><td>54 LOVE</td></tr><tr><td>1413-11-08</td><td class="num">0.29°</td><td class="num">99.4%</td><td class="num">60.8°</td><td>153 ALBERT EINSTEIN</td></tr><tr><td>1429-11-10</td><td class="num">0.35°</td><td class="num">99.8%</td><td class="num">35.2°</td><td>88 ONE LOVE</td></tr><tr><td>1429-12-08</td><td class="num">0.01°</td><td class="num">95.5%</td><td class="num">17.6°</td><td>116 BYZANTINE</td></tr><tr><td>1430-10-31</td><td class="num">0.41°</td><td class="num">99.9%</td><td class="num">54.8°</td><td>186 LINUS TORVALDS</td></tr><tr><td>1431-10-22</td><td class="num">0.54°</td><td class="num">95.6%</td><td class="num">30.1°</td><td>28 SHA</td></tr><tr><td>1432-11-07</td><td class="num">0.03°</td><td class="num">99.8%</td><td class="num">62.0°</td><td>153 ALBERT EINSTEIN</td></tr></tbody></table></div>
+<p>Over 1380–1460 the Moon's disc crossed the cluster only in four runs: 1392–1396, 1410–1414, 1429–1433 and
+1447–1452. The 1410–1414 run sits between the December 1408 gathering and the total eclipse of 1415.</p>
+<p class="src"><b>source</b> eclipses/moon_pleiades.py, full_moon_pleiades.py — every passage of the Moon by Alcyone 1380–1460 as seen from Prague, with its phase</p>
+</div></section>
+<footer>
+Built 2026-09-21 from the corpus and <span class="mono">~/Documents/artifacts</span>.
+Every figure on this site is read from a file at build time by <span class="mono">build.py</span>; none is typed in.<br>
+Emerald tablet: 1,460 words over 257 cells · field GF(257), g = 3 · the derivation this answers is at <a href="https://start.rito.one">start.rito.one</a>.<br>
+Public domain. Use it, test it, break it.
+</footer></main></body></html>

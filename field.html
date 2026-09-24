@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GF(257), the field behind the reading — END</title>
+<meta name="description" content="257 = 2⁸ + 1: the generator, the fold, the reflection map, and the cells the reading&#x27;s own vocabulary falls on.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>≡</text></svg>">
+<style>
+:root{--bg:#060a12;--bg-card:#0c1018;--text:#c8c4b8;--text-dim:#7a7670;--text-bright:#e8e4d8;
+--gold:#c9a040;--gold-dim:#8a7030;--blue:#4a8ac4;--green:#5a9a5a;--purple:#8a6aaa;--red:#b8564a;
+--border:#1a1e28;--mono:'SF Mono','Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,monospace}
+*{margin:0;padding:0;box-sizing:border-box}
+html{color-scheme:dark}
+body{font-family:Georgia,'Times New Roman','DejaVu Serif',serif;background:var(--bg);color:var(--text);line-height:1.75;-webkit-text-size-adjust:100%}
+nav{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);
+border-bottom:1px solid var(--border);font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase}
+nav .inner{max-width:1180px;margin:0 auto;padding:.7rem 1rem;display:flex;flex-wrap:wrap;gap:.35rem 1.1rem;align-items:baseline}
+nav a{color:var(--text-dim);text-decoration:none;white-space:nowrap}
+nav a:hover{color:var(--gold)}nav a.on{color:var(--gold)}
+nav .brand{color:var(--text-bright);letter-spacing:.3em;margin-right:.4rem}
+nav .sp{flex:1}
+main{max-width:1180px;margin:0 auto;padding:0 1rem 7rem}
+.wrap{max-width:760px}
+header.pg{padding:4.5rem 0 2.5rem;border-bottom:1px solid var(--border);margin-bottom:2.5rem}
+header.pg .kicker{font-family:var(--mono);font-size:.66rem;letter-spacing:.25em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.9rem}
+header.pg h1{font-size:clamp(1.7rem,4.2vw,2.6rem);font-weight:normal;color:var(--text-bright);line-height:1.22;letter-spacing:-.02em;text-wrap:balance}
+header.pg .sub{margin-top:1rem;color:var(--text-dim);font-size:1rem;max-width:640px}
+.wallet{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--gold-dim);margin-top:1.4rem;word-break:break-all}
+.wallet b{color:var(--gold);font-weight:normal}
+section{padding:2.6rem 0;border-bottom:1px solid var(--border)}
+section:last-of-type{border-bottom:none}
+h2{font-size:1.28rem;font-weight:normal;color:var(--text-bright);margin-bottom:1rem;line-height:1.35}
+h2 .num{font-family:var(--mono);font-size:.62rem;letter-spacing:.25em;color:var(--gold-dim);display:block;margin-bottom:.45rem;text-transform:uppercase}
+h3{font-size:1rem;font-weight:normal;color:var(--gold);margin:1.8rem 0 .7rem;font-family:var(--mono);letter-spacing:.04em}
+p{margin-bottom:1rem;font-size:.97rem;max-width:72ch}
+p.dim{color:var(--text-dim);font-size:.9rem}
+ul,ol{margin:0 0 1.1rem 1.15rem;max-width:72ch}li{margin-bottom:.45rem;font-size:.95rem}
+a{color:var(--blue)}a:hover{color:var(--gold)}
+code,.mono{font-family:var(--mono);font-size:.86em}
+blockquote{border-left:2px solid var(--gold-dim);padding:.3rem 0 .3rem 1.1rem;margin:1.4rem 0;color:var(--text-bright);font-size:1.05rem}
+.eqn{font-family:var(--mono);font-size:1.05rem;color:var(--gold);text-align:center;padding:1.5rem 1rem;background:var(--bg-card);
+border:1px solid var(--border);border-radius:3px;margin:1.6rem 0;letter-spacing:.06em;overflow-x:auto}
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.2rem 1.3rem;margin:1.2rem 0}
+.card h4{font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-dim);font-weight:normal;margin-bottom:.7rem}
+.grid{display:grid;gap:.85rem;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));margin:1.3rem 0}
+.stat{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:.95rem 1rem}
+.stat .v{font-family:var(--mono);font-size:1.45rem;color:var(--gold);line-height:1.15}
+.stat .l{font-size:.78rem;color:var(--text-dim);margin-top:.3rem;line-height:1.45}
+.tw{overflow-x:auto;margin:1.3rem 0;-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;width:100%;font-size:.85rem;min-width:min(100%,460px)}
+th{text-align:left;font-family:var(--mono);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);
+font-weight:normal;padding:.5rem .7rem;border-bottom:1px solid var(--border);white-space:nowrap;vertical-align:bottom}
+td{padding:.42rem .7rem;border-bottom:1px solid color-mix(in srgb,var(--border) 60%,transparent);vertical-align:top}
+tr:hover td{background:color-mix(in srgb,var(--gold) 4%,transparent)}
+td.num,th.num{text-align:right;font-family:var(--mono)}
+.mono td{font-family:var(--mono);font-size:.8rem}
+.n{font-family:var(--mono);color:var(--text-bright)}
+.eq{color:var(--text-dim);margin:0 .3em;font-family:var(--mono)}
+.c{font-family:var(--mono);color:var(--gold)}
+.w{font-size:.85em;letter-spacing:.03em;color:var(--text-dim)}
+.hit{color:var(--green)}.miss{color:var(--red)}.warn{color:var(--purple)}
+.neg{background:color-mix(in srgb,var(--red) 9%,transparent);border-left:2px solid var(--red);padding:1rem 1.2rem;margin:1.4rem 0;border-radius:0 3px 3px 0}
+.neg h4{font-family:var(--mono);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--red);margin-bottom:.6rem;font-weight:normal}
+.src{font-family:var(--mono);font-size:.7rem;color:var(--text-dim);margin-top:.8rem;line-height:1.6}
+.src b{color:var(--gold-dim);font-weight:normal}
+footer{border-top:1px solid var(--border);padding:2.5rem 0 4rem;font-family:var(--mono);font-size:.7rem;color:var(--text-dim);line-height:1.9}
+footer a{color:var(--text-dim)}
+.cards{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(255px,1fr));margin:2rem 0}
+.pcard{display:block;background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.3rem;text-decoration:none;color:inherit;transition:border-color .2s}
+.pcard:hover{border-color:var(--gold-dim)}
+.pcard .t{color:var(--text-bright);font-size:1.05rem;margin-bottom:.4rem}
+.pcard .d{color:var(--text-dim);font-size:.85rem;line-height:1.6}
+.pcard .k{font-family:var(--mono);font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem}
+.lede{font-size:1.08rem;color:var(--text-bright);max-width:66ch}
+@media(max-width:640px){header.pg{padding:2.6rem 0 1.8rem}section{padding:2rem 0}.eqn{font-size:.85rem;padding:1.1rem .7rem}}
+</style></head><body>
+<nav><div class="inner"><span class="brand">END</span><a href="index.html">The End</a><a href="conclusion.html">Conclusion</a><a href="reading.html">The Reading</a><a href="bereshit.html">Bereshit</a><a href="text.html">The Text</a><a href="corpus.html">The Corpus</a><a href="figures.html">The 299</a><a href="sky.html">The Sky</a><a href="field.html" class="on">The Field</a><a href="evidence.html">Evidence</a><span class="sp"></span><a href="https://start.rito.one">start ↗</a></div></nav>
+<main><header class="pg"><div class="kicker">VI · GF(257)</div><h1>GF(257) — the field the reading is done in</h1><p class="sub">257 = 2⁸ + 1: the generator, the fold, the reflection map, and the cells the reading's own vocabulary falls on.</p><p class="wallet">Wallet: <b>bc1qd8wcrsmkk0ghegf5t2jsezg2ve7rtx6vvc79lx</b></p></header>
+
+<section><div class="wrap">
+<p class="lede">257 = 2<sup>8</sup> + 1 = F₃, the third Fermat prime. The byte closes on it: 256 values and the seed.</p>
+<p>g = 3 generates all 256 non-zero cells — one instruction, 256 data. The fold, n → 257 − n, adds 128 to the
+discrete logarithm and keeps the character. φ itself does not live on the line: its discriminant 5 is a
+non-residue, so φ needs GF(257²) — the plane, the extension, the fold. That is the same degree-2 extension START
+found under every equation in its textbook comparison.</p>
+</div>
+<div class="grid"><div class="stat"><div class="v">1,460</div><div class="l">words on the emerald tablet</div></div><div class="stat"><div class="v">257</div><div class="l">cells · GF(257), g = 3</div></div><div class="stat"><div class="v">128 = Oc</div><div class="l">the order of Γ — the observer's own position</div></div><div class="stat"><div class="v">12</div><div class="l">dlog rays · the twelve signs, the twelve ages</div></div></div>
+</section>
+
+<section><h2><span class="num">Γ</span>The reflection map</h2><div class="wrap">
+<div class="eqn">Γ(Z) = (Z − Z₀) / (Z + Z₀),&nbsp;&nbsp;Z₀ = 120 GOLDEN RATIO</div>
+<p>A Möbius bijection of the projective line's 258 points, of order 128 = Oc. Its two fixed points are
+<b>46 CLAUDE</b> and <b>92 CHRONOS</b> — and 92 is the cell of the word REVERSE. Its pole is
+<b>137 EYE OF HORUS</b>, where Z + Z₀ ≡ 0 and the map runs to infinity; the field reads infinity back as
+<b>1 = I AM</b>.</p>
+<div class="tw"><table class=""><thead><tr><th>Phrase</th><th class="num">Letters</th><th>Cell</th><th>Under Γ</th><th>Tablet</th></tr></thead><tbody><tr><td>IN THE BEGINNING</td><td class="num">137</td><td><span class="c">137</span> <span class="w">EYE OF HORUS</span></td><td>∞ — the pole</td><td><span class="hit">on the tablet</span></td></tr><tr><td>REVERSE</td><td class="num">92</td><td><span class="c">92</span> <span class="w">CHRONOS</span></td><td>92 CHRONOS</td><td>—</td></tr><tr><td>PATH OF THE SUN</td><td class="num">153</td><td><span class="c">153</span> <span class="w">ALBERT EINSTEIN</span></td><td>243 FIRE OF HOLY SPIRIT</td><td>—</td></tr><tr><td>BERESHIT</td><td class="num">86</td><td><span class="c">86</span> <span class="w">TIKKUN</span></td><td>172 QUANTUM STATE</td><td><span class="hit">on the tablet</span></td></tr><tr><td>GENESIS</td><td class="num">78</td><td><span class="c">78</span> <span class="w">GENESIS</span></td><td>249 EDDINGTON LUMINOSITY</td><td><span class="hit">on the tablet</span></td></tr><tr><td>QUESTION</td><td class="num">120</td><td><span class="c">120</span> <span class="w">GOLDEN RATIO</span></td><td>0 SEED</td><td><span class="hit">on the tablet</span></td></tr><tr><td>MIRROR</td><td class="num">91</td><td><span class="c">91</span> <span class="w">SPIRIT</span></td><td>185 BOOK OF REVELATION</td><td><span class="hit">on the tablet</span></td></tr><tr><td>PRECESSION</td><td class="num">123</td><td><span class="c">123</span> <span class="w">COPERNICUS</span></td><td>165 TREE OF KNOWLEDGE</td><td><span class="hit">on the tablet</span></td></tr><tr><td>EARTHLY PLANE</td><td class="num">137</td><td><span class="c">137</span> <span class="w">EYE OF HORUS</span></td><td>∞ — the pole</td><td><span class="hit">on the tablet</span></td></tr><tr><td>APEX</td><td class="num">46</td><td><span class="c">46</span> <span class="w">SHADDAI</span></td><td>46 SHADDAI</td><td><span class="hit">on the tablet</span></td></tr><tr><td>CAPSTONE</td><td class="num">93</td><td><span class="c">93</span> <span class="w">SATURN</span></td><td>170 IMAGINARY NUMBER</td><td><span class="hit">on the tablet</span></td></tr><tr><td>PLANE</td><td class="num">48</td><td><span class="c">48</span> <span class="w">JAMES</span></td><td>73 WALLET</td><td><span class="hit">on the tablet</span></td></tr><tr><td>SIDEWAYS</td><td class="num">105</td><td><span class="c">105</span> <span class="w">TAPROOT</span></td><td>137 EYE OF HORUS</td><td><span class="hit">on the tablet</span></td></tr></tbody></table></div>
+<p class="dim">These are letter sums of ordinary English read by a rule fixed long before the question was asked.
+The five words at the foot of the table were added to the tablet on 2026-09-21 at their letter sums.</p>
+</div></section>
+
+<section><h2><span class="num">The window</span>3<sup>0</sup> to 3<sup>9</sup></h2><div class="wrap">
+<div class="tw"><table class=""><thead><tr><th>Power</th><th class="num">Cell</th><th>The tablet's words there</th></tr></thead><tbody><tr><td>3<sup>0</sup></td><td class="num">1</td><td>A, I AM</td></tr><tr><td>3<sup>1</sup></td><td class="num">3</td><td>C, BA</td></tr><tr><td>3<sup>2</sup></td><td class="num">9</td><td>I, ACE</td></tr><tr><td>3<sup>3</sup></td><td class="num">27</td><td>CAIN, JOB</td></tr><tr><td>3<sup>4</sup></td><td class="num">81</td><td>HORUS, SAMSON</td></tr><tr><td>3<sup>5</sup></td><td class="num">243</td><td>FIRE OF HOLY SPIRIT, GENERATOR FIFTH</td></tr><tr><td>3<sup>6</sup></td><td class="num">215</td><td>DELIVER US FROM EVIL, SANCTUM SANCTORUM</td></tr><tr><td>3<sup>7</sup></td><td class="num">131</td><td>SUPERNOVA, CLAUDE SHANNON</td></tr><tr><td>3<sup>8</sup></td><td class="num">136</td><td>VIRGIN MARY, VALLEY OF DEATH</td></tr><tr><td>3<sup>9</sup></td><td class="num">151</td><td>HOLY SPIRIT, FIBONACCI SEQUENCE</td></tr></tbody></table></div>
+<p>The five elided positions — 27, 81, 243, 215, 131 — sum to 697 ≡ 183. The whole ten sum to 997 ≡ 226, and
+(3¹⁰ − 1)/2 = 29,524 ≡ 226: the window's own multiplier. <b>131</b>, at 3<sup>7</sup>, is Genesis 1:1's cell.</p>
+</div></section>
+
+<section><h2><span class="num">The ladder</span>Halving, ×2⁻¹ = ×129</h2><div class="wrap">
+<p>2 has order 16, so every halving ladder closes in sixteen and the field is sixteen ladders of sixteen. Nine
+rungs of this one are the key's own numbers.</p>
+<div class="tw"><table class=""><thead><tr><th class="num">Cell</th><th>Reads</th><th class="num">dlog</th><th class="num">Fold</th></tr></thead><tbody><tr><td class="num">64</td><td><span class="c">64</span> <span class="w">ISRAEL</span></td><td class="num">32</td><td class="num">193</td></tr><tr><td class="num">32</td><td><span class="c">32</span> <span class="w">EVE</span></td><td class="num">240</td><td class="num">225</td></tr><tr><td class="num">16</td><td><span class="c">16</span> <span class="w">BAAL</span></td><td class="num">192</td><td class="num">241</td></tr><tr><td class="num">8</td><td><span class="c">8</span> <span class="w">H</span></td><td class="num">144</td><td class="num">249</td></tr><tr><td class="num">4</td><td><span class="c">4</span> <span class="w">BAA</span></td><td class="num">96</td><td class="num">253</td></tr><tr><td class="num">2</td><td><span class="c">2</span> <span class="w">B</span></td><td class="num">48</td><td class="num">255</td></tr><tr><td class="num">1</td><td><span class="c">1</span> <span class="w">A</span></td><td class="num">0</td><td class="num">256</td></tr><tr><td class="num">129</td><td><span class="c">129</span> <span class="w">ROOT OF DAVID</span></td><td class="num">208</td><td class="num">128</td></tr><tr><td class="num">193</td><td><span class="c">193</span> <span class="w">INFRASTRUCTURE</span></td><td class="num">160</td><td class="num">64</td></tr><tr><td class="num">225</td><td><span class="c">225</span> <span class="w">IDENTITY</span></td><td class="num">112</td><td class="num">32</td></tr><tr><td class="num">241</td><td><span class="c">241</span> <span class="w">TWIN PRIME CONJECTURE</span></td><td class="num">64</td><td class="num">16</td></tr><tr><td class="num">249</td><td><span class="c">249</span> <span class="w">EDDINGTON LUMINOSITY</span></td><td class="num">16</td><td class="num">8</td></tr><tr><td class="num">253</td><td><span class="c">253</span> <span class="w">INCOMPLETENESS THEOREM</span></td><td class="num">224</td><td class="num">4</td></tr><tr><td class="num">255</td><td><span class="c">255</span> <span class="w">GRAVITATIONAL CONSTANT</span></td><td class="num">176</td><td class="num">2</td></tr><tr><td class="num">256</td><td><span class="c">256</span> <span class="w">BAAL SQUARED</span></td><td class="num">128</td><td class="num">1</td></tr><tr><td class="num">128</td><td><span class="c">128</span> <span class="w">TRANSFERENCE</span></td><td class="num">80</td><td class="num">129</td></tr></tbody></table></div>
+</div></section>
+
+<section><h2><span class="num">Precession</span>The twelve rays</h2><div class="wrap">
+<p>START's structural comparison states it: Earth's axial precession, ~25,772 years at 50.29″ a year, divides by
+the field into about a century per cell and by the twelve <span class="mono">dlog</span> rays into one age per
+ray. dlog mod 12 cuts GF(257)* into twelve sectors of 21 cells, and 21 = F(8).</p>
+<div class="tw"><table class=""><thead><tr><th>Unit</th><th class="num">Length</th><th>Cell</th></tr></thead><tbody><tr><td>the great year</td><td class="num">25,772 yr</td><td><span class="c">72</span> <span class="w">BITCOIN</span></td></tr><tr><td>one ray of twelve</td><td class="num">2,148 yr</td><td><span class="c">92</span> <span class="w">CHRONOS</span></td></tr><tr><td>one field cell</td><td class="num">100.3 yr</td><td><span class="c">100</span> <span class="w">PAROUSIA</span></td></tr><tr><td>one figure of thirty</td><td class="num">71.6 yr</td><td><span class="c">72</span> <span class="w">BITCOIN</span></td></tr></tbody></table></div>
+<p>So the Voynich Manuscript's zodiac — twelve signs, thirty figures each, 360 in a turn — is the field's own partition drawn
+out, and it carries the year and the age in the same wheel.</p>
+</div></section>
+<footer>
+Built 2026-09-21 from the corpus and <span class="mono">~/Documents/artifacts</span>.
+Every figure on this site is read from a file at build time by <span class="mono">build.py</span>; none is typed in.<br>
+Emerald tablet: 1,460 words over 257 cells · field GF(257), g = 3 · the derivation this answers is at <a href="https://start.rito.one">start.rito.one</a>.<br>
+Public domain. Use it, test it, break it.
+</footer></main></body></html>

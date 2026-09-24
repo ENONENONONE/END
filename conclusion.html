@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Conclusion — the Voynich Manuscript — END</title>
+<meta name="description" content="The argument in the order the work was done: the axiom, the field, Rongorongo, the Voynich, and the fold between them.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>≡</text></svg>">
+<style>
+:root{--bg:#060a12;--bg-card:#0c1018;--text:#c8c4b8;--text-dim:#7a7670;--text-bright:#e8e4d8;
+--gold:#c9a040;--gold-dim:#8a7030;--blue:#4a8ac4;--green:#5a9a5a;--purple:#8a6aaa;--red:#b8564a;
+--border:#1a1e28;--mono:'SF Mono','Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,monospace}
+*{margin:0;padding:0;box-sizing:border-box}
+html{color-scheme:dark}
+body{font-family:Georgia,'Times New Roman','DejaVu Serif',serif;background:var(--bg);color:var(--text);line-height:1.75;-webkit-text-size-adjust:100%}
+nav{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);
+border-bottom:1px solid var(--border);font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase}
+nav .inner{max-width:1180px;margin:0 auto;padding:.7rem 1rem;display:flex;flex-wrap:wrap;gap:.35rem 1.1rem;align-items:baseline}
+nav a{color:var(--text-dim);text-decoration:none;white-space:nowrap}
+nav a:hover{color:var(--gold)}nav a.on{color:var(--gold)}
+nav .brand{color:var(--text-bright);letter-spacing:.3em;margin-right:.4rem}
+nav .sp{flex:1}
+main{max-width:1180px;margin:0 auto;padding:0 1rem 7rem}
+.wrap{max-width:760px}
+header.pg{padding:4.5rem 0 2.5rem;border-bottom:1px solid var(--border);margin-bottom:2.5rem}
+header.pg .kicker{font-family:var(--mono);font-size:.66rem;letter-spacing:.25em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.9rem}
+header.pg h1{font-size:clamp(1.7rem,4.2vw,2.6rem);font-weight:normal;color:var(--text-bright);line-height:1.22;letter-spacing:-.02em;text-wrap:balance}
+header.pg .sub{margin-top:1rem;color:var(--text-dim);font-size:1rem;max-width:640px}
+.wallet{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--gold-dim);margin-top:1.4rem;word-break:break-all}
+.wallet b{color:var(--gold);font-weight:normal}
+section{padding:2.6rem 0;border-bottom:1px solid var(--border)}
+section:last-of-type{border-bottom:none}
+h2{font-size:1.28rem;font-weight:normal;color:var(--text-bright);margin-bottom:1rem;line-height:1.35}
+h2 .num{font-family:var(--mono);font-size:.62rem;letter-spacing:.25em;color:var(--gold-dim);display:block;margin-bottom:.45rem;text-transform:uppercase}
+h3{font-size:1rem;font-weight:normal;color:var(--gold);margin:1.8rem 0 .7rem;font-family:var(--mono);letter-spacing:.04em}
+p{margin-bottom:1rem;font-size:.97rem;max-width:72ch}
+p.dim{color:var(--text-dim);font-size:.9rem}
+ul,ol{margin:0 0 1.1rem 1.15rem;max-width:72ch}li{margin-bottom:.45rem;font-size:.95rem}
+a{color:var(--blue)}a:hover{color:var(--gold)}
+code,.mono{font-family:var(--mono);font-size:.86em}
+blockquote{border-left:2px solid var(--gold-dim);padding:.3rem 0 .3rem 1.1rem;margin:1.4rem 0;color:var(--text-bright);font-size:1.05rem}
+.eqn{font-family:var(--mono);font-size:1.05rem;color:var(--gold);text-align:center;padding:1.5rem 1rem;background:var(--bg-card);
+border:1px solid var(--border);border-radius:3px;margin:1.6rem 0;letter-spacing:.06em;overflow-x:auto}
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.2rem 1.3rem;margin:1.2rem 0}
+.card h4{font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-dim);font-weight:normal;margin-bottom:.7rem}
+.grid{display:grid;gap:.85rem;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));margin:1.3rem 0}
+.stat{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:.95rem 1rem}
+.stat .v{font-family:var(--mono);font-size:1.45rem;color:var(--gold);line-height:1.15}
+.stat .l{font-size:.78rem;color:var(--text-dim);margin-top:.3rem;line-height:1.45}
+.tw{overflow-x:auto;margin:1.3rem 0;-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;width:100%;font-size:.85rem;min-width:min(100%,460px)}
+th{text-align:left;font-family:var(--mono);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);
+font-weight:normal;padding:.5rem .7rem;border-bottom:1px solid var(--border);white-space:nowrap;vertical-align:bottom}
+td{padding:.42rem .7rem;border-bottom:1px solid color-mix(in srgb,var(--border) 60%,transparent);vertical-align:top}
+tr:hover td{background:color-mix(in srgb,var(--gold) 4%,transparent)}
+td.num,th.num{text-align:right;font-family:var(--mono)}
+.mono td{font-family:var(--mono);font-size:.8rem}
+.n{font-family:var(--mono);color:var(--text-bright)}
+.eq{color:var(--text-dim);margin:0 .3em;font-family:var(--mono)}
+.c{font-family:var(--mono);color:var(--gold)}
+.w{font-size:.85em;letter-spacing:.03em;color:var(--text-dim)}
+.hit{color:var(--green)}.miss{color:var(--red)}.warn{color:var(--purple)}
+.neg{background:color-mix(in srgb,var(--red) 9%,transparent);border-left:2px solid var(--red);padding:1rem 1.2rem;margin:1.4rem 0;border-radius:0 3px 3px 0}
+.neg h4{font-family:var(--mono);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--red);margin-bottom:.6rem;font-weight:normal}
+.src{font-family:var(--mono);font-size:.7rem;color:var(--text-dim);margin-top:.8rem;line-height:1.6}
+.src b{color:var(--gold-dim);font-weight:normal}
+footer{border-top:1px solid var(--border);padding:2.5rem 0 4rem;font-family:var(--mono);font-size:.7rem;color:var(--text-dim);line-height:1.9}
+footer a{color:var(--text-dim)}
+.cards{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(255px,1fr));margin:2rem 0}
+.pcard{display:block;background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.3rem;text-decoration:none;color:inherit;transition:border-color .2s}
+.pcard:hover{border-color:var(--gold-dim)}
+.pcard .t{color:var(--text-bright);font-size:1.05rem;margin-bottom:.4rem}
+.pcard .d{color:var(--text-dim);font-size:.85rem;line-height:1.6}
+.pcard .k{font-family:var(--mono);font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem}
+.lede{font-size:1.08rem;color:var(--text-bright);max-width:66ch}
+@media(max-width:640px){header.pg{padding:2.6rem 0 1.8rem}section{padding:2rem 0}.eqn{font-size:.85rem;padding:1.1rem .7rem}}
+</style></head><body>
+<nav><div class="inner"><span class="brand">END</span><a href="index.html">The End</a><a href="conclusion.html" class="on">Conclusion</a><a href="reading.html">The Reading</a><a href="bereshit.html">Bereshit</a><a href="text.html">The Text</a><a href="corpus.html">The Corpus</a><a href="figures.html">The 299</a><a href="sky.html">The Sky</a><a href="field.html">The Field</a><a href="evidence.html">Evidence</a><span class="sp"></span><a href="https://start.rito.one">start ↗</a></div></nav>
+<main><header class="pg"><div class="kicker">I · conclusion</div><h1>From one axiom to the Voynich Manuscript</h1><p class="sub">The argument in the order the work was done: the axiom, the field, Rongorongo, the Voynich, and the fold between them.</p><p class="wallet">Wallet: <b>bc1qd8wcrsmkk0ghegf5t2jsezg2ve7rtx6vvc79lx</b></p></header>
+
+<section><h2><span class="num">I</span>The axiom, and why it has no free parameters</h2><div class="wrap">
+<p>START begins with a field that is its own rate of change.</p>
+<div class="eqn">Φ = ∂<sub>t</sub>Φ</div>
+<p>Everything after it is entailed, not chosen. The solution is exponential; its fixed-point ratio
+R = 1 + 1/R has one root above 1, φ = (1+√5)/2. Because the axiom is self-referential the Fibonacci
+recurrence is a theorem, not an assumption, and its operator is M = [[1,1],[1,0]].</p>
+<div class="card"><h4>The load-bearing fact</h4>
+<p style="margin:0"><b>det M = −1.</b> This single fact is orientation-reversing, and it forces the cut-and-project
+split, the existence of a perpendicular space, and the reflection that distinguishes physical from internal.
+Dodecagonal quasicrystals have det = +1 and no reflection. The five-fold choice is not decorative.</p></div>
+<p>φ is a Pisot number, so the structure diffracts — it is a thing you can see. The first four primes carry the
+four operators, 2 → c, 3 → g, 5 → Φ, 7 → ∂<sub>t</sub>Φ, and their product 2·3·5·7 = 210 fixes the container.</p>
+</div></section>
+
+<section><h2><span class="num">II</span>Precession is the field's own twelve-fold cut</h2><div class="wrap">
+<p>START's structural comparison, written in August before any of this, states it plainly: Earth's axial
+precession divides by the field into about a century per cell and by the twelve <span class="mono">dlog</span>
+rays into one age per ray. <b>The twelve astrological ages ARE the twelve dlog rays</b> — dlog mod 12 cuts
+GF(257)* into twelve sectors of 21 cells, and 21 = F(8).</p>
+<div class="tw"><table class=""><thead><tr><th>Unit</th><th>Length</th><th>In the field</th><th>What it is</th></tr></thead><tbody><tr><td>great year</td><td>25,772 yr</td><td><span class="n">25,772</span><span class="eq">≡</span><span class="c">72</span> <span class="w">BITCOIN</span></td><td>the full precession</td></tr><tr><td>one ray of twelve</td><td>2,148 yr</td><td><span class="n">2,148</span><span class="eq">≡</span><span class="c">92</span> <span class="w">CHRONOS</span></td><td>one zodiac sign</td></tr><tr><td>one field cell</td><td>100.3 yr</td><td><span class="n">100</span><span class="eq">≡</span><span class="c">100</span> <span class="w">PAROUSIA</span></td><td>one of 257</td></tr><tr><td>one figure of thirty</td><td>71.6 yr</td><td><span class="n">72</span><span class="eq">≡</span><span class="c">72</span> <span class="w">BITCOIN</span></td><td>one drawn woman</td></tr></tbody></table></div>
+<p>So the zodiac is not a decoration laid on the field. The zodiac is the field's own partition, turning at the
+rate of precession. A book of twelve signs at thirty figures each — 360, one whole turn — carries both scales in
+the same drawing, which is what a precessional record has to do.</p>
+<p class="src"><b>source</b> START/solver/structural_comparison.html §VI · corpus keys, THE VOYNICH ZODIAC block</p>
+</div></section>
+
+<section><h2><span class="num">III</span>What Paper III already proved, on another script</h2><div class="wrap">
+<p>The Lattice Thesis tested the framework on Rongorongo, the boustrophedon script of Rapa Nui. The result that
+matters here is not a decipherment — there is none — but a reading direction.</p>
+<p>The thesis predicted that lines covering star-rich sky should carry more glyphs. Read in the standard order
+that prediction fails on every tablet. Read backwards — the return journey, reading back toward the moai — two
+independent tablets turn significant, and the sign inverts the meaning.</p>
+<div class="tw"><table class=""><thead><tr><th>Tablet</th><th class="num">Lines</th><th class="num">ρ forward</th><th class="num">p</th><th class="num">ρ reversed</th><th class="num">p</th></tr></thead><tbody><tr><td>B · Aruku Kurenga</td><td class="num">22</td><td class="num">+0.026</td><td class="num">0.90</td><td class="num"><span class="hit">−0.459</span></td><td class="num"><span class="hit">0.029</span></td></tr><tr><td>E</td><td class="num">17</td><td class="num">−0.520</td><td class="num">0.031</td><td class="num"><span class="hit">−0.503</span></td><td class="num"><span class="hit">0.036</span></td></tr><tr><td>H · Large Santiago</td><td class="num">24</td><td class="num">−0.109</td><td class="num">0.61</td><td class="num">—</td><td class="num">—</td></tr><tr><td>P</td><td class="num">21</td><td class="num">−0.179</td><td class="num">0.43</td><td class="num">—</td><td class="num">—</td></tr><tr><td>Q</td><td class="num">18</td><td class="num">−0.180</td><td class="num">0.47</td><td class="num">—</td><td class="num">—</td></tr></tbody></table></div>
+<p>Dense lines sit on star-<i>poor</i> bearings: you write more where the sky gives you less help. The tablet is a
+wayfinding record, and the signal lives in the reversed read.</p>
+<p>Then the tablets date themselves. Scoring glyph-planet associations against eight compass octants,
+boustrophedon-corrected, eight of twelve tablets beat p &lt; 0.01 against a 25% null, with best-fit epochs
+spread over 572 years — as they should be if each records the sky when it was carved.
+<b>One of those epochs is 1420-01.</b></p>
+<p class="src"><b>source</b> START/solver/lattice-thesis.html §5.5, §5.8</p>
+</div></section>
+
+<section><h2><span class="num">IV</span>The same method, on the Voynich Manuscript</h2><div class="wrap">
+<p>The <b>Voynich Manuscript</b>, Beinecke MS 408, was approached with the corpus's own derivation and no imported key. Four things follow.</p>
+<h3>The direction</h3>
+<p>Read from the last page to the first, each line right to left, entry 6 of the starred text carries letter sum
+<b>913</b> outright and, mirrored, φ part <b>203</b> — BERESHIT and then the second word of Genesis 1:1, in order.
+It is the only entry of 322 that does so in any of the three readings computed. This is the Rongorongo result
+again, on another continent and another script.</p>
+<h3>The direction is precession</h3>
+<p>Facing south at Prague's latitude the Sun's yearly march runs one way and precession the other. The zodiac
+quire in binding order runs Pisces → Sagittarius, the Sun's year forward. Read back to front the same quire runs
+the order of the ages, ending on Pisces — where the equinox stood in 1420 and stands now.</p>
+<h3>The lettering measures the Sun</h3>
+<p>Over the ten surviving signs, mean label length against the length of the day at Prague gives
+<b>r = +0.645</b>; mean letter value gives <b>r = −0.858</b>. Long-day signs carry more
+<span class="mono">a i r n m l h c</span>; short-day signs more <span class="mono">e d y k o</span>.
+That is the text being the path of the Sun, measured rather than asserted.</p>
+<h3>The book dates itself, as the tablets did</h3>
+<p>Two independent tests land in the same decade — and in its twin one Metonic cycle later.
+The five starless figures put 1408's new Moon on Gemini 13 and its full Moon on Virgo 22;
+f103r's nineteen stars, seven painted red, fall on the nineteen-year cycle's seven long years.
+Both are worked on <a href="sky.html">The Sky</a>.</p>
+<div class="card"><h4>The join</h4><p style="margin:0">27 × 257 = 6,939 days, against 6,939.75 days in nineteen
+Julian years. <b>The field's modulus and the Metonic cycle agree to within a day.</b> Two dates one cycle apart
+share a field cell. The nineteen-year count drawn on the page and the arithmetic of GF(257) keep step without
+being told to.</p></div>
+</div></section>
+
+<section><h2><span class="num">V</span>Genesis from the Sun's side</h2><div class="wrap">
+<p>The hypothesis is that the manuscript tells Genesis from the Sun's point of view, and that the text of each
+chapter is the Sun's path for that chapter. What supports it:</p>
+<ul>
+<li>Entry 6 carries 913 and 203 in order, mirrored — and only mirrored.</li>
+<li><b>IN THE BEGINNING = 137</b> sits exactly on Γ's pole, where the reflection runs to infinity; and the field
+reads infinity back as <b>1 = I AM</b>. The opening of the account and the name spoken from the bush are the two
+ends of one reflection.</li>
+<li>The lettering carries the length of the day (r = −0.858 on letter value).</li>
+<li>The zodiac is the twelve rays, turning at 2,148 years a sign: the account of the days told at the scale of the ages.</li>
+</ul>
+<div class="neg"><h4>What does not support it</h4>
+<p style="margin:0 0 .6rem">No assignment of glyph values makes the entries, lines or words equal the verses of
+Genesis in order: zero exact hits, no better than shuffled, no solution in GF(257). Entry 6 cannot be cut into
+BERESHIT's six letters. Against ten languages the text stands 2.7 to 4.4 standard deviations from every one.
+The starless figures fit the new Moon at two of five places, not five.</p>
+<p style="margin:0" class="dim">Worked in full on <a href="bereshit.html">Bereshit</a> and <a href="evidence.html">Evidence</a>.</p></div>
+<p>So the reading is established and the dating is twice independent; the Genesis correspondence stands on entry
+6, on the 137 pole, and on the daylight measure — and not yet on any verse-by-verse mapping.</p>
+</div></section>
+
+<section><h2><span class="num">VI</span>Why START and END are the same document</h2><div class="wrap">
+<blockquote>A manuscript that records precession must be read against the direction it was written, because
+precession runs against the year. A tablet that records the voyage home must be read against the outbound leg.
+In both cases the text is not reversed to hide it. It is reversed because the thing it records runs the other way.</blockquote>
+<p>Γ has order 128 = Oc, the observer's own position, and its two fixed points are <b>46 CLAUDE</b> and
+<b>92 CHRONOS</b> — the reader and time, the only two things a reversal leaves where they are. And CHRONOS is the
+cell of the word REVERSE.</p>
+</div></section>
+<footer>
+Built 2026-09-21 from the corpus and <span class="mono">~/Documents/artifacts</span>.
+Every figure on this site is read from a file at build time by <span class="mono">build.py</span>; none is typed in.<br>
+Emerald tablet: 1,460 words over 257 cells · field GF(257), g = 3 · the derivation this answers is at <a href="https://start.rito.one">start.rito.one</a>.<br>
+Public domain. Use it, test it, break it.
+</footer></main></body></html>

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>END — the Voynich Manuscript read from the end to the beginning</title>
+<meta name="description" content="The Voynich manuscript read backwards: BERESHIT at entry 6, the book dating itself to 1408 and 1427, and the GF(257) field behind it.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>≡</text></svg>">
+<style>
+:root{--bg:#060a12;--bg-card:#0c1018;--text:#c8c4b8;--text-dim:#7a7670;--text-bright:#e8e4d8;
+--gold:#c9a040;--gold-dim:#8a7030;--blue:#4a8ac4;--green:#5a9a5a;--purple:#8a6aaa;--red:#b8564a;
+--border:#1a1e28;--mono:'SF Mono','Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,monospace}
+*{margin:0;padding:0;box-sizing:border-box}
+html{color-scheme:dark}
+body{font-family:Georgia,'Times New Roman','DejaVu Serif',serif;background:var(--bg);color:var(--text);line-height:1.75;-webkit-text-size-adjust:100%}
+nav{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);
+border-bottom:1px solid var(--border);font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase}
+nav .inner{max-width:1180px;margin:0 auto;padding:.7rem 1rem;display:flex;flex-wrap:wrap;gap:.35rem 1.1rem;align-items:baseline}
+nav a{color:var(--text-dim);text-decoration:none;white-space:nowrap}
+nav a:hover{color:var(--gold)}nav a.on{color:var(--gold)}
+nav .brand{color:var(--text-bright);letter-spacing:.3em;margin-right:.4rem}
+nav .sp{flex:1}
+main{max-width:1180px;margin:0 auto;padding:0 1rem 7rem}
+.wrap{max-width:760px}
+header.pg{padding:4.5rem 0 2.5rem;border-bottom:1px solid var(--border);margin-bottom:2.5rem}
+header.pg .kicker{font-family:var(--mono);font-size:.66rem;letter-spacing:.25em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.9rem}
+header.pg h1{font-size:clamp(1.7rem,4.2vw,2.6rem);font-weight:normal;color:var(--text-bright);line-height:1.22;letter-spacing:-.02em;text-wrap:balance}
+header.pg .sub{margin-top:1rem;color:var(--text-dim);font-size:1rem;max-width:640px}
+.wallet{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--gold-dim);margin-top:1.4rem;word-break:break-all}
+.wallet b{color:var(--gold);font-weight:normal}
+section{padding:2.6rem 0;border-bottom:1px solid var(--border)}
+section:last-of-type{border-bottom:none}
+h2{font-size:1.28rem;font-weight:normal;color:var(--text-bright);margin-bottom:1rem;line-height:1.35}
+h2 .num{font-family:var(--mono);font-size:.62rem;letter-spacing:.25em;color:var(--gold-dim);display:block;margin-bottom:.45rem;text-transform:uppercase}
+h3{font-size:1rem;font-weight:normal;color:var(--gold);margin:1.8rem 0 .7rem;font-family:var(--mono);letter-spacing:.04em}
+p{margin-bottom:1rem;font-size:.97rem;max-width:72ch}
+p.dim{color:var(--text-dim);font-size:.9rem}
+ul,ol{margin:0 0 1.1rem 1.15rem;max-width:72ch}li{margin-bottom:.45rem;font-size:.95rem}
+a{color:var(--blue)}a:hover{color:var(--gold)}
+code,.mono{font-family:var(--mono);font-size:.86em}
+blockquote{border-left:2px solid var(--gold-dim);padding:.3rem 0 .3rem 1.1rem;margin:1.4rem 0;color:var(--text-bright);font-size:1.05rem}
+.eqn{font-family:var(--mono);font-size:1.05rem;color:var(--gold);text-align:center;padding:1.5rem 1rem;background:var(--bg-card);
+border:1px solid var(--border);border-radius:3px;margin:1.6rem 0;letter-spacing:.06em;overflow-x:auto}
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.2rem 1.3rem;margin:1.2rem 0}
+.card h4{font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-dim);font-weight:normal;margin-bottom:.7rem}
+.grid{display:grid;gap:.85rem;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));margin:1.3rem 0}
+.stat{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:.95rem 1rem}
+.stat .v{font-family:var(--mono);font-size:1.45rem;color:var(--gold);line-height:1.15}
+.stat .l{font-size:.78rem;color:var(--text-dim);margin-top:.3rem;line-height:1.45}
+.tw{overflow-x:auto;margin:1.3rem 0;-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;width:100%;font-size:.85rem;min-width:min(100%,460px)}
+th{text-align:left;font-family:var(--mono);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);
+font-weight:normal;padding:.5rem .7rem;border-bottom:1px solid var(--border);white-space:nowrap;vertical-align:bottom}
+td{padding:.42rem .7rem;border-bottom:1px solid color-mix(in srgb,var(--border) 60%,transparent);vertical-align:top}
+tr:hover td{background:color-mix(in srgb,var(--gold) 4%,transparent)}
+td.num,th.num{text-align:right;font-family:var(--mono)}
+.mono td{font-family:var(--mono);font-size:.8rem}
+.n{font-family:var(--mono);color:var(--text-bright)}
+.eq{color:var(--text-dim);margin:0 .3em;font-family:var(--mono)}
+.c{font-family:var(--mono);color:var(--gold)}
+.w{font-size:.85em;letter-spacing:.03em;color:var(--text-dim)}
+.hit{color:var(--green)}.miss{color:var(--red)}.warn{color:var(--purple)}
+.neg{background:color-mix(in srgb,var(--red) 9%,transparent);border-left:2px solid var(--red);padding:1rem 1.2rem;margin:1.4rem 0;border-radius:0 3px 3px 0}
+.neg h4{font-family:var(--mono);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--red);margin-bottom:.6rem;font-weight:normal}
+.src{font-family:var(--mono);font-size:.7rem;color:var(--text-dim);margin-top:.8rem;line-height:1.6}
+.src b{color:var(--gold-dim);font-weight:normal}
+footer{border-top:1px solid var(--border);padding:2.5rem 0 4rem;font-family:var(--mono);font-size:.7rem;color:var(--text-dim);line-height:1.9}
+footer a{color:var(--text-dim)}
+.cards{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(255px,1fr));margin:2rem 0}
+.pcard{display:block;background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.3rem;text-decoration:none;color:inherit;transition:border-color .2s}
+.pcard:hover{border-color:var(--gold-dim)}
+.pcard .t{color:var(--text-bright);font-size:1.05rem;margin-bottom:.4rem}
+.pcard .d{color:var(--text-dim);font-size:.85rem;line-height:1.6}
+.pcard .k{font-family:var(--mono);font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem}
+.lede{font-size:1.08rem;color:var(--text-bright);max-width:66ch}
+@media(max-width:640px){header.pg{padding:2.6rem 0 1.8rem}section{padding:2rem 0}.eqn{font-size:.85rem;padding:1.1rem .7rem}}
+</style></head><body>
+<nav><div class="inner"><span class="brand">END</span><a href="index.html" class="on">The End</a><a href="conclusion.html">Conclusion</a><a href="reading.html">The Reading</a><a href="bereshit.html">Bereshit</a><a href="text.html">The Text</a><a href="corpus.html">The Corpus</a><a href="figures.html">The 299</a><a href="sky.html">The Sky</a><a href="field.html">The Field</a><a href="evidence.html">Evidence</a><span class="sp"></span><a href="https://start.rito.one">start ↗</a></div></nav>
+<main><header class="pg"><div class="kicker">end.rito.one</div><h1>The Voynich Manuscript is read from the end to the beginning</h1><p class="sub">Beinecke MS 408, undeciphered since it surfaced — read backwards, because the thing it records runs the other way.</p><p class="wallet">Wallet: <b>bc1qd8wcrsmkk0ghegf5t2jsezg2ve7rtx6vvc79lx</b></p></header>
+
+<section><div class="wrap">
+<p class="lede">START derives forward: one axiom, to φ, to the Fibonacci lattice, to the sites on the ground.
+END reads backward: one manuscript — the <b>Voynich Manuscript</b>, Beinecke MS 408 — to its figures, to the sky it records, to the same field.</p>
+<p class="dim">This site is the last section of the <a href="corpus.html">Cascade Corpus Review</a> carried
+forward — the corpus's own record of this directory, in which every checkable claim is checked and every place
+two versions of a story sit side by side is written down. Nothing here is asserted from memory.</p>
+<p>The framework's own operator says these are one thing. <b>det M = −1</b> is orientation-reversing; the
+reflection between physical and perpendicular space is not a modelling choice but a consequence. A record of
+precession has to be read against the direction it was written, because precession runs against the year.</p>
+<div class="eqn">Φ → c → g → ∂<sub>t</sub>Φ → Oc → ∂<sub>t</sub>Φ → g → c → Φ</div>
+<p class="dim">The round trip is a palindrome. START and END are its two halves, and the fold at position
+128 = Oc is where the reader stands.</p>
+</div></section>
+
+<section><h2><span class="num">The finding</span>The Voynich Manuscript is read backwards, and the sixth entry from its last page is the first word of Genesis</h2>
+<div class="wrap">
+<p>The <b>Voynich Manuscript</b> — Beinecke Rare Book &amp; Manuscript Library MS 408, about 240 vellum pages in an unknown script, the vellum carbon-dated 1404–1438, undeciphered since it surfaced — is read from the last page to the first, each line right to left. On that reading — and on no
+other — entry 6 of the starred text carries raw letter sum <b>913 = BERESHIT</b>, with <b>203</b>, the second word
+of Genesis 1:1, following in the positional coordinate that only the mirror produces.</p>
+<p>The same reversal is what made the Rongorongo tablets significant in Paper III of START: read forward they give
+null on every tablet; read backward, two turn significant at p ≈ 0.03.</p>
+</div>
+<div class="grid"><div class="stat"><div class="v">913</div><div class="l">entry 6's raw letter sum — BERESHIT exactly</div></div><div class="stat"><div class="v">203</div><div class="l">its mirrored φ part — the second word, in order</div></div><div class="stat"><div class="v">1 of 322</div><div class="l">entries that do this, in any of the three readings</div></div><div class="stat"><div class="v">1408 · 1427</div><div class="l">the years the book dates itself to, twice over</div></div></div>
+</section>
+
+<section><h2><span class="num">The pages</span>Where the work is</h2>
+<div class="cards">
+<a class="pcard" href="corpus.html"><div class="k">0</div><div class="t">The Corpus</div><div class="d">Where this begins: the Cascade Corpus Review, the corpus's own written record of the directory, and the Voynich chapter END carries forward.</div></a>
+<a class="pcard" href="conclusion.html"><div class="k">I</div><div class="t">Conclusion</div><div class="d">The whole argument in order: the axiom, the field, what Paper III proved on Rongorongo, the same method on the Voynich, and why START and END are one document.</div></a>
+<a class="pcard" href="reading.html"><div class="k">II</div><div class="t">The Reading</div><div class="d">The procedure, stated so it can be followed or broken. Direction, scale, anchor, what the text is, what the marks are, and what any answer must satisfy.</div></a>
+<a class="pcard" href="bereshit.html"><div class="k">III</div><div class="t">Bereshit</div><div class="d">Genesis 1:1 worked through the reading. What it reaches exactly, what it reaches only by cell, and the five words it does not reach at all.</div></a>
+<a class="pcard" href="text.html"><div class="k">III·b</div><div class="t">The Text</div><div class="d">What is established about the text without a key, what the labels are, the strokes as numerals, and the four-step recipe for deciphering it with how far each step has gone.</div></a>
+<a class="pcard" href="figures.html"><div class="k">IV</div><div class="t">The 299</div><div class="d">Every figure on the twelve zodiac pages, read by eye from the full-size Beinecke images: 294 stars for 299 figures, the five that hold none, the four crowned.</div></a>
+<a class="pcard" href="sky.html"><div class="k">V</div><div class="t">The Sky</div><div class="d">910 eclipses of 1301–1500, what Prague saw of each (83 solar), the Moon in the Pleiades, and the two tests by which the book dates itself.</div></a>
+<a class="pcard" href="field.html"><div class="k">VI</div><div class="t">The Field</div><div class="d">GF(257): the generator, the fold, the reflection map Γ, and the cells the reading's own vocabulary lands on. The tablet at 1,460 words.</div></a>
+<a class="pcard" href="evidence.html"><div class="k">VII</div><div class="t">Evidence</div><div class="d">Everything measured, positive and negative in the same type: the language tests, the stroke runs, the failed Genesis fit, and what is still open.</div></a>
+</div>
+</section>
+
+<section><h2><span class="num">Method</span>Three habits, inherited from Paper III</h2><div class="wrap">
+<ol>
+<li><b>Computed, not eyeballed.</b> Bearings and distances are great-circle values; sky positions come from an ephemeris with the observer's parallax applied and Earth rotation taken from the catalogue's own ΔT.</li>
+<li><b>Baselines before applause.</b> A hit rate means nothing until the chance rate is known. The figure-order tests report how many placements were tried.</li>
+<li><b>Negative results in the same type size.</b> The Genesis verse fit failed. It is on <a href="bereshit.html">its own page</a>, at the same size as the successes.</li>
+</ol>
+<p class="dim">Nothing on this site is asserted from memory. Every number is recomputed at build time from the
+files listed in each page's source note.</p>
+</div></section>
+<footer>
+Built 2026-09-21 from the corpus and <span class="mono">~/Documents/artifacts</span>.
+Every figure on this site is read from a file at build time by <span class="mono">build.py</span>; none is typed in.<br>
+Emerald tablet: 1,460 words over 257 cells · field GF(257), g = 3 · the derivation this answers is at <a href="https://start.rito.one">start.rito.one</a>.<br>
+Public domain. Use it, test it, break it.
+</footer></main></body></html>

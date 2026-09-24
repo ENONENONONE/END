@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bereshit and Genesis 1:1 in the Voynich Manuscript — END</title>
+<meta name="description" content="Genesis 1:1 worked through the reading of the Voynich Manuscript by the field&#x27;s own arithmetic — with the failures at the same size as the successes.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>≡</text></svg>">
+<style>
+:root{--bg:#060a12;--bg-card:#0c1018;--text:#c8c4b8;--text-dim:#7a7670;--text-bright:#e8e4d8;
+--gold:#c9a040;--gold-dim:#8a7030;--blue:#4a8ac4;--green:#5a9a5a;--purple:#8a6aaa;--red:#b8564a;
+--border:#1a1e28;--mono:'SF Mono','Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,monospace}
+*{margin:0;padding:0;box-sizing:border-box}
+html{color-scheme:dark}
+body{font-family:Georgia,'Times New Roman','DejaVu Serif',serif;background:var(--bg);color:var(--text);line-height:1.75;-webkit-text-size-adjust:100%}
+nav{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);
+border-bottom:1px solid var(--border);font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase}
+nav .inner{max-width:1180px;margin:0 auto;padding:.7rem 1rem;display:flex;flex-wrap:wrap;gap:.35rem 1.1rem;align-items:baseline}
+nav a{color:var(--text-dim);text-decoration:none;white-space:nowrap}
+nav a:hover{color:var(--gold)}nav a.on{color:var(--gold)}
+nav .brand{color:var(--text-bright);letter-spacing:.3em;margin-right:.4rem}
+nav .sp{flex:1}
+main{max-width:1180px;margin:0 auto;padding:0 1rem 7rem}
+.wrap{max-width:760px}
+header.pg{padding:4.5rem 0 2.5rem;border-bottom:1px solid var(--border);margin-bottom:2.5rem}
+header.pg .kicker{font-family:var(--mono);font-size:.66rem;letter-spacing:.25em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.9rem}
+header.pg h1{font-size:clamp(1.7rem,4.2vw,2.6rem);font-weight:normal;color:var(--text-bright);line-height:1.22;letter-spacing:-.02em;text-wrap:balance}
+header.pg .sub{margin-top:1rem;color:var(--text-dim);font-size:1rem;max-width:640px}
+.wallet{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--gold-dim);margin-top:1.4rem;word-break:break-all}
+.wallet b{color:var(--gold);font-weight:normal}
+section{padding:2.6rem 0;border-bottom:1px solid var(--border)}
+section:last-of-type{border-bottom:none}
+h2{font-size:1.28rem;font-weight:normal;color:var(--text-bright);margin-bottom:1rem;line-height:1.35}
+h2 .num{font-family:var(--mono);font-size:.62rem;letter-spacing:.25em;color:var(--gold-dim);display:block;margin-bottom:.45rem;text-transform:uppercase}
+h3{font-size:1rem;font-weight:normal;color:var(--gold);margin:1.8rem 0 .7rem;font-family:var(--mono);letter-spacing:.04em}
+p{margin-bottom:1rem;font-size:.97rem;max-width:72ch}
+p.dim{color:var(--text-dim);font-size:.9rem}
+ul,ol{margin:0 0 1.1rem 1.15rem;max-width:72ch}li{margin-bottom:.45rem;font-size:.95rem}
+a{color:var(--blue)}a:hover{color:var(--gold)}
+code,.mono{font-family:var(--mono);font-size:.86em}
+blockquote{border-left:2px solid var(--gold-dim);padding:.3rem 0 .3rem 1.1rem;margin:1.4rem 0;color:var(--text-bright);font-size:1.05rem}
+.eqn{font-family:var(--mono);font-size:1.05rem;color:var(--gold);text-align:center;padding:1.5rem 1rem;background:var(--bg-card);
+border:1px solid var(--border);border-radius:3px;margin:1.6rem 0;letter-spacing:.06em;overflow-x:auto}
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.2rem 1.3rem;margin:1.2rem 0}
+.card h4{font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-dim);font-weight:normal;margin-bottom:.7rem}
+.grid{display:grid;gap:.85rem;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));margin:1.3rem 0}
+.stat{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:.95rem 1rem}
+.stat .v{font-family:var(--mono);font-size:1.45rem;color:var(--gold);line-height:1.15}
+.stat .l{font-size:.78rem;color:var(--text-dim);margin-top:.3rem;line-height:1.45}
+.tw{overflow-x:auto;margin:1.3rem 0;-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;width:100%;font-size:.85rem;min-width:min(100%,460px)}
+th{text-align:left;font-family:var(--mono);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);
+font-weight:normal;padding:.5rem .7rem;border-bottom:1px solid var(--border);white-space:nowrap;vertical-align:bottom}
+td{padding:.42rem .7rem;border-bottom:1px solid color-mix(in srgb,var(--border) 60%,transparent);vertical-align:top}
+tr:hover td{background:color-mix(in srgb,var(--gold) 4%,transparent)}
+td.num,th.num{text-align:right;font-family:var(--mono)}
+.mono td{font-family:var(--mono);font-size:.8rem}
+.n{font-family:var(--mono);color:var(--text-bright)}
+.eq{color:var(--text-dim);margin:0 .3em;font-family:var(--mono)}
+.c{font-family:var(--mono);color:var(--gold)}
+.w{font-size:.85em;letter-spacing:.03em;color:var(--text-dim)}
+.hit{color:var(--green)}.miss{color:var(--red)}.warn{color:var(--purple)}
+.neg{background:color-mix(in srgb,var(--red) 9%,transparent);border-left:2px solid var(--red);padding:1rem 1.2rem;margin:1.4rem 0;border-radius:0 3px 3px 0}
+.neg h4{font-family:var(--mono);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--red);margin-bottom:.6rem;font-weight:normal}
+.src{font-family:var(--mono);font-size:.7rem;color:var(--text-dim);margin-top:.8rem;line-height:1.6}
+.src b{color:var(--gold-dim);font-weight:normal}
+footer{border-top:1px solid var(--border);padding:2.5rem 0 4rem;font-family:var(--mono);font-size:.7rem;color:var(--text-dim);line-height:1.9}
+footer a{color:var(--text-dim)}
+.cards{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(255px,1fr));margin:2rem 0}
+.pcard{display:block;background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.3rem;text-decoration:none;color:inherit;transition:border-color .2s}
+.pcard:hover{border-color:var(--gold-dim)}
+.pcard .t{color:var(--text-bright);font-size:1.05rem;margin-bottom:.4rem}
+.pcard .d{color:var(--text-dim);font-size:.85rem;line-height:1.6}
+.pcard .k{font-family:var(--mono);font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem}
+.lede{font-size:1.08rem;color:var(--text-bright);max-width:66ch}
+@media(max-width:640px){header.pg{padding:2.6rem 0 1.8rem}section{padding:2rem 0}.eqn{font-size:.85rem;padding:1.1rem .7rem}}
+</style></head><body>
+<nav><div class="inner"><span class="brand">END</span><a href="index.html">The End</a><a href="conclusion.html">Conclusion</a><a href="reading.html">The Reading</a><a href="bereshit.html" class="on">Bereshit</a><a href="text.html">The Text</a><a href="corpus.html">The Corpus</a><a href="figures.html">The 299</a><a href="sky.html">The Sky</a><a href="field.html">The Field</a><a href="evidence.html">Evidence</a><span class="sp"></span><a href="https://start.rito.one">start ↗</a></div></nav>
+<main><header class="pg"><div class="kicker">III · genesis 1:1</div><h1>913 — the Voynich Manuscript's sixth entry is BERESHIT</h1><p class="sub">Genesis 1:1 worked through the reading of the Voynich Manuscript by the field's own arithmetic — with the failures at the same size as the successes.</p><p class="wallet">Wallet: <b>bc1qd8wcrsmkk0ghegf5t2jsezg2ve7rtx6vvc79lx</b></p></header>
+
+<section><h2><span class="num">The targets</span>What the reading has to arrive at</h2><div class="wrap">
+<div class="tw"><table class=""><thead><tr><th></th><th class="num">Value</th><th>Factors</th><th>Cell</th><th>In the field</th></tr></thead><tbody><tr><td><b>BERESHIT</b> בראשית</td><td class="num">913</td><td>11 × 83 PRAYER</td><td><span class="c">142</span> <span class="w">ANTIPROTON</span></td><td>Γ's one-letter self-mirror, 27 × 2⁻¹</td></tr><tr><td><b>GENESIS 1:1</b></td><td class="num">2,701</td><td>37 HADES × 73 WALLET = T(73)</td><td><span class="c">131</span> <span class="w">SUPERNOVA</span></td><td>dlog = <b>7 = G</b>, Γ(131) = 41 OMEGA</td></tr></tbody></table></div>
+<ul>
+<li>BERESHIT by Latin letters is <b>86 TIKKUN = g⁻¹</b>. The word that means <i>in the beginning</i> sits at the
+generator run backwards.</li>
+<li>2,701 is the 73rd triangular number, 73 × 74 / 2. <b>73 = WALLET = 46 CLAUDE + 27 CAIN</b> and
+<b>74 = CROSS = GREAT I AM</b>. The whole verse is one step of the Atbash ladder folded into a triangle.</li>
+<li>dlog(131) = <b>7 = G</b>. Genesis 1:1 stands at the seventh power of the generator — the seventh day, by the
+field's own count.</li>
+</ul>
+</div></section>
+
+<section><h2><span class="num">1</span>Entry 6 carries the first two words, and only under the mirror</h2><div class="wrap">
+<div class="grid"><div class="stat"><div class="v">913</div><div class="l">raw letter sum — BERESHIT exactly</div></div><div class="stat"><div class="v">203</div><div class="l">mirrored φ part — the second word</div></div><div class="stat"><div class="v">142</div><div class="l">its cell — Γ's one-letter self-mirror</div></div><div class="stat"><div class="v">1 of 322</div><div class="l">entries that do this, in any reading</div></div></div>
+<p>913 and 203 are the first and second words of Genesis 1:1, in that order. Upright, the φ part is something
+else. The mirror is what puts them in sequence — and the mirror is the reading.</p>
+</div></section>
+
+<section><h2><span class="num">2</span>The entry's own address is the field's</h2><div class="wrap">
+<div class="tw"><table class=""><thead><tr><th>What</th><th class="num">Value</th><th>In the field</th></tr></thead><tbody><tr><td>the entry's number</td><td class="num">6</td><td>2g = ♯ = 6174 mod 257, the Kaprekar constant's cell</td></tr><tr><td>its lines on f116r</td><td class="num">13, 14</td><td>13 = F(7), the tape's gamma offset · 13 + 14 = 27 CAIN, the Atbash constant</td></tr><tr><td>line 13's sum</td><td class="num">650</td><td><span class="c">136</span> <span class="w">VIRGIN MARY</span> — the public key</td></tr><tr><td>line 14's sum</td><td class="num">263</td><td><span class="c">6</span> <span class="w">F</span> — back to the entry number</td></tr><tr><td><b>their sum</b></td><td class="num"><b>913</b></td><td><b>BERESHIT</b> — the word is the sum of the two lines that carry it</td></tr></tbody></table></div>
+</div></section>
+
+<section><h2><span class="num">3</span>The two entries at Genesis 1:1's cell are 44 and 92</h2><div class="wrap">
+<p>Of all 322 entries, exactly two sit at cell <b>131</b>:</p>
+<div class="tw"><table class=""><thead><tr><th class="num">Entry</th><th>The number reads</th><th>What it is</th></tr></thead><tbody><tr><td class="num">44</td><td><b>BRIAN</b></td><td>the reader's own name</td></tr><tr><td class="num">92</td><td><b>CHRONOS</b></td><td>REVERSE's own cell, and one of Γ's two fixed points</td></tr></tbody></table></div>
+<p>44 + 92 = <b>136</b>, the public key. 92 − 44 = 48. The verse's cell is held by the reader's name and by the
+word for the operation that finds it.</p>
+</div></section>
+
+<section><h2><span class="num">4</span>The reading's own vocabulary lands on the map</h2><div class="wrap">
+<div class="tw"><table class=""><thead><tr><th>Phrase</th><th class="num">Letters</th><th>Cell</th><th>Under Γ</th></tr></thead><tbody><tr><td>IN THE BEGINNING</td><td class="num">137</td><td><span class="c">137</span> <span class="w">EYE OF HORUS</span></td><td>∞ — the pole</td></tr><tr><td>REVERSE</td><td class="num">92</td><td><span class="c">92</span> <span class="w">CHRONOS</span></td><td>92 CHRONOS</td></tr><tr><td>PATH OF THE SUN</td><td class="num">153</td><td><span class="c">153</span> <span class="w">ALBERT EINSTEIN</span></td><td>243 FIRE OF HOLY SPIRIT</td></tr><tr><td>MIRROR</td><td class="num">91</td><td><span class="c">91</span> <span class="w">SPIRIT</span></td><td>185 BOOK OF REVELATION</td></tr><tr><td>BERESHIT</td><td class="num">86</td><td><span class="c">86</span> <span class="w">TIKKUN</span></td><td>172 QUANTUM STATE</td></tr><tr><td>GENESIS</td><td class="num">78</td><td><span class="c">78</span> <span class="w">GENESIS</span></td><td>249 EDDINGTON LUMINOSITY</td></tr><tr><td>PRECESSION</td><td class="num">123</td><td><span class="c">123</span> <span class="w">COPERNICUS</span></td><td>165 TREE OF KNOWLEDGE</td></tr></tbody></table></div>
+<div class="card"><h4>The keystone</h4>
+<p style="margin:0"><b>IN THE BEGINNING = 137</b> sits exactly on the pole of the reflection map, where
+Z + Z₀ ≡ 0 and Γ runs to infinity — and the field reads infinity back as <b>1 = I AM</b>. So
+<i>in the beginning</i> reflects to <i>I AM</i> in one step, by a map fixed long before the question was asked.
+<b>REVERSE = 92</b> is a fixed point of that same map: reversing is the one operation the reflection leaves
+unchanged. <b>PATH OF THE SUN = 153</b> is Γ's own multiplier, and 153 − 137 = <b>16 = i</b>, one quarter turn.</p></div>
+<p>913 + 203 = 1,116 ≡ <b>88 = ONE LOVE</b>.</p>
+</div></section>
+
+<section><h2><span class="num">5</span>The verse, word by word, against all 322 entries</h2><div class="wrap">
+<div class="tw"><table class=""><thead><tr><th>Word</th><th>Gloss</th><th class="num">Value</th><th>Cell</th><th>As a raw sum / φ part</th><th>Entries at that cell</th></tr></thead><tbody><tr><td>BERESHIT</td><td><span class="dim">in the beginning</span></td><td class="num">913</td><td><span class="c">142</span> <span class="w">ANTIPROTON</span></td><td><span class="hit">entry 6, raw</span></td><td>6</td></tr><tr><td>BARA</td><td><span class="dim">created</span></td><td class="num">203</td><td><span class="c">203</span> <span class="w">COLLATZ CONJECTURE</span></td><td><span class="hit">entry 6, φ part</span></td><td>43, 49, 67, 102</td></tr><tr><td>ELOHIM</td><td><span class="dim">God</span></td><td class="num">86</td><td><span class="c">86</span> <span class="w">TIKKUN</span></td><td><span class="miss">—</span></td><td>278</td></tr><tr><td>ET</td><td><span class="dim">(object marker)</span></td><td class="num">401</td><td><span class="c">144</span> <span class="w">MASS</span></td><td><span class="miss">—</span></td><td>60</td></tr><tr><td>HASHAMAYIM</td><td><span class="dim">the heavens</span></td><td class="num">395</td><td><span class="c">138</span> <span class="w">GLORIFICATION</span></td><td><span class="miss">—</span></td><td>25, 290</td></tr><tr><td>VE'ET</td><td><span class="dim">and</span></td><td class="num">407</td><td><span class="c">150</span> <span class="w">ELECTROMAGNETIC</span></td><td><span class="miss">—</span></td><td>93, 179</td></tr><tr><td>HA'ARETZ</td><td><span class="dim">the earth</span></td><td class="num">296</td><td><span class="c">39</span> <span class="w">TEN</span></td><td><span class="miss">—</span></td><td>—</td></tr></tbody></table></div>
+<div class="neg"><h4>What the reading does not deliver</h4>
+<ul style="margin:0">
+<li><b>The remaining five words are not there.</b> Only word 1 appears as a raw entry sum. Word 2 appears as that
+entry's φ part. Words 3 to 7 appear only as scattered cells, and word 7's cell is at no entry at all. There is no
+run, forward or reversed.</li>
+<li>2,701 − 913 − 203 = 1,585 ≡ 43. The five words still owed do not sum to anything the reading names.</li>
+<li><b>Entry 6 cannot be cut into BERESHIT's six letters.</b></li>
+<li><b>No glyph values fit.</b> Solving for additive glyph values against Genesis 1–13 (337 verses) gives zero
+exact hits, no better than shuffled, no solution in GF(257).</li>
+<li>The 322 raw sums together are 618,413 ≡ <b>71 TEMPLE</b>, not 131 — as it stands. Through the routines it is another matter, below.</li>
+</ul></div>
+<h3>The 322 together, through the routines</h3>
+<div class="tw"><table class=""><thead><tr><th>Routine</th><th class="num">Result</th><th>Cell</th></tr></thead><tbody><tr><td>as it stands</td><td class="num">618,413</td><td><span class="c">71</span> <span class="w">TEMPLE</span></td></tr><tr><td><b>reversal</b></td><td class="num"><b>314,816</b></td><td><span class="c">248</span> <span class="w">DOUBLE SLIT EXPERIMENT</span></td></tr><tr><td>q flip, 6 ↔ 9</td><td class="num">918,413</td><td><span class="c">152</span> <span class="w">FORTY YEARS</span></td></tr><tr><td>half turn</td><td class="num">314,819</td><td><span class="c">251</span> <span class="w">CENSORSHIP RESISTANT</span></td></tr><tr><td>four figures</td><td class="num">6,184</td><td><span class="c">16</span> <span class="w">BAAL</span> = i</td></tr><tr><td>four figures reversed</td><td class="num">3,148</td><td><span class="c">64</span> <span class="w">ISRAEL</span></td></tr><tr><td>Atbash, 27 × 56,946 letters − 618,413</td><td class="num">919,129</td><td><span class="c">97</span> <span class="w">POSEIDON</span></td></tr></tbody></table></div>
+<p>618,413 + 314,816 = 933,229 ≡ <b>62 RITO</b>. The digits of 618,413 sum to <b>23 = I AM</b>. Kaprekar on 6184 runs
+7173 → 6354 → 3087 (g) → 8352 → 6174, the route of day 9384 through the generator and the fold.</p>
+<p>And the verse's own numbers reversed: 2,701 → 1,072 ≡ <b>44 BRIAN</b>; 913 → 319 ≡ <b>62 RITO</b>. Read backwards,
+Genesis 1:1 and BERESHIT name the reader — in the direction the whole reading runs.</p>
+</div></section>
+
+<section><h2><span class="num">Where that leaves it</span></h2><div class="wrap">
+<p>The reading arrives at <b>BERESHIT exactly</b> — 913 on the nose, at an entry whose number, lines and
+line-sums are all field constants, with the second word following in the coordinate that only the mirror
+produces. It arrives at <b>Genesis 1:1's cell</b>, held by BRIAN and by REVERSE. It puts <b>IN THE BEGINNING</b>
+on the pole of the reflection and gets <b>I AM</b> back.</p>
+<p>It does not arrive at the verse. One word is exact, one follows, five are not in order anywhere.</p>
+<blockquote>The Voynich Manuscript's starred text opens, at the sixth entry from its last page, on the first word of
+Genesis — and only when read backwards. What follows that opening has not been read yet.</blockquote>
+<p class="src"><b>source</b> artifacts/voynich_2026-09-19/stars/mirror.json, genesis_1to1.txt, genesis_fit_values.txt · heb_verse_gematria.json</p>
+</div></section>
+<footer>
+Built 2026-09-21 from the corpus and <span class="mono">~/Documents/artifacts</span>.
+Every figure on this site is read from a file at build time by <span class="mono">build.py</span>; none is typed in.<br>
+Emerald tablet: 1,460 words over 257 cells · field GF(257), g = 3 · the derivation this answers is at <a href="https://start.rito.one">start.rito.one</a>.<br>
+Public domain. Use it, test it, break it.
+</footer></main></body></html>

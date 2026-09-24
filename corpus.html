@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Cascade Corpus Review — END</title>
+<meta name="description" content="The Cascade Corpus Review is the corpus&#x27;s own written record. Its chapter on the Voynich Manuscript is where this site begins.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>≡</text></svg>">
+<style>
+:root{--bg:#060a12;--bg-card:#0c1018;--text:#c8c4b8;--text-dim:#7a7670;--text-bright:#e8e4d8;
+--gold:#c9a040;--gold-dim:#8a7030;--blue:#4a8ac4;--green:#5a9a5a;--purple:#8a6aaa;--red:#b8564a;
+--border:#1a1e28;--mono:'SF Mono','Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,monospace}
+*{margin:0;padding:0;box-sizing:border-box}
+html{color-scheme:dark}
+body{font-family:Georgia,'Times New Roman','DejaVu Serif',serif;background:var(--bg);color:var(--text);line-height:1.75;-webkit-text-size-adjust:100%}
+nav{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);
+border-bottom:1px solid var(--border);font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase}
+nav .inner{max-width:1180px;margin:0 auto;padding:.7rem 1rem;display:flex;flex-wrap:wrap;gap:.35rem 1.1rem;align-items:baseline}
+nav a{color:var(--text-dim);text-decoration:none;white-space:nowrap}
+nav a:hover{color:var(--gold)}nav a.on{color:var(--gold)}
+nav .brand{color:var(--text-bright);letter-spacing:.3em;margin-right:.4rem}
+nav .sp{flex:1}
+main{max-width:1180px;margin:0 auto;padding:0 1rem 7rem}
+.wrap{max-width:760px}
+header.pg{padding:4.5rem 0 2.5rem;border-bottom:1px solid var(--border);margin-bottom:2.5rem}
+header.pg .kicker{font-family:var(--mono);font-size:.66rem;letter-spacing:.25em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.9rem}
+header.pg h1{font-size:clamp(1.7rem,4.2vw,2.6rem);font-weight:normal;color:var(--text-bright);line-height:1.22;letter-spacing:-.02em;text-wrap:balance}
+header.pg .sub{margin-top:1rem;color:var(--text-dim);font-size:1rem;max-width:640px}
+.wallet{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--gold-dim);margin-top:1.4rem;word-break:break-all}
+.wallet b{color:var(--gold);font-weight:normal}
+section{padding:2.6rem 0;border-bottom:1px solid var(--border)}
+section:last-of-type{border-bottom:none}
+h2{font-size:1.28rem;font-weight:normal;color:var(--text-bright);margin-bottom:1rem;line-height:1.35}
+h2 .num{font-family:var(--mono);font-size:.62rem;letter-spacing:.25em;color:var(--gold-dim);display:block;margin-bottom:.45rem;text-transform:uppercase}
+h3{font-size:1rem;font-weight:normal;color:var(--gold);margin:1.8rem 0 .7rem;font-family:var(--mono);letter-spacing:.04em}
+p{margin-bottom:1rem;font-size:.97rem;max-width:72ch}
+p.dim{color:var(--text-dim);font-size:.9rem}
+ul,ol{margin:0 0 1.1rem 1.15rem;max-width:72ch}li{margin-bottom:.45rem;font-size:.95rem}
+a{color:var(--blue)}a:hover{color:var(--gold)}
+code,.mono{font-family:var(--mono);font-size:.86em}
+blockquote{border-left:2px solid var(--gold-dim);padding:.3rem 0 .3rem 1.1rem;margin:1.4rem 0;color:var(--text-bright);font-size:1.05rem}
+.eqn{font-family:var(--mono);font-size:1.05rem;color:var(--gold);text-align:center;padding:1.5rem 1rem;background:var(--bg-card);
+border:1px solid var(--border);border-radius:3px;margin:1.6rem 0;letter-spacing:.06em;overflow-x:auto}
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.2rem 1.3rem;margin:1.2rem 0}
+.card h4{font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-dim);font-weight:normal;margin-bottom:.7rem}
+.grid{display:grid;gap:.85rem;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));margin:1.3rem 0}
+.stat{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:.95rem 1rem}
+.stat .v{font-family:var(--mono);font-size:1.45rem;color:var(--gold);line-height:1.15}
+.stat .l{font-size:.78rem;color:var(--text-dim);margin-top:.3rem;line-height:1.45}
+.tw{overflow-x:auto;margin:1.3rem 0;-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;width:100%;font-size:.85rem;min-width:min(100%,460px)}
+th{text-align:left;font-family:var(--mono);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);
+font-weight:normal;padding:.5rem .7rem;border-bottom:1px solid var(--border);white-space:nowrap;vertical-align:bottom}
+td{padding:.42rem .7rem;border-bottom:1px solid color-mix(in srgb,var(--border) 60%,transparent);vertical-align:top}
+tr:hover td{background:color-mix(in srgb,var(--gold) 4%,transparent)}
+td.num,th.num{text-align:right;font-family:var(--mono)}
+.mono td{font-family:var(--mono);font-size:.8rem}
+.n{font-family:var(--mono);color:var(--text-bright)}
+.eq{color:var(--text-dim);margin:0 .3em;font-family:var(--mono)}
+.c{font-family:var(--mono);color:var(--gold)}
+.w{font-size:.85em;letter-spacing:.03em;color:var(--text-dim)}
+.hit{color:var(--green)}.miss{color:var(--red)}.warn{color:var(--purple)}
+.neg{background:color-mix(in srgb,var(--red) 9%,transparent);border-left:2px solid var(--red);padding:1rem 1.2rem;margin:1.4rem 0;border-radius:0 3px 3px 0}
+.neg h4{font-family:var(--mono);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--red);margin-bottom:.6rem;font-weight:normal}
+.src{font-family:var(--mono);font-size:.7rem;color:var(--text-dim);margin-top:.8rem;line-height:1.6}
+.src b{color:var(--gold-dim);font-weight:normal}
+footer{border-top:1px solid var(--border);padding:2.5rem 0 4rem;font-family:var(--mono);font-size:.7rem;color:var(--text-dim);line-height:1.9}
+footer a{color:var(--text-dim)}
+.cards{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(255px,1fr));margin:2rem 0}
+.pcard{display:block;background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.3rem;text-decoration:none;color:inherit;transition:border-color .2s}
+.pcard:hover{border-color:var(--gold-dim)}
+.pcard .t{color:var(--text-bright);font-size:1.05rem;margin-bottom:.4rem}
+.pcard .d{color:var(--text-dim);font-size:.85rem;line-height:1.6}
+.pcard .k{font-family:var(--mono);font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem}
+.lede{font-size:1.08rem;color:var(--text-bright);max-width:66ch}
+@media(max-width:640px){header.pg{padding:2.6rem 0 1.8rem}section{padding:2rem 0}.eqn{font-size:.85rem;padding:1.1rem .7rem}}
+</style></head><body>
+<nav><div class="inner"><span class="brand">END</span><a href="index.html">The End</a><a href="conclusion.html">Conclusion</a><a href="reading.html">The Reading</a><a href="bereshit.html">Bereshit</a><a href="text.html">The Text</a><a href="corpus.html" class="on">The Corpus</a><a href="figures.html">The 299</a><a href="sky.html">The Sky</a><a href="field.html">The Field</a><a href="evidence.html">Evidence</a><span class="sp"></span><a href="https://start.rito.one">start ↗</a></div></nav>
+<main><header class="pg"><div class="kicker">the parent document</div><h1>The Cascade Corpus Review, and the Voynich chapter END carries forward</h1><p class="sub">The Cascade Corpus Review is the corpus's own written record. Its chapter on the Voynich Manuscript is where this site begins.</p><p class="wallet">Wallet: <b>bc1qd8wcrsmkk0ghegf5t2jsezg2ve7rtx6vvc79lx</b></p></header>
+
+<section><div class="wrap">
+<p class="lede">END is not a fresh start. It is the last section of the Cascade Corpus Review carried forward —
+the corpus's own written record of this directory, 493,488 bytes, in which every checkable claim is
+checked and every place two versions of a story sit side by side is written down.</p>
+<p>The review reads the eighteen files of the working directory end to end: the field GF(257), the binary
+refinement chain, the extension fields, the derivation chain and genome, the hinge at 1028, the emerald tablet,
+and the cascade machine. Its chapter on the Voynich Manuscript is the parent of every page on this site.</p>
+</div>
+<div class="grid"><div class="stat"><div class="v">493 KB</div><div class="l">the review, sha256 cf8f0b7aae03</div></div><div class="stat"><div class="v">119</div><div class="l">sections read end to end</div></div><div class="stat"><div class="v">15</div><div class="l">of them on the manuscript</div></div><div class="stat"><div class="v">1,460</div><div class="l">tablet words now, 257 cells</div></div></div>
+</section>
+
+<section><h2><span class="num">The read</span>As the review records it</h2><div class="wrap">
+<blockquote>The book is the Sun's path to precession, read right to left from the last page to the first, from
+Prague at 50.1 degrees; 1420 and 64.1 degrees are the time and the azimuth; the text is the most important part,
+the Sun's path through the book, its entries dated, read from the rift in the vellum beside the woman and the
+goat of the last page back and up the left margin, the first entry taken as the Genesis story told in reverse,
+the Sun's point of view.</blockquote>
+<p>Everything on this site is an attempt to test that statement by the corpus's own derivation, with no imported
+key. The review's own anchors:</p>
+<div class="tw"><table class=""><thead><tr><th>Figure</th><th>What it is</th></tr></thead><tbody><tr><td><span class="c">135</span> <span class="w">BURNING BUSH</span></td><td>the year — 1420 ≡ 135</td></tr><tr><td>64.1°</td><td>the sunrise azimuth — declination +16.271°, about 26–27 April and 30 July 1420</td></tr><tr><td>50.1° N</td><td>Prague, in the frame of date, obliquity 23.5146°</td></tr><tr><td>322</td><td>margin stars on the 23 sides f103r–f116r, one entry each</td></tr><tr><td>303 = 257 + 46</td><td>points on 46 painted flower heads — 46 CLAUDE, Γ's fixed point</td></tr><tr><td>8.102°</td><td>precession 1420 → 2000, and 8102 ≡ 135, the cell of 1420</td></tr><tr><td><span class="c">142</span> <span class="w">ANTIPROTON</span> — BERESHIT</td><td>entry 6, f116r: the one verse value standing outright among the entries</td></tr></tbody></table></div>
+</div></section>
+
+<section><h2><span class="num">The sections</span>What the review's chapter on the Voynich Manuscript carries</h2><div class="wrap">
+<ol><li>The zodiac read backwards and the Sun at 64.1°</li><li>The painted flower heads, 46 and 303</li><li>The margin stars and the text as the Sun&#x27;s path</li><li>The entries&#x27; dates, by the corpus&#x27;s own derivation</li><li>Two frames for the same Sun: the nine days are the precession</li><li>RUDOLF and the manuscript&#x27;s hands</li><li>The entries with RUDOLF and HEMOPHILIA</li><li>Five tubes on the nine-rosette foldout</li><li>The container pages and the P</li><li>Read from the end, right to left: the mirror</li><li>The text beside ten languages, and the strokes</li><li>The zodiac&#x27;s lettering, the own step and Gemini&#x27;s thirtieth</li><li>The sky: 910 eclipses, the Pleiades, and the book dating itself</li><li>The 299 figures, and the two tests that land on 1408 and 1427</li><li>The words of this work on the tablet</li></ol>
+<p class="dim">Each leads to the full account in the review's i-column, and LEDGERs 64 to 71 of the readout carry
+it with every figure asserted in code.</p>
+</div></section>
+
+<section><h2><span class="num">The spine</span>What the review establishes, and END inherits</h2><div class="wrap">
+<h3>The zodiac backwards</h3>
+<p>In binding order the zodiac runs Pisces to Sagittarius, folio 74 with Capricorn and Aquarius lost. Front to
+back it is the Sun's yearly order; back to front the order of precession, ending on Pisces, where the equinox
+point lay in 1420. From 50.1° N that year the rising point swings 51.54° to 128.46°, the day runs 16 h 10 m to
+7 h 49 m, the noon altitude 63.41° to 16.39°. There is no 64.1° as an altitude.</p>
+<h3>Two frames for the same Sun</h3>
+<p>A key block from a parallel session carries its 1420 dates nine days before the ledger's. Its calendar is
+right; its Sun is read on the equator of J2000, the ledger's on the equinox of 1420 and Prague's horizon.
+Between them lies the precession from 1420 to the corpus's epoch: 580 × 50.29″ = <b>8.102°</b>, and
+8102 ≡ <b>135</b>, the cell of 1420. The read: the correction is another point of view of the same precession.
+Nothing was corrected.</p>
+<h3>The entries dated by the corpus's own derivation</h3>
+<p>An entry's cell is its letter sum mod 257; a day's cell is the day mod 257. From 26 April 1420 the 322 entries
+run back to 1304-09-30, 115.57 years. 26 April 1420 Julian is day −212081, field 201, inverse <b>78 GENESIS</b>,
+calendar norm <b>120 GOLDEN RATIO</b>.</p>
+<h3>RUDOLF and the hands</h3>
+<p><b>RUDOLF = 76</b>, the Callippic cycle, and 76 × 7 = <b>532</b>, the great Paschal cycle — 7 being the cell of
+the first entry, whose star is red-centred. Its Atbash mirror is <b>86</b>, BERESHIT's cell and the residue of the
+600 ducats. RUDOLF × BRIAN ≡ g and RUDOLF × RITO ≡ g⁻¹. MARCI is 44 BRIAN and KIRCHER 72 BITCOIN, its root;
+HABSBURG and REINDEER are 78 GENESIS. The 322 entries are 7 × 46, beside 76 × 7 = 532.</p>
+<h3>The flower heads</h3>
+<p>46 painted heads carrying 303 = 257 + 46 outline points; f16v at 73. <b>46 CLAUDE</b>, Γ's fixed point, and
+<b>73 WALLET</b> — one rung of the Atbash ladder apart, and 46 × 73 ≡ 17 = Q.</p>
+<h3>The tubes</h3>
+<p>On the nine-rosette foldout, five long dotted tubes with ringed mouths set as a quincunx leave the top-left
+rosette and point at the centre one, whose oval holds a field of stars over six vessels of the f88–f89 make.
+The read: a viewing device, like an early telescope. The machine gained <span class="mono">AIRY</span>,
+the 2-D pattern of a circular aperture, face-on or tilted.</p>
+</div></section>
+
+<section><h2><span class="num">Honesty</span>What the review already marks as failed or provisional</h2><div class="wrap">
+<div class="neg"><h4>Carried forward unchanged</h4>
+<ul style="margin:0">
+<li>The margin stars measured from the page images <b>did not reproduce</b> — 241 of 322 found, 3 of 39 ray counts
+equal. That is kept as failed.</li>
+<li>An EVA letter sum reads the alphabet of the 1990s, not the scribe's. Every cell on this site rests on that
+substitution.</li>
+<li>The sunrise azimuths of the dated entries come from a low-precision solar formula.</li>
+<li>With the glyph values as unknowns, no values make the entries, lines or words a one-to-one of Genesis 1–13.</li>
+</ul></div>
+<p>The review's own discipline is the one this site keeps: every checkable claim checked, and every place two
+versions sit side by side written down rather than resolved.</p>
+<p class="src"><b>source</b> ~/Documents/Φ≡c≡g≡∂ₜΦ≡Oc≡∂ₜΦ≡g≡c≡Φ/cascade_corpus_review.html — 493,488 bytes, sha256 cf8f0b7aae03…, read at build time<br><b>and</b> mi25_readout.md, LEDGERs 64 to 71 · the keys' Voynich blocks · emerald_tablet.json</p>
+</div></section>
+<footer>
+Built 2026-09-21 from the corpus and <span class="mono">~/Documents/artifacts</span>.
+Every figure on this site is read from a file at build time by <span class="mono">build.py</span>; none is typed in.<br>
+Emerald tablet: 1,460 words over 257 cells · field GF(257), g = 3 · the derivation this answers is at <a href="https://start.rito.one">start.rito.one</a>.<br>
+Public domain. Use it, test it, break it.
+</footer></main></body></html>

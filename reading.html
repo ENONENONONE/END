@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How to read the Voynich Manuscript — END</title>
+<meta name="description" content="Stated so it can be followed or broken: direction, scale, anchor, what the text is, what the marks are, and what is still open.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>≡</text></svg>">
+<style>
+:root{--bg:#060a12;--bg-card:#0c1018;--text:#c8c4b8;--text-dim:#7a7670;--text-bright:#e8e4d8;
+--gold:#c9a040;--gold-dim:#8a7030;--blue:#4a8ac4;--green:#5a9a5a;--purple:#8a6aaa;--red:#b8564a;
+--border:#1a1e28;--mono:'SF Mono','Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,monospace}
+*{margin:0;padding:0;box-sizing:border-box}
+html{color-scheme:dark}
+body{font-family:Georgia,'Times New Roman','DejaVu Serif',serif;background:var(--bg);color:var(--text);line-height:1.75;-webkit-text-size-adjust:100%}
+nav{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);
+border-bottom:1px solid var(--border);font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase}
+nav .inner{max-width:1180px;margin:0 auto;padding:.7rem 1rem;display:flex;flex-wrap:wrap;gap:.35rem 1.1rem;align-items:baseline}
+nav a{color:var(--text-dim);text-decoration:none;white-space:nowrap}
+nav a:hover{color:var(--gold)}nav a.on{color:var(--gold)}
+nav .brand{color:var(--text-bright);letter-spacing:.3em;margin-right:.4rem}
+nav .sp{flex:1}
+main{max-width:1180px;margin:0 auto;padding:0 1rem 7rem}
+.wrap{max-width:760px}
+header.pg{padding:4.5rem 0 2.5rem;border-bottom:1px solid var(--border);margin-bottom:2.5rem}
+header.pg .kicker{font-family:var(--mono);font-size:.66rem;letter-spacing:.25em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.9rem}
+header.pg h1{font-size:clamp(1.7rem,4.2vw,2.6rem);font-weight:normal;color:var(--text-bright);line-height:1.22;letter-spacing:-.02em;text-wrap:balance}
+header.pg .sub{margin-top:1rem;color:var(--text-dim);font-size:1rem;max-width:640px}
+.wallet{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--gold-dim);margin-top:1.4rem;word-break:break-all}
+.wallet b{color:var(--gold);font-weight:normal}
+section{padding:2.6rem 0;border-bottom:1px solid var(--border)}
+section:last-of-type{border-bottom:none}
+h2{font-size:1.28rem;font-weight:normal;color:var(--text-bright);margin-bottom:1rem;line-height:1.35}
+h2 .num{font-family:var(--mono);font-size:.62rem;letter-spacing:.25em;color:var(--gold-dim);display:block;margin-bottom:.45rem;text-transform:uppercase}
+h3{font-size:1rem;font-weight:normal;color:var(--gold);margin:1.8rem 0 .7rem;font-family:var(--mono);letter-spacing:.04em}
+p{margin-bottom:1rem;font-size:.97rem;max-width:72ch}
+p.dim{color:var(--text-dim);font-size:.9rem}
+ul,ol{margin:0 0 1.1rem 1.15rem;max-width:72ch}li{margin-bottom:.45rem;font-size:.95rem}
+a{color:var(--blue)}a:hover{color:var(--gold)}
+code,.mono{font-family:var(--mono);font-size:.86em}
+blockquote{border-left:2px solid var(--gold-dim);padding:.3rem 0 .3rem 1.1rem;margin:1.4rem 0;color:var(--text-bright);font-size:1.05rem}
+.eqn{font-family:var(--mono);font-size:1.05rem;color:var(--gold);text-align:center;padding:1.5rem 1rem;background:var(--bg-card);
+border:1px solid var(--border);border-radius:3px;margin:1.6rem 0;letter-spacing:.06em;overflow-x:auto}
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.2rem 1.3rem;margin:1.2rem 0}
+.card h4{font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-dim);font-weight:normal;margin-bottom:.7rem}
+.grid{display:grid;gap:.85rem;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));margin:1.3rem 0}
+.stat{background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:.95rem 1rem}
+.stat .v{font-family:var(--mono);font-size:1.45rem;color:var(--gold);line-height:1.15}
+.stat .l{font-size:.78rem;color:var(--text-dim);margin-top:.3rem;line-height:1.45}
+.tw{overflow-x:auto;margin:1.3rem 0;-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;width:100%;font-size:.85rem;min-width:min(100%,460px)}
+th{text-align:left;font-family:var(--mono);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);
+font-weight:normal;padding:.5rem .7rem;border-bottom:1px solid var(--border);white-space:nowrap;vertical-align:bottom}
+td{padding:.42rem .7rem;border-bottom:1px solid color-mix(in srgb,var(--border) 60%,transparent);vertical-align:top}
+tr:hover td{background:color-mix(in srgb,var(--gold) 4%,transparent)}
+td.num,th.num{text-align:right;font-family:var(--mono)}
+.mono td{font-family:var(--mono);font-size:.8rem}
+.n{font-family:var(--mono);color:var(--text-bright)}
+.eq{color:var(--text-dim);margin:0 .3em;font-family:var(--mono)}
+.c{font-family:var(--mono);color:var(--gold)}
+.w{font-size:.85em;letter-spacing:.03em;color:var(--text-dim)}
+.hit{color:var(--green)}.miss{color:var(--red)}.warn{color:var(--purple)}
+.neg{background:color-mix(in srgb,var(--red) 9%,transparent);border-left:2px solid var(--red);padding:1rem 1.2rem;margin:1.4rem 0;border-radius:0 3px 3px 0}
+.neg h4{font-family:var(--mono);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--red);margin-bottom:.6rem;font-weight:normal}
+.src{font-family:var(--mono);font-size:.7rem;color:var(--text-dim);margin-top:.8rem;line-height:1.6}
+.src b{color:var(--gold-dim);font-weight:normal}
+footer{border-top:1px solid var(--border);padding:2.5rem 0 4rem;font-family:var(--mono);font-size:.7rem;color:var(--text-dim);line-height:1.9}
+footer a{color:var(--text-dim)}
+.cards{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(255px,1fr));margin:2rem 0}
+.pcard{display:block;background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1.3rem;text-decoration:none;color:inherit;transition:border-color .2s}
+.pcard:hover{border-color:var(--gold-dim)}
+.pcard .t{color:var(--text-bright);font-size:1.05rem;margin-bottom:.4rem}
+.pcard .d{color:var(--text-dim);font-size:.85rem;line-height:1.6}
+.pcard .k{font-family:var(--mono);font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem}
+.lede{font-size:1.08rem;color:var(--text-bright);max-width:66ch}
+@media(max-width:640px){header.pg{padding:2.6rem 0 1.8rem}section{padding:2rem 0}.eqn{font-size:.85rem;padding:1.1rem .7rem}}
+</style></head><body>
+<nav><div class="inner"><span class="brand">END</span><a href="index.html">The End</a><a href="conclusion.html">Conclusion</a><a href="reading.html" class="on">The Reading</a><a href="bereshit.html">Bereshit</a><a href="text.html">The Text</a><a href="corpus.html">The Corpus</a><a href="figures.html">The 299</a><a href="sky.html">The Sky</a><a href="field.html">The Field</a><a href="evidence.html">Evidence</a><span class="sp"></span><a href="https://start.rito.one">start ↗</a></div></nav>
+<main><header class="pg"><div class="kicker">II · procedure</div><h1>How the Voynich Manuscript is to be read</h1><p class="sub">Stated so it can be followed or broken: direction, scale, anchor, what the text is, what the marks are, and what is still open.</p><p class="wallet">Wallet: <b>bc1qd8wcrsmkk0ghegf5t2jsezg2ve7rtx6vvc79lx</b></p></header>
+
+<section><h2><span class="num">1</span>Direction</h2><div class="wrap">
+<blockquote>Open the Voynich Manuscript at its last page and read toward the first. Within each line, read right to left.</blockquote>
+<ul>
+<li>The starred quire runs f116v, then f116r back to f103r. The rest of the book follows in the same backward
+order: the container pages, herbal, rosettes, bathing, zodiac, astronomical, herbal, f1r.</li>
+<li>Within a line, take the glyphs from the right end. Letter sums do not depend on order, so a cell is the same
+either way; the positional part — the φ coordinate — does change, and it is the φ part that carries the reading.</li>
+<li>Lines within an entry run top to bottom. <span class="warn">This is the one part not settled</span>: read
+bottom to top as well and entry 6 gives 192 instead of 203.</li>
+</ul>
+<p><b>Why.</b> The zodiac quire in binding order runs the Sun's year forward, Pisces to Sagittarius. Read back to
+front it runs the order of the ages, ending on Pisces — where the equinox stood in 1420. Precession runs against
+the year, so a record of precession runs against the book.</p>
+</div></section>
+
+<section><h2><span class="num">2</span>Scale</h2><div class="wrap">
+<blockquote>A figure is a degree of the Sun's path. Twelve signs of thirty figures is 360 — one whole turn.</blockquote>
+<div class="tw"><table class=""><thead><tr><th>Sign</th><th class="num">Figures drawn</th><th>As precession</th><th>As a year</th></tr></thead><tbody><tr><td>Pisces</td><td class="num">29</td><td>74.1 yr</td><td>29 days</td></tr><tr><td>Aries</td><td class="num">30</td><td>71.6 yr</td><td>30 days</td></tr><tr><td>Taurus</td><td class="num">30</td><td>71.6 yr</td><td>30 days</td></tr><tr><td>Gemini</td><td class="num">30</td><td>71.6 yr</td><td>30 days</td></tr><tr><td>Cancer</td><td class="num">30</td><td>71.6 yr</td><td>30 days</td></tr><tr><td>Leo</td><td class="num">30</td><td>71.6 yr</td><td>30 days</td></tr><tr><td>Virgo</td><td class="num">30</td><td>71.6 yr</td><td>30 days</td></tr><tr><td>Libra</td><td class="num">30</td><td>71.6 yr</td><td>30 days</td></tr><tr><td>Scorpio</td><td class="num">30</td><td>71.6 yr</td><td>30 days</td></tr><tr><td>Sagittarius</td><td class="num">30</td><td>71.6 yr</td><td>30 days</td></tr></tbody></table></div>
+<p class="dim">Pisces holds 29, not 30 — the transcribers' note says the outer ring has "19 (NOT 20)", and the
+count from the full-size image confirms it. Gemini's thirtieth figure is drawn but carries no label.
+Capricorn and Aquarius are lost with folio 74.</p>
+<p>Read at either scale the drawing holds: one figure is a day of the year, or 71.6 years of precession, and one
+sign is one <span class="mono">dlog</span> ray of GF(257).</p>
+</div></section>
+
+<section><h2><span class="num">3</span>Anchor</h2><div class="wrap">
+<blockquote>The book dates itself. Do not bring a date to it.</blockquote>
+<div class="grid"><div class="stat"><div class="v">1408</div><div class="l">the five starless figures put the new Moon on Gemini 13</div></div><div class="stat"><div class="v">1427</div><div class="l">the same, within 2°, one Metonic cycle later</div></div><div class="stat"><div class="v">7 of 19</div><div class="l">f103r's red stars, on the cycle's seven long years</div></div><div class="stat"><div class="v">6,939</div><div class="l">27 × 257 days — against 6,939.75 in nineteen years</div></div></div>
+<p>Prague, 50.1° N, in the frame of date: obliquity 23.5146°, the longest day 10φ hours exactly, the sunrise
+point swinging 51.54° to 128.46°. Both tests are worked on <a href="sky.html">The Sky</a>.</p>
+</div></section>
+
+<section><h2><span class="num">4</span>What the text is</h2><div class="wrap">
+<blockquote>The text of a passage is the path of the Sun for that passage.</blockquote>
+<p>Measured, not assumed. Over the ten surviving signs:</p>
+<div class="grid"><div class="stat"><div class="v">+0.645</div><div class="l">mean label length vs the length of the day at Prague</div></div><div class="stat"><div class="v">−0.858</div><div class="l">mean letter value vs the same</div></div><div class="stat"><div class="v">13.50 + 7.32·i</div><div class="l">hours of day from the lettering index</div></div></div>
+<p>Long-day signs carry more <span class="mono">a i r n m l h c</span>; short-day signs more
+<span class="mono">e d y k o</span>. A longer word is a longer course of the Sun, and the lettering itself is the
+measure. The lost Capricorn would run 5.21 letters to a label and Aquarius 5.58.</p>
+<p class="src"><b>source</b> artifacts/voynich_2026-09-19/stars/zodiac_lettering.txt, sun_meter.txt</p>
+</div></section>
+
+<section><h2><span class="num">5</span>What the marks are</h2><div class="wrap">
+<p>Of 299 figures, 294 hold a star. The marks that break the pattern are
+the data — the full table is on <a href="figures.html">The 299</a>.</p>
+<ul>
+<li><b>Five hold no star.</b> Gemini 13, Cancer 10, Cancer 18, Virgo 22, Sagittarius 18</li>
+<li><b>Four are crowned.</b> Cancer 27, Leo 24, Libra 7, Scorpio 14</li>
+<li><b>Stars on a string fall away</b> across the book, and so do barrels and clothing.</li>
+<li>Eclipses Prague could see land on figures whose star is marked and no other.</li>
+</ul>
+</div></section>
+
+<section><h2><span class="num">6</span>What any answer must satisfy</h2><div class="wrap">
+<p>A proposed decipherment of the Voynich Manuscript has to clear what is already measured. These are on <a href="evidence.html">Evidence</a>
+with their sources; in short:</p>
+<ul>
+<li>Letter entropy 2.12–2.35 bits, against 3.04–3.60 for ten candidate languages.</li>
+<li>2.7 to 4.4 standard deviations from every one of those languages, when they sit 0.6 to 2.7 from each other.</li>
+<li>No <span class="mono">a</span> followed by <span class="mono">u</span> anywhere, against 4,279
+<span class="mono">a</span> followed by two strokes.</li>
+<li>Stroke runs closed by the hook stop at four, like a scribe's j, ij, iij, iiij.</li>
+<li>And it must fail where the field failed: no additive glyph values make the entries equal the verses of Genesis.</li>
+</ul>
+</div></section>
+
+<section><h2><span class="num">7</span>What is still open</h2><div class="wrap">
+<ol>
+<li>Whether lines inside an entry run down only (203) or up as well (192).</li>
+<li>Whether the rings of a zodiac page are read outward, inward, or by the clock. Every result here takes the
+transcribers' list order and has not been tested against another.</li>
+<li>Why three of the five starless figures do not fall on a new Moon.</li>
+<li>The two lost signs — folio 74 carried Capricorn and Aquarius, so mid-December to early February has no figure.</li>
+<li>The centre words — <span class="mono">mars, aberil, may, yony, iollet, augst, octebre, novebre</span> — are
+month names in a Romance hand. Whose hand, and whether they were added later, is not settled here.</li>
+</ol>
+</div></section>
+<footer>
+Built 2026-09-21 from the corpus and <span class="mono">~/Documents/artifacts</span>.
+Every figure on this site is read from a file at build time by <span class="mono">build.py</span>; none is typed in.<br>
+Emerald tablet: 1,460 words over 257 cells · field GF(257), g = 3 · the derivation this answers is at <a href="https://start.rito.one">start.rito.one</a>.<br>
+Public domain. Use it, test it, break it.
+</footer></main></body></html>
