@@ -1,0 +1,652 @@
+[
+ {
+  "sec": "log",
+  "id": "log_01_table",
+  "title": "The logarithm table as a picture",
+  "file": "log_01_table.png",
+  "w": 320,
+  "h": 320,
+  "md5": "0880b1256d27ba9a205f5ca3fe205dfc",
+  "bytes": 2085
+ },
+ {
+  "sec": "log",
+  "id": "log_02_histogram",
+  "title": "Its histogram, Listing 7.5",
+  "file": "log_02_histogram.png",
+  "w": 320,
+  "h": 320,
+  "md5": "6db2c34952cfb36c9aed41851adea97f",
+  "bytes": 2021
+ },
+ {
+  "sec": "log",
+  "id": "log_03_flattened",
+  "title": "Flattened, Listing 7.6",
+  "file": "log_03_flattened.png",
+  "w": 320,
+  "h": 320,
+  "md5": "782b9718c14be26a905fd61c438dec13",
+  "bytes": 2057
+ },
+ {
+  "sec": "log",
+  "id": "log_04_histogram_after",
+  "title": "The histogram after flattening",
+  "file": "log_04_histogram_after.png",
+  "w": 320,
+  "h": 320,
+  "md5": "fb97ad1b7a6a910a428508a575948fea",
+  "bytes": 2032
+ },
+ {
+  "sec": "log",
+  "id": "log_05_blurred",
+  "title": "Blurred, Listing 7.7",
+  "file": "log_05_blurred.png",
+  "w": 320,
+  "h": 320,
+  "md5": "938433454315bb6645e2025207febe2d",
+  "bytes": 1492
+ },
+ {
+  "sec": "log",
+  "id": "log_06_median",
+  "title": "Median, 3 × 3, one pass, Listings 7.11 and 7.12",
+  "file": "log_06_median.png",
+  "w": 320,
+  "h": 320,
+  "md5": "c71d30956bb74dde3ef78d4774f18ad0",
+  "bytes": 1522
+ },
+ {
+  "sec": "log",
+  "id": "log_07_gradients",
+  "title": "Gradients, Listing 7.10",
+  "file": "log_07_gradients.png",
+  "w": 320,
+  "h": 320,
+  "md5": "90c0f57dc2a5de49bdac15c4ed8a33b8",
+  "bytes": 1478
+ },
+ {
+  "sec": "log",
+  "id": "log_08_edges_16",
+  "title": "Edges over 16",
+  "file": "log_08_edges_16.png",
+  "w": 320,
+  "h": 320,
+  "md5": "7045e8e723220c4713759d3b870d69b7",
+  "bytes": 875
+ },
+ {
+  "sec": "log",
+  "id": "log_09_edges_twice_average",
+  "title": "Edges over 42, twice the average",
+  "file": "log_09_edges_twice_average.png",
+  "w": 320,
+  "h": 320,
+  "md5": "51788ef0bd5007f41efcacc3f804cc32",
+  "bytes": 751
+ },
+ {
+  "sec": "log",
+  "id": "log_10_light_and_dark",
+  "title": "Light and dark",
+  "file": "log_10_light_and_dark.png",
+  "w": 320,
+  "h": 320,
+  "md5": "3808cff5bf249b687e8cc1530b1a669a",
+  "bytes": 981
+ },
+ {
+  "sec": "log",
+  "id": "log_11_residues",
+  "title": "Residues",
+  "file": "log_11_residues.png",
+  "w": 320,
+  "h": 320,
+  "md5": "28d599f80206e911afea26b7ef9c0a08",
+  "bytes": 983
+ },
+ {
+  "sec": "log",
+  "id": "log_12_transform",
+  "title": "The transform's magnitudes",
+  "file": "log_12_transform.png",
+  "w": 320,
+  "h": 320,
+  "md5": "f5dba27ccc36c78eff7ed340c3583414",
+  "bytes": 1893
+ },
+ {
+  "sec": "inv",
+  "id": "inv_01_table",
+  "title": "The inverse table as a picture",
+  "file": "inv_01_table.png",
+  "w": 320,
+  "h": 320,
+  "md5": "9c7c7495c456070fb42e0c29f5da6717",
+  "bytes": 2022
+ },
+ {
+  "sec": "inv",
+  "id": "inv_02_histogram",
+  "title": "Its histogram, Listing 7.5",
+  "file": "inv_02_histogram.png",
+  "w": 320,
+  "h": 320,
+  "md5": "01a1caa4a20cf86b87ce630637ed2f91",
+  "bytes": 2125
+ },
+ {
+  "sec": "inv",
+  "id": "inv_03_flattened",
+  "title": "Flattened, Listing 7.6",
+  "file": "inv_03_flattened.png",
+  "w": 320,
+  "h": 320,
+  "md5": "002997c5db3836b5f3f38f54c126ee71",
+  "bytes": 2015
+ },
+ {
+  "sec": "inv",
+  "id": "inv_04_histogram_after",
+  "title": "The histogram after flattening",
+  "file": "inv_04_histogram_after.png",
+  "w": 320,
+  "h": 320,
+  "md5": "19f8ee7c6668fa5a243ac8054feda729",
+  "bytes": 2013
+ },
+ {
+  "sec": "inv",
+  "id": "inv_05_blurred",
+  "title": "Blurred, Listing 7.7",
+  "file": "inv_05_blurred.png",
+  "w": 320,
+  "h": 320,
+  "md5": "29a9085d150d43765c1c48e0586ac3b3",
+  "bytes": 1511
+ },
+ {
+  "sec": "inv",
+  "id": "inv_06_median",
+  "title": "Median, 3 × 3, one pass, Listings 7.11 and 7.12",
+  "file": "inv_06_median.png",
+  "w": 320,
+  "h": 320,
+  "md5": "203e5be67f46bdfc8bd017c75837c749",
+  "bytes": 1434
+ },
+ {
+  "sec": "inv",
+  "id": "inv_07_gradients",
+  "title": "Gradients, Listing 7.10",
+  "file": "inv_07_gradients.png",
+  "w": 320,
+  "h": 320,
+  "md5": "fbc572e92f989f89704a3e2cd2e72790",
+  "bytes": 1508
+ },
+ {
+  "sec": "inv",
+  "id": "inv_08_edges_16",
+  "title": "Edges over 16",
+  "file": "inv_08_edges_16.png",
+  "w": 320,
+  "h": 320,
+  "md5": "3967c275d3cb5ab90a0793bb497727fa",
+  "bytes": 867
+ },
+ {
+  "sec": "inv",
+  "id": "inv_09_edges_twice_average",
+  "title": "Edges over 46, twice the average",
+  "file": "inv_09_edges_twice_average.png",
+  "w": 320,
+  "h": 320,
+  "md5": "37441e683b008a9196cd5b1d1d6414be",
+  "bytes": 725
+ },
+ {
+  "sec": "inv",
+  "id": "inv_10_light_and_dark",
+  "title": "Light and dark",
+  "file": "inv_10_light_and_dark.png",
+  "w": 320,
+  "h": 320,
+  "md5": "805cd22bc298fbc238a578fbe91827f3",
+  "bytes": 966
+ },
+ {
+  "sec": "inv",
+  "id": "inv_11_above_and_below",
+  "title": "Above and below",
+  "file": "inv_11_above_and_below.png",
+  "w": 320,
+  "h": 320,
+  "md5": "071db624fe40a56d54fbf36848120fa8",
+  "bytes": 870
+ },
+ {
+  "sec": "inv",
+  "id": "inv_12_transform",
+  "title": "The transform's magnitudes",
+  "file": "inv_12_transform.png",
+  "w": 320,
+  "h": 320,
+  "md5": "5229a6cdaaa54450a6f0c49fc8e8bbb2",
+  "bytes": 1981
+ },
+ {
+  "sec": "plane",
+  "id": "plane_fibre_1_picture",
+  "title": "The fibre of every point",
+  "file": "plane_fibre_1_picture.png",
+  "w": 771,
+  "h": 771,
+  "md5": "c9225e5642076248a5c67ecab2581da0",
+  "bytes": 130338
+ },
+ {
+  "sec": "plane",
+  "id": "plane_fibre_2_histogram",
+  "title": "The histogram of the fibre, Listing 7.5",
+  "file": "plane_fibre_2_histogram.png",
+  "w": 514,
+  "h": 514,
+  "md5": "702f47e8ae90ffacc5c1c1aa747c3485",
+  "bytes": 3269
+ },
+ {
+  "sec": "plane",
+  "id": "plane_fibre_3_flattened",
+  "title": "The fibre flattened, Listing 7.6",
+  "file": "plane_fibre_3_flattened.png",
+  "w": 771,
+  "h": 771,
+  "md5": "6a132847ae3b1a73fbc0401bc1931fe3",
+  "bytes": 128823
+ },
+ {
+  "sec": "plane",
+  "id": "plane_fibre_4_median",
+  "title": "The fibre: median, 3 × 3, one pass",
+  "file": "plane_fibre_4_median.png",
+  "w": 771,
+  "h": 771,
+  "md5": "bbebfc2095b712005de4da1380021f28",
+  "bytes": 110306
+ },
+ {
+  "sec": "plane",
+  "id": "plane_fibre_5_gradients",
+  "title": "The fibre: gradients, Listing 7.10",
+  "file": "plane_fibre_5_gradients.png",
+  "w": 771,
+  "h": 771,
+  "md5": "bd4fe1379f6f83f65fccc00d3b8b46b6",
+  "bytes": 101826
+ },
+ {
+  "sec": "plane",
+  "id": "plane_fibre_6_edges",
+  "title": "The fibre: edges over 35",
+  "file": "plane_fibre_6_edges.png",
+  "w": 771,
+  "h": 771,
+  "md5": "58895beb9d9022f298393a5cbea3729d",
+  "bytes": 8134
+ },
+ {
+  "sec": "plane",
+  "id": "plane_row_1_picture",
+  "title": "The row of every point",
+  "file": "plane_row_1_picture.png",
+  "w": 771,
+  "h": 771,
+  "md5": "b604bc03975a54f418ec8ff6a4f00059",
+  "bytes": 128087
+ },
+ {
+  "sec": "plane",
+  "id": "plane_row_2_histogram",
+  "title": "The histogram of the row, Listing 7.5",
+  "file": "plane_row_2_histogram.png",
+  "w": 514,
+  "h": 514,
+  "md5": "d4c896e75a9a5533cc1266a0d22cb8af",
+  "bytes": 3331
+ },
+ {
+  "sec": "plane",
+  "id": "plane_row_3_flattened",
+  "title": "The row flattened, Listing 7.6",
+  "file": "plane_row_3_flattened.png",
+  "w": 771,
+  "h": 771,
+  "md5": "f6007591115de04ee417ebccc8225282",
+  "bytes": 128250
+ },
+ {
+  "sec": "plane",
+  "id": "plane_row_4_median",
+  "title": "The row: median, 3 × 3, one pass",
+  "file": "plane_row_4_median.png",
+  "w": 771,
+  "h": 771,
+  "md5": "93abfcfddfc2e552eec41c76771ecb7c",
+  "bytes": 109199
+ },
+ {
+  "sec": "plane",
+  "id": "plane_row_5_gradients",
+  "title": "The row: gradients, Listing 7.10",
+  "file": "plane_row_5_gradients.png",
+  "w": 771,
+  "h": 771,
+  "md5": "aeffc695ffcc4127b88901156f3342ea",
+  "bytes": 101608
+ },
+ {
+  "sec": "plane",
+  "id": "plane_row_6_edges",
+  "title": "The row: edges over 35",
+  "file": "plane_row_6_edges.png",
+  "w": 771,
+  "h": 771,
+  "md5": "4651e070fe43afc61d91b3aedabbec62",
+  "bytes": 8402
+ },
+ {
+  "sec": "plane",
+  "id": "plane_norm_1_picture",
+  "title": "The norm of every point",
+  "file": "plane_norm_1_picture.png",
+  "w": 771,
+  "h": 771,
+  "md5": "2e611864fe504651d93c305bbc9a630d",
+  "bytes": 86454
+ },
+ {
+  "sec": "plane",
+  "id": "plane_norm_2_histogram",
+  "title": "The histogram of the norm, Listing 7.5",
+  "file": "plane_norm_2_histogram.png",
+  "w": 514,
+  "h": 514,
+  "md5": "9541b7f8c480d22fc158da2f6a13d6cd",
+  "bytes": 3172
+ },
+ {
+  "sec": "plane",
+  "id": "plane_norm_3_flattened",
+  "title": "The norm flattened, Listing 7.6",
+  "file": "plane_norm_3_flattened.png",
+  "w": 771,
+  "h": 771,
+  "md5": "a8565669dde2e885f0dd2ccce279698f",
+  "bytes": 87641
+ },
+ {
+  "sec": "plane",
+  "id": "plane_norm_4_median",
+  "title": "The norm: median, 3 × 3, one pass",
+  "file": "plane_norm_4_median.png",
+  "w": 771,
+  "h": 771,
+  "md5": "84b87e868aa85d031a15b71842938a53",
+  "bytes": 96579
+ },
+ {
+  "sec": "plane",
+  "id": "plane_norm_5_gradients",
+  "title": "The norm: gradients, Listing 7.10",
+  "file": "plane_norm_5_gradients.png",
+  "w": 771,
+  "h": 771,
+  "md5": "5d3abb805f61e3eba52a555744829490",
+  "bytes": 94542
+ },
+ {
+  "sec": "plane",
+  "id": "plane_norm_6_edges",
+  "title": "The norm: edges over 32",
+  "file": "plane_norm_6_edges.png",
+  "w": 771,
+  "h": 771,
+  "md5": "cc186fa07431800cda685be1005b10b2",
+  "bytes": 9123
+ },
+ {
+  "sec": "colour",
+  "id": "colour_cell_1_picture",
+  "title": "The cell of every point, in colour",
+  "file": "colour_cell_1_picture.png",
+  "w": 771,
+  "h": 771,
+  "md5": "a90d615d1c27e2121f1e19586c68a041",
+  "bytes": 206645
+ },
+ {
+  "sec": "colour",
+  "id": "colour_cell_2_flattened",
+  "title": "The cell flattened, in colour",
+  "file": "colour_cell_2_flattened.png",
+  "w": 771,
+  "h": 771,
+  "md5": "153e4917bf8a9d9bfa054b68909dfabc",
+  "bytes": 204610
+ },
+ {
+  "sec": "colour",
+  "id": "colour_cell_3_median",
+  "title": "The cell: median, in colour",
+  "file": "colour_cell_3_median.png",
+  "w": 771,
+  "h": 771,
+  "md5": "4ad44ad701198182b9112a3d391c865d",
+  "bytes": 163366
+ },
+ {
+  "sec": "colour",
+  "id": "colour_cell_4_gradients",
+  "title": "The cell: gradients, in colour",
+  "file": "colour_cell_4_gradients.png",
+  "w": 771,
+  "h": 771,
+  "md5": "5d65d963433512d14d9b7fea59f7bf12",
+  "bytes": 163622
+ },
+ {
+  "sec": "colour",
+  "id": "colour_cell_5_edges",
+  "title": "The cell: edges, in colour",
+  "file": "colour_cell_5_edges.png",
+  "w": 771,
+  "h": 771,
+  "md5": "3fc6708ba01c8ff0c59a1008e371b1c7",
+  "bytes": 12961
+ },
+ {
+  "sec": "colour",
+  "id": "colour_norm_1_picture",
+  "title": "The norm, with the units in gold and blue",
+  "file": "colour_norm_1_picture.png",
+  "w": 771,
+  "h": 771,
+  "md5": "dfd0892c954bd7f65545f1a6ec2d33f0",
+  "bytes": 93496
+ },
+ {
+  "sec": "colour",
+  "id": "colour_norm_2_flattened",
+  "title": "The norm flattened, with the units",
+  "file": "colour_norm_2_flattened.png",
+  "w": 771,
+  "h": 771,
+  "md5": "3d0a752f2ef80a158e5157b5a6a912d5",
+  "bytes": 95348
+ },
+ {
+  "sec": "colour",
+  "id": "colour_norm_3_median",
+  "title": "The norm: median, with the units",
+  "file": "colour_norm_3_median.png",
+  "w": 771,
+  "h": 771,
+  "md5": "be31de6418dcd25d543f135448cfb8c9",
+  "bytes": 102556
+ },
+ {
+  "sec": "colour",
+  "id": "colour_norm_4_stars_marked",
+  "title": "The norm's stars, marked",
+  "file": "colour_norm_4_stars_marked.png",
+  "w": 1028,
+  "h": 1092,
+  "md5": "a2833f575a6cb26bb117c5ee11dd7436",
+  "bytes": 139871
+ },
+ {
+  "sec": "unfold",
+  "id": "unfold_line_1_folded",
+  "title": "The line folded into one picture",
+  "file": "unfold_line_1_folded.png",
+  "w": 512,
+  "h": 512,
+  "md5": "180294f2c399026a3d674ad13aaebdad",
+  "bytes": 2904
+ },
+ {
+  "sec": "unfold",
+  "id": "unfold_line_2_products",
+  "title": "The line unfolded: every product",
+  "file": "unfold_line_2_products.png",
+  "w": 512,
+  "h": 512,
+  "md5": "b311ee670fb0c7f50731a1fab9353aac",
+  "bytes": 52821
+ },
+ {
+  "sec": "unfold",
+  "id": "unfold_line_3_ones",
+  "title": "Where the product is 1, and 256",
+  "file": "unfold_line_3_ones.png",
+  "w": 512,
+  "h": 512,
+  "md5": "f057baae21799aec196a37cd98bdcf4f",
+  "bytes": 2603
+ },
+ {
+  "sec": "unfold",
+  "id": "unfold_line_4_by_logarithms",
+  "title": "The line unfolded by logarithms",
+  "file": "unfold_line_4_by_logarithms.png",
+  "w": 512,
+  "h": 512,
+  "md5": "157624dc8f63462c99f23ee7f38ea7b0",
+  "bytes": 6172
+ },
+ {
+  "sec": "unfold",
+  "id": "unfold_plane_1_store",
+  "title": "The plane read the other way: the store",
+  "file": "unfold_plane_1_store.png",
+  "w": 512,
+  "h": 516,
+  "md5": "4ad0023b7222d86d55fcee66b3afb273",
+  "bytes": 180960
+ },
+ {
+  "sec": "unfold",
+  "id": "unfold_plane_2_products",
+  "title": "The plane unfolded: a corner of the products",
+  "file": "unfold_plane_2_products.png",
+  "w": 514,
+  "h": 514,
+  "md5": "d56ce0f401e5801e7c3ddc2acfb68a50",
+  "bytes": 118834
+ },
+ {
+  "sec": "sheets",
+  "id": "sheet_logarithms_as_printed",
+  "title": "The logarithms, as printed",
+  "file": "sheet_logarithms_as_printed.png",
+  "w": 1370,
+  "h": 1152,
+  "md5": "64d550c009de9832f4b032491c024609",
+  "bytes": 37256
+ },
+ {
+  "sec": "sheets",
+  "id": "sheet_inverses_as_printed",
+  "title": "The inverses, as printed",
+  "file": "sheet_inverses_as_printed.png",
+  "w": 1370,
+  "h": 1152,
+  "md5": "4ba7fcbf1537a24bc944a2b13aa34f23",
+  "bytes": 38120
+ },
+ {
+  "sec": "sheets",
+  "id": "sheet_plane_as_printed",
+  "title": "The plane, as printed",
+  "file": "sheet_plane_as_printed.png",
+  "w": 3210,
+  "h": 1734,
+  "md5": "664f7578608ae45ce2be290b24070d4c",
+  "bytes": 1288908
+ },
+ {
+  "sec": "sheets",
+  "id": "sheet_plane_in_colour",
+  "title": "The plane in colour",
+  "file": "sheet_plane_in_colour.png",
+  "w": 2678,
+  "h": 1162,
+  "md5": "d356234c1478e73813233f691080e8f4",
+  "bytes": 1098076
+ },
+ {
+  "sec": "sheets",
+  "id": "sheet_first_logarithms",
+  "title": "The first sheet of the logarithms",
+  "file": "sheet_first_logarithms.png",
+  "w": 1370,
+  "h": 774,
+  "md5": "663e197dd7bdec98b36a11ce48c90c6a",
+  "bytes": 22891
+ },
+ {
+  "sec": "sheets",
+  "id": "sheet_first_inverses",
+  "title": "The first sheet of the inverses",
+  "file": "sheet_first_inverses.png",
+  "w": 1370,
+  "h": 774,
+  "md5": "b3829d193925d7dbaa9ec1499dcd4faf",
+  "bytes": 23296
+ },
+ {
+  "sec": "sheets",
+  "id": "sheet_first_line",
+  "title": "The line folded and unfolded",
+  "file": "sheet_first_line.png",
+  "w": 2138,
+  "h": 588,
+  "md5": "774a57521692b9829f9844b15747b29b",
+  "bytes": 90517
+ },
+ {
+  "sec": "sheets",
+  "id": "sheet_first_plane",
+  "title": "The plane folded and unfolded",
+  "file": "sheet_first_plane.png",
+  "w": 2154,
+  "h": 592,
+  "md5": "2e1d04fbb38fa13cc0d6d8fc82216c48",
+  "bytes": 682585
+ }
+]

@@ -1,0 +1,71 @@
+logarithms · levels used: 255
+logarithms · held twice: [0]
+logarithms · held by none: [128]
+logarithms · levels moved by the flattening: 128
+logarithms · first and last level moved: (0, 127)
+logarithms · after flattening: used: 254
+logarithms · after flattening: twice: [2, 128]
+logarithms · after flattening: none: [0, 1]
+logarithms · blur inside: (74, 184)
+logarithms · Min Max Avg: (0, 84, 21.2)
+logarithms · threshold twice the average: 42
+logarithms · edges over 16: 103
+logarithms · edges over twice the average: 52
+logarithms · of them on the frame: 51
+logarithms · inside: [(120, 43)]
+logarithms · median inside: (53, 230, 130.2)
+logarithms · median over all: 99.7
+logarithms · median levels: 101
+logarithms · first sheet's gradients: (679, 172.6, 108)
+logarithms · mean step right, down: (88.8, 85.9)
+logarithms · strongest components: [(0, 8, 15.5), (4, 0, 9.963043588624318), (12, 5, 9.942832406263738)]
+logarithms · sum of even cells, odd cells: (18240, 14272)
+logarithms · white in light and dark: 127
+inverses · levels used: 256
+inverses · held twice: []
+inverses · held by none: []
+inverses · levels moved by the flattening: 128
+inverses · first and last level moved: (0, 127)
+inverses · after flattening: used: 255
+inverses · after flattening: twice: [128]
+inverses · after flattening: none: [0]
+inverses · blur inside: (59, 197)
+inverses · Min Max Avg: (0, 95, 23.0)
+inverses · threshold twice the average: 46
+inverses · edges over 16: 132
+inverses · edges over twice the average: 45
+inverses · of them on the frame: 45
+inverses · inside: []
+inverses · median inside: (41, 216, 127.3)
+inverses · median over all: 97.5
+inverses · median levels: 88
+inverses · first sheet's gradients: (763, 187.3, 133)
+inverses · mean step right, down: (80.2, 87.4)
+inverses · strongest components: [(6, 15, 12.287288267236052), (11, 11, 11.670131209072439), (14, 14, 11.260719359037362)]
+inverses · sum of even cells, odd cells: (16995, 15645)
+inverses · white in light and dark: 128
+the quarter turn holds for: 225 cells, logarithm + 192, inverse x 241
+white in residues, in above and below: (127, 127)
+logarithms · flattening, runs of moved levels (first, last, by): [(0, 126, 2), (127, 127, 1)]
+inverses · flattening, runs of moved levels (first, last, by): [(0, 127, 1)]
+the units of the plane: the powers of phi: 516 points, norm 1 for the even powers and 256 for the odd, each the pair F(n - 1), F(n)
+the five stars, whole points: [(0, 0), (206, 103), (51, 154), (103, 51), (154, 206)]
+their norms: [0, 103, 103, 154, 154]
+norm's edges within 32 of the five, of all, on elements: (5474, 6646, 21125)
+the fibre's levels shuffled, 20 times: edges inside, strokes, mean size (mean, deviation): [(2137.95, 85.08), (1072.75, 32.03), (1.99, 0.05)]
+plane · fibre: {'edges': 3152, 'frame': 1013, 'inside': 2139, 'strokes': 1056, 'smax': 12, 'smean': 2.03, 's1': 492, 'step': 64.01, 'sym': 2130, 'inblk': 2130, 'gframe': 63.62, 'gin': 16.88, 'gmaxin': 64}
+plane · fibre · histogram: level 0, level 255, the others, over 255: (259, 258, [258], 0)
+plane · fibre · flattening: moved, left empty: (128, [0])
+plane · fibre · Min Max Avg, threshold, median: (0, 99, 17.3, 35, (0, 240, 125.7))
+plane · row: {'edges': 3275, 'frame': 1010, 'inside': 2265, 'strokes': 1093, 'smax': 21, 'smean': 2.07, 's1': 514, 'step': 64.52, 'sym': 116, 'inblk': 2251, 'gframe': 62.72, 'gin': 17.04, 'gmaxin': 63}
+plane · row · histogram: level 0, level 255, the others, over 255: (256, 769, [256], 513)
+plane · row · flattening: moved, left empty: (169, [0, 253, 254])
+plane · row · Min Max Avg, threshold, median: (0, 94, 17.5, 35, (0, 256, 126.7))
+plane · norm: {'edges': 6646, 'frame': 995, 'inside': 5651, 'strokes': 482, 'smax': 129, 'smean': 11.72, 's1': 160, 'step': 64.25, 'sym': 5614, 'inblk': 5614, 'gframe': 63.57, 'gin': 15.46, 'gmaxin': 81}
+plane · norm · histogram: level 0, level 255, the others, over 255: (1, 516, [258], 258)
+plane · norm · flattening: moved, left empty: (126, [254])
+plane · norm · Min Max Avg, threshold, median: (0, 121, 16.0, 32, (0, 252, 126.5))
+plane · edges of the fibre and the row together: {'both': 1083, 'frame': 1007, 'inside': 76, 'chance': 75.7, 'red': 2069, 'green': 2192}
+points with the row past 255: 512
+the median at the points of norm 1 and of norm 256, and over all: [0, 129, 96.8, 0, 248, 153.2, 126.5]
+units within 32 of the five stars, of 516, and the share of the picture within 32: (200, 32.0)
