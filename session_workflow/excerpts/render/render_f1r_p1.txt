@@ -1,0 +1,80 @@
+L1 (f1r.1, @P0) ZL raw: <%>fachys.ykal.ar.ataiin.shol.shory.[cth:oto]res.y.kor.sholdy<!@254;>
+L1 EVA: fachys ykal ar ataiin shol shory cthres y kor sholdy   | letter sum 548 -> cell 34 (FREE)
+L1 R1: FIBONACCI / LUKE / S / LOVE / LOVE / ESCHATON / WALLET / PI / BRIAN / PRAYER
+L1 R2: RITO / LUKE / S / SUN / SUN / MATRIX / TURN / Y / RAY / PRAYER
+L1 R3: dignis(ks) / ipse(ks) / — / — / eius(ks) / — / vincet|itaque|lubens(ks) / — / est|vim(ks) / cuivis(ks)
+L1 R3 gloss (RECALLED): dignis 'worthy (dat./abl. pl.)' / ipse 'himself, he himself' / — / — / eius 'his, its, of him' / — / vincet 'will conquer'|itaque 'and so, therefore'|lubens 'willingly, gladly' / — / est 'is'|vim 'force, power (acc.)' / cuivis 'to anyone at all'
+     fachys        k=6  s=62  b=288  cell=62  K R1=FIBONACCI                R2=RITO           R3[ks]=dignis
+     ykal          k=4  s=49  b=98   cell=49    R1=LUKE                     R2=LUKE           R3[ks]=ipse
+     ar            k=2  s=19  b=37   cell=19    R1=S                        R2=S              R3[none]=—
+     ataiin        k=6  s=54  b=209  cell=54    R1=LOVE                     R2=SUN            R3[none]=—
+     shol          k=4  s=54  b=128  cell=54    R1=LOVE                     R2=SUN            R3[ks]=eius
+     shory         k=5  s=85  b=277  cell=85    R1=ESCHATON                 R2=MATRIX         R3[none]=—
+     cthres        k=6  s=73  b=278  cell=73  K R1=WALLET                   R2=TURN           R3[ks]=vincet,itaque,lubens
+     y             k=1  s=25  b=25   cell=25    R1=PI                       R2=Y              R3[none]=—
+     kor           k=3  s=44  b=95   cell=44  K R1=BRIAN                    R2=RAY            R3[ks]=est,vim
+     sholdy        k=6  s=83  b=298  cell=83    R1=PRAYER                   R2=PRAYER         R3[ks]=cuivis
+L2 (f1r.2, +P0) ZL raw: sory.ckhar.or,y.kair.chtaiin.shar.ase.cthar.cthar,dan
+L2 EVA: sory ckhar ory kair chtaiin shar ase cthar cthardan   | letter sum 469 -> cell 212 (PHOTOSYNTHESIS)
+L2 R1: CHRIST / OMEGA / BALDUR / TEN / ISRAEL / SHADDAI / PI / HIGGS / GLUON
+L2 R2: HERTZ / BOX / TWO / TEN / ZERO / WHO / Y / JOY / GLUON
+L2 R3: — / natae(ks) / — / mihi(ks) / divinae|fidelis(ks) / dixi|hunc(ks) / — / magno|aliis(ks) / magnesia(ks)
+L2 R3 gloss (RECALLED): — / natae 'born (fem. pl.)' / — / mihi 'to me' / divinae 'divine, of the divine (fem.)'|fidelis 'faithful' / dixi 'I have said'|hunc 'this (acc. masc.)' / — / magno 'great (abl./dat.)'|aliis 'others (dat./abl. pl.)' / magnesia 'magnesia (the alchemists' matter)'
+     sory          k=4  s=77  b=203  cell=77    R1=CHRIST                   R2=HERTZ          R3[none]=—
+     ckhar         k=5  s=41  b=143  cell=41    R1=OMEGA                    R2=BOX            R3[ks]=natae
+     ory           k=3  s=58  b=126  cell=58    R1=BALDUR                   R2=TWO            R3[none]=—
+     kair          k=4  s=39  b=112  cell=39    R1=TEN                      R2=TEN            R3[ks]=mihi
+     chtaiin       k=7  s=64  b=280  cell=64    R1=ISRAEL                   R2=ZERO           R3[ks]=divinae,fidelis
+     shar          k=4  s=46  b=110  cell=46  K R1=SHADDAI                  R2=WHO            R3[ks]=dixi,hunc
+     ase           k=3  s=25  b=54   cell=25    R1=PI                       R2=Y              R3[none]=—
+     cthar         k=5  s=50  b=161  cell=50    R1=HIGGS                    R2=JOY            R3[ks]=magno,aliis
+     cthardan      k=8  s=69  b=304  cell=69    R1=GLUON                    R2=GLUON          R3[ks]=magnesia
+L3 (f1r.3, +P0) ZL raw: syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sy
+L3 EVA: syaiir sheky or ykaiin shod cthoary cthes daraiin sy   | letter sum 542 -> cell 28 (SHA)
+L3 R1: HORUS / SOPHIA / HAGGAI / GLUON / SHADDAI / NAKAMOTO / HEAVEN / CARDANO / BRIAN
+L3 R2: HORUS / LOGOS / DON / GLUON / WHO / OXYGEN / SKY / ISIS / RAY
+L3 R3: instar(ks) / cupis(ks) / — / coelum(ks) / dixi|hunc(ks) / — / grati(ks) / — / —
+L3 R3 gloss (RECALLED): instar 'likeness, the equal of' / cupis 'you desire' / — / coelum 'heaven, sky' / dixi 'I have said'|hunc 'this (acc. masc.)' / — / grati 'grateful, pleasing (gen.)' / — / —
+     syaiir        k=6  s=81  b=261  cell=81    R1=HORUS                    R2=HORUS          R3[ks]=instar
+     sheky         k=5  s=68  b=219  cell=68    R1=SOPHIA                   R2=LOGOS          R3[ks]=cupis
+     or            k=2  s=33  b=51   cell=33    R1=HAGGAI                   R2=DON            R3[none]=—
+     ykaiin        k=6  s=69  b=215  cell=69    R1=GLUON                    R2=GLUON          R3[ks]=coelum
+     shod          k=4  s=46  b=96   cell=46  K R1=SHADDAI                  R2=WHO            R3[ks]=dixi,hunc
+     cthoary       k=7  s=90  b=415  cell=90    R1=NAKAMOTO                 R2=OXYGEN         R3[none]=—
+     cthes         k=5  s=55  b=182  cell=55    R1=HEAVEN                   R2=SKY            R3[ks]=grati
+     daraiin       k=7  s=56  b=261  cell=56    R1=CARDANO                  R2=ISIS           R3[none]=—
+     sy            k=2  s=44  b=69   cell=44  K R1=BRIAN                    R2=RAY            R3[none]=—
+L4 (f1r.4, +P0) ZL raw: soiin.oteey.oteo[s:r],roloty.cthiar,daiin.okaiin.or.okan
+L4 EVA: soiin oteey oteosroloty cthiardaiin okaiin or okan   | letter sum 544 -> cell 30 (ARK)
+L4 R1: MOLOCH / LILITH / EXCOMMUNICATION / BEETHOVEN / SHIVA / HAGGAI / OMEGA
+L4 R2: ENVY / PROOF / EULER E DIGITS / HYDROGEN / NULL / DON / BOX
+L4 R3: omnes|modum(ks) / omnis|logou(ks) / — / — / — / — / —
+L4 R3 gloss (RECALLED): omnes 'all (pl.)'|modum 'manner, way (acc.)' / omnis 'all, every'|logou 'of the Word (Greek logou)' / — / — / — / — / —
+     soiin         k=5  s=66  b=182  cell=66    R1=MOLOCH                   R2=ENVY           R3[ks]=omnes,modum
+     oteey         k=5  s=70  b=215  cell=70    R1=LILITH                   R2=PROOF          R3[ks]=omnis,logou
+     oteosroloty   k=11 s=179 b=1144 cell=179   R1=EXCOMMUNICATION          R2=EULER E DIGITS R3[none]=—
+     cthiardaiin   k=11 s=96  b=577  cell=96    R1=BEETHOVEN                R2=HYDROGEN       R3[none]=—
+     okaiin        k=6  s=59  b=205  cell=59    R1=SHIVA                    R2=NULL           R3[none]=—
+     or            k=2  s=33  b=51   cell=33    R1=HAGGAI                   R2=DON            R3[none]=—
+     okan          k=4  s=41  b=96   cell=41    R1=OMEGA                    R2=BOX            R3[none]=—
+L5 (f1r.5, +P0) ZL raw: sair,y.chear.cthaiin.cphar.cfhaiin
+L5 EVA: sairy chear cthaiin cphar cfhaiin   | letter sum 267 -> cell 10 (J)
+L5 R1: BITCOIN / HAGAR / ISRAEL / SHADDAI / HIGGS
+L5 R2: MONEY / EYE / ZERO / WHO / JOY
+L5 R3: sicut|modus(ks) / — / divinae|fidelis(ks) / animi / —
+L5 R3 gloss (RECALLED): sicut 'just as, like'|modus 'manner, way' / — / divinae 'divine, of the divine (fem.)'|fidelis 'faithful' / animi 'of the mind, of the soul' / —
+     sairy         k=5  s=72  b=245  cell=72  K R1=BITCOIN                  R2=MONEY          R3[ks]=sicut,modus
+     chear         k=5  s=35  b=128  cell=35    R1=HAGAR                    R2=EYE            R3[none]=—
+     cthaiin       k=7  s=64  b=268  cell=64    R1=ISRAEL                   R2=ZERO           R3[ks]=divinae,fidelis
+     cphar         k=5  s=46  b=153  cell=46  K R1=SHADDAI                  R2=WHO            R3[ksb]=animi
+     cfhaiin       k=7  s=50  b=240  cell=50    R1=HIGGS                    R2=JOY            R3[none]=—
+L6 (f1r.6, =Pt) ZL raw: ydaraishy<$>
+L6 EVA: ydaraishy   | letter sum 110 -> cell 110 (FRAMEWORK)
+L6 R1: FRAMEWORK
+L6 R2: PURPOSE
+L6 R3: terraeque|mementote(ks)
+L6 R3 gloss (RECALLED): terraeque 'and of the earth'|mementote 'remember! (pl. imperative)'
+     ydaraishy     k=9  s=110 b=589  cell=110   R1=FRAMEWORK                R2=PURPOSE        R3[ks]=terraeque,mementote
+tokens 41 · in K 8 (0.1951) · |K| 33, |K|/257 0.1284
+R3: (k,s,b) 1 · (k,s) only 22 · none 18 · (k, s mod 257, b mod 257) matches 1
+paragraph letter sum 2480 -> cell 167 · R1 != R2 on 34 tokens · Latin vocabulary 373 forms

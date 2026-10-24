@@ -1,0 +1,1298 @@
+{
+ "lines": [
+  {
+   "line": "1",
+   "locus": "@P0",
+   "zl_raw": "<%>fachys.ykal.ar.ataiin.shol.shory.[cth:oto]res.y.kor.sholdy<!@254;>",
+   "clean_tokens": [
+    "fachys",
+    "ykal",
+    "ar",
+    "ataiin",
+    "shol",
+    "shory",
+    "cthres",
+    "y",
+    "kor",
+    "sholdy"
+   ],
+   "dropped": [],
+   "letter_sum": 548,
+   "cell": 34,
+   "words": [
+    {
+     "eva": "fachys",
+     "k": 6,
+     "s": 62,
+     "b": 288,
+     "cell": 62,
+     "inK": true,
+     "R1": "FIBONACCI",
+     "R2": "RITO",
+     "R3": [
+      "dignis"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "dignis"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "FIBONACCI",
+      "TORAH",
+      "RITO",
+      "EMUNAH",
+      "SIGNAL",
+      "SOLANA",
+      "COSET",
+      "BESSEL",
+      "TERRA",
+      "AXIOM",
+      "BORDER",
+      "BECOMES"
+     ]
+    },
+    {
+     "eva": "ykal",
+     "k": 4,
+     "s": 49,
+     "b": 98,
+     "cell": 49,
+     "inK": false,
+     "R1": "LUKE",
+     "R2": "LUKE",
+     "R3": [
+      "ipse"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "ipse"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "LUKE",
+      "ATHENA",
+      "BORN",
+      "EIGHT",
+      "FIFTH",
+      "THAT"
+     ]
+    },
+    {
+     "eva": "ar",
+     "k": 2,
+     "s": 19,
+     "b": 37,
+     "cell": 19,
+     "inK": false,
+     "R1": "S",
+     "R2": "S",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "S",
+      "ADAM",
+      "DNA",
+      "AND",
+      "RA",
+      "BOB",
+      "EGG"
+     ]
+    },
+    {
+     "eva": "ataiin",
+     "k": 6,
+     "s": 54,
+     "b": 209,
+     "cell": 54,
+     "inK": false,
+     "R1": "LOVE",
+     "R2": "SUN",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "LOVE",
+      "EUCLID",
+      "GABRIEL",
+      "GANESH",
+      "ORACLE",
+      "BREATH",
+      "SUN",
+      "DELUGE"
+     ]
+    },
+    {
+     "eva": "shol",
+     "k": 4,
+     "s": 54,
+     "b": 128,
+     "cell": 54,
+     "inK": false,
+     "R1": "LOVE",
+     "R2": "SUN",
+     "R3": [
+      "eius"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "eius"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "LOVE",
+      "EUCLID",
+      "GABRIEL",
+      "GANESH",
+      "ORACLE",
+      "BREATH",
+      "SUN",
+      "DELUGE"
+     ]
+    },
+    {
+     "eva": "shory",
+     "k": 5,
+     "s": 85,
+     "b": 277,
+     "cell": 85,
+     "inK": false,
+     "R1": "ESCHATON",
+     "R2": "MATRIX",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "ESCHATON",
+      "MATRIX",
+      "ARCHIMEDES",
+      "GOLGOTHA",
+      "RAGNAROK",
+      "VERIFY",
+      "SILVER",
+      "TUNING"
+     ]
+    },
+    {
+     "eva": "cthres",
+     "k": 6,
+     "s": 73,
+     "b": 278,
+     "cell": 73,
+     "inK": true,
+     "R1": "WALLET",
+     "R2": "TURN",
+     "R3": [
+      "vincet",
+      "itaque",
+      "lubens"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "vincet",
+      "itaque",
+      "lubens"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "WALLET",
+      "HALVING",
+      "DISCRIMINANT",
+      "HAWKING",
+      "KAIROS",
+      "EZEKIEL",
+      "PARADISE",
+      "TURN",
+      "EGYPT",
+      "VULCAN"
+     ]
+    },
+    {
+     "eva": "y",
+     "k": 1,
+     "s": 25,
+     "b": 25,
+     "cell": 25,
+     "inK": false,
+     "R1": "PI",
+     "R2": "Y",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "PI",
+      "Y",
+      "MECCA",
+      "COG",
+      "FAR"
+     ]
+    },
+    {
+     "eva": "kor",
+     "k": 3,
+     "s": 44,
+     "b": 95,
+     "cell": 44,
+     "inK": true,
+     "R1": "BRIAN",
+     "R2": "RAY",
+     "R3": [
+      "est",
+      "vim"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "est",
+      "vim"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "BRIAN",
+      "SPACE",
+      "ABRAHAM",
+      "JUDAH",
+      "DANTE",
+      "CRICK",
+      "KARMA",
+      "FAITH",
+      "HOPE",
+      "DEGREE",
+      "RAY",
+      "PEER",
+      "ECHIS"
+     ]
+    },
+    {
+     "eva": "sholdy",
+     "k": 6,
+     "s": 83,
+     "b": 298,
+     "cell": 83,
+     "inK": false,
+     "R1": "PRAYER",
+     "R2": "PRAYER",
+     "R3": [
+      "cuivis"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "cuivis"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "PRAYER",
+      "GNOSIS",
+      "WISDOM",
+      "BISMUTH Z",
+      "SHEKHINAH",
+      "COLLAPSE",
+      "SEGWIT",
+      "TELESMI",
+      "DESCENDIT"
+     ]
+    }
+   ]
+  },
+  {
+   "line": "2",
+   "locus": "+P0",
+   "zl_raw": "sory.ckhar.or,y.kair.chtaiin.shar.ase.cthar.cthar,dan",
+   "clean_tokens": [
+    "sory",
+    "ckhar",
+    "ory",
+    "kair",
+    "chtaiin",
+    "shar",
+    "ase",
+    "cthar",
+    "cthardan"
+   ],
+   "dropped": [],
+   "letter_sum": 469,
+   "cell": 212,
+   "words": [
+    {
+     "eva": "sory",
+     "k": 4,
+     "s": 77,
+     "b": 203,
+     "cell": 77,
+     "inK": false,
+     "R1": "CHRIST",
+     "R2": "HERTZ",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "CHRIST",
+      "MATTER",
+      "DISCIPLE",
+      "VIRGIL",
+      "HERTZ",
+      "POWER",
+      "GLORY",
+      "GOLD HOP",
+      "STORE"
+     ]
+    },
+    {
+     "eva": "ckhar",
+     "k": 5,
+     "s": 41,
+     "b": 143,
+     "cell": 41,
+     "inK": false,
+     "R1": "OMEGA",
+     "R2": "BOX",
+     "R3": [
+      "natae"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "natae"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "OMEGA",
+      "HESED",
+      "KAON",
+      "AKASHA",
+      "BOX",
+      "KEY",
+      "HALT",
+      "ALIEN",
+      "GUID"
+     ]
+    },
+    {
+     "eva": "ory",
+     "k": 3,
+     "s": 58,
+     "b": 126,
+     "cell": 58,
+     "inK": false,
+     "R1": "BALDUR",
+     "R2": "TWO",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "BALDUR",
+      "TWO",
+      "POOL",
+      "STAR",
+      "EMERALD",
+      "ZRN",
+      "IGNIS"
+     ]
+    },
+    {
+     "eva": "kair",
+     "k": 4,
+     "s": 39,
+     "b": 112,
+     "cell": 39,
+     "inK": false,
+     "R1": "TEN",
+     "R2": "TEN",
+     "R3": [
+      "mihi"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "mihi"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "TEN",
+      "GREED",
+      "OPEC",
+      "DOT",
+      "FIX",
+      "FOR",
+      "HOP",
+      "ANGEL"
+     ]
+    },
+    {
+     "eva": "chtaiin",
+     "k": 7,
+     "s": 64,
+     "b": 280,
+     "cell": 64,
+     "inK": false,
+     "R1": "ISRAEL",
+     "R2": "ZERO",
+     "R3": [
+      "divinae",
+      "fidelis"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "divinae",
+      "fidelis"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "ISRAEL",
+      "PLATO",
+      "ZERO",
+      "MERKLE",
+      "PETER",
+      "MERCY",
+      "ORBIT",
+      "DIGEST"
+     ]
+    },
+    {
+     "eva": "shar",
+     "k": 4,
+     "s": 46,
+     "b": 110,
+     "cell": 46,
+     "inK": true,
+     "R1": "SHADDAI",
+     "R2": "WHO",
+     "R3": [
+      "dixi",
+      "hunc"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "dixi",
+      "hunc"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "SHADDAI",
+      "CHAOS",
+      "CLAUDE",
+      "BARABBAS",
+      "MANDALA",
+      "MEDINA",
+      "FLASH",
+      "MASS CASUALTY ASSISTANCE TEAM",
+      "IRGL",
+      "WHO",
+      "SOL",
+      "MOND"
+     ]
+    },
+    {
+     "eva": "ase",
+     "k": 3,
+     "s": 25,
+     "b": 54,
+     "cell": 25,
+     "inK": false,
+     "R1": "PI",
+     "R2": "Y",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "PI",
+      "Y",
+      "MECCA",
+      "COG",
+      "FAR"
+     ]
+    },
+    {
+     "eva": "cthar",
+     "k": 5,
+     "s": 50,
+     "b": 161,
+     "cell": 50,
+     "inK": false,
+     "R1": "HIGGS",
+     "R2": "JOY",
+     "R3": [
+      "magno",
+      "aliis"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "magno",
+      "aliis"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "HIGGS",
+      "PAUL",
+      "MAINS FREQUENCY EU",
+      "PRANA",
+      "SANGHA",
+      "NATO",
+      "ASGARD",
+      "JOY",
+      "FORK"
+     ]
+    },
+    {
+     "eva": "cthardan",
+     "k": 8,
+     "s": 69,
+     "b": 304,
+     "cell": 69,
+     "inK": false,
+     "R1": "GLUON",
+     "R2": "GLUON",
+     "R3": [
+      "magnesia"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "magnesia"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "GLUON",
+      "QUBIT",
+      "JEREMIAH",
+      "ARCHANGEL",
+      "ACHILLES",
+      "WHO AM I",
+      "RONGO",
+      "COELUM",
+      "MAGNESIA"
+     ]
+    }
+   ]
+  },
+  {
+   "line": "3",
+   "locus": "+P0",
+   "zl_raw": "syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sy",
+   "clean_tokens": [
+    "syaiir",
+    "sheky",
+    "or",
+    "ykaiin",
+    "shod",
+    "cthoary",
+    "cthes",
+    "daraiin",
+    "sy"
+   ],
+   "dropped": [],
+   "letter_sum": 542,
+   "cell": 28,
+   "words": [
+    {
+     "eva": "syaiir",
+     "k": 6,
+     "s": 81,
+     "b": 261,
+     "cell": 81,
+     "inK": false,
+     "R1": "HORUS",
+     "R2": "HORUS",
+     "R3": [
+      "instar"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "instar"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "HORUS",
+      "SAMSON",
+      "GENERATOR FOURTH",
+      "HARMONIC",
+      "CHAINLINK",
+      "SEKHMET",
+      "TANGENT",
+      "KAPREKAR",
+      "SODIUM",
+      "RESIDUE",
+      "STERCKE"
+     ]
+    },
+    {
+     "eva": "sheky",
+     "k": 5,
+     "s": 68,
+     "b": 219,
+     "cell": 68,
+     "inK": false,
+     "R1": "SOPHIA",
+     "R2": "LOGOS",
+     "R3": [
+      "cupis"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "cupis"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "SOPHIA",
+      "LOGOS",
+      "SHALOM",
+      "ZOHAR",
+      "COINBASE",
+      "HERMES",
+      "EXTRA",
+      "PLANET",
+      "GLYPH",
+      "DIGITS"
+     ]
+    },
+    {
+     "eva": "or",
+     "k": 2,
+     "s": 33,
+     "b": 51,
+     "cell": 33,
+     "inK": false,
+     "R1": "HAGGAI",
+     "R2": "DON",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "HAGGAI",
+      "KALI",
+      "RAMA",
+      "DON",
+      "EWE",
+      "AMEN"
+     ]
+    },
+    {
+     "eva": "ykaiin",
+     "k": 6,
+     "s": 69,
+     "b": 215,
+     "cell": 69,
+     "inK": false,
+     "R1": "GLUON",
+     "R2": "GLUON",
+     "R3": [
+      "coelum"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "coelum"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "GLUON",
+      "QUBIT",
+      "JEREMIAH",
+      "ARCHANGEL",
+      "ACHILLES",
+      "WHO AM I",
+      "RONGO",
+      "COELUM",
+      "MAGNESIA"
+     ]
+    },
+    {
+     "eva": "shod",
+     "k": 4,
+     "s": 46,
+     "b": 96,
+     "cell": 46,
+     "inK": true,
+     "R1": "SHADDAI",
+     "R2": "WHO",
+     "R3": [
+      "dixi",
+      "hunc"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "dixi",
+      "hunc"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "SHADDAI",
+      "CHAOS",
+      "CLAUDE",
+      "BARABBAS",
+      "MANDALA",
+      "MEDINA",
+      "FLASH",
+      "MASS CASUALTY ASSISTANCE TEAM",
+      "IRGL",
+      "WHO",
+      "SOL",
+      "MOND"
+     ]
+    },
+    {
+     "eva": "cthoary",
+     "k": 7,
+     "s": 90,
+     "b": 415,
+     "cell": 90,
+     "inK": false,
+     "R1": "NAKAMOTO",
+     "R2": "OXYGEN",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "NAKAMOTO",
+      "MAXWELL",
+      "QUARTER FOLD",
+      "GAS CONSTANT",
+      "MATTHEW",
+      "OXYGEN",
+      "CONSCIENCE",
+      "WORKER"
+     ]
+    },
+    {
+     "eva": "cthes",
+     "k": 5,
+     "s": 55,
+     "b": 182,
+     "cell": 55,
+     "inK": false,
+     "R1": "HEAVEN",
+     "R2": "SKY",
+     "R3": [
+      "grati"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "grati"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "HEAVEN",
+      "SATAN",
+      "JUDAS",
+      "FREYA",
+      "ARGON",
+      "ATUM",
+      "SKY",
+      "SOIL",
+      "LASER",
+      "MAMARI"
+     ]
+    },
+    {
+     "eva": "daraiin",
+     "k": 7,
+     "s": 56,
+     "b": 261,
+     "cell": 56,
+     "inK": false,
+     "R1": "CARDANO",
+     "R2": "ISIS",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "CARDANO",
+      "ISIS",
+      "STAKE",
+      "MIDGARD",
+      "SAWM",
+      "DEFICIT",
+      "APPEND",
+      "CURIE",
+      "TERM",
+      "SCRIBE"
+     ]
+    },
+    {
+     "eva": "sy",
+     "k": 2,
+     "s": 44,
+     "b": 69,
+     "cell": 44,
+     "inK": true,
+     "R1": "BRIAN",
+     "R2": "RAY",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "BRIAN",
+      "SPACE",
+      "ABRAHAM",
+      "JUDAH",
+      "DANTE",
+      "CRICK",
+      "KARMA",
+      "FAITH",
+      "HOPE",
+      "DEGREE",
+      "RAY",
+      "PEER",
+      "ECHIS"
+     ]
+    }
+   ]
+  },
+  {
+   "line": "4",
+   "locus": "+P0",
+   "zl_raw": "soiin.oteey.oteo[s:r],roloty.cthiar,daiin.okaiin.or.okan",
+   "clean_tokens": [
+    "soiin",
+    "oteey",
+    "oteosroloty",
+    "cthiardaiin",
+    "okaiin",
+    "or",
+    "okan"
+   ],
+   "dropped": [],
+   "letter_sum": 544,
+   "cell": 30,
+   "words": [
+    {
+     "eva": "soiin",
+     "k": 5,
+     "s": 66,
+     "b": 182,
+     "cell": 66,
+     "inK": false,
+     "R1": "MOLOCH",
+     "R2": "ENVY",
+     "R3": [
+      "omnes",
+      "modum"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "omnes",
+      "modum"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "MOLOCH",
+      "MINING",
+      "MESON",
+      "ANUBIS",
+      "OCTAVE",
+      "ENVY",
+      "SLOT",
+      "PARABOLA",
+      "VATER"
+     ]
+    },
+    {
+     "eva": "oteey",
+     "k": 5,
+     "s": 70,
+     "b": 215,
+     "cell": 70,
+     "inK": false,
+     "R1": "LILITH",
+     "R2": "PROOF",
+     "R3": [
+      "omnis",
+      "logou"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "omnis",
+      "logou"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "LILITH",
+      "PROOF",
+      "IMPEDANCE",
+      "VATICAN",
+      "HONOR",
+      "WRATH",
+      "GALAXY",
+      "SECRET",
+      "VIPER",
+      "WINDT"
+     ]
+    },
+    {
+     "eva": "oteosroloty",
+     "k": 11,
+     "s": 179,
+     "b": 1144,
+     "cell": 179,
+     "inK": false,
+     "R1": "EXCOMMUNICATION",
+     "R2": "EULER E DIGITS",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "EXCOMMUNICATION",
+      "EULER E DIGITS",
+      "ON EARTH AS IN HEAVEN",
+      "FINE STRUCTURE",
+      "TRISMEGISTUS"
+     ]
+    },
+    {
+     "eva": "cthiardaiin",
+     "k": 11,
+     "s": 96,
+     "b": 577,
+     "cell": 96,
+     "inK": false,
+     "R1": "BEETHOVEN",
+     "R2": "HYDROGEN",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "BEETHOVEN",
+      "HYDROGEN",
+      "MnO CURIE CONSTANT",
+      "BOLTZMANN k",
+      "RIBOSOME",
+      "APHRODITE",
+      "CONJUGATE",
+      "MANTISSA",
+      "ATLANTIS"
+     ]
+    },
+    {
+     "eva": "okaiin",
+     "k": 6,
+     "s": 59,
+     "b": 205,
+     "cell": 59,
+     "inK": false,
+     "R1": "SHIVA",
+     "R2": "NULL",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "SHIVA",
+      "HOMER",
+      "ISLAND",
+      "METTA",
+      "GENOME",
+      "PAULI",
+      "NULL",
+      "MINER"
+     ]
+    },
+    {
+     "eva": "or",
+     "k": 2,
+     "s": 33,
+     "b": 51,
+     "cell": 33,
+     "inK": false,
+     "R1": "HAGGAI",
+     "R2": "DON",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "HAGGAI",
+      "KALI",
+      "RAMA",
+      "DON",
+      "EWE",
+      "AMEN"
+     ]
+    },
+    {
+     "eva": "okan",
+     "k": 4,
+     "s": 41,
+     "b": 96,
+     "cell": 41,
+     "inK": false,
+     "R1": "OMEGA",
+     "R2": "BOX",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "OMEGA",
+      "HESED",
+      "KAON",
+      "AKASHA",
+      "BOX",
+      "KEY",
+      "HALT",
+      "ALIEN",
+      "GUID"
+     ]
+    }
+   ]
+  },
+  {
+   "line": "5",
+   "locus": "+P0",
+   "zl_raw": "sair,y.chear.cthaiin.cphar.cfhaiin",
+   "clean_tokens": [
+    "sairy",
+    "chear",
+    "cthaiin",
+    "cphar",
+    "cfhaiin"
+   ],
+   "dropped": [],
+   "letter_sum": 267,
+   "cell": 10,
+   "words": [
+    {
+     "eva": "sairy",
+     "k": 5,
+     "s": 72,
+     "b": 245,
+     "cell": 72,
+     "inK": true,
+     "R1": "BITCOIN",
+     "R2": "MONEY",
+     "R3": [
+      "sicut",
+      "modus"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "sicut",
+      "modus"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "BITCOIN",
+      "MONEY",
+      "BRUNEL",
+      "DOGECOIN",
+      "GOLIATH",
+      "REASON",
+      "WORLD",
+      "ALCHYMIA"
+     ]
+    },
+    {
+     "eva": "chear",
+     "k": 5,
+     "s": 35,
+     "b": 128,
+     "cell": 35,
+     "inK": false,
+     "R1": "HAGAR",
+     "R2": "EYE",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "HAGAR",
+      "DIRAC",
+      "EYE",
+      "BOLTZMANN eV/K",
+      "MAAT",
+      "FIT",
+      "JET",
+      "VEGA",
+      "CHAIN"
+     ]
+    },
+    {
+     "eva": "cthaiin",
+     "k": 7,
+     "s": 64,
+     "b": 268,
+     "cell": 64,
+     "inK": false,
+     "R1": "ISRAEL",
+     "R2": "ZERO",
+     "R3": [
+      "divinae",
+      "fidelis"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "divinae",
+      "fidelis"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "ISRAEL",
+      "PLATO",
+      "ZERO",
+      "MERKLE",
+      "PETER",
+      "MERCY",
+      "ORBIT",
+      "DIGEST"
+     ]
+    },
+    {
+     "eva": "cphar",
+     "k": 5,
+     "s": 46,
+     "b": 153,
+     "cell": 46,
+     "inK": true,
+     "R1": "SHADDAI",
+     "R2": "WHO",
+     "R3": [
+      "animi"
+     ],
+     "R3kind": "ksb",
+     "ks_all": [
+      "animi"
+     ],
+     "ksb_mod257": [
+      "animi"
+     ],
+     "tablet_words": [
+      "SHADDAI",
+      "CHAOS",
+      "CLAUDE",
+      "BARABBAS",
+      "MANDALA",
+      "MEDINA",
+      "FLASH",
+      "MASS CASUALTY ASSISTANCE TEAM",
+      "IRGL",
+      "WHO",
+      "SOL",
+      "MOND"
+     ]
+    },
+    {
+     "eva": "cfhaiin",
+     "k": 7,
+     "s": 50,
+     "b": 240,
+     "cell": 50,
+     "inK": false,
+     "R1": "HIGGS",
+     "R2": "JOY",
+     "R3": [],
+     "R3kind": "none",
+     "ks_all": [],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "HIGGS",
+      "PAUL",
+      "MAINS FREQUENCY EU",
+      "PRANA",
+      "SANGHA",
+      "NATO",
+      "ASGARD",
+      "JOY",
+      "FORK"
+     ]
+    }
+   ]
+  },
+  {
+   "line": "6",
+   "locus": "=Pt",
+   "zl_raw": "ydaraishy<$>",
+   "clean_tokens": [
+    "ydaraishy"
+   ],
+   "dropped": [],
+   "letter_sum": 110,
+   "cell": 110,
+   "words": [
+    {
+     "eva": "ydaraishy",
+     "k": 9,
+     "s": 110,
+     "b": 589,
+     "cell": 110,
+     "inK": false,
+     "R1": "FRAMEWORK",
+     "R2": "PURPOSE",
+     "R3": [
+      "terraeque",
+      "mementote"
+     ],
+     "R3kind": "ks",
+     "ks_all": [
+      "terraeque",
+      "mementote"
+     ],
+     "ksb_mod257": [],
+     "tablet_words": [
+      "FRAMEWORK",
+      "PURPOSE",
+      "ED25519 SHADOW",
+      "TIMOTHY",
+      "TORSION"
+     ]
+    }
+   ]
+  }
+ ],
+ "latin_vocab_size": 373,
+ "latin_uncertain": [
+  "propellium"
+ ],
+ "glosses_RECALLED": {
+  "aliis": "others (dat./abl. pl.)",
+  "animi": "of the mind, of the soul",
+  "coelum": "heaven, sky",
+  "cuivis": "to anyone at all",
+  "cupis": "you desire",
+  "dignis": "worthy (dat./abl. pl.)",
+  "divinae": "divine, of the divine (fem.)",
+  "dixi": "I have said",
+  "eius": "his, its, of him",
+  "est": "is",
+  "fidelis": "faithful",
+  "grati": "grateful, pleasing (gen.)",
+  "hunc": "this (acc. masc.)",
+  "instar": "likeness, the equal of",
+  "ipse": "himself, he himself",
+  "itaque": "and so, therefore",
+  "logou": "of the Word (Greek logou)",
+  "lubens": "willingly, gladly",
+  "magnesia": "magnesia (the alchemists' matter)",
+  "magno": "great (abl./dat.)",
+  "mementote": "remember! (pl. imperative)",
+  "mihi": "to me",
+  "modum": "manner, way (acc.)",
+  "modus": "manner, way",
+  "natae": "born (fem. pl.)",
+  "omnes": "all (pl.)",
+  "omnis": "all, every",
+  "sicut": "just as, like",
+  "terraeque": "and of the earth",
+  "vim": "force, power (acc.)",
+  "vincet": "will conquer"
+ },
+ "n_tokens": 41,
+ "n_inK": 8,
+ "share_inK": 0.1951219512195122,
+ "K_size": 33,
+ "K_over_257": 0.12840466926070038,
+ "n_R3_ksb": 1,
+ "n_R3_ks": 22,
+ "n_R3_none": 18,
+ "n_ksb_mod257": 1,
+ "paragraph_letter_sum": 2480,
+ "paragraph_cell": 167,
+ "r1_r2_differ": 34
+}
