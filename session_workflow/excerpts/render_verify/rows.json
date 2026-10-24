@@ -1,0 +1,774 @@
+[
+ {
+  "t": "fachys",
+  "k": 6,
+  "s": 62,
+  "b": 288,
+  "c": 62,
+  "r1": "FIBONACCI",
+  "r2": "RITO",
+  "r2c": "RITO",
+  "r3": [
+   "ks",
+   [
+    "dignis"
+   ]
+  ],
+  "ks_all": [
+   "dignis"
+  ],
+  "inK": true
+ },
+ {
+  "t": "ykal",
+  "k": 4,
+  "s": 49,
+  "b": 98,
+  "c": 49,
+  "r1": "LUKE",
+  "r2": "LUKE",
+  "r2c": "LUKE",
+  "r3": [
+   "ks",
+   [
+    "ipse"
+   ]
+  ],
+  "ks_all": [
+   "ipse"
+  ],
+  "inK": false
+ },
+ {
+  "t": "ar",
+  "k": 2,
+  "s": 19,
+  "b": 37,
+  "c": 19,
+  "r1": "S",
+  "r2": "S",
+  "r2c": "S",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "ataiin",
+  "k": 6,
+  "s": 54,
+  "b": 209,
+  "c": 54,
+  "r1": "LOVE",
+  "r2": "SUN",
+  "r2c": "SUN",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "shol",
+  "k": 4,
+  "s": 54,
+  "b": 128,
+  "c": 54,
+  "r1": "LOVE",
+  "r2": "SUN",
+  "r2c": "SUN",
+  "r3": [
+   "ks",
+   [
+    "eius"
+   ]
+  ],
+  "ks_all": [
+   "eius"
+  ],
+  "inK": false
+ },
+ {
+  "t": "shory",
+  "k": 5,
+  "s": 85,
+  "b": 277,
+  "c": 85,
+  "r1": "ESCHATON",
+  "r2": "MATRIX",
+  "r2c": "MATRIX",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "cthres",
+  "k": 6,
+  "s": 73,
+  "b": 278,
+  "c": 73,
+  "r1": "WALLET",
+  "r2": "TURN",
+  "r2c": "TURN",
+  "r3": [
+   "ks",
+   [
+    "vincet",
+    "itaque",
+    "lubens"
+   ]
+  ],
+  "ks_all": [
+   "vincet",
+   "itaque",
+   "lubens"
+  ],
+  "inK": true
+ },
+ {
+  "t": "y",
+  "k": 1,
+  "s": 25,
+  "b": 25,
+  "c": 25,
+  "r1": "PI",
+  "r2": "Y",
+  "r2c": "Y",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "kor",
+  "k": 3,
+  "s": 44,
+  "b": 95,
+  "c": 44,
+  "r1": "BRIAN",
+  "r2": "RAY",
+  "r2c": "RAY",
+  "r3": [
+   "ks",
+   [
+    "est",
+    "vim"
+   ]
+  ],
+  "ks_all": [
+   "est",
+   "vim"
+  ],
+  "inK": true
+ },
+ {
+  "t": "sholdy",
+  "k": 6,
+  "s": 83,
+  "b": 298,
+  "c": 83,
+  "r1": "PRAYER",
+  "r2": "PRAYER",
+  "r2c": "PRAYER",
+  "r3": [
+   "ks",
+   [
+    "cuivis"
+   ]
+  ],
+  "ks_all": [
+   "cuivis"
+  ],
+  "inK": false
+ },
+ {
+  "t": "sory",
+  "k": 4,
+  "s": 77,
+  "b": 203,
+  "c": 77,
+  "r1": "CHRIST",
+  "r2": "HERTZ",
+  "r2c": "HERTZ",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "ckhar",
+  "k": 5,
+  "s": 41,
+  "b": 143,
+  "c": 41,
+  "r1": "OMEGA",
+  "r2": "BOX",
+  "r2c": "BOX",
+  "r3": [
+   "ks",
+   [
+    "natae"
+   ]
+  ],
+  "ks_all": [
+   "natae"
+  ],
+  "inK": false
+ },
+ {
+  "t": "ory",
+  "k": 3,
+  "s": 58,
+  "b": 126,
+  "c": 58,
+  "r1": "BALDUR",
+  "r2": "TWO",
+  "r2c": "TWO",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "kair",
+  "k": 4,
+  "s": 39,
+  "b": 112,
+  "c": 39,
+  "r1": "TEN",
+  "r2": "TEN",
+  "r2c": "TEN",
+  "r3": [
+   "ks",
+   [
+    "mihi"
+   ]
+  ],
+  "ks_all": [
+   "mihi"
+  ],
+  "inK": false
+ },
+ {
+  "t": "chtaiin",
+  "k": 7,
+  "s": 64,
+  "b": 280,
+  "c": 64,
+  "r1": "ISRAEL",
+  "r2": "ZERO",
+  "r2c": "ZERO",
+  "r3": [
+   "ks",
+   [
+    "divinae",
+    "fidelis"
+   ]
+  ],
+  "ks_all": [
+   "divinae",
+   "fidelis"
+  ],
+  "inK": false
+ },
+ {
+  "t": "shar",
+  "k": 4,
+  "s": 46,
+  "b": 110,
+  "c": 46,
+  "r1": "SHADDAI",
+  "r2": "WHO",
+  "r2c": "WHO",
+  "r3": [
+   "ks",
+   [
+    "dixi",
+    "hunc"
+   ]
+  ],
+  "ks_all": [
+   "dixi",
+   "hunc"
+  ],
+  "inK": true
+ },
+ {
+  "t": "ase",
+  "k": 3,
+  "s": 25,
+  "b": 54,
+  "c": 25,
+  "r1": "PI",
+  "r2": "Y",
+  "r2c": "Y",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "cthar",
+  "k": 5,
+  "s": 50,
+  "b": 161,
+  "c": 50,
+  "r1": "HIGGS",
+  "r2": "JOY",
+  "r2c": "JOY",
+  "r3": [
+   "ks",
+   [
+    "magno",
+    "aliis"
+   ]
+  ],
+  "ks_all": [
+   "magno",
+   "aliis"
+  ],
+  "inK": false
+ },
+ {
+  "t": "cthardan",
+  "k": 8,
+  "s": 69,
+  "b": 304,
+  "c": 69,
+  "r1": "GLUON",
+  "r2": "GLUON",
+  "r2c": "GLUON",
+  "r3": [
+   "ks",
+   [
+    "magnesia"
+   ]
+  ],
+  "ks_all": [
+   "magnesia"
+  ],
+  "inK": false
+ },
+ {
+  "t": "syaiir",
+  "k": 6,
+  "s": 81,
+  "b": 261,
+  "c": 81,
+  "r1": "HORUS",
+  "r2": "HORUS",
+  "r2c": "HORUS",
+  "r3": [
+   "ks",
+   [
+    "instar"
+   ]
+  ],
+  "ks_all": [
+   "instar"
+  ],
+  "inK": false
+ },
+ {
+  "t": "sheky",
+  "k": 5,
+  "s": 68,
+  "b": 219,
+  "c": 68,
+  "r1": "SOPHIA",
+  "r2": "LOGOS",
+  "r2c": "LOGOS",
+  "r3": [
+   "ks",
+   [
+    "cupis"
+   ]
+  ],
+  "ks_all": [
+   "cupis"
+  ],
+  "inK": false
+ },
+ {
+  "t": "or",
+  "k": 2,
+  "s": 33,
+  "b": 51,
+  "c": 33,
+  "r1": "HAGGAI",
+  "r2": "DON",
+  "r2c": "DON",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "ykaiin",
+  "k": 6,
+  "s": 69,
+  "b": 215,
+  "c": 69,
+  "r1": "GLUON",
+  "r2": "GLUON",
+  "r2c": "GLUON",
+  "r3": [
+   "ks",
+   [
+    "coelum"
+   ]
+  ],
+  "ks_all": [
+   "coelum"
+  ],
+  "inK": false
+ },
+ {
+  "t": "shod",
+  "k": 4,
+  "s": 46,
+  "b": 96,
+  "c": 46,
+  "r1": "SHADDAI",
+  "r2": "WHO",
+  "r2c": "WHO",
+  "r3": [
+   "ks",
+   [
+    "dixi",
+    "hunc"
+   ]
+  ],
+  "ks_all": [
+   "dixi",
+   "hunc"
+  ],
+  "inK": true
+ },
+ {
+  "t": "cthoary",
+  "k": 7,
+  "s": 90,
+  "b": 415,
+  "c": 90,
+  "r1": "NAKAMOTO",
+  "r2": "OXYGEN",
+  "r2c": "OXYGEN",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "cthes",
+  "k": 5,
+  "s": 55,
+  "b": 182,
+  "c": 55,
+  "r1": "HEAVEN",
+  "r2": "SKY",
+  "r2c": "SKY",
+  "r3": [
+   "ks",
+   [
+    "grati"
+   ]
+  ],
+  "ks_all": [
+   "grati"
+  ],
+  "inK": false
+ },
+ {
+  "t": "daraiin",
+  "k": 7,
+  "s": 56,
+  "b": 261,
+  "c": 56,
+  "r1": "CARDANO",
+  "r2": "ISIS",
+  "r2c": "ISIS",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "sy",
+  "k": 2,
+  "s": 44,
+  "b": 69,
+  "c": 44,
+  "r1": "BRIAN",
+  "r2": "RAY",
+  "r2c": "RAY",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": true
+ },
+ {
+  "t": "soiin",
+  "k": 5,
+  "s": 66,
+  "b": 182,
+  "c": 66,
+  "r1": "MOLOCH",
+  "r2": "ENVY",
+  "r2c": "ENVY",
+  "r3": [
+   "ks",
+   [
+    "omnes",
+    "modum"
+   ]
+  ],
+  "ks_all": [
+   "omnes",
+   "modum"
+  ],
+  "inK": false
+ },
+ {
+  "t": "oteey",
+  "k": 5,
+  "s": 70,
+  "b": 215,
+  "c": 70,
+  "r1": "LILITH",
+  "r2": "PROOF",
+  "r2c": "PROOF",
+  "r3": [
+   "ks",
+   [
+    "omnis",
+    "logou"
+   ]
+  ],
+  "ks_all": [
+   "omnis",
+   "logou"
+  ],
+  "inK": false
+ },
+ {
+  "t": "oteosroloty",
+  "k": 11,
+  "s": 179,
+  "b": 1144,
+  "c": 179,
+  "r1": "EXCOMMUNICATION",
+  "r2": "EULER E DIGITS",
+  "r2c": "TRISMEGISTUS",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "cthiardaiin",
+  "k": 11,
+  "s": 96,
+  "b": 577,
+  "c": 96,
+  "r1": "BEETHOVEN",
+  "r2": "HYDROGEN",
+  "r2c": "HYDROGEN",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "okaiin",
+  "k": 6,
+  "s": 59,
+  "b": 205,
+  "c": 59,
+  "r1": "SHIVA",
+  "r2": "NULL",
+  "r2c": "NULL",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "or",
+  "k": 2,
+  "s": 33,
+  "b": 51,
+  "c": 33,
+  "r1": "HAGGAI",
+  "r2": "DON",
+  "r2c": "DON",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "okan",
+  "k": 4,
+  "s": 41,
+  "b": 96,
+  "c": 41,
+  "r1": "OMEGA",
+  "r2": "BOX",
+  "r2c": "BOX",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "sairy",
+  "k": 5,
+  "s": 72,
+  "b": 245,
+  "c": 72,
+  "r1": "BITCOIN",
+  "r2": "MONEY",
+  "r2c": "MONEY",
+  "r3": [
+   "ks",
+   [
+    "sicut",
+    "modus"
+   ]
+  ],
+  "ks_all": [
+   "sicut",
+   "modus"
+  ],
+  "inK": true
+ },
+ {
+  "t": "chear",
+  "k": 5,
+  "s": 35,
+  "b": 128,
+  "c": 35,
+  "r1": "HAGAR",
+  "r2": "EYE",
+  "r2c": "EYE",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "cthaiin",
+  "k": 7,
+  "s": 64,
+  "b": 268,
+  "c": 64,
+  "r1": "ISRAEL",
+  "r2": "ZERO",
+  "r2c": "ZERO",
+  "r3": [
+   "ks",
+   [
+    "divinae",
+    "fidelis"
+   ]
+  ],
+  "ks_all": [
+   "divinae",
+   "fidelis"
+  ],
+  "inK": false
+ },
+ {
+  "t": "cphar",
+  "k": 5,
+  "s": 46,
+  "b": 153,
+  "c": 46,
+  "r1": "SHADDAI",
+  "r2": "WHO",
+  "r2c": "WHO",
+  "r3": [
+   "ksb",
+   [
+    "animi"
+   ]
+  ],
+  "ks_all": [
+   "animi"
+  ],
+  "inK": true
+ },
+ {
+  "t": "cfhaiin",
+  "k": 7,
+  "s": 50,
+  "b": 240,
+  "c": 50,
+  "r1": "HIGGS",
+  "r2": "JOY",
+  "r2c": "JOY",
+  "r3": [
+   "none",
+   []
+  ],
+  "ks_all": [],
+  "inK": false
+ },
+ {
+  "t": "ydaraishy",
+  "k": 9,
+  "s": 110,
+  "b": 589,
+  "c": 110,
+  "r1": "FRAMEWORK",
+  "r2": "PURPOSE",
+  "r2c": "PURPOSE",
+  "r3": [
+   "ks",
+   [
+    "terraeque",
+    "mementote"
+   ]
+  ],
+  "ks_all": [
+   "terraeque",
+   "mementote"
+  ],
+  "inK": false
+ }
+]

@@ -1,0 +1,94 @@
+PARAGRAPH LINES:
+  f1r.1 locus='@P0' raw=<%>fachys.ykal.ar.ataiin.shol.shory.[cth:oto]res.y.kor.sholdy<!@254;>
+  f1r.2 locus='+P0' raw=sory.ckhar.or,y.kair.chtaiin.shar.ase.cthar.cthar,dan
+  f1r.3 locus='+P0' raw=syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sy
+  f1r.4 locus='+P0' raw=soiin.oteey.oteo[s:r],roloty.cthiar,daiin.okaiin.or.okan
+  f1r.5 locus='+P0' raw=sair,y.chear.cthaiin.cphar.cfhaiin
+  f1r.6 locus='=Pt' raw=ydaraishy<$>
+next line: (7, '*P0')
+Latin distinct forms (case-folded): 373 | case-sensitive distinct: 383
+
+L1 EVA: fachys ykal ar ataiin shol shory cthres y kor sholdy | bad=[] | n=10 | sum 548 -> cell 34 (FREE)
+  R1: FIBONACCI / LUKE / S / LOVE / LOVE / ESCHATON / WALLET / PI / BRIAN / PRAYER
+  R2: RITO / LUKE / S / SUN / SUN / MATRIX / TURN / Y / RAY / PRAYER
+  R3: dignis(ks) / ipse(ks) / — / — / eius(ks) / — / vincet|itaque|lubens(ks) / — / est|vim(ks) / cuivis(ks)
+     fachys       k= 6 s= 62 b= 288 cell= 62 inK=True ks_all=['dignis']
+     ykal         k= 4 s= 49 b=  98 cell= 49 inK=False ks_all=['ipse']
+     ar           k= 2 s= 19 b=  37 cell= 19 inK=False ks_all=[]
+     ataiin       k= 6 s= 54 b= 209 cell= 54 inK=False ks_all=[]
+     shol         k= 4 s= 54 b= 128 cell= 54 inK=False ks_all=['eius']
+     shory        k= 5 s= 85 b= 277 cell= 85 inK=False ks_all=[]
+     cthres       k= 6 s= 73 b= 278 cell= 73 inK=True ks_all=['vincet', 'itaque', 'lubens']
+     y            k= 1 s= 25 b=  25 cell= 25 inK=False ks_all=[]
+     kor          k= 3 s= 44 b=  95 cell= 44 inK=True ks_all=['est', 'vim']
+     sholdy       k= 6 s= 83 b= 298 cell= 83 inK=False ks_all=['cuivis']
+
+L2 EVA: sory ckhar ory kair chtaiin shar ase cthar cthardan | bad=[] | n=9 | sum 469 -> cell 212 (PHOTOSYNTHESIS)
+  R1: CHRIST / OMEGA / BALDUR / TEN / ISRAEL / SHADDAI / PI / HIGGS / GLUON
+  R2: HERTZ / BOX / TWO / TEN / ZERO / WHO / Y / JOY / GLUON
+  R3: — / natae(ks) / — / mihi(ks) / divinae|fidelis(ks) / dixi|hunc(ks) / — / magno|aliis(ks) / magnesia(ks)
+     sory         k= 4 s= 77 b= 203 cell= 77 inK=False ks_all=[]
+     ckhar        k= 5 s= 41 b= 143 cell= 41 inK=False ks_all=['natae']
+     ory          k= 3 s= 58 b= 126 cell= 58 inK=False ks_all=[]
+     kair         k= 4 s= 39 b= 112 cell= 39 inK=False ks_all=['mihi']
+     chtaiin      k= 7 s= 64 b= 280 cell= 64 inK=False ks_all=['divinae', 'fidelis']
+     shar         k= 4 s= 46 b= 110 cell= 46 inK=True ks_all=['dixi', 'hunc']
+     ase          k= 3 s= 25 b=  54 cell= 25 inK=False ks_all=[]
+     cthar        k= 5 s= 50 b= 161 cell= 50 inK=False ks_all=['magno', 'aliis']
+     cthardan     k= 8 s= 69 b= 304 cell= 69 inK=False ks_all=['magnesia']
+
+L3 EVA: syaiir sheky or ykaiin shod cthoary cthes daraiin sy | bad=[] | n=9 | sum 542 -> cell 28 (SHA)
+  R1: HORUS / SOPHIA / HAGGAI / GLUON / SHADDAI / NAKAMOTO / HEAVEN / CARDANO / BRIAN
+  R2: HORUS / LOGOS / DON / GLUON / WHO / OXYGEN / SKY / ISIS / RAY
+  R3: instar(ks) / cupis(ks) / — / coelum(ks) / dixi|hunc(ks) / — / grati(ks) / — / —
+     syaiir       k= 6 s= 81 b= 261 cell= 81 inK=False ks_all=['instar']
+     sheky        k= 5 s= 68 b= 219 cell= 68 inK=False ks_all=['cupis']
+     or           k= 2 s= 33 b=  51 cell= 33 inK=False ks_all=[]
+     ykaiin       k= 6 s= 69 b= 215 cell= 69 inK=False ks_all=['coelum']
+     shod         k= 4 s= 46 b=  96 cell= 46 inK=True ks_all=['dixi', 'hunc']
+     cthoary      k= 7 s= 90 b= 415 cell= 90 inK=False ks_all=[]
+     cthes        k= 5 s= 55 b= 182 cell= 55 inK=False ks_all=['grati']
+     daraiin      k= 7 s= 56 b= 261 cell= 56 inK=False ks_all=[]
+     sy           k= 2 s= 44 b=  69 cell= 44 inK=True ks_all=[]
+
+L4 EVA: soiin oteey oteosroloty cthiardaiin okaiin or okan | bad=[] | n=7 | sum 544 -> cell 30 (ARK)
+  R1: MOLOCH / LILITH / EXCOMMUNICATION / BEETHOVEN / SHIVA / HAGGAI / OMEGA
+  R2: ENVY / PROOF / EULER E DIGITS / HYDROGEN / NULL / DON / BOX
+  R2 by chars differs: [('oteosroloty', 'EULER E DIGITS', 'TRISMEGISTUS')]
+  R3: omnes|modum(ks) / omnis|logou(ks) / — / — / — / — / —
+     soiin        k= 5 s= 66 b= 182 cell= 66 inK=False ks_all=['omnes', 'modum']
+     oteey        k= 5 s= 70 b= 215 cell= 70 inK=False ks_all=['omnis', 'logou']
+     oteosroloty  k=11 s=179 b=1144 cell=179 inK=False ks_all=[]
+     cthiardaiin  k=11 s= 96 b= 577 cell= 96 inK=False ks_all=[]
+     okaiin       k= 6 s= 59 b= 205 cell= 59 inK=False ks_all=[]
+     or           k= 2 s= 33 b=  51 cell= 33 inK=False ks_all=[]
+     okan         k= 4 s= 41 b=  96 cell= 41 inK=False ks_all=[]
+
+L5 EVA: sairy chear cthaiin cphar cfhaiin | bad=[] | n=5 | sum 267 -> cell 10 (J)
+  R1: BITCOIN / HAGAR / ISRAEL / SHADDAI / HIGGS
+  R2: MONEY / EYE / ZERO / WHO / JOY
+  R3: sicut|modus(ks) / — / divinae|fidelis(ks) / animi(ksb) / —
+     sairy        k= 5 s= 72 b= 245 cell= 72 inK=True ks_all=['sicut', 'modus']
+     chear        k= 5 s= 35 b= 128 cell= 35 inK=False ks_all=[]
+     cthaiin      k= 7 s= 64 b= 268 cell= 64 inK=False ks_all=['divinae', 'fidelis']
+     cphar        k= 5 s= 46 b= 153 cell= 46 inK=True ks_all=['animi']
+     cfhaiin      k= 7 s= 50 b= 240 cell= 50 inK=False ks_all=[]
+
+L6 EVA: ydaraishy | bad=[] | n=1 | sum 110 -> cell 110 (FRAMEWORK)
+  R1: FRAMEWORK
+  R2: PURPOSE
+  R3: terraeque|mementote(ks)
+     ydaraishy    k= 9 s=110 b= 589 cell=110 inK=False ks_all=['terraeque', 'mementote']
+
+TOTAL tokens 41; paragraph sum 2480 -> cell 167 (EYE OF PROVIDENCE)
+in K: 8/41 = 0.1951  [('fachys', 62), ('cthres', 73), ('kor', 44), ('shar', 46), ('shod', 46), ('sy', 44), ('sairy', 72), ('cphar', 46)]; |K|=33 |K|/257=0.1284
+R3 ksb: 1 [('cphar', ['animi'])]
+R3 ks only: 22
+R3 none: 18
+R1!=R2: 34
+R3 mod257 ksb: [('cphar', ['animi'])]
+alt reading line 1 [('otores', (6, 92, 311))]
+comma split line 2 [('or', 33), ('y', 25), ('dan', 19)]
+alt reading line 4 [('oteorroloty', (11, 178, 1139))]
+comma split line 4 [('oteos', 74), ('roloty', 105), ('cthiar', 59), ('daiin', 37)]
+comma split line 5 [('sair', 47), ('y', 25)]
