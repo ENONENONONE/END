@@ -1,0 +1,178 @@
+K size 33 | baseline: cells 0..256 with some reading in K: 183 / 257 | readings/cell (min,max) (10, 13) | mean distinct reading values/cell 11.7432
+
+(a) J-rule words changed: [] | que words: ['itaque', 'iterumque', 'omnemque']
+S 1 sums {'modern': 443, 'V_for_U': 446, 'et_dropped': 418, 'que_split': 443, 'J_rule': 443} | u=3 et=1 eius=0 coelum=False
+     single cells [161, 186, 189] K:[] | combo sums [418, 421, 443, 446] cells [161, 164, 186, 189] K:[] | exact 257/1027: []
+     ext cells (4) [161, 164, 186, 189] K:[] | ext exact: []
+S 2 sums {'modern': 1436, 'V_for_U': 1451, 'et_dropped': 1411, 'que_split': 1436, 'J_rule': 1436} | u=15 et=1 eius=0 coelum=False
+     single cells [126, 151, 166] K:[] | combo sums [1411, 1426, 1436, 1451] cells [126, 141, 151, 166] K:[] | exact 257/1027: []
+     ext cells (4) [126, 141, 151, 166] K:[] | ext exact: []
+S 3 sums {'modern': 1027, 'V_for_U': 1036, 'et_dropped': 1002, 'que_split': 1027, 'J_rule': 1027} | u=9 et=1 eius=0 coelum=False
+     single cells [8, 231, 256] K:[8, 256] | combo sums [1002, 1011, 1027, 1036] cells [8, 231, 240, 256] K:[8, 240, 256] | exact 257/1027: [1027]
+     ext cells (4) [8, 231, 240, 256] K:[8, 240, 256] | ext exact: [1027]
+S 4 sums {'modern': 1071, 'V_for_U': 1079, 'et_dropped': 1071, 'que_split': 1071, 'J_rule': 1071} | u=8 et=0 eius=3 coelum=False
+     single cells [43, 51] K:[] | combo sums [1071, 1079] cells [43, 51] K:[] | exact 257/1027: []
+     ext cells (4) [43, 46, 51, 54] K:[46] | ext exact: []
+S 5 sums {'modern': 442, 'V_for_U': 444, 'et_dropped': 442, 'que_split': 442, 'J_rule': 442} | u=2 et=0 eius=0 coelum=False
+     single cells [185, 187] K:[] | combo sums [442, 444] cells [185, 187] K:[] | exact 257/1027: []
+     ext cells (2) [185, 187] K:[] | ext exact: []
+S 6 sums {'modern': 492, 'V_for_U': 494, 'et_dropped': 492, 'que_split': 492, 'J_rule': 492} | u=2 et=0 eius=1 coelum=False
+     single cells [235, 237] K:[] | combo sums [492, 494] cells [235, 237] K:[] | exact 257/1027: []
+     ext cells (4) [235, 236, 237, 238] K:[] | ext exact: []
+S 7 sums {'modern': 664, 'V_for_U': 667, 'et_dropped': 664, 'que_split': 664, 'J_rule': 664} | u=3 et=0 eius=0 coelum=False
+     single cells [150, 153] K:[153] | combo sums [664, 667] cells [150, 153] K:[153] | exact 257/1027: []
+     ext cells (2) [150, 153] K:[153] | ext exact: []
+S 8 sums {'modern': 997, 'V_for_U': 1003, 'et_dropped': 947, 'que_split': 997, 'J_rule': 997} | u=6 et=2 eius=0 coelum=True
+     single cells [176, 226, 232] K:[] | combo sums [947, 953, 997, 1003] cells [176, 182, 226, 232] K:[] | exact 257/1027: []
+     ext cells (8) [162, 168, 176, 182, 212, 218, 226, 232] K:[] | ext exact: []
+S 9 sums {'modern': 317, 'V_for_U': 319, 'et_dropped': 317, 'que_split': 317, 'J_rule': 317} | u=2 et=0 eius=0 coelum=False
+     single cells [60, 62] K:[62] | combo sums [317, 319] cells [60, 62] K:[62] | exact 257/1027: []
+     ext cells (2) [60, 62] K:[62] | ext exact: []
+S10 sums {'modern': 320, 'V_for_U': 322, 'et_dropped': 320, 'que_split': 320, 'J_rule': 320} | u=2 et=0 eius=0 coelum=False
+     single cells [63, 65] K:[] | combo sums [320, 322] cells [63, 65] K:[] | exact 257/1027: []
+     ext cells (2) [63, 65] K:[] | ext exact: []
+S11 sums {'modern': 1151, 'V_for_U': 1157, 'et_dropped': 1151, 'que_split': 1151, 'J_rule': 1151} | u=6 et=0 eius=0 coelum=False
+     single cells [123, 129] K:[129] | combo sums [1151, 1157] cells [123, 129] K:[129] | exact 257/1027: []
+     ext cells (2) [123, 129] K:[129] | ext exact: []
+S12 sums {'modern': 254, 'V_for_U': 257, 'et_dropped': 254, 'que_split': 254, 'J_rule': 254} | u=3 et=0 eius=0 coelum=False
+     single cells [0, 254] K:[0] | combo sums [254, 257] cells [0, 254] K:[0] | exact 257/1027: [257]
+     ext cells (2) [0, 254] K:[0] | ext exact: [257]
+S13 sums {'modern': 552, 'V_for_U': 556, 'et_dropped': 552, 'que_split': 552, 'J_rule': 552} | u=4 et=0 eius=0 coelum=False
+     single cells [38, 42] K:[] | combo sums [552, 556] cells [38, 42] K:[] | exact 257/1027: []
+     ext cells (2) [38, 42] K:[] | ext exact: []
+S14 sums {'modern': 962, 'V_for_U': 968, 'et_dropped': 962, 'que_split': 962, 'J_rule': 962} | u=6 et=0 eius=0 coelum=False
+     single cells [191, 197] K:[] | combo sums [962, 968] cells [191, 197] K:[] | exact 257/1027: []
+     ext cells (2) [191, 197] K:[] | ext exact: []
+S15 sums {'modern': 466, 'V_for_U': 468, 'et_dropped': 466, 'que_split': 466, 'J_rule': 466} | u=2 et=0 eius=0 coelum=False
+     single cells [209, 211] K:[] | combo sums [466, 468] cells [209, 211] K:[] | exact 257/1027: []
+     ext cells (2) [209, 211] K:[] | ext exact: []
+totals: single cells 34 combo cells 38 ext cells 46
+sentences with any K: single 5 (uniform expectation 4.0044) | combo 5 (4.3479) | ext 6 (4.9636)
+readings over distinct (cell, atbash) pairs: 38 pairs; 30 with some reading in K; sentences with some reading in K: 14 (uniform expectation without Atbash 14.0709)
+  reading kinds that hit K (count of pair-hits): {'square': 10, 'x17': 10, 'sqrt': 8, 'double': 8, 'atbash': 7, 'inverse': 7, 'self': 7, 'fold': 7, 'x3': 6, 'dlog': 5, 'x5': 4, 'gamma': 4, 'half': 3}
+   S 1 cell 161 atbash 216 hits []
+   S 1 cell 164 atbash 213 hits []
+   S 1 cell 186 atbash 245 hits [('x3', 44)]
+   S 1 cell 189 atbash 242 hits [('sqrt', 73), ('square', 255), ('x17', 129)]
+   S 2 cell 126 atbash 139 hits [('x17', 86)]
+   S 2 cell 141 atbash 124 hits [('dlog', 62), ('square', 92)]
+   S 2 cell 151 atbash 168 hits [('x5', 241)]
+   S 2 cell 166 atbash 153 hits [('atbash', 153), ('x3', 241)]
+   S 3 cell 8 atbash 28 hits [('double', 16), ('inverse', 225), ('self', 8), ('sqrt', 120), ('sqrt', 137), ('x17', 136)]
+   S 3 cell 231 atbash 8 hits [('atbash', 8), ('x17', 72)]
+   S 3 cell 240 atbash 256 hits [('atbash', 256), ('fold', 17), ('gamma', 86), ('half', 120), ('inverse', 136), ('self', 240), ('sqrt', 92), ('x17', 225)]
+   S 3 cell 256 atbash 37 hits [('dlog', 128), ('double', 255), ('fold', 1), ('half', 128), ('inverse', 256), ('self', 256), ('sqrt', 16), ('sqrt', 241), ('square', 1), ('x17', 240)]
+   S 4 cell 43 atbash 210 hits [('double', 86), ('x3', 129)]
+   S 4 cell 51 atbash 202 hits [('x3', 153), ('x5', 255)]
+   S 5 cell 185 atbash 219 hits [('fold', 72), ('square', 44)]
+   S 5 cell 187 atbash 217 hits [('double', 117), ('square', 17)]
+   S 6 cell 235 atbash 20 hits [('x17', 140)]
+   S 6 cell 237 atbash 18 hits [('dlog', 23)]
+   S 7 cell 150 atbash 131 hits []
+   S 7 cell 153 atbash 128 hits [('atbash', 128), ('self', 153)]
+   S 8 cell 176 atbash 131 hits [('gamma', 153), ('inverse', 92), ('square', 136)]
+   S 8 cell 182 atbash 125 hits []
+   S 8 cell 226 atbash 189 hits []
+   S 8 cell 232 atbash 183 hits [('square', 111)]
+   S 9 cell 60 atbash 182 hits [('double', 120), ('sqrt', 46), ('square', 2)]
+   S 9 cell 62 atbash 180 hits [('self', 62)]
+   S 10 cell 63 atbash 179 hits []
+   S 10 cell 65 atbash 177 hits []
+   S 11 cell 123 atbash 251 hits [('inverse', 140)]
+   S 11 cell 129 atbash 245 hits [('double', 1), ('fold', 128), ('inverse', 2), ('self', 129), ('x17', 137)]
+   S 12 cell 0 atbash 256 hits [('atbash', 256), ('double', 0), ('fold', 0), ('gamma', 256), ('half', 0), ('self', 0), ('sqrt', 0), ('square', 0), ('x17', 0), ('x3', 0), ('x5', 0)]
+   S 12 cell 254 atbash 2 hits [('atbash', 2), ('dlog', 129), ('fold', 3)]
+   S 13 cell 38 atbash 203 hits []
+   S 13 cell 42 atbash 199 hits [('inverse', 153)]
+   S 14 cell 191 atbash 238 hits [('dlog', 117), ('gamma', 225)]
+   S 14 cell 197 atbash 232 hits [('double', 137), ('square', 2), ('x17', 8)]
+   S 15 cell 209 atbash 19 hits [('x5', 17)]
+   S 15 cell 211 atbash 17 hits [('atbash', 17), ('fold', 46), ('x3', 119)]
+
+(b)
+  modern_all {'n_words': 108, 'n_subsets': 5359095, 'exact_257': 27738, 'multiples_of_257': {257: 27738, 514: 363}, 'multiples_total': 28101, 'in_K': 735070, 'in_K_frac': 0.1371630844386972, 'exact_other': {514: 363, 771: 0, 1027: 0}, 'max_sum': 646}
+  modern_nouns {'n_words': 37, 'n_subsets': 66045, 'exact_257': 293, 'multiples_of_257': {257: 293, 514: 13}, 'multiples_total': 306, 'in_K': 9345, 'in_K_frac': 0.14149443561208266, 'exact_other': {514: 13, 771: 0, 1027: 0}, 'max_sum': 604}
+  modern_nouns_plus_substadj {'n_words': 48, 'n_subsets': 194580, 'exact_257': 565, 'multiples_of_257': {257: 565, 514: 101}, 'multiples_total': 666, 'in_K': 26832, 'in_K_frac': 0.13789700894233733, 'exact_other': {514: 101, 771: 0, 1027: 0}, 'max_sum': 646}
+  V_all {'n_words': 108, 'n_subsets': 5359095, 'exact_257': 27389, 'multiples_of_257': {257: 27389, 514: 405}, 'multiples_total': 27794, 'in_K': 734488, 'in_K_frac': 0.13705448401269243, 'exact_other': {514: 405, 771: 0, 1027: 0}, 'max_sum': 651}
+  V_nouns {'n_words': 37, 'n_subsets': 66045, 'exact_257': 268, 'multiples_of_257': {257: 268, 514: 15}, 'multiples_total': 283, 'in_K': 9207, 'in_K_frac': 0.13940495116965707, 'exact_other': {514: 15, 771: 0, 1027: 0}, 'max_sum': 607}
+  modern_nouns_257_list ['adaptatione + coelum + rei + vis', 'adaptatione + coelum + rem + sol', 'adaptatione + gloriam + rei + vim', 'adaptatione + hermes + igne + luna', 'adaptatione + hermes + pater + re', 'adaptatione + igne + modus + vim', 'adaptatione + igne + rei + ventre', 'adaptatione + igne + res + solis', 'adaptatione + ingenio + rei + sol', 'adaptatione + ingenio + rem + res', 'adaptatione + luna + mater + sol', 'adaptatione + luna + mundi + res', 'adaptatione + mater + rei + terra', 'adaptatione + mater + vim + vis', 'adaptatione + miracula + re + vis', 'adaptatione + mundi + sol + vim', 'adaptatione + mundus + re + rem', 'adaptatione + re + ventre + vim', 'adaptatione + rei + rem + telesmi', 'adaptatione + rei + terram + vim', 'adaptationes + igne + mundi + rem', 'adaptationes + igne + re + solis', 'adaptationes + ingenio + re + rem', 'adaptationes + luna + mundi + re', 'adaptationes + mendacio + rei + rem', 'adaptationes + rem + sol + vis', 'adaptationes + res + sol + vim', 'coelum + gloriam + igne + miracula', 'coelum + hermes + luna + modus', 'coelum + hermes + miracula + res', 'coelum + hermes + rem + ventre', 'coelum + hermes + sol + solis', 'coelum + igne + miracula + terram', 'coelum + igne + mundi + mundus', 'coelum + igne + partes + solis', 'coelum + ingenio + mundus + re', 'coelum + ingenio + partes + rem', 'coelum + ingenio + rei + telesmi', 'coelum + luna + mater + telesmi', 'coelum + luna + miracula + terra', 'coelum + luna + mundi + partes', 'coelum + meditatione + re + vis', 'coelum + mendacio + miracula + sol', 'coelum + mendacio + mundus + rei', 'coelum + mendacio + re + ventus', 'coelum + mendacio + solis + vis', 'coelum + miracula + pater + vis', 'coelum + miracula + rem + solis', 'coelum + modus + rei + ventre', 'coelum + modus + res + solis', 'coelum + mundi + telesmi + vim', 'coelum + mundus + pater + rem', 'coelum + mundus + sol + vis', 'coelum + nutrix + rei + vis', 'coelum + nutrix + rem + sol', 'coelum + pater + ventre + vim', 'coelum + philosophiae + re + rei', 'coelum + res + terra + ventre', 'fortitudo + igne + luna + sol', 'fortitudo + igne + rei + terra', 'fortitudo + igne + vim + vis', 'fortitudo + mendacio + re + res', 'fortitudo + mundi + rei + rem', 'fortitudo + pater + re + sol', 'fortitudo + re + rei + solis', 'fortitudo + re + terra + vim', 'gloriam + hermes + igne + partes', 'gloriam + hermes + mendacio + vis', 'gloriam + hermes + miracula + rem', 'gloriam + hermes + modus + res', 'gloriam + igne + ingenio + solis', 'gloriam + igne + meditatione + rei', 'gloriam + igne + mendacio + telesmi', 'gloriam + igne + modus + terram', 'gloriam + igne + sol + ventus', 'gloriam + ingenio + luna + mundi', 'gloriam + luna + modus + terra', 'gloriam + luna + mundus + res', 'gloriam + luna + pater + solis', 'gloriam + luna + ventre + vis', 'gloriam + mater + mendacio + mundi', 'gloriam + mater + partes + sol', 'gloriam + mater + res + telesmi', 'gloriam + mater + terram + vis', 'gloriam + meditatione + re + vim', 'gloriam + mendacio + modus + sol', 'gloriam + mendacio + solis + vim', 'gloriam + miracula + modus + rei', 'gloriam + miracula + pater + vim', 'gloriam + miracula + res + terra', 'gloriam + modus + pater + vis', 'gloriam + modus + rem + solis', 'gloriam + mundi + partes + res', 'gloriam + mundi + sol + terram', 'gloriam + mundus + sol + vim', 'gloriam + nutrix + rei + vim', 'gloriam + obscuritas + re + rei', 'gloriam + re + terram + ventre', 'gloriam + rem + terra + ventre', 'gloriam + sol + solis + terra', 'hermes + igne + luna + nutrix', 'hermes + igne + mundus + terra', 'hermes + igne + operatione + rem', 'hermes + igne + partes + terram', 'hermes + ingenio + modus + vim', 'hermes + ingenio + rei + ventre', 'hermes + ingenio + res + solis', 'hermes + luna + mater + ventre', 'hermes + luna + operatione + re', 'hermes + luna + partes + terra', 'hermes + mater + modus + pater', 'hermes + meditatione + rei + res', 'hermes + mendacio + partes + sol', 'hermes + mendacio + res + telesmi', 'hermes + mendacio + terram + vis', 'hermes + miracula + mundi + vis', 'hermes + miracula + partes + rei', 'hermes + miracula + rem + terram', 'hermes + modus + res + terram', 'hermes + mundi + mundus + rem', 'hermes + mundi + ventre + vim', 'hermes + mundus + re + solis', 'hermes + nutrix + pater + re', 'hermes + partes + pater + vis', 'hermes + partes + rem + solis', 'hermes + pater + sol + telesmi', 'hermes + rei + solis + telesmi', 'hermes + res + sol + ventus', 'hermes + telesmi + terra + vim', 'igne + ingenio + luna + ventus', 'igne + ingenio + mater + mundus', 'igne + ingenio + solis + terram', 'igne + mater + meditatione + vis', 'igne + mater + mendacio + ventus', 'igne + mater + philosophiae + rei', 'igne + meditatione + mundi + sol', 'igne + meditatione + re + ventre', 'igne + meditatione + rei + terram', 'igne + mendacio + solis + ventre', 'igne + mendacio + telesmi + terram', 'igne + miracula + mundi + telesmi', 'igne + miracula + pater + ventre', 'igne + modus + nutrix + vim', 'igne + modus + obscuritas + re', 'igne + modus + operatione + rei', 'igne + mundi + pater + ventus', 'igne + mundus + sol + ventre', 'igne + nutrix + rei + ventre', 'igne + nutrix + res + solis', 'igne + operatione + pater + vim', 'igne + operatione + res + terra', 'igne + partes + pater + telesmi', 'igne + partes + res + ventus', 'igne + sol + terram + ventus', 'ingenio + luna + mater + partes', 'ingenio + luna + mendacio + modus', 'ingenio + luna + mundi + terram', 'ingenio + luna + mundus + vim', 'ingenio + luna + solis + terra', 'ingenio + mater + telesmi + vim', 'ingenio + meditatione + re + sol', 'ingenio + mendacio + miracula + res', 'ingenio + mendacio + rem + ventre', 'ingenio + mendacio + sol + solis', 'ingenio + miracula + pater + sol', 'ingenio + miracula + re + telesmi', 'ingenio + miracula + rei + solis', 'ingenio + miracula + terra + vim', 'ingenio + modus + terra + vis', 'ingenio + mundi + partes + vim', 'ingenio + mundus + pater + rei', 'ingenio + mundus + res + vis', 'ingenio + nutrix + rei + sol', 'ingenio + nutrix + rem + res', 'ingenio + pater + re + ventus', 'ingenio + pater + solis + vis', 'luna + mater + miracula + solis', 'luna + mater + mundus + pater', 'luna + mater + nutrix + sol', 'luna + meditatione + rei + terra', 'luna + meditatione + vim + vis', 'luna + mendacio + mundi + ventre', 'luna + mendacio + telesmi + terra', 'luna + mendacio + ventus + vim', 'luna + modus + rem + ventus', 'luna + modus + terra + terram', 'luna + mundi + nutrix + res', 'luna + mundus + res + terram', 'luna + obscuritas + rei + vis', 'luna + obscuritas + rem + sol', 'luna + partes + sol + ventre', 'luna + pater + solis + terram', 'luna + philosophiae + rei + vim', 'luna + res + telesmi + ventre', 'luna + sol + terra + ventus', 'luna + terram + ventre + vis', 'mater + meditatione + re + terra', 'mater + mendacio + mundi + terram', 'mater + mendacio + mundus + vim', 'mater + mendacio + solis + terra', 'mater + miracula + modus + vis', 'mater + miracula + pater + terra', 'mater + modus + mundus + rem', 'mater + modus + ventre + vim', 'mater + mundi + partes + pater', 'mater + mundus + sol + terra', 'mater + nutrix + rei + terra', 'mater + nutrix + vim + vis', 'mater + obscuritas + re + vis', 'mater + operatione + rei + vis', 'mater + operatione + rem + sol', 'mater + partes + sol + terram', 'mater + philosophiae + re + vim', 'mater + res + solis + ventre', 'mater + res + telesmi + terram', 'meditatione + mendacio + rei + sol', 'meditatione + mendacio + rem + res', 'meditatione + pater + rei + vis', 'meditatione + pater + rem + sol', 'meditatione + re + rem + telesmi', 'meditatione + re + terram + vim', 'meditatione + rei + rem + solis', 'meditatione + rem + terra + vim', 'mendacio + miracula + mundus + re', 'mendacio + miracula + partes + rem', 'mendacio + miracula + rei + telesmi', 'mendacio + modus + mundi + pater', 'mendacio + modus + partes + res', 'mendacio + modus + sol + terram', 'mendacio + pater + rei + ventus', 'mendacio + pater + telesmi + vis', 'mendacio + rem + solis + telesmi', 'mendacio + res + ventus + vis', 'mendacio + solis + terram + vim', 'miracula + modus + mundi + sol', 'miracula + modus + re + ventre', 'miracula + modus + rei + terram', 'miracula + mundi + solis + vim', 'miracula + nutrix + re + vis', 'miracula + pater + rem + telesmi', 'miracula + pater + terram + vim', 'miracula + rei + sol + ventus', 'miracula + rem + res + ventus', 'miracula + res + terra + terram', 'miracula + sol + telesmi + vis', 'modus + mundi + mundus + rei', 'modus + mundi + re + ventus', 'modus + mundi + solis + vis', 'modus + operatione + re + vim', 'modus + partes + pater + sol', 'modus + partes + re + telesmi', 'modus + partes + rei + solis', 'modus + partes + terra + vim', 'modus + pater + res + telesmi', 'modus + pater + terram + vis', 'modus + rem + solis + terram', 'mundi + mundus + pater + vim', 'mundi + mundus + res + terra', 'mundi + nutrix + sol + vim', 'mundi + obscuritas + re + sol', 'mundi + operatione + rei + sol', 'mundi + operatione + rem + res', 'mundi + partes + res + terram', 'mundi + pater + solis + terra', 'mundi + terra + ventre + vis', 'mundus + nutrix + re + rem', 'mundus + partes + rem + vis', 'mundus + partes + res + vim', 'mundus + rei + telesmi + vis', 'mundus + rem + sol + telesmi', 'mundus + sol + terram + vim', 'nutrix + re + ventre + vim', 'nutrix + rei + rem + telesmi', 'nutrix + rei + terram + vim', 'obscuritas + re + rei + terram', 'obscuritas + rei + rem + terra', 'obscuritas + rem + vim + vis', 'operatione + re + rei + ventre', 'operatione + re + res + solis', 'partes + pater + solis + vim', 'partes + rei + terra + ventre', 'partes + res + solis + terra', 'partes + ventre + vim + vis', 'pater + sol + ventus + vis', 'philosophiae + rei + res + vis', 'philosophiae + rem + res + sol', 're + telesmi + ventus + vis', 'rei + solis + ventus + vis', 'rem + sol + solis + ventus', 'rem + terra + terram + ventre', 'sol + solis + terra + terram', 'sol + telesmi + ventre + vim', 'terra + ventus + vim + vis']
+  sol_luna_ventus_terra [46, 48, 101, 62]
+  sol_luna_ventus_terra_V [46, 49, 102, 62]
+  uniform_expected_in_K_frac 0.12840466926070038
+
+(c)
+  modern words 161 spans 13041 counts {257: 4, 514: 1, 771: 1, 1027: 4} sum≡0 48 | within-sentence spans 1157 {257: 2, 514: 0, 771: 0, 1027: 2}
+      257 : omnes res natae fuerunt ab
+      257 : est pater omnis telesmi
+      257 : omnis telesmi totius
+      257 : mundus creatus est hinc
+      514 : omnem rem subtilem omnemque solidam penetrabit sic
+      771 : omnem rem subtilem omnemque solidam penetrabit sic mundus creatus est hinc
+      1027 : quod est superius est sicut quod est inferius ad perpetranda miracula rei unius et sicut omnes
+      1027 : et sicut omnes res fuerunt ab uno meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione
+      1027 : meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione pater eius est sol mater eius luna
+      1027 : pater eius est sol mater eius luna portavit illud ventus in ventre suo nutrix eius terra
+  V_for_U words 161 spans 13041 counts {257: 8, 514: 2, 771: 3, 1027: 4} sum≡0 66 | within-sentence spans 1157 {257: 7, 514: 0, 771: 1, 1027: 1}
+      257 : qvod est svperivs et
+      257 : est svperivs et qvod
+      257 : svperivs et qvod est
+      257 : et qvod est svperivs
+      257 : eivs est sol mater eivs
+      257 : est pater omnis telesmi
+      257 : sic habebis gloriam totivs
+      257 : sic mvndvs creatvs est
+      514 : hic vis eivs integra est si versa fverit in terram
+      514 : svbtilem omnemqve solidam penetrabit sic mvndvs
+      771 : svperivs est sicvt qvod est inferivs ad perpetranda miracvla rei vnivs
+      771 : magno ingenio ascendit a terra in coelvm itervmqve descendit in terram et recipit
+      771 : vincet omnem rem svbtilem omnemqve solidam penetrabit sic mvndvs creatvs
+      1027 : ad perpetranda miracvla rei vnivs et sicvt omnes res fvervnt ab vno meditatione vnivs sic omnes res
+      1027 : ventvs in ventre svo nvtrix eivs terra est pater omnis telesmi totivs mvndi est hic vis
+      1027 : gloriam totivs mvndi ideo fvgiat a te omnis obscvritas hic est totivs fortitvdinis fortitvdo
+      1027 : est totivs fortitvdinis fortitvdo fortis qvia vincet omnem rem svbtilem omnemqve solidam
+  V_for_U_et_dropped words 156 spans 12246 counts {257: 5, 514: 2, 771: 4, 1027: 4} sum≡0 45 | within-sentence spans 1081 {257: 3, 514: 0, 771: 2, 1027: 1}
+      257 : rei vnivs sicvt omnes
+      257 : eivs est sol mater eivs
+      257 : est pater omnis telesmi
+      257 : sic habebis gloriam totivs
+      257 : sic mvndvs creatvs est
+      514 : hic vis eivs integra est si versa fverit in terram
+      514 : svbtilem omnemqve solidam penetrabit sic mvndvs
+      771 : est inferivs est sicvt qvod est svperivs qvod est svperivs est
+      771 : svperivs est sicvt qvod est inferivs ad perpetranda miracvla rei vnivs
+      771 : miracvla rei vnivs sicvt omnes res fvervnt ab vno meditatione vnivs sic
+      771 : vincet omnem rem svbtilem omnemqve solidam penetrabit sic mvndvs creatvs
+      1027 : miracvla rei vnivs sicvt omnes res fvervnt ab vno meditatione vnivs sic omnes res natae fvervnt
+      1027 : ventvs in ventre svo nvtrix eivs terra est pater omnis telesmi totivs mvndi est hic vis
+      1027 : gloriam totivs mvndi ideo fvgiat a te omnis obscvritas hic est totivs fortitvdinis fortitvdo
+      1027 : est totivs fortitvdinis fortitvdo fortis qvia vincet omnem rem svbtilem omnemqve solidam
+  et_dropped words 156 spans 12246 counts {257: 4, 514: 1, 771: 2, 1027: 2} sum≡0 40 | within-sentence spans 1081 {257: 2, 514: 0, 771: 0, 1027: 1}
+      257 : omnes res natae fuerunt ab
+      257 : est pater omnis telesmi
+      257 : omnis telesmi totius
+      257 : mundus creatus est hinc
+      514 : omnem rem subtilem omnemque solidam penetrabit sic
+      771 : sicut quod est inferius ad perpetranda miracula rei unius sicut omnes res
+      771 : omnem rem subtilem omnemque solidam penetrabit sic mundus creatus est hinc
+      1027 : meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione pater eius est sol mater eius luna
+      1027 : pater eius est sol mater eius luna portavit illud ventus in ventre suo nutrix eius terra
+
+(d)
+  {'a': 'EHYEH', 'sa': 51, 'ca': 51, 'a_inK': False, 'a_tablet': 51, 'b': 'EHEIEH', 'sb': 40, 'cb': 40, 'b_inK': False, 'b_tablet': None, 'differ': True}
+  {'a': 'IUNONI', 'sa': 82, 'ca': 82, 'a_inK': False, 'a_tablet': None, 'b': 'JUNONI', 'sb': 83, 'cb': 83, 'b_inK': False, 'b_tablet': None, 'differ': True}
+  {'a': 'CAELUM', 'sa': 55, 'ca': 55, 'a_inK': False, 'a_tablet': None, 'b': 'COELUM', 'sb': 69, 'cb': 69, 'b_inK': False, 'b_tablet': 69, 'differ': True}
+  {'a': 'ALCHYMIA', 'sa': 72, 'ca': 72, 'a_inK': True, 'a_tablet': 72, 'b': 'ALCHIMIA', 'sb': 56, 'cb': 56, 'b_inK': False, 'b_tablet': None, 'differ': True}
+  {'a': 'PYRAMIDUM', 'sa': 120, 'ca': 120, 'a_inK': True, 'a_tablet': 120, 'b': 'PIRAMIDUM', 'sb': 104, 'cb': 104, 'b_inK': False, 'b_tablet': None, 'differ': True}
+  {'a': 'HENRIC', 'sa': 57, 'ca': 57, 'a_inK': False, 'a_tablet': None, 'b': 'HENRICUS', 'sb': 97, 'cb': 97, 'b_inK': False, 'b_tablet': None, 'differ': True}
+  {'a': 'KHUNRATH', 'sa': 101, 'ca': 101, 'a_inK': False, 'a_tablet': 101, 'b': 'KUNRATH', 'sb': 93, 'cb': 93, 'b_inK': False, 'b_tablet': None, 'differ': True}
+  {'w': 'IVNONI', 's': 83, 'c': 83, 'inK': False, 'tablet': None}
+  {'w': 'CAELVM', 's': 56, 'c': 56, 'inK': False, 'tablet': None}
+  {'w': 'COELVM', 's': 70, 'c': 70, 'inK': False, 'tablet': None}
+  {'w': 'PYRAMIDVM', 's': 121, 'c': 121, 'inK': False, 'tablet': None}
+  {'w': 'PIRAMIDVM', 's': 105, 'c': 105, 'inK': False, 'tablet': None}
+  {'w': 'HENRICVS', 's': 98, 'c': 98, 'inK': False, 'tablet': None}
+  {'w': 'KHVNRATH', 's': 102, 'c': 102, 'inK': False, 'tablet': None}
+  {'w': 'KVNRATH', 's': 94, 'c': 94, 'inK': False, 'tablet': None}
+  {'w': 'HENRIC KHUNRATH', 's': 158, 'c': 158, 'inK': False, 'tablet': 158}
+  {'w': 'HENRICUS KHUNRATH', 's': 198, 'c': 198, 'inK': False, 'tablet': None}
+  {'w': 'HENRICVS KHVNRATH', 's': 200, 'c': 200, 'inK': False, 'tablet': None}

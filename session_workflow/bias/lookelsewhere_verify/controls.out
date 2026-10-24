@@ -1,0 +1,155 @@
+{
+ "seed": 20260919,
+ "rng": "numpy.random.default_rng (PCG64)",
+ "a_b_randomK": {
+  "K33": {
+   "observed_mean": 1.457,
+   "observed_one": 0.6992,
+   "randK_mean_mean": 1.412,
+   "randK_mean_sd": 0.024,
+   "randK_one_mean": 0.7777,
+   "randK_one_sd": 0.0203,
+   "randK_one_p5_p95": [
+    0.7422,
+    0.7773,
+    0.8125
+   ],
+   "frac_randK_one_ge_obs": 1.0,
+   "frac_randK_mean_ge_obs": 0.0226
+  },
+  "K12": {
+   "observed_mean": 0.5586,
+   "observed_one": 0.3828,
+   "randK_mean_mean": 0.5153,
+   "randK_mean_sd": 0.0132,
+   "randK_one_mean": 0.4099,
+   "randK_one_sd": 0.0166,
+   "randK_one_p5_p95": [
+    0.3828,
+    0.4102,
+    0.4375
+   ],
+   "frac_randK_one_ge_obs": 0.9578,
+   "frac_randK_mean_ge_obs": 0.0001
+  }
+ },
+ "K33_closure": {
+  "neg_in_K": 17,
+  "inv_in_K": 18,
+  "residues_nonzero": 27,
+  "random_33set_expected_residues": "16 of 32 nonzero on average"
+ },
+ "c_randomK": {
+  "K33": {
+   "observed": 0.4855,
+   "randK_mean": 0.5614,
+   "randK_sd": 0.0084,
+   "randK_p5_p50_p95": [
+    0.5467,
+    0.562,
+    0.5746
+   ],
+   "frac_randK_ge_obs": 1.0
+  },
+  "K12": {
+   "observed": 0.2404,
+   "randK_mean": 0.2498,
+   "randK_sd": 0.0045,
+   "randK_p5_p50_p95": [
+    0.2405,
+    0.2522,
+    0.254
+   ],
+   "frac_randK_ge_obs": 0.9625
+  }
+ },
+ "c_randomK_note": "seed 20260920 (SEED+1), 2000 random K sets each",
+ "d_random_strings": {
+  "seed": 20260921,
+  "reps": 1000,
+  "K33_mean": 0.7483,
+  "K33_sd": 0.0118,
+  "K33_p5_p95": [
+   0.7281,
+   0.7679
+  ],
+  "K33_frac_ge_0_7591": 0.18,
+  "K12_mean": 0.4243,
+  "K12_sd": 0.0136,
+  "K12_p5_p95": [
+   0.4014,
+   0.4459
+  ],
+  "K12_frac_ge_0_4332": 0.283
+ },
+ "e_i_shuffle": {
+  "seed": 20260922,
+  "reps": 2000,
+  "control_mean_at_targets": {
+   "0": 16.84,
+   "1": 16.89,
+   "23": 25.28,
+   "44": 34.39,
+   "46": 30.81,
+   "62": 36.87,
+   "72": 28.89,
+   "73": 31.09,
+   "86": 25.07,
+   "92": 23.14,
+   "120": 18.49,
+   "136": 18.03,
+   "137": 18.11,
+   "256": 16.82
+  },
+  "control_sd_at_targets": {
+   "0": 4.01,
+   "1": 4.14,
+   "23": 5.03,
+   "44": 5.77,
+   "46": 5.45,
+   "62": 5.91,
+   "72": 5.22,
+   "73": 5.51,
+   "86": 5.06,
+   "92": 4.71,
+   "120": 4.38,
+   "136": 4.21,
+   "137": 4.34,
+   "256": 4.12
+  },
+  "z_vs_shuffle": {
+   "0": 0.04,
+   "1": -1.66,
+   "23": -1.65,
+   "44": -2.15,
+   "46": -0.88,
+   "62": -0.15,
+   "72": 0.79,
+   "73": -0.02,
+   "86": 1.77,
+   "92": 2.09,
+   "120": 0.57,
+   "136": -0.72,
+   "137": 0.43,
+   "256": 0.04
+  },
+  "targets_outside_1p8_vs_shuffle": 2,
+  "all_cells_outside_1p8_vs_shuffle": 37,
+  "control_mean_range": [
+   16.56,
+   42.81
+  ],
+  "control_mean_cells_60_100": 28.23,
+  "shuffle_cells_outside_poisson_band_mean": 53.79,
+  "shuffle_targets_outside_poisson_band_mean": 4.499,
+  "shuffle_P_targets_outside_ge6": 0.23
+ },
+ "e_i_note_lambda": {
+  "lines_5351_over_257": 20.821,
+  "lines_needed_for_25": 6425
+ },
+ "e_iii_pairs": {
+  "per_sentence": 0.00307,
+  "P_ge1_15_sentences": 0.0451
+ }
+}

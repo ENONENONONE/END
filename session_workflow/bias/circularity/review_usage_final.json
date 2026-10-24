@@ -1,0 +1,2061 @@
+{
+ "per_word": {
+  "I AM": {
+   "cells": [
+    1,
+    23
+   ],
+   "added_in": "pre-aim->pre-rotate",
+   "sentences_mentioning": 25,
+   "label_sentences": 12,
+   "label_op_sentences": 12,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 11,
+   "label_sentences_at_1": 12,
+   "label_sentences_at_23": 0
+  },
+  "EDGE": {
+   "cells": [
+    21
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "AIM": {
+   "cells": [
+    23
+   ],
+   "added_in": "pre-existing (in pre-terminus)",
+   "sentences_mentioning": 32,
+   "label_sentences": 4,
+   "label_op_sentences": 4,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 2,
+   "property_sentences": 2,
+   "own_sentences": 10,
+   "other_sentences": 17
+  },
+  "MAIA": {
+   "cells": [
+    24
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 1
+  },
+  "ERDE": {
+   "cells": [
+    32
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "AMEN": {
+   "cells": [
+    33
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "OBEN": {
+   "cells": [
+    36
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "ECHIS": {
+   "cells": [
+    44
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 0
+  },
+  "ABOVE": {
+   "cells": [
+    45
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "MOND": {
+   "cells": [
+    46
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "SOL": {
+   "cells": [
+    46
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 5,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 2
+  },
+  "WHO": {
+   "cells": [
+    46
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 4,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 1
+  },
+  "LUNA": {
+   "cells": [
+    48
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 1
+  },
+  "SAIS": {
+   "cells": [
+    48
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "THAT": {
+   "cells": [
+    49
+   ],
+   "added_in": "pre-aim->pre-rotate",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "ASHER": {
+   "cells": [
+    51
+   ],
+   "added_in": "pre-aim->pre-rotate",
+   "sentences_mentioning": 11,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 1,
+   "own_sentences": 5,
+   "other_sentences": 5
+  },
+  "EHYEH": {
+   "cells": [
+    51
+   ],
+   "added_in": "pre-aim->pre-rotate",
+   "sentences_mentioning": 9,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 4,
+   "other_sentences": 5
+  },
+  "FLOOD": {
+   "cells": [
+    52
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "ATLAS": {
+   "cells": [
+    53
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 1
+  },
+  "SABBATH": {
+   "cells": [
+    53
+   ],
+   "added_in": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 1
+  },
+  "SUM": {
+   "cells": [
+    53
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 2
+  },
+  "DELUGE": {
+   "cells": [
+    54
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "MAMARI": {
+   "cells": [
+    55
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 0
+  },
+  "SCRIBE": {
+   "cells": [
+    56
+   ],
+   "added_in": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 5,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 2
+  },
+  "TERM": {
+   "cells": [
+    56
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "BELOW": {
+   "cells": [
+    57
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "FEWER": {
+   "cells": [
+    57
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "MATER": {
+   "cells": [
+    57
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "IGNIS": {
+   "cells": [
+    58
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "ZRN": {
+   "cells": [
+    58
+   ],
+   "added_in": "pre-aim->pre-rotate",
+   "sentences_mentioning": 16,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 4,
+   "own_sentences": 5,
+   "other_sentences": 8
+  },
+  "HIMMEL": {
+   "cells": [
+    60
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "JUNO": {
+   "cells": [
+    60
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "PATER": {
+   "cells": [
+    60
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "BECOMES": {
+   "cells": [
+    62
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "BORDER": {
+   "cells": [
+    62
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "LIMIT": {
+   "cells": [
+    63
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "TOTH": {
+   "cells": [
+    63
+   ],
+   "added_in": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 15,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 1,
+   "own_sentences": 7,
+   "other_sentences": 7
+  },
+  "VATER": {
+   "cells": [
+    66
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "SONNE": {
+   "cells": [
+    67
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "HERMES": {
+   "cells": [
+    68
+   ],
+   "added_in": "pre-existing (in pre-terminus)",
+   "sentences_mentioning": 5,
+   "label_sentences": 2,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 2
+  },
+  "COELUM": {
+   "cells": [
+    69
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "MAGNESIA": {
+   "cells": [
+    69
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 1
+  },
+  "RONGO": {
+   "cells": [
+    69
+   ],
+   "added_in": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 2
+  },
+  "WHO AM I": {
+   "cells": [
+    69
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 4,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 1
+  },
+  "VIPER": {
+   "cells": [
+    70
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "WINDT": {
+   "cells": [
+    70
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "PLEIADES": {
+   "cells": [
+    71
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 1
+  },
+  "TARGET": {
+   "cells": [
+    71
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 7,
+   "label_sentences": 2,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 2,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 4,
+   "other_sentences": 1
+  },
+  "THOTH": {
+   "cells": [
+    71
+   ],
+   "added_in": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 11,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 7,
+   "other_sentences": 5
+  },
+  "ALCHYMIA": {
+   "cells": [
+    72
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "EGYPT": {
+   "cells": [
+    73
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "TURN": {
+   "cells": [
+    73
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "VULCAN": {
+   "cells": [
+    73
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "UNTEN": {
+   "cells": [
+    74
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "ASCENDIT": {
+   "cells": [
+    75
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "SOLON": {
+   "cells": [
+    75
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "START": {
+   "cells": [
+    78
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 14,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 11
+  },
+  "CRITIAS": {
+   "cells": [
+    79
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "ROTATE": {
+   "cells": [
+    79
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "ATLANTIC": {
+   "cells": [
+    80
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "EGO SUM": {
+   "cells": [
+    80
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 1
+  },
+  "PIMANDER": {
+   "cells": [
+    80
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 4,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 2
+  },
+  "RAPA NUI": {
+   "cells": [
+    80
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 4,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 1
+  },
+  "STERCKE": {
+   "cells": [
+    81
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "DESCENDIT": {
+   "cells": [
+    83
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 1
+  },
+  "TELESMI": {
+   "cells": [
+    83
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 5,
+   "label_sentences": 2,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 1
+  },
+  "PYRAMID": {
+   "cells": [
+    86
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 1
+  },
+  "PHAETHON": {
+   "cells": [
+    87
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "TIMAEUS": {
+   "cells": [
+    88
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 1
+  },
+  "SO BELOW": {
+   "cells": [
+    91
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "MUNDUS": {
+   "cells": [
+    92
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "TERMINAL": {
+   "cells": [
+    92
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "PYROS": {
+   "cells": [
+    93
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 1
+  },
+  "I AM THAT I AM": {
+   "cells": [
+    95
+   ],
+   "added_in": "pre-aim->pre-rotate",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "NEPTUNE": {
+   "cells": [
+    95
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "ATLANTIS": {
+   "cells": [
+    96
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 7,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 5,
+   "other_sentences": 2
+  },
+  "MUTTER": {
+   "cells": [
+    97
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "SERPENT": {
+   "cells": [
+    97
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "WEISHEIT": {
+   "cells": [
+    98
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "BOUNDARY": {
+   "cells": [
+    100
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 2,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "HALF TURN": {
+   "cells": [
+    100
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "INFERIUS": {
+   "cells": [
+    101
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 8,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 4
+  },
+  "KHUNRATH": {
+   "cells": [
+    101
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 1
+  },
+  "PYRAMIS": {
+   "cells": [
+    101
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "VENTUS": {
+   "cells": [
+    101
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 4,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 2
+  },
+  "TERMINALIA": {
+   "cells": [
+    102
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "HORIZON": {
+   "cells": [
+    105
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "NUTRIX": {
+   "cells": [
+    106
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "SATURDAY": {
+   "cells": [
+    109
+   ],
+   "added_in": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 2
+  },
+  "ROTATION": {
+   "cells": [
+    112
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 4,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "POIMANDRES": {
+   "cells": [
+    114
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 2
+  },
+  "THRICE GREAT": {
+   "cells": [
+    114
+   ],
+   "added_in": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 1
+  },
+  "TERMINUS": {
+   "cells": [
+    119
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "PYRAMIDUM": {
+   "cells": [
+    120
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 6,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 4,
+   "other_sentences": 1
+  },
+  "PYRANTIS": {
+   "cells": [
+    122
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 8,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 2,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 4
+  },
+  "MERCURIUS": {
+   "cells": [
+    127
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "FORTITUDO": {
+   "cells": [
+    128
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 1
+  },
+  "SUPERIUS": {
+   "cells": [
+    128
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 7,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 4
+  },
+  "TETRAHEDRON": {
+   "cells": [
+    128
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 1
+  },
+  "CONFLAGRATION": {
+   "cells": [
+    135
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 2,
+   "label_op_sentences": 2,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "RONGORONGO": {
+   "cells": [
+    138
+   ],
+   "added_in": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 5,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 3
+  },
+  "TRES PARTES": {
+   "cells": [
+    141
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "HUMIDUM RADICALE": {
+   "cells": [
+    142
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "TABULA SMARAGDINA": {
+   "cells": [
+    144
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 4,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 1
+  },
+  "ARUKU KURENGA": {
+   "cells": [
+    149
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 1
+  },
+  "RERUM NATURA": {
+   "cells": [
+    150
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "EHYEH ASHER EHYEH": {
+   "cells": [
+    153
+   ],
+   "added_in": "pre-aim->pre-rotate",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "HENRIC KHUNRATH": {
+   "cells": [
+    158
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "COMPLETUM EST": {
+   "cells": [
+    162
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "ECHIS PYRAMIDUM": {
+   "cells": [
+    164
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 1
+  },
+  "BOUNDARY MARKER": {
+   "cells": [
+    166
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "BOUSTROPHEDON": {
+   "cells": [
+    172
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 1
+  },
+  "EINES EINIGEN DINGES": {
+   "cells": [
+    173
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 1
+  },
+  "OPERATIO SOLIS": {
+   "cells": [
+    173
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 1
+  },
+  "QUARTER TURN": {
+   "cells": [
+    173
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 5,
+   "label_sentences": 2,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 2,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "WERCKE DER SONNEN": {
+   "cells": [
+    173
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 1
+  },
+  "TRISMEGISTUS": {
+   "cells": [
+    179
+   ],
+   "added_in": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 8,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 2,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 3
+  },
+  "SUBTILE A SPISSO": {
+   "cells": [
+    186
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "VERUM SINE MENDACIO": {
+   "cells": [
+    190
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 0
+  },
+  "KOHAU RONGORONGO": {
+   "cells": [
+    194
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "PILLARS OF HERCULES": {
+   "cells": [
+    199
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "SEPARABIS TERRAM AB IGNE": {
+   "cells": [
+    203
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "FORTITUDO FORTIS": {
+   "cells": [
+    215
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "JUPITER TERMINUS": {
+   "cells": [
+    218
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "MENS DIVINAE POTENTIAE": {
+   "cells": [
+    220
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "DESIGNATIO PYRAMIDUM": {
+   "cells": [
+    223
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 0
+  },
+  "LAPIS PHILOSOPHORUM": {
+   "cells": [
+    242
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 1
+  },
+  "ALSO IST DIE WELT GESCHAFFEN": {
+   "cells": [
+    247
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "HERMES TRISMEGISTUS": {
+   "cells": [
+    247
+   ],
+   "added_in": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 3,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 3
+  },
+  "CERTUM ET VERISSIMUM": {
+   "cells": [
+    253
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 0
+  },
+  "SIC MUNDUS CREATUS EST": {
+   "cells": [
+    254
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 1
+  }
+ },
+ "totals": {
+  "sentences_total": 2403,
+  "added_words_total": 129,
+  "added_words_mentioned_uppercase": 90,
+  "added_words_with_label_use_window": 21,
+  "label_word_sentence_pairs_window": 25,
+  "distinct_sentences_with_label_use_window": 17,
+  "distinct_sentences_mentioning_any_added": 117,
+  "occurrence_classes_added_words": {
+   "OTHER": 128,
+   "LABEL_OP": 23,
+   "OWN": 156,
+   "PROPERTY": 6,
+   "LABEL_COLOC": 14,
+   "OPERAND": 17
+  },
+  "unresolved_rule_flags": 0
+ },
+ "listed": {
+  "PYRAMIDUM": {
+   "cells": [
+    120
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 6,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 4,
+   "other_sentences": 1
+  },
+  "ATLANTIS": {
+   "cells": [
+    96
+   ],
+   "added_in": "pre-plate->current",
+   "sentences_mentioning": 7,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 5,
+   "other_sentences": 2
+  },
+  "TOTH": {
+   "cells": [
+    63
+   ],
+   "added_in": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 15,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 1,
+   "own_sentences": 7,
+   "other_sentences": 7
+  },
+  "THOTH": {
+   "cells": [
+    71
+   ],
+   "added_in": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 11,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 7,
+   "other_sentences": 5
+  },
+  "SCRIBE": {
+   "cells": [
+    56
+   ],
+   "added_in": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 5,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 2,
+   "other_sentences": 2
+  },
+  "TRISMEGISTUS": {
+   "cells": [
+    179
+   ],
+   "added_in": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 8,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 2,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 3
+  },
+  "AIM": {
+   "cells": [
+    23
+   ],
+   "added_in": "pre-existing (in pre-terminus)",
+   "sentences_mentioning": 32,
+   "label_sentences": 4,
+   "label_op_sentences": 4,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 2,
+   "property_sentences": 2,
+   "own_sentences": 10,
+   "other_sentences": 17
+  },
+  "I AM": {
+   "cells": [
+    1,
+    23
+   ],
+   "added_in": "pre-aim->pre-rotate",
+   "sentences_mentioning": 25,
+   "label_sentences": 12,
+   "label_op_sentences": 12,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 11,
+   "label_sentences_at_1": 12,
+   "label_sentences_at_23": 0
+  },
+  "ROTATION": {
+   "cells": [
+    112
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 4,
+   "label_sentences": 1,
+   "label_op_sentences": 1,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "QUARTER TURN": {
+   "cells": [
+    173
+   ],
+   "added_in": "pre-rotate->pre-toth",
+   "sentences_mentioning": 5,
+   "label_sentences": 2,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 2,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 3,
+   "other_sentences": 0
+  },
+  "BOUNDARY": {
+   "cells": [
+    100
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 2,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "TERMINUS": {
+   "cells": [
+    119
+   ],
+   "added_in": "pre-terminus->pre-aim",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 0
+  },
+  "HERMES TRISMEGISTUS": {
+   "cells": [
+    247
+   ],
+   "added_in": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 3,
+   "label_sentences": 1,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 1,
+   "operand_sentences": 0,
+   "property_sentences": 0,
+   "own_sentences": 0,
+   "other_sentences": 3
+  },
+  "RONGORONGO": {
+   "cells": [
+    138
+   ],
+   "added_in": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 5,
+   "label_sentences": 0,
+   "label_op_sentences": 0,
+   "label_coloc_sentences": 0,
+   "operand_sentences": 1,
+   "property_sentences": 0,
+   "own_sentences": 1,
+   "other_sentences": 3
+  }
+ },
+ "unresolved": []
+}

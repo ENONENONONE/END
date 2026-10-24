@@ -1,0 +1,2051 @@
+{
+ "n_tokens": 35972,
+ "n_types": 9124,
+ "n_latin_forms": 373,
+ "n_half1": 111,
+ "n_half2": 277,
+ "n_half_overlap": 15,
+ "b": {
+  "n": 90,
+  "n_exact": 5,
+  "n_len_le2": 4,
+  "n_exact_or_le2": 5,
+  "n_exact_and_le2": 4,
+  "rows": [
+   {
+    "type": "otaiin",
+    "tokens": 151,
+    "len": 6,
+    "key": [
+     6,
+     68,
+     223
+    ],
+    "latin": [
+     "rimari"
+    ],
+    "exact": false
+   },
+   {
+    "type": "o",
+    "tokens": 78,
+    "len": 1,
+    "key": [
+     1,
+     15,
+     15
+    ],
+    "latin": [
+     "o"
+    ],
+    "exact": true
+   },
+   {
+    "type": "sol",
+    "tokens": 50,
+    "len": 3,
+    "key": [
+     3,
+     46,
+     85
+    ],
+    "latin": [
+     "sol"
+    ],
+    "exact": true
+   },
+   {
+    "type": "lshedy",
+    "tokens": 38,
+    "len": 6,
+    "key": [
+     6,
+     73,
+     7
+    ],
+    "latin": [
+     "lubens"
+    ],
+    "exact": false
+   },
+   {
+    "type": "tol",
+    "tokens": 31,
+    "len": 3,
+    "key": [
+     3,
+     47,
+     86
+    ],
+    "latin": [
+     "qui"
+    ],
+    "exact": false
+   },
+   {
+    "type": "oaiin",
+    "tokens": 27,
+    "len": 5,
+    "key": [
+     5,
+     48,
+     150
+    ],
+    "latin": [
+     "ignem"
+    ],
+    "exact": false
+   },
+   {
+    "type": "olkeeey",
+    "tokens": 11,
+    "len": 7,
+    "key": [
+     7,
+     78,
+     65
+    ],
+    "latin": [
+     "gravati"
+    ],
+    "exact": false
+   },
+   {
+    "type": "qoteol",
+    "tokens": 11,
+    "len": 6,
+    "key": [
+     6,
+     84,
+     17
+    ],
+    "latin": [
+     "ventre"
+    ],
+    "exact": false
+   },
+   {
+    "type": "arol",
+    "tokens": 9,
+    "len": 4,
+    "key": [
+     4,
+     46,
+     130
+    ],
+    "latin": [
+     "dixi"
+    ],
+    "exact": false
+   },
+   {
+    "type": "aram",
+    "tokens": 8,
+    "len": 4,
+    "key": [
+     4,
+     33,
+     92
+    ],
+    "latin": [
+     "ideo"
+    ],
+    "exact": false
+   },
+   {
+    "type": "oloiin",
+    "tokens": 5,
+    "len": 6,
+    "key": [
+     6,
+     74,
+     249
+    ],
+    "latin": [
+     "vocans"
+    ],
+    "exact": false
+   },
+   {
+    "type": "cphar",
+    "tokens": 4,
+    "len": 5,
+    "key": [
+     5,
+     46,
+     153
+    ],
+    "latin": [
+     "animi"
+    ],
+    "exact": false
+   },
+   {
+    "type": "qoiiin",
+    "tokens": 4,
+    "len": 6,
+    "key": [
+     6,
+     73,
+     239
+    ],
+    "latin": [
+     "vincet"
+    ],
+    "exact": false
+   },
+   {
+    "type": "sheet",
+    "tokens": 4,
+    "len": 5,
+    "key": [
+     5,
+     57,
+     170
+    ],
+    "latin": [
+     "mente"
+    ],
+    "exact": false
+   },
+   {
+    "type": "a",
+    "tokens": 3,
+    "len": 1,
+    "key": [
+     1,
+     1,
+     1
+    ],
+    "latin": [
+     "a"
+    ],
+    "exact": true
+   },
+   {
+    "type": "sodaiin",
+    "tokens": 3,
+    "len": 7,
+    "key": [
+     7,
+     71,
+     5
+    ],
+    "latin": [
+     "erudiam"
+    ],
+    "exact": false
+   },
+   {
+    "type": "soral",
+    "tokens": 3,
+    "len": 5,
+    "key": [
+     5,
+     65,
+     167
+    ],
+    "latin": [
+     "versa"
+    ],
+    "exact": false
+   },
+   {
+    "type": "ykhey",
+    "tokens": 3,
+    "len": 5,
+    "key": [
+     5,
+     74,
+     216
+    ],
+    "latin": [
+     "solis"
+    ],
+    "exact": false
+   },
+   {
+    "type": "cheolkedy",
+    "tokens": 2,
+    "len": 9,
+    "key": [
+     9,
+     88,
+     255
+    ],
+    "latin": [
+     "fideliter"
+    ],
+    "exact": false
+   },
+   {
+    "type": "oldor",
+    "tokens": 2,
+    "len": 5,
+    "key": [
+     5,
+     64,
+     201
+    ],
+    "latin": [
+     "atque"
+    ],
+    "exact": false
+   },
+   {
+    "type": "oykeey",
+    "tokens": 2,
+    "len": 6,
+    "key": [
+     6,
+     86,
+     36
+    ],
+    "latin": [
+     "subito"
+    ],
+    "exact": false
+   },
+   {
+    "type": "pair",
+    "tokens": 2,
+    "len": 4,
+    "key": [
+     4,
+     44,
+     117
+    ],
+    "latin": [
+     "arte"
+    ],
+    "exact": false
+   },
+   {
+    "type": "qokcheo",
+    "tokens": 2,
+    "len": 7,
+    "key": [
+     7,
+     74,
+     10
+    ],
+    "latin": [
+     "integra"
+    ],
+    "exact": false
+   },
+   {
+    "type": "qokom",
+    "tokens": 2,
+    "len": 5,
+    "key": [
+     5,
+     71,
+     205
+    ],
+    "latin": [
+     "solet"
+    ],
+    "exact": false
+   },
+   {
+    "type": "qotydy",
+    "tokens": 2,
+    "len": 6,
+    "key": [
+     6,
+     106,
+     120
+    ],
+    "latin": [
+     "nutrix"
+    ],
+    "exact": false
+   },
+   {
+    "type": "shkair",
+    "tokens": 2,
+    "len": 6,
+    "key": [
+     6,
+     66,
+     225
+    ],
+    "latin": [
+     "formam"
+    ],
+    "exact": false
+   },
+   {
+    "type": "torchy",
+    "tokens": 2,
+    "len": 6,
+    "key": [
+     6,
+     89,
+     49
+    ],
+    "latin": [
+     "veluti"
+    ],
+    "exact": false
+   },
+   {
+    "type": "ykaiir",
+    "tokens": 2,
+    "len": 6,
+    "key": [
+     6,
+     73,
+     239
+    ],
+    "latin": [
+     "vincet"
+    ],
+    "exact": false
+   },
+   {
+    "type": "alaldy",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     55,
+     246
+    ],
+    "latin": [
+     "debito"
+    ],
+    "exact": false
+   },
+   {
+    "type": "arodam",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     52,
+     181
+    ],
+    "latin": [
+     "reddat"
+    ],
+    "exact": false
+   },
+   {
+    "type": "aroiiin",
+    "tokens": 1,
+    "len": 7,
+    "key": [
+     7,
+     75,
+     58
+    ],
+    "latin": [
+     "indeque"
+    ],
+    "exact": false
+   },
+   {
+    "type": "cheykeedy",
+    "tokens": 1,
+    "len": 9,
+    "key": [
+     9,
+     91,
+     254
+    ],
+    "latin": [
+     "admonente"
+    ],
+    "exact": false
+   },
+   {
+    "type": "chog",
+    "tokens": 1,
+    "len": 4,
+    "key": [
+     4,
+     33,
+     92
+    ],
+    "latin": [
+     "ideo"
+    ],
+    "exact": false
+   },
+   {
+    "type": "choltaiin",
+    "tokens": 1,
+    "len": 9,
+    "key": [
+     9,
+     91,
+     222
+    ],
+    "latin": [
+     "cogitarem"
+    ],
+    "exact": false
+   },
+   {
+    "type": "chotshe",
+    "tokens": 1,
+    "len": 7,
+    "key": [
+     7,
+     78,
+     65
+    ],
+    "latin": [
+     "gravati"
+    ],
+    "exact": false
+   },
+   {
+    "type": "dalals",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     49,
+     220
+    ],
+    "latin": [
+     "habens"
+    ],
+    "exact": false
+   },
+   {
+    "type": "dokan",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     45,
+     141
+    ],
+    "latin": [
+     "filii"
+    ],
+    "exact": false
+   },
+   {
+    "type": "dolo",
+    "tokens": 1,
+    "len": 4,
+    "key": [
+     4,
+     46,
+     130
+    ],
+    "latin": [
+     "dixi"
+    ],
+    "exact": false
+   },
+   {
+    "type": "dolsheol",
+    "tokens": 1,
+    "len": 8,
+    "key": [
+     8,
+     90,
+     160
+    ],
+    "latin": [
+     "pimandro"
+    ],
+    "exact": false
+   },
+   {
+    "type": "dosar",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     57,
+     185
+    ],
+    "latin": [
+     "mater"
+    ],
+    "exact": false
+   },
+   {
+    "type": "dykaran",
+    "tokens": 1,
+    "len": 7,
+    "key": [
+     7,
+     74,
+     28
+    ],
+    "latin": [
+     "immensa"
+    ],
+    "exact": false
+   },
+   {
+    "type": "ekedy",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     50,
+     183
+    ],
+    "latin": [
+     "aliis"
+    ],
+    "exact": false
+   },
+   {
+    "type": "es",
+    "tokens": 1,
+    "len": 2,
+    "key": [
+     2,
+     24,
+     43
+    ],
+    "latin": [
+     "es"
+    ],
+    "exact": true
+   },
+   {
+    "type": "faiir",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     43,
+     161
+    ],
+    "latin": [
+     "fecit"
+    ],
+    "exact": false
+   },
+   {
+    "type": "kchdar",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     45,
+     170
+    ],
+    "latin": [
+     "fideli"
+    ],
+    "exact": false
+   },
+   {
+    "type": "koeam",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     45,
+     125
+    ],
+    "latin": [
+     "fixae"
+    ],
+    "exact": false
+   },
+   {
+    "type": "koees",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     55,
+     171
+    ],
+    "latin": [
+     "grati"
+    ],
+    "exact": false
+   },
+   {
+    "type": "kom",
+    "tokens": 1,
+    "len": 3,
+    "key": [
+     3,
+     39,
+     80
+    ],
+    "latin": [
+     "per"
+    ],
+    "exact": false
+   },
+   {
+    "type": "lag",
+    "tokens": 1,
+    "len": 3,
+    "key": [
+     3,
+     20,
+     35
+    ],
+    "latin": [
+     "hic"
+    ],
+    "exact": false
+   },
+   {
+    "type": "larorol",
+    "tokens": 1,
+    "len": 7,
+    "key": [
+     7,
+     91,
+     135
+    ],
+    "latin": [
+     "sanctum"
+    ],
+    "exact": false
+   },
+   {
+    "type": "lkeain",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     52,
+     182
+    ],
+    "latin": [
+     "certae"
+    ],
+    "exact": false
+   },
+   {
+    "type": "llsan",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     58,
+     167
+    ],
+    "latin": [
+     "asyla"
+    ],
+    "exact": false
+   },
+   {
+    "type": "lsheok",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     70,
+     235
+    ],
+    "latin": [
+     "humido"
+    ],
+    "exact": false
+   },
+   {
+    "type": "ofchdamy",
+    "tokens": 1,
+    "len": 8,
+    "key": [
+     8,
+     75,
+     128
+    ],
+    "latin": [
+     "ascendit"
+    ],
+    "exact": false
+   },
+   {
+    "type": "okarody",
+    "tokens": 1,
+    "len": 7,
+    "key": [
+     7,
+     89,
+     129
+    ],
+    "latin": [
+     "cunctis"
+    ],
+    "exact": false
+   },
+   {
+    "type": "olkaiiin",
+    "tokens": 1,
+    "len": 8,
+    "key": [
+     8,
+     80,
+     93
+    ],
+    "latin": [
+     "pimander"
+    ],
+    "exact": false
+   },
+   {
+    "type": "olkeechdy",
+    "tokens": 1,
+    "len": 9,
+    "key": [
+     9,
+     88,
+     191
+    ],
+    "latin": [
+     "mirabiles"
+    ],
+    "exact": false
+   },
+   {
+    "type": "olohy",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     75,
+     241
+    ],
+    "latin": [
+     "horum"
+    ],
+    "exact": false
+   },
+   {
+    "type": "oloro",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     75,
+     231
+    ],
+    "latin": [
+     "rerum"
+    ],
+    "exact": false
+   },
+   {
+    "type": "opairorair",
+    "tokens": 1,
+    "len": 10,
+    "key": [
+     10,
+     120,
+     147
+    ],
+    "latin": [
+     "firmissime"
+    ],
+    "exact": false
+   },
+   {
+    "type": "opalkar",
+    "tokens": 1,
+    "len": 7,
+    "key": [
+     7,
+     74,
+     28
+    ],
+    "latin": [
+     "immensa"
+    ],
+    "exact": false
+   },
+   {
+    "type": "opoeey",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     81,
+     30
+    ],
+    "latin": [
+     "instar"
+    ],
+    "exact": false
+   },
+   {
+    "type": "otaras",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     74,
+     249
+    ],
+    "latin": [
+     "vocans"
+    ],
+    "exact": false
+   },
+   {
+    "type": "otches",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     70,
+     235
+    ],
+    "latin": [
+     "humido"
+    ],
+    "exact": false
+   },
+   {
+    "type": "otchom",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     74,
+     249
+    ],
+    "latin": [
+     "vocans"
+    ],
+    "exact": false
+   },
+   {
+    "type": "oteesody",
+    "tokens": 1,
+    "len": 8,
+    "key": [
+     8,
+     108,
+     246
+    ],
+    "latin": [
+     "sensibus"
+    ],
+    "exact": false
+   },
+   {
+    "type": "oteool",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     82,
+     20
+    ],
+    "latin": [
+     "iunoni"
+    ],
+    "exact": false
+   },
+   {
+    "type": "pchom",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     55,
+     171
+    ],
+    "latin": [
+     "grati"
+    ],
+    "exact": false
+   },
+   {
+    "type": "pokeey",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     77,
+     17
+    ],
+    "latin": [
+     "passim"
+    ],
+    "exact": false
+   },
+   {
+    "type": "qochol",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     70,
+     235
+    ],
+    "latin": [
+     "humido"
+    ],
+    "exact": false
+   },
+   {
+    "type": "qodary",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     80,
+     46
+    ],
+    "latin": [
+     "merito"
+    ],
+    "exact": false
+   },
+   {
+    "type": "qoetal",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     70,
+     219
+    ],
+    "latin": [
+     "nomine"
+    ],
+    "exact": false
+   },
+   {
+    "type": "qokeodsheey",
+    "tokens": 1,
+    "len": 11,
+    "key": [
+     11,
+     129,
+     252
+    ],
+    "latin": [
+     "imperatorie"
+    ],
+    "exact": false
+   },
+   {
+    "type": "qolkey",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     85,
+     45
+    ],
+    "latin": [
+     "omnium"
+    ],
+    "exact": false
+   },
+   {
+    "type": "sairor",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     80,
+     46
+    ],
+    "latin": [
+     "merito"
+    ],
+    "exact": false
+   },
+   {
+    "type": "salsain",
+    "tokens": 1,
+    "len": 7,
+    "key": [
+     7,
+     75,
+     33
+    ],
+    "latin": [
+     "gloriam"
+    ],
+    "exact": false
+   },
+   {
+    "type": "schos",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     64,
+     204
+    ],
+    "latin": [
+     "cupio"
+    ],
+    "exact": false
+   },
+   {
+    "type": "shddy",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     60,
+     188
+    ],
+    "latin": [
+     "pater"
+    ],
+    "exact": false
+   },
+   {
+    "type": "shdol",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     58,
+     167
+    ],
+    "latin": [
+     "asyla"
+    ],
+    "exact": false
+   },
+   {
+    "type": "shkeol",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     70,
+     235
+    ],
+    "latin": [
+     "humido"
+    ],
+    "exact": false
+   },
+   {
+    "type": "shokeedy",
+    "tokens": 1,
+    "len": 8,
+    "key": [
+     8,
+     92,
+     150
+    ],
+    "latin": [
+     "reperiat"
+    ],
+    "exact": false
+   },
+   {
+    "type": "sholos",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     88,
+     60
+    ],
+    "latin": [
+     "operum"
+    ],
+    "exact": false
+   },
+   {
+    "type": "solor",
+    "tokens": 1,
+    "len": 5,
+    "key": [
+     5,
+     79,
+     235
+    ],
+    "latin": [
+     "verum"
+    ],
+    "exact": false
+   },
+   {
+    "type": "tchodol",
+    "tokens": 1,
+    "len": 7,
+    "key": [
+     7,
+     77,
+     47
+    ],
+    "latin": [
+     "hominem"
+    ],
+    "exact": false
+   },
+   {
+    "type": "told",
+    "tokens": 1,
+    "len": 4,
+    "key": [
+     4,
+     51,
+     102
+    ],
+    "latin": [
+     "quid"
+    ],
+    "exact": false
+   },
+   {
+    "type": "tolpchy",
+    "tokens": 1,
+    "len": 7,
+    "key": [
+     7,
+     99,
+     131
+    ],
+    "latin": [
+     "numinis"
+    ],
+    "exact": false
+   },
+   {
+    "type": "tsheey",
+    "tokens": 1,
+    "len": 6,
+    "key": [
+     6,
+     82,
+     20
+    ],
+    "latin": [
+     "iunoni"
+    ],
+    "exact": false
+   },
+   {
+    "type": "tu",
+    "tokens": 1,
+    "len": 2,
+    "key": [
+     2,
+     41,
+     62
+    ],
+    "latin": [
+     "tu"
+    ],
+    "exact": true
+   },
+   {
+    "type": "vor",
+    "tokens": 1,
+    "len": 3,
+    "key": [
+     3,
+     55,
+     106
+    ],
+    "latin": [
+     "suo"
+    ],
+    "exact": false
+   },
+   {
+    "type": "yaly",
+    "tokens": 1,
+    "len": 4,
+    "key": [
+     4,
+     63,
+     163
+    ],
+    "latin": [
+     "sinu"
+    ],
+    "exact": false
+   }
+  ],
+  "tokens_in_matches": 525,
+  "tokens_exact": 133,
+  "len_hist": {
+   "1": 2,
+   "2": 2,
+   "3": 5,
+   "4": 7,
+   "5": 21,
+   "6": 30,
+   "7": 12,
+   "8": 5,
+   "9": 4,
+   "10": 1,
+   "11": 1
+  },
+  "voynich_types_that_are_latin_spellings": [
+   "a",
+   "es",
+   "o",
+   "sol",
+   "tu"
+  ],
+  "voynich_types_len_le2": 86
+ },
+ "subset_sizes": {
+  "all": 9124,
+  "no_exact": 9119,
+  "no_le2": 9038,
+  "no_exact_no_le2": 9037
+ },
+ "ctrl_all_all": {
+  "cell": {
+   "obs": 8587,
+   "mean": 8116.823,
+   "median": 8157.0,
+   "sd": 297.533,
+   "min": 6950,
+   "max": 8587,
+   "p95": 8497,
+   "n_ge_obs": 1,
+   "n": 300
+  },
+  "ks": {
+   "obs": 4528,
+   "mean": 3913.557,
+   "median": 4003.0,
+   "sd": 564.497,
+   "min": 2118,
+   "max": 5077,
+   "p95": 4630,
+   "n_ge_obs": 31,
+   "n": 300
+  },
+  "ksb": {
+   "obs": 90,
+   "mean": 60.767,
+   "median": 60.0,
+   "sd": 14.397,
+   "min": 27,
+   "max": 109,
+   "p95": 86,
+   "n_ge_obs": 11,
+   "n": 300
+  },
+  "rev": {
+   "obs": 77,
+   "mean": 61.403,
+   "median": 61.0,
+   "sd": 14.057,
+   "min": 21,
+   "max": 95,
+   "p95": 85,
+   "n_ge_obs": 36,
+   "n": 300
+  },
+  "atb": {
+   "obs": 56,
+   "mean": 59.92,
+   "median": 60.0,
+   "sd": 14.249,
+   "min": 22,
+   "max": 114,
+   "p95": 84,
+   "n_ge_obs": 178,
+   "n": 300
+  }
+ },
+ "ctrl_all_h1": {
+  "cell": {
+   "obs": 5391,
+   "mean": 4553.007,
+   "median": 4541.0,
+   "sd": 486.601,
+   "min": 3243,
+   "max": 5612,
+   "p95": 5358,
+   "n_ge_obs": 13,
+   "n": 300
+  },
+  "ks": {
+   "obs": 1689,
+   "mean": 1583.017,
+   "median": 1611.0,
+   "sd": 196.553,
+   "min": 934,
+   "max": 2037,
+   "p95": 1858,
+   "n_ge_obs": 91,
+   "n": 300
+  },
+  "ksb": {
+   "obs": 22,
+   "mean": 20.343,
+   "median": 20.0,
+   "sd": 5.504,
+   "min": 6,
+   "max": 39,
+   "p95": 29,
+   "n_ge_obs": 120,
+   "n": 300
+  },
+  "rev": {
+   "obs": 25,
+   "mean": 20.58,
+   "median": 20.0,
+   "sd": 5.52,
+   "min": 5,
+   "max": 36,
+   "p95": 30,
+   "n_ge_obs": 74,
+   "n": 300
+  },
+  "atb": {
+   "obs": 18,
+   "mean": 20.657,
+   "median": 20.0,
+   "sd": 5.687,
+   "min": 8,
+   "max": 42,
+   "p95": 30,
+   "n_ge_obs": 211,
+   "n": 300
+  }
+ },
+ "ctrl_all_h2": {
+  "cell": {
+   "obs": 8294,
+   "mean": 7870.393,
+   "median": 7921.0,
+   "sd": 268.382,
+   "min": 6720,
+   "max": 8326,
+   "p95": 8190,
+   "n_ge_obs": 1,
+   "n": 300
+  },
+  "ks": {
+   "obs": 3712,
+   "mean": 3068.91,
+   "median": 3156.0,
+   "sd": 529.109,
+   "min": 1456,
+   "max": 4106,
+   "p95": 3759,
+   "n_ge_obs": 21,
+   "n": 300
+  },
+  "ksb": {
+   "obs": 69,
+   "mean": 43.187,
+   "median": 43.0,
+   "sd": 11.102,
+   "min": 16,
+   "max": 77,
+   "p95": 63,
+   "n_ge_obs": 8,
+   "n": 300
+  },
+  "rev": {
+   "obs": 55,
+   "mean": 43.467,
+   "median": 44.0,
+   "sd": 10.918,
+   "min": 15,
+   "max": 72,
+   "p95": 62,
+   "n_ge_obs": 43,
+   "n": 300
+  },
+  "atb": {
+   "obs": 40,
+   "mean": 41.83,
+   "median": 42.0,
+   "sd": 11.006,
+   "min": 13,
+   "max": 89,
+   "p95": 60,
+   "n_ge_obs": 181,
+   "n": 300
+  }
+ },
+ "ctrl_no_exact_all": {
+  "cell": {
+   "obs": 8582,
+   "mean": 8113.19,
+   "median": 8153.0,
+   "sd": 297.599,
+   "min": 6945,
+   "max": 8583,
+   "p95": 8493,
+   "n_ge_obs": 1,
+   "n": 300
+  },
+  "ks": {
+   "obs": 4523,
+   "mean": 3912.417,
+   "median": 4000.5,
+   "sd": 564.447,
+   "min": 2118,
+   "max": 5075,
+   "p95": 4628,
+   "n_ge_obs": 31,
+   "n": 300
+  },
+  "ksb": {
+   "obs": 85,
+   "mean": 60.61,
+   "median": 59.0,
+   "sd": 14.385,
+   "min": 27,
+   "max": 109,
+   "p95": 86,
+   "n_ge_obs": 17,
+   "n": 300
+  },
+  "rev": {
+   "obs": 74,
+   "mean": 61.253,
+   "median": 61.0,
+   "sd": 14.061,
+   "min": 21,
+   "max": 95,
+   "p95": 85,
+   "n_ge_obs": 54,
+   "n": 300
+  },
+  "atb": {
+   "obs": 56,
+   "mean": 59.68,
+   "median": 59.5,
+   "sd": 14.257,
+   "min": 22,
+   "max": 113,
+   "p95": 84,
+   "n_ge_obs": 177,
+   "n": 300
+  }
+ },
+ "ctrl_no_le2_all": {
+  "cell": {
+   "obs": 8521,
+   "mean": 8052.35,
+   "median": 8092.0,
+   "sd": 299.792,
+   "min": 6877,
+   "max": 8522,
+   "p95": 8435,
+   "n_ge_obs": 1,
+   "n": 300
+  },
+  "ks": {
+   "obs": 4510,
+   "mean": 3893.747,
+   "median": 3985.0,
+   "sd": 563.36,
+   "min": 2102,
+   "max": 5058,
+   "p95": 4609,
+   "n_ge_obs": 31,
+   "n": 300
+  },
+  "ksb": {
+   "obs": 86,
+   "mean": 57.743,
+   "median": 57.0,
+   "sd": 14.346,
+   "min": 25,
+   "max": 108,
+   "p95": 82,
+   "n_ge_obs": 11,
+   "n": 300
+  },
+  "rev": {
+   "obs": 72,
+   "mean": 58.257,
+   "median": 59.0,
+   "sd": 13.977,
+   "min": 19,
+   "max": 95,
+   "p95": 82,
+   "n_ge_obs": 46,
+   "n": 300
+  },
+  "atb": {
+   "obs": 54,
+   "mean": 56.857,
+   "median": 56.5,
+   "sd": 14.139,
+   "min": 21,
+   "max": 107,
+   "p95": 80,
+   "n_ge_obs": 174,
+   "n": 300
+  }
+ },
+ "ctrl_no_exact_no_le2_all": {
+  "cell": {
+   "obs": 8520,
+   "mean": 8051.41,
+   "median": 8091.0,
+   "sd": 299.811,
+   "min": 6876,
+   "max": 8521,
+   "p95": 8435,
+   "n_ge_obs": 1,
+   "n": 300
+  },
+  "ks": {
+   "obs": 4509,
+   "mean": 3893.257,
+   "median": 3984.5,
+   "sd": 563.303,
+   "min": 2102,
+   "max": 5057,
+   "p95": 4608,
+   "n_ge_obs": 31,
+   "n": 300
+  },
+  "ksb": {
+   "obs": 85,
+   "mean": 57.713,
+   "median": 57.0,
+   "sd": 14.352,
+   "min": 25,
+   "max": 108,
+   "p95": 82,
+   "n_ge_obs": 12,
+   "n": 300
+  },
+  "rev": {
+   "obs": 72,
+   "mean": 58.243,
+   "median": 59.0,
+   "sd": 13.964,
+   "min": 19,
+   "max": 95,
+   "p95": 82,
+   "n_ge_obs": 46,
+   "n": 300
+  },
+  "atb": {
+   "obs": 54,
+   "mean": 56.84,
+   "median": 56.0,
+   "sd": 14.143,
+   "min": 21,
+   "max": 107,
+   "p95": 80,
+   "n_ge_obs": 174,
+   "n": 300
+  }
+ },
+ "len_breakdown": {
+  "1": {
+   "obs": 2,
+   "ctrl_mean": 1.483,
+   "ctrl_median": 2.0,
+   "n_types_len": 19,
+   "n_latin_len": 2
+  },
+  "2": {
+   "obs": 2,
+   "ctrl_mean": 1.54,
+   "ctrl_median": 1.0,
+   "n_types_len": 67,
+   "n_latin_len": 16
+  },
+  "3": {
+   "obs": 5,
+   "ctrl_mean": 3.587,
+   "ctrl_median": 3.0,
+   "n_types_len": 235,
+   "n_latin_len": 27
+  },
+  "4": {
+   "obs": 7,
+   "ctrl_mean": 6.78,
+   "ctrl_median": 7.0,
+   "n_types_len": 644,
+   "n_latin_len": 36
+  },
+  "5": {
+   "obs": 21,
+   "ctrl_mean": 14.95,
+   "ctrl_median": 14.5,
+   "n_types_len": 1305,
+   "n_latin_len": 50
+  },
+  "6": {
+   "obs": 30,
+   "ctrl_mean": 15.49,
+   "ctrl_median": 15.0,
+   "n_types_len": 1852,
+   "n_latin_len": 52
+  },
+  "7": {
+   "obs": 12,
+   "ctrl_mean": 11.217,
+   "ctrl_median": 11.0,
+   "n_types_len": 1988,
+   "n_latin_len": 50
+  },
+  "8": {
+   "obs": 5,
+   "ctrl_mean": 3.53,
+   "ctrl_median": 3.0,
+   "n_types_len": 1429,
+   "n_latin_len": 35
+  },
+  "9": {
+   "obs": 4,
+   "ctrl_mean": 1.38,
+   "ctrl_median": 1.0,
+   "n_types_len": 822,
+   "n_latin_len": 33
+  },
+  "10": {
+   "obs": 1,
+   "ctrl_mean": 0.593,
+   "ctrl_median": 0.0,
+   "n_types_len": 401,
+   "n_latin_len": 25
+  },
+  "11": {
+   "obs": 1,
+   "ctrl_mean": 0.177,
+   "ctrl_median": 0.0,
+   "n_types_len": 184,
+   "n_latin_len": 21
+  },
+  "12": {
+   "obs": 0,
+   "ctrl_mean": 0.033,
+   "ctrl_median": 0.0,
+   "n_types_len": 102,
+   "n_latin_len": 14
+  },
+  "13": {
+   "obs": 0,
+   "ctrl_mean": 0.007,
+   "ctrl_median": 0.0,
+   "n_types_len": 36,
+   "n_latin_len": 4
+  }
+ },
+ "d_rank": "oehyacdiklrstnqpmfgxbjvzuw",
+ "d_letter_counts": {
+  "o": 25473,
+  "e": 20310,
+  "h": 17872,
+  "y": 17822,
+  "a": 14703,
+  "c": 13255,
+  "d": 13134,
+  "i": 11883,
+  "k": 11047,
+  "l": 10604,
+  "r": 7544,
+  "s": 7311,
+  "t": 6961,
+  "n": 6152,
+  "q": 5416,
+  "p": 1664,
+  "m": 1064,
+  "f": 500,
+  "g": 150,
+  "x": 40,
+  "b": 15,
+  "j": 13,
+  "v": 11,
+  "z": 9,
+  "u": 8,
+  "w": 0
+ },
+ "d4": {
+  "bands": [
+   "oehy",
+   "acdi",
+   "klrs",
+   "tnqp",
+   "mfgx",
+   "bjvz",
+   "uw"
+  ],
+  "n_identity_draws": 0,
+  "cell": {
+   "obs": 8587,
+   "mean": 8461.737,
+   "median": 8464.0,
+   "sd": 65.03,
+   "min": 8303,
+   "max": 8605,
+   "p95": 8556,
+   "n_ge_obs": 4,
+   "n": 300
+  },
+  "ks": {
+   "obs": 4528,
+   "mean": 4344.247,
+   "median": 4298.5,
+   "sd": 225.452,
+   "min": 3809,
+   "max": 4969,
+   "p95": 4757,
+   "n_ge_obs": 72,
+   "n": 300
+  },
+  "ksb": {
+   "obs": 90,
+   "mean": 72.957,
+   "median": 72.0,
+   "sd": 12.644,
+   "min": 46,
+   "max": 111,
+   "p95": 94,
+   "n_ge_obs": 36,
+   "n": 300
+  },
+  "rev": {
+   "obs": 77,
+   "mean": 73.19,
+   "median": 72.5,
+   "sd": 12.479,
+   "min": 41,
+   "max": 110,
+   "p95": 94,
+   "n_ge_obs": 118,
+   "n": 300
+  },
+  "atb": {
+   "obs": 56,
+   "mean": 51.277,
+   "median": 50.0,
+   "sd": 10.347,
+   "min": 25,
+   "max": 82,
+   "p95": 70,
+   "n_ge_obs": 94,
+   "n": 300
+  }
+ },
+ "d2": {
+  "bands": [
+   "oe",
+   "hy",
+   "ac",
+   "di",
+   "kl",
+   "rs",
+   "tn",
+   "qp",
+   "mf",
+   "gx",
+   "bj",
+   "vz",
+   "uw"
+  ],
+  "n_identity_draws": 0,
+  "cell": {
+   "obs": 8587,
+   "mean": 8533.573,
+   "median": 8537.5,
+   "sd": 33.589,
+   "min": 8449,
+   "max": 8610,
+   "p95": 8585,
+   "n_ge_obs": 13,
+   "n": 300
+  },
+  "ks": {
+   "obs": 4528,
+   "mean": 4455.637,
+   "median": 4490.0,
+   "sd": 117.688,
+   "min": 4169,
+   "max": 4664,
+   "p95": 4609,
+   "n_ge_obs": 96,
+   "n": 300
+  },
+  "ksb": {
+   "obs": 90,
+   "mean": 79.533,
+   "median": 79.5,
+   "sd": 12.517,
+   "min": 49,
+   "max": 104,
+   "p95": 98,
+   "n_ge_obs": 79,
+   "n": 300
+  },
+  "rev": {
+   "obs": 77,
+   "mean": 79.647,
+   "median": 81.0,
+   "sd": 13.47,
+   "min": 49,
+   "max": 114,
+   "p95": 101,
+   "n_ge_obs": 180,
+   "n": 300
+  },
+  "atb": {
+   "obs": 56,
+   "mean": 46.637,
+   "median": 47.0,
+   "sd": 9.024,
+   "min": 25,
+   "max": 66,
+   "p95": 60,
+   "n_ge_obs": 51,
+   "n": 300
+  }
+ },
+ "d4_no_exact_no_le2": {
+  "obs": 85,
+  "mean": 68.61,
+  "median": 68.0,
+  "sd": 11.895,
+  "min": 42,
+  "max": 106,
+  "p95": 88,
+  "n_ge_obs": 35,
+  "n": 300
+ },
+ "d2_no_exact_no_le2": {
+  "obs": 85,
+  "mean": 74.437,
+  "median": 75.0,
+  "sd": 12.897,
+  "min": 42,
+  "max": 100,
+  "p95": 94,
+  "n_ge_obs": 82,
+  "n": 300
+ },
+ "e_token_weighted": {
+  "ksb": {
+   "obs": 90,
+   "mean": 67.683,
+   "median": 68.0,
+   "sd": 8.961,
+   "min": 45,
+   "max": 101,
+   "p95": 82,
+   "n_ge_obs": 4,
+   "n": 300
+  },
+  "ks": {
+   "obs": 4528,
+   "mean": 4422.53,
+   "median": 4448.0,
+   "sd": 169.985,
+   "min": 3817,
+   "max": 4873,
+   "p95": 4695,
+   "n_ge_obs": 81,
+   "n": 300
+  },
+  "exact_spellings": {
+   "obs": 5,
+   "mean": 4.527,
+   "median": 4.0,
+   "sd": 1.712,
+   "min": 0,
+   "max": 10,
+   "p95": 7,
+   "n_ge_obs": 140,
+   "n": 300
+  }
+ },
+ "e_type_weighted": {
+  "ksb": {
+   "obs": 90,
+   "mean": 68.373,
+   "median": 68.0,
+   "sd": 8.483,
+   "min": 47,
+   "max": 98,
+   "p95": 82,
+   "n_ge_obs": 1,
+   "n": 300
+  },
+  "ks": {
+   "obs": 4528,
+   "mean": 4440.41,
+   "median": 4444.5,
+   "sd": 153.255,
+   "min": 3966,
+   "max": 4831,
+   "p95": 4686,
+   "n_ge_obs": 90,
+   "n": 300
+  },
+  "exact_spellings": {
+   "obs": 5,
+   "mean": 4.31,
+   "median": 4.0,
+   "sd": 1.732,
+   "min": 0,
+   "max": 11,
+   "p95": 7,
+   "n_ge_obs": 124,
+   "n": 300
+  }
+ },
+ "e_token_weighted_no_exact_no_le2": {
+  "obs": 85,
+  "mean": 64.2,
+  "median": 64.0,
+  "sd": 8.893,
+  "min": 41,
+  "max": 99,
+  "p95": 79,
+  "n_ge_obs": 6,
+  "n": 300
+ },
+ "f": {
+  "token_token": {
+   "obs": 0.69912,
+   "mean": 0.5056,
+   "median": 0.50368,
+   "sd": 0.10088,
+   "min": 0.22907,
+   "max": 0.78667,
+   "n_ge_obs": 11,
+   "n": 300,
+   "pearson_r_cos_vs_ksb_matches": 0.2835,
+   "ksb_mean_top30_cos": 67.8
+  },
+  "type_type": {
+   "obs": 0.69988,
+   "mean": 0.50964,
+   "median": 0.50888,
+   "sd": 0.09978,
+   "min": 0.23499,
+   "max": 0.79837,
+   "n_ge_obs": 10,
+   "n": 300,
+   "pearson_r_cos_vs_ksb_matches": 0.2884,
+   "ksb_mean_top30_cos": 66.767
+  }
+ },
+ "f_band4_type_cos": {
+  "mean": 0.68786,
+  "median": 0.68772,
+  "min": 0.60568,
+  "max": 0.76187
+ },
+ "f_band2_type_cos": {
+  "mean": 0.71276,
+  "median": 0.71244,
+  "min": 0.68535,
+  "max": 0.73879
+ }
+}

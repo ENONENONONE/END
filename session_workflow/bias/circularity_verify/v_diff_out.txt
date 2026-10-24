@@ -1,0 +1,58 @@
+pre-terminus: entries 1129, distinct (cell,word) 1129, empty cells 0
+pre-aim: entries 1140, distinct (cell,word) 1140, empty cells 0
+pre-rotate: entries 1147, distinct (cell,word) 1147, empty cells 0
+pre-toth: entries 1157, distinct (cell,word) 1157, empty cells 0
+pre-rongorongo: entries 1161, distinct (cell,word) 1161, empty cells 0
+pre-plate: entries 1167, distinct (cell,word) 1167, empty cells 0
+current: entries 1258, distinct (cell,word) 1258, empty cells 0
+STEP pre-terminus -> pre-aim: +11 -0
+   EDGE 21; TERM 56; BORDER 62; LIMIT 63; TERMINAL 92; BOUNDARY 100; TERMINALIA 102; HORIZON 105; TERMINUS 119; BOUNDARY MARKER 166; JUPITER TERMINUS 218
+STEP pre-aim -> pre-rotate: +7 -0
+   I AM 23; THAT 49; ASHER 51; EHYEH 51; ZRN 58; I AM THAT I AM 95; EHYEH ASHER EHYEH 153
+STEP pre-rotate -> pre-toth: +10 -0
+   WHO 46; BECOMES 62; WHO AM I 69; TARGET 71; TURN 73; START 78; ROTATE 79; HALF TURN 100; ROTATION 112; QUARTER TURN 173
+STEP pre-toth -> pre-rongorongo: +4 -0
+   SCRIBE 56; TOTH 63; THOTH 71; TRISMEGISTUS 179
+STEP pre-rongorongo -> pre-plate: +6 -0
+   SABBATH 53; RONGO 69; SATURDAY 109; THRICE GREAT 114; RONGORONGO 138; HERMES TRISMEGISTUS 247
+STEP pre-plate -> current: +91 -0
+   MAIA 24; ERDE 32; AMEN 33; OBEN 36; ECHIS 44; ABOVE 45; MOND 46; SOL 46; LUNA 48; SAIS 48; FLOOD 52; ATLAS 53; SUM 53; DELUGE 54; MAMARI 55; BELOW 57; FEWER 57; MATER 57; IGNIS 58; HIMMEL 60; JUNO 60; PATER 60; VATER 66; SONNE 67; COELUM 69; MAGNESIA 69; VIPER 70; WINDT 70; PLEIADES 71; ALCHYMIA 72; EGYPT 73; VULCAN 73; UNTEN 74; ASCENDIT 75; SOLON 75; CRITIAS 79; ATLANTIC 80; EGO SUM 80; PIMANDER 80; RAPA NUI 80; STERCKE 81; DESCENDIT 83; TELESMI 83; PYRAMID 86; PHAETHON 87; TIMAEUS 88; SO BELOW 91; MUNDUS 92; PYROS 93; NEPTUNE 95; ATLANTIS 96; MUTTER 97; SERPENT 97; WEISHEIT 98; INFERIUS 101; KHUNRATH 101; PYRAMIS 101; VENTUS 101; NUTRIX 106; POIMANDRES 114; PYRAMIDUM 120; PYRANTIS 122; MERCURIUS 127; FORTITUDO 128; SUPERIUS 128; TETRAHEDRON 128; CONFLAGRATION 135; TRES PARTES 141; HUMIDUM RADICALE 142; TABULA SMARAGDINA 144; ARUKU KURENGA 149; RERUM NATURA 150; HENRIC KHUNRATH 158; COMPLETUM EST 162; ECHIS PYRAMIDUM 164; BOUSTROPHEDON 172; EINES EINIGEN DINGES 173; OPERATIO SOLIS 173; WERCKE DER SONNEN 173; SUBTILE A SPISSO 186; VERUM SINE MENDACIO 190; KOHAU RONGORONGO 194; PILLARS OF HERCULES 199; SEPARABIS TERRAM AB IGNE 203; FORTITUDO FORTIS 215; MENS DIVINAE POTENTIAE 220; DESIGNATIO PYRAMIDUM 223; LAPIS PHILOSOPHORUM 242; ALSO IST DIE WELT GESCHAFFEN 247; CERTUM ET VERISSIMUM 253; SIC MUNDUS CREATUS EST 254
+TOTAL added 129 removed 0
+direct pre-terminus->current: +129 -0
+(b) added at own letter sum: 129/129
+   step 0: 11/11
+   step 1: 7/7
+   step 2: 10/10
+   step 3: 4/4
+   step 4: 6/6
+   step 5: 91/91
+(b1) pre-terminus: letter-sum placed 1006/1129 = 0.8911
+(b1) pre-aim: letter-sum placed 1017/1140 = 0.8921
+(b1) pre-rotate: letter-sum placed 1024/1147 = 0.8928
+(b1) pre-toth: letter-sum placed 1034/1157 = 0.8937
+(b1) pre-rongorongo: letter-sum placed 1038/1161 = 0.8941
+(b1) pre-plate: letter-sum placed 1044/1167 = 0.8946
+(b1) current: letter-sum placed 1135/1258 = 0.9022
+(a7) AIM: [('pre-terminus', [23]), ('pre-aim', [23]), ('pre-rotate', [23]), ('pre-toth', [23]), ('pre-rongorongo', [23]), ('pre-plate', [23]), ('current', [23])]
+(a7) HERMES: [('pre-terminus', [68]), ('pre-aim', [68]), ('pre-rotate', [68]), ('pre-toth', [68]), ('pre-rongorongo', [68]), ('pre-plate', [68]), ('current', [68])]
+(a7) I AM: [('pre-terminus', [1]), ('pre-aim', [1]), ('pre-rotate', [1, 23]), ('pre-toth', [1, 23]), ('pre-rongorongo', [1, 23]), ('pre-plate', [1, 23]), ('current', [1, 23])]
+(a7) TOTH: [('pre-terminus', []), ('pre-aim', []), ('pre-rotate', []), ('pre-toth', []), ('pre-rongorongo', [63]), ('pre-plate', [63]), ('current', [63])]
+(a7) THOTH: [('pre-terminus', []), ('pre-aim', []), ('pre-rotate', []), ('pre-toth', []), ('pre-rongorongo', [71]), ('pre-plate', [71]), ('current', [71])]
+(a7) PYRAMIDUM: [('pre-terminus', []), ('pre-aim', []), ('pre-rotate', []), ('pre-toth', []), ('pre-rongorongo', []), ('pre-plate', []), ('current', [120])]
+(d) cells gained 87/257 = 0.3385; net increase 87
+(d1) mean words/cell 4.3930 -> 4.8949
+(d2) gained cells mean 5.5632 -> 7.0460; gain histogram [(1, 60), (2, 16), (3, 7), (4, 4)]; +4 cells [69, 80, 101, 173]
+(d-extra) non-gained cells mean words 3.7941
+(e) added in K: 22; at 0: 0
+   uniform 1..256 expected 16.1250; ratio 1.3643; P(X>=22) = 0.0804
+   uniform 0..256 (33/257) expected 16.5642; P = 0.1001
+(e1) step 0: 3/11: ['BORDER 62', 'TERMINAL 92', 'TERMINUS 119']
+(e1) step 1: 2/7: ['I AM 23', 'EHYEH ASHER EHYEH 153']
+(e1) step 2: 3/10: ['WHO 46', 'BECOMES 62', 'TURN 73']
+(e1) step 3: 0/4: []
+(e1) step 4: 1/6: ['RONGORONGO 138']
+(e1) step 5: 13/91: ['ECHIS 44', 'MOND 46', 'SOL 46', 'ALCHYMIA 72', 'EGYPT 73', 'VULCAN 73', 'PYRAMID 86', 'MUNDUS 92', 'PYRAMIDUM 120', 'FORTITUDO 128', 'SUPERIUS 128', 'TETRAHEDRON 128', 'HUMIDUM RADICALE 142']
+(e2) distinct K cells: 14: [23, 44, 46, 62, 72, 73, 86, 92, 119, 120, 128, 138, 142, 153]
+(e3) letter-sum-placed pre-terminus in K 125/1006 = 0.12425; expected 16.029; P(X>=22) = 0.0764
+(e5) pre-terminus entries in K: 161/1129 = 0.1426; K share of cells 0.1284
+(e5-extra) current entries in K: 183/1258 = 0.1455

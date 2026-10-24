@@ -1,0 +1,9 @@
+pre-terminus letter freqs (investigator's e4): expected 14.719 sd 3.593 P(X>=22) = 0.0348
+    steps0-4: obs 9/38 expected 4.471 P(X>=9) = 0.0286
+    step5: obs 13/91 expected 10.248 P(X>=13) = 0.2209
+added-words' own letter freqs: expected 14.924 sd 3.612 P(X>=22) = 0.0396
+    steps0-4: obs 9/38 expected 4.511 P(X>=9) = 0.0300
+    step5: obs 13/91 expected 10.413 P(X>=13) = 0.2379
+uniform letters 1..26: expected 15.803 sd 3.701 P(X>=22) = 0.0665
+    steps0-4: obs 9/38 expected 4.644 P(X>=9) = 0.0355
+    step5: obs 13/91 expected 11.159 P(X>=13) = 0.3216

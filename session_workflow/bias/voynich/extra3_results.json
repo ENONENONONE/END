@@ -1,0 +1,87 @@
+{
+ "n_latin_keys": 371,
+ "n_latin_keys_hit": 76,
+ "sum_hits": 90,
+ "multiplicity_hist": {
+  "0": 295,
+  "1": 65,
+  "2": 9,
+  "3": 1,
+  "4": 1
+ },
+ "keys_with_ge2": [
+  [
+   4,
+   [
+    "humido"
+   ]
+  ],
+  [
+   3,
+   [
+    "vocans"
+   ]
+  ],
+  [
+   2,
+   [
+    "vincet"
+   ]
+  ],
+  [
+   2,
+   [
+    "merito"
+   ]
+  ],
+  [
+   2,
+   [
+    "iunoni"
+   ]
+  ],
+  [
+   2,
+   [
+    "immensa"
+   ]
+  ],
+  [
+   2,
+   [
+    "ideo"
+   ]
+  ],
+  [
+   2,
+   [
+    "gravati"
+   ]
+  ],
+  [
+   2,
+   [
+    "grati"
+   ]
+  ],
+  [
+   2,
+   [
+    "dixi"
+   ]
+  ],
+  [
+   2,
+   [
+    "asyla"
+   ]
+  ]
+ ],
+ "len6_latin_keys": 51,
+ "len6_hit": 22,
+ "len6_sum": 30,
+ "len6_types_voynich": 1852,
+ "len6_distinct_voynich_keys": 1572,
+ "voynich_distinct_ksb_keys": 8151,
+ "voynich_types": 9124
+}

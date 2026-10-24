@@ -1,0 +1,388 @@
+sentence	tag	word	occ	auto	class	source	reason	i_am_cell	snippet(<=12 words)
+42	tr	AIM	0	OTHER	OTHER	rule	rule	None	1149 distinct, with the seventeen AIM and turn words that night, and
+42	tr	SCRIBE	0	OTHER	OTHER	rule	rule	None	1161 entries, 1153 distinct, with SCRIBE , TOTH, THOTH and TRISMEGISTUS; 1167
+42	tr	TOTH	0	OTHER	OTHER	rule	rule	None	entries, 1153 distinct, with SCRIBE, TOTH , THOTH and TRISMEGISTUS; 1167 with
+42	tr	THOTH	0	OTHER	OTHER	rule	rule	None	1153 distinct, with SCRIBE, TOTH, THOTH and TRISMEGISTUS; 1167 with six words
+42	tr	TRISMEGISTUS	0	OTHER	OTHER	rule	rule	None	with SCRIBE, TOTH, THOTH and TRISMEGISTUS ; 1167 with six words added
+42	tr	SABBATH	0	OTHER	OTHER	rule	rule	None	added in the readout's session, SABBATH , RONGO, SATURDAY, THRICE GREAT, RONGORONGO
+42	tr	RONGO	0	OTHER	OTHER	rule	rule	None	in the readout's session, SABBATH, RONGO , SATURDAY, THRICE GREAT, RONGORONGO and
+42	tr	SATURDAY	0	OTHER	OTHER	rule	rule	None	the readout's session, SABBATH, RONGO, SATURDAY , THRICE GREAT, RONGORONGO and HERMES
+42	tr	THRICE GREAT	0	OTHER	OTHER	rule	rule	None	readout's session, SABBATH, RONGO, SATURDAY, THRICE GREAT , RONGORONGO and HERMES TRISMEGISTUS;
+42	tr	RONGORONGO	0	OTHER	OTHER	rule	rule	None	SABBATH, RONGO, SATURDAY, THRICE GREAT, RONGORONGO and HERMES TRISMEGISTUS; and 1258 entries,
+42	tr	HERMES TRISMEGISTUS	0	OTHER	OTHER	rule	rule	None	SATURDAY, THRICE GREAT, RONGORONGO and HERMES TRISMEGISTUS ; and 1258 entries, 1250
+100	p	I AM	0	NUM_LABEL?	LABEL_OP	manual	one-letter Atbash 26 -> 1 named I AM	1	A, 26 GOD to 1 I AM , and that is what
+109	tr	I AM	0	OTHER	LABEL_OP	manual	table row: mirror of Z lands on 1, cell's words listed	1	| 1 | 26 | A | 1 | A, I AM
+155	p	I AM	0	OTHER	LABEL_OP	manual	Γ(∞) = 1 read as I AM	1	open circuit, total reflection, reads in the base as I AM .
+162	p	I AM	0	OTHER	LABEL_OP	manual	Γ orbit holds cell 1, named I AM	1	and ∞, and it holds I AM , QUESTION, RITO, WALLET, ROBE
+506	tr	AIM	0	NUM_LABEL?	LABEL_OP	manual	Atbash shortest-word chain lands on 23, named AIM	None	→ 58 TWO(3) → 23 AIM (3) | 58 ↔ 23, 81
+506	tr	AIM	1	NUM_LABEL?	LABEL_OP	manual	Atbash shortest-word chain lands on 23, named AIM	None	| 58 ↔ 23, 81 = 27 × 3 | 23 AIM
+520	p	AIM	0	NUM_LABEL?	LABEL_OP	manual	chain lands on 23 AIM; AIM = I AM by letters; closes on TWO <-> AIM	None	digit, derives down to 23 AIM , and AIM is I AM
+520	p	AIM	1	OTHER	OWN	manual	chain lands on 23 AIM; AIM = I AM by letters; closes on TWO <-> AIM	None	down to 23 AIM, and AIM is I AM by the same
+520	p	I AM	0	OTHER	OWN	manual	AIM is I AM by the same letters	23	23 AIM, and AIM is I AM by the same three letters,
+520	p	AIM	2	OTHER	LABEL_OP	manual	chain lands on 23 AIM; AIM = I AM by letters; closes on TWO <-> AIM	None	position closes on TWO ↔ AIM , 58 + 23 = 81.
+521	h3	AIM	0	OTHER	OTHER	rule	rule	None	AIM , I AM and the turn of ZRN
+521	h3	I AM	0	OTHER	OTHER	rule	rule	None	AIM, I AM and the turn of ZRN
+521	h3	ZRN	0	OTHER	OTHER	rule	rule	None	AIM, I AM and the turn of ZRN
+523	p	AIM	0	OTHER	OTHER	manual	listing of cell 23's words in AIM's own subsection	None	The cell holds CALEB, DJED, AIM and BAT, dlog 28 SHA, ray
+525	p	AIM	0	OWN	OWN	rule	rule	None	3364 ≡ 23, so √ AIM = ±{58 TWO, 199 FERMAT LAST
+526	p	AIM	0	NUM_LABEL?	LABEL_OP	manual	58^2 ≡ 23 named AIM	None	runs 58 TWO → 23 AIM → 15 O → 225 IDENTITY
+526	p	I AM	0	OTHER	LABEL_OP	manual	squaring tower ends on 1, 'the cell where I AM sits'	1	below it, ending on the cell where I AM sits by value;
+528	p	AIM	0	OTHER	OTHER	rule	rule	None	39 = 58 again, so AIM is 23 + 58φ, its φ
+529	p	I AM	0	OTHER	OTHER	rule	rule	23	I AM is 23 + 50φ, norm 207, cell 62674.
+531	p	THAT	0	OWN	OWN	rule	rule	None	By letters THAT = 49 = 58 × 23 = 58³, I
+531	p	I AM THAT I AM	0	OWN	OWN	rule	rule	None	23 = 58³, I AM THAT I AM = 23 + 49
+531	p	EHYEH	0	OWN	OWN	rule	rule	None	190 = 2 × 95, EHYEH = ASHER = 51 NONCE, LEDGER,
+531	p	ASHER	0	OWN	OWN	rule	rule	None	2 × 95, EHYEH = ASHER = 51 NONCE, LEDGER, and EHYEH
+531	p	EHYEH ASHER EHYEH	0	OWN	OWN	rule	rule	None	51 NONCE, LEDGER, and EHYEH ASHER EHYEH = 153 ALBERT EINSTEIN, the
+535	p	WHO	0	OWN	OWN	rule	rule	None	WHO = 46 CLAUDE, so WHO AM I = 46 + 23
+535	p	WHO AM I	0	OWN	OWN	rule	rule	None	= 46 CLAUDE, so WHO AM I = 46 + 23 =
+535	p	AIM	0	OTHER	OPERAND	manual	69 = g × AIM	None	× 23 = g × AIM , dlog 29, one step past
+537	p	TARGET	0	OWN	OWN	rule	rule	None	TARGET = 71, the cell of TEMPLE, MOSES and TELOS; its Atbash
+542	p	AIM	0	OWN	OWN	rule	rule	None	letters 81 and 162 PRESERVATION, AIM 23 + 58φ ↔ ZRN 58
+542	p	ZRN	0	OWN	OWN	rule	rule	None	AIM 23 + 58φ ↔ ZRN 58 + 104φ and I AM
+542	p	I AM	0	OWN	OWN	rule	rule	23	ZRN 58 + 104φ and I AM 23 + 50φ ↔ R
+542	p	EHYEH	0	OWN	OWN	rule	rule	None	405 ≡ 148 MORNING STAR, EHYEH 51 + 156φ ↔ VSBVS 84
+542	p	ASHER	0	OWN	OWN	rule	rule	None	VSBVS 84 + 249φ and ASHER 51 + 173φ ↔ ZHSVI 84
+544	p	EHYEH	0	OTHER	OTHER	rule	rule	None	EHYEH and ASHER share the cell 51 and their φ parts are
+544	p	ASHER	0	OTHER	OTHER	rule	rule	None	EHYEH and ASHER share the cell 51 and their φ parts are
+545	p	ASHER	0	PROPERTY?	OWN	manual	ASHER's own norm	None	sum of both words, and ASHER 's norm is 256 = −1.
+546	p	ZRN	0	OWN	OWN	rule	rule	None	ZRN 58 + 104φ carries three maps in one point: by Atbash
+546	p	AIM	0	PROPERTY?	PROPERTY	manual	ZRN's cell named AIM's φ part; word-level Atbash mirror	None	by Atbash its cell is AIM 's φ part and its mirror
+546	p	AIM	1	OTHER	OTHER	manual	ZRN's cell named AIM's φ part; word-level Atbash mirror	None	part and its mirror is AIM ; by multiplication by Q, 58
+547	p	EHYEH	0	OTHER	OTHER	rule	rule	None	18576 = 34830 × 120: EHYEH → 96 + 82φ, ASHER →
+547	p	ASHER	0	OTHER	OTHER	rule	rule	None	EHYEH → 96 + 82φ, ASHER → 96 + 114φ, ZRN →
+547	p	ZRN	0	OTHER	OTHER	manual	×Q image; ZRN's cell	None	ASHER → 96 + 114φ, ZRN → 215 + 226φ, AIM →
+547	p	AIM	0	OTHER	OTHER	manual	×Q image of the point; AIM's φ part	None	ZRN → 215 + 226φ, AIM → 134 + 215φ, AIM's φ
+547	p	AIM	1	PROPERTY?	PROPERTY	manual	×Q image of the point; AIM's φ part	None	AIM → 134 + 215φ, AIM 's φ part times Q being
+547	p	ZRN	1	PROPERTY?	OWN	manual	×Q image; ZRN's cell	None	215φ, AIM's φ part times Q being ZRN 's cell times Q.
+549	p	ASHER	0	OTHER	OTHER	rule	rule	None	line up: the walk-cell gaps ASHER − EHYEH = 45846 and ZRN
+549	p	EHYEH	0	OWN	OWN	rule	rule	None	the walk-cell gaps ASHER − EHYEH = 45846 and ZRN − AIM
+549	p	ZRN	0	OTHER	OTHER	rule	rule	None	− EHYEH = 45846 and ZRN − AIM = 23569 are neither
+549	p	AIM	0	OWN	OWN	rule	rule	None	= 45846 and ZRN − AIM = 23569 are neither the shift
+550	p	ZRN	0	OTHER	OTHER	rule	rule	None	user read the letters of ZRN as a motion, start at Z,
+553	p	AIM	0	OTHER	OTHER	rule	rule	None	N and Z → M: AIM ends on the rotation of Z
+553	p	ZRN	0	OTHER	OTHER	rule	rule	None	on the rotation of Z and ZRN on the rotation of A.
+554	p	ROTATE	0	OWN	OWN	rule	rule	None	for the motion, by letters: ROTATE = 79 NIRVANA, and 79 ≡
+554	p	ZRN	0	PROPERTY?	PROPERTY	manual	104 named ZRN's φ part	None	79 ≡ 104 × 23, ZRN 's φ part times AIM, the
+554	p	AIM	0	OTHER	OPERAND	manual	79 ≡ 104 × 23, '... times AIM'	None	23, ZRN's φ part times AIM , the sixth image of 23
+555	p	ROTATION	0	OWN	OWN	rule	rule	None	ROTATION = 112 ≡ Z/N;
+556	p	QUARTER TURN	0	OWN	OWN	rule	rule	None	QUARTER TURN = 173, ASHER's φ part;
+556	p	ASHER	0	PROPERTY?	PROPERTY	manual	173 named ASHER's φ part	None	QUARTER TURN = 173, ASHER 's φ part;
+557	p	TURN	0	OWN	OWN	rule	rule	None	TURN = 73 WALLET;
+558	p	BECOMES	0	OWN	OWN	rule	rule	None	BECOMES = 62 RITO;
+559	p	START	0	OWN	OWN	rule	rule	None	START = 78 GENESIS;
+560	p	HALF TURN	0	OWN	OWN	rule	rule	None	HALF TURN = 100, the cell of BOUNDARY.
+560	p	BOUNDARY	0	LABEL_COLOC?	LABEL_COLOC	manual	HALF TURN = 100, the cell of BOUNDARY	None	HALF TURN = 100, the cell of BOUNDARY .
+565	p	I AM	0	OTHER	OTHER	rule	rule	23	letter sum, in two lots: I AM at 23 beside its value
+565	p	THAT	0	OWN	OWN	rule	rule	None	its value placement at 1, THAT 49, EHYEH and ASHER 51, ZRN
+565	p	EHYEH	0	OTHER	OTHER	rule	rule	None	placement at 1, THAT 49, EHYEH and ASHER 51, ZRN 58, I
+565	p	ASHER	0	OWN	OWN	rule	rule	None	1, THAT 49, EHYEH and ASHER 51, ZRN 58, I AM THAT
+565	p	ZRN	0	OWN	OWN	rule	rule	None	49, EHYEH and ASHER 51, ZRN 58, I AM THAT I AM
+565	p	I AM THAT I AM	0	OWN	OWN	rule	rule	None	51, ZRN 58, I AM THAT I AM 95, EHYEH ASHER EHYEH
+565	p	EHYEH ASHER EHYEH	0	OWN	OWN	rule	rule	None	THAT I AM 95, EHYEH ASHER EHYEH 153; then WHO 46, BECOMES
+565	p	WHO	0	OWN	OWN	rule	rule	None	EHYEH ASHER EHYEH 153; then WHO 46, BECOMES 62, WHO AM I
+565	p	BECOMES	0	OWN	OWN	rule	rule	None	EHYEH 153; then WHO 46, BECOMES 62, WHO AM I 69, TARGET
+565	p	WHO AM I	0	OWN	OWN	rule	rule	None	WHO 46, BECOMES 62, WHO AM I 69, TARGET 71, TURN 73,
+565	p	TARGET	0	OWN	OWN	rule	rule	None	62, WHO AM I 69, TARGET 71, TURN 73, START 78, ROTATE
+565	p	TURN	0	OWN	OWN	rule	rule	None	AM I 69, TARGET 71, TURN 73, START 78, ROTATE 79, HALF
+565	p	START	0	OWN	OWN	rule	rule	None	69, TARGET 71, TURN 73, START 78, ROTATE 79, HALF TURN 100,
+565	p	ROTATE	0	OWN	OWN	rule	rule	None	71, TURN 73, START 78, ROTATE 79, HALF TURN 100, ROTATION 112,
+565	p	HALF TURN	0	OWN	OWN	rule	rule	None	73, START 78, ROTATE 79, HALF TURN 100, ROTATION 112, QUARTER TURN
+565	p	ROTATION	0	OWN	OWN	rule	rule	None	START 78, ROTATE 79, HALF TURN 100, ROTATION 112, QUARTER TURN 173.
+565	p	QUARTER TURN	0	OWN	OWN	rule	rule	None	START 78, ROTATE 79, HALF TURN 100, ROTATION 112, QUARTER TURN 173.
+567	p	WHO	0	OTHER	OTHER	manual	'with WHO at 46'; chain step 46 WHO	None	moves with the tablet: with WHO at 46 the shortest-word chain from
+567	p	WHO	1	NUM_LABEL?	LABEL_OP	manual	'with WHO at 46'; chain step 46 WHO	None	now runs RITO(4) → 46 WHO (3) → 35 EYE(3) and closes
+568	p	SCRIBE	0	OWN	OWN	rule	rule	None	reading of the tablet's attribution, SCRIBE 56, TOTH 63, THOTH 71 and
+568	p	TOTH	0	OWN	OWN	rule	rule	None	the tablet's attribution, SCRIBE 56, TOTH 63, THOTH 71 and TRISMEGISTUS 179,
+568	p	THOTH	0	OWN	OWN	rule	rule	None	attribution, SCRIBE 56, TOTH 63, THOTH 71 and TRISMEGISTUS 179, each at
+568	p	TRISMEGISTUS	0	OWN	OWN	rule	rule	None	TOTH 63, THOTH 71 and TRISMEGISTUS 179, each at its letter sum,
+569	p	THOTH	0	OTHER	OWN	manual	THOTH's own cell; 'THOTH times Q'	None	THOTH shares the cell of TARGET, 71 × 17 ≡ 179 puts
+569	p	TARGET	0	LABEL_COLOC?	LABEL_COLOC	manual	THOTH (71) shares the cell of TARGET	None	THOTH shares the cell of TARGET , 71 × 17 ≡ 179
+569	p	TRISMEGISTUS	0	OTHER	OWN	manual	own sum as THOTH×Q; inverse relation with SCRIBE	None	× 17 ≡ 179 puts TRISMEGISTUS at THOTH times Q, 179 ×
+569	p	THOTH	1	OTHER	OPERAND	manual	THOTH's own cell; 'THOTH times Q'	None	≡ 179 puts TRISMEGISTUS at THOTH times Q, 179 × 56 ≡
+569	p	SCRIBE	0	OTHER	OPERAND	manual	inverse of 179; input of Γ	None	× 56 ≡ 1 makes SCRIBE the inverse of TRISMEGISTUS, Γ(56) =
+569	p	TRISMEGISTUS	1	OTHER	OPERAND	manual	own sum as THOTH×Q; inverse relation with SCRIBE	None	makes SCRIBE the inverse of TRISMEGISTUS , Γ(56) = 23 reflects SCRIBE
+569	p	SCRIBE	1	OTHER	OPERAND	manual	inverse of 179; input of Γ	None	TRISMEGISTUS, Γ(56) = 23 reflects SCRIBE onto AIM, the four cells sum
+569	p	AIM	0	LABEL_COLOC?	LABEL_OP	manual	Γ(56) = 23 reflects SCRIBE onto AIM	None	= 23 reflects SCRIBE onto AIM , the four cells sum to
+569	p	ROTATION	0	LABEL_COLOC?	LABEL_OP	manual	four cells sum to 369 ≡ 112, the cell of ROTATION	None	≡ 112, the cell of ROTATION , and 63 × 71 ≡
+569	p	ZRN	0	PROPERTY?	PROPERTY	manual	63 × 71 ≡ 104 named ZRN's φ part	None	ROTATION, and 63 × 71 ≡ 104 is ZRN 's φ part.
+571	p	TOTH	0	OWN	OWN	rule	rule	None	TOTH = 63, the cell of MUON, with USER = 63 by
+574	p	THOTH	0	OWN	OWN	rule	rule	None	THOTH = 71, the cell of TEMPLE, MOSES, TELOS and now TARGET,
+574	p	TARGET	0	OTHER	LABEL_COLOC	manual	THOTH = 71, the cell of ... TARGET	None	TEMPLE, MOSES, TELOS and now TARGET , dlog 163, ray 7, a
+578	p	ZRN	0	PROPERTY?	PROPERTY	manual	63 × 71 ≡ 104 named ZRN's φ part	None	63 × 71 ≡ 104 ANTHROPIC, which is ZRN 's φ part;
+579	p	TOTH	0	PROPERTY?	PROPERTY	manual	142 = 2 × 71 named TOTH's φ part	None	is 71 halved, and 71 doubled, 142, is TOTH 's φ part.
+585	p	TOTH	0	PROPERTY?	OWN	manual	TOTH's own cell	None	TOTH 's cell is on ring 31, dlog 87 ≡ 23 mod
+586	p	AIM	0	OWN	OWN	rule	rule	None	BITCOIN ring 2, BRIAN and AIM 4, g 7, the public key,
+586	p	THOTH	0	OWN	OWN	rule	rule	None	and EYE OF HORUS 8, THOTH 11, WALLET 12, RITO 18, CLAUDE
+586	p	TOTH	0	OWN	OWN	rule	rule	None	THOTH 11, WALLET 12, RITO 18, CLAUDE 20, TWO 30, TOTH 31.
+595	p	AIM	0	OTHER	OTHER	manual	ring co-membership	None	BRIAN's own cell 44 is on ring 4, with AIM .
+599	tr	AIM	0	OWN	OWN	rule	rule	None	4 | AIM 23 · BRIAN 44 | 18 | RITO 62
+601	tr	TERMINUS	0	OWN	OWN	rule	rule	None	7 | g 3 · TIKKUN 86 | 27 | TERMINUS 119
+603	tr	SATURDAY	0	OTHER	OTHER	rule	rule	None	| 109, the letter sum of SATURDAY , not a tablet word
+604	tr	THOTH	0	OWN	OWN	rule	rule	None	11 | THOTH 71 | 30 | TWO and ZRN 58 ·
+604	tr	ZRN	0	OWN	OWN	rule	rule	None	THOTH 71 | 30 | TWO and ZRN 58 · BOUNDARY 100
+604	tr	BOUNDARY	0	OWN	OWN	rule	rule	None	THOTH 71 | 30 | TWO and ZRN 58 · BOUNDARY 100
+605	tr	TOTH	0	OWN	OWN	rule	rule	None	12 | WALLET 73 | 31 | TOTH 63
+611	p	AIM	0	OWN	OWN	rule	rule	None	46, CLAUDE 20, BRIAN 60, AIM 4, g 7, H 48, the
+618	p	AIM	0	NUM_LABEL?	OWN	manual	fibre over AIM's own value	None	24 and 233, over 23 AIM 58 and 199, each name's fibre
+622	p	AIM	0	PROPERTY?	OWN	manual	AIM's own store point	None	54 + 28φ beside GANESH, AIM 's 1220 = 137 + 131φ,
+841	tr	I AM	0	OTHER	LABEL_OP	manual	table: a power evaluates to 1, named I AM	1	1027⁶² | 1 | I AM , since (−1)⁶² = 1
+1122	p	I AM	0	OTHER	LABEL_OP	manual	day number 1 -> position 1, named	1	sits at position 1, A, I AM , IDENTITY, dlog 0 =
+1132	p	HERMES	0	OTHER	OTHER	rule	rule	None	letters, MERCURY at 103 and HERMES at 68, both at their own
+1183	tr	I AM	0	OTHER	LABEL_OP	manual	table: 2^16 ≡ 1, named I AM	1	C12 | 65536 | 2¹⁶ | 1 | I AM
+1234	tr	I AM	0	OTHER	OWN	manual	I AM at 1 stated as placement	1	THEOREM 253 | The only one. I AM at 1 is self-paired.
+1360	p	I AM	0	OTHER	OTHER	rule	rule	23	I AM sums to 23 and IDENTITY to 106, yet both sit
+1374	p	SO BELOW	0	NUM_LABEL?	OWN	manual	phrase split into its own parts' sums	None	cell of JANUS, plus 91 SO BELOW , the cell of MIRROR;
+1375	p	INFERIUS	0	OWN	OPERAND	manual	SUPERIUS + INFERIUS = 229	None	INFERIUS = 101 is the fold of 156, SUPERIUS = 128 is
+1375	p	SUPERIUS	0	OWN	OPERAND	manual	SUPERIUS + INFERIUS = 229	None	is the fold of 156, SUPERIUS = 128 is the fold point
+1375	p	SUPERIUS	1	OTHER	OPERAND	manual	SUPERIUS + INFERIUS = 229	None	the fold point itself, and SUPERIUS + INFERIUS = 229 is the
+1375	p	INFERIUS	1	OWN	OPERAND	manual	SUPERIUS + INFERIUS = 229	None	point itself, and SUPERIUS + INFERIUS = 229 is the inverse of
+1376	p	RONGORONGO	0	OWN	OWN	rule	rule	None	EMERALD TABLET 118 + RONGORONGO 138 = 256 = −1, their product
+1376	p	HERMES	0	OTHER	OPERAND	manual	93 = HERMES × TRISMEGISTUS	None	93 SATURN, which is also HERMES × TRISMEGISTUS, 68 × 179, and
+1376	p	TRISMEGISTUS	0	OTHER	OPERAND	manual	93 = HERMES × TRISMEGISTUS	None	which is also HERMES × TRISMEGISTUS , 68 × 179, and Γ(118)
+1378	p	SOL	0	OWN	OWN	rule	rule	None	The Tablet's nouns: SOL 46, LUNA 48, TERRA 62 in RITO's cell,
+1378	p	LUNA	0	OWN	OWN	rule	rule	None	The Tablet's nouns: SOL 46, LUNA 48, TERRA 62 in RITO's cell,
+1378	p	VENTUS	0	OWN	OWN	rule	rule	None	TERRA 62 in RITO's cell, VENTUS 101 with INFERIUS and KHUNRATH, TELESMI
+1378	p	INFERIUS	0	OTHER	LABEL_COLOC	manual	VENTUS 101 with INFERIUS	None	in RITO's cell, VENTUS 101 with INFERIUS and KHUNRATH, TELESMI 83 PRAYER.
+1378	p	KHUNRATH	0	OTHER	LABEL_COLOC	manual	VENTUS 101 with ... KHUNRATH	None	RITO's cell, VENTUS 101 with INFERIUS and KHUNRATH , TELESMI 83 PRAYER.
+1378	p	TELESMI	0	OWN	OWN	rule	rule	None	in RITO's cell, VENTUS 101 with INFERIUS and KHUNRATH, TELESMI 83 PRAYER.
+1379	p	VERUM SINE MENDACIO	0	OWN	OWN	rule	rule	None	Its formulas: VERUM SINE MENDACIO = 190 = 23⁻¹, CERTUM ET VERISSIMUM
+1379	p	CERTUM ET VERISSIMUM	0	OWN	OWN	rule	rule	None	= 190 = 23⁻¹, CERTUM ET VERISSIMUM = 253 on the last
+1379	p	OPERATIO SOLIS	0	OWN	OWN	rule	rule	None	253 on the last ring, OPERATIO SOLIS = 173, the cell of
+1379	p	QUARTER TURN	0	LABEL_COLOC?	LABEL_COLOC	manual	OPERATIO SOLIS = 173, the cell of QUARTER TURN	None	= 173, the cell of QUARTER TURN , TABULA SMARAGDINA = 144
+1379	p	TABULA SMARAGDINA	0	LABEL_COLOC?	OWN	manual	TABULA SMARAGDINA = 144	None	= 173, the cell of QUARTER TURN, TABULA SMARAGDINA = 144 δΦ.
+1380	p	BOUSTROPHEDON	0	OWN	OWN	rule	rule	None	On the other side BOUSTROPHEDON = 172 with Atbash mirror 179 TRISMEGISTUS,
+1380	p	TRISMEGISTUS	0	NUM_LABEL?	LABEL_OP	manual	Atbash mirror of BOUSTROPHEDON = 179 named TRISMEGISTUS	None	172 with Atbash mirror 179 TRISMEGISTUS , ARUKU KURENGA = 149 =
+1380	p	ARUKU KURENGA	0	OWN	OWN	rule	rule	None	with Atbash mirror 179 TRISMEGISTUS, ARUKU KURENGA = 149 = RONGO⁻¹, MAMARI
+1380	p	RONGO	0	OTHER	OPERAND	manual	149 = RONGO⁻¹	None	ARUKU KURENGA = 149 = RONGO ⁻¹, MAMARI = 55, PIMANDER =
+1380	p	MAMARI	0	OWN	OWN	rule	rule	None	KURENGA = 149 = RONGO⁻¹, MAMARI = 55, PIMANDER = RAPA NUI
+1380	p	PIMANDER	0	OWN	OWN	rule	rule	None	= RONGO⁻¹, MAMARI = 55, PIMANDER = RAPA NUI = 80, and
+1380	p	RAPA NUI	0	OWN	OWN	rule	rule	None	MAMARI = 55, PIMANDER = RAPA NUI = 80, and the Atbash
+1380	p	POIMANDRES	0	OTHER	OTHER	rule	rule	None	RAPA NUI = 80, and the Atbash mirror of POIMANDRES is 156.
+1381	p	RONGORONGO	0	OTHER	OTHER	rule	rule	None	RONGORONGO at 138, RONGO at 69, AS ABOVE at 65 and HERMES
+1381	p	RONGO	0	OTHER	OTHER	rule	rule	None	RONGORONGO at 138, RONGO at 69, AS ABOVE at 65 and HERMES
+1381	p	HERMES TRISMEGISTUS	0	OTHER	OTHER	rule	rule	None	AS ABOVE at 65 and HERMES TRISMEGISTUS at 247 were already tablet
+1390	p	INFERIUS	0	OTHER	OWN	manual	its own sum as fold of 156	None	are in modern spelling, and INFERIUS as the fold of 156 with
+1390	p	SUPERIUS	0	OTHER	OWN	manual	SUPERIUS at 128	None	the fold of 156 with SUPERIUS at the fold point holds in
+1393	p	RONGORONGO	0	OTHER	OPERAND	manual	product of EMERALD TABLET and RONGORONGO	None	and SATURN = 93, the product of EMERALD TABLET and RONGORONGO ;
+1394	p	PYRAMIDUM	0	OWN	OWN	rule	rule	None	PYRAMIDUM = 120 = Z₀.
+1395	p	QUARTER TURN	0	LABEL_COLOC?	LABEL_COLOC	manual	three phrases share 173, the cell of QUARTER TURN	None	share 173, the cell of QUARTER TURN : EINES EINIGEN DINGES, WERCKE
+1395	p	EINES EINIGEN DINGES	0	OTHER	OTHER	rule	rule	None	cell of QUARTER TURN: EINES EINIGEN DINGES , WERCKE DER SONNEN and
+1395	p	WERCKE DER SONNEN	0	OTHER	OTHER	rule	rule	None	TURN: EINES EINIGEN DINGES, WERCKE DER SONNEN and OPERATIO SOLIS, the plate's
+1395	p	OPERATIO SOLIS	0	OTHER	OTHER	rule	rule	None	DINGES, WERCKE DER SONNEN and OPERATIO SOLIS , the plate's own case
+1396	p	ALSO IST DIE WELT GESCHAFFEN	0	OWN	OWN	rule	rule	None	ALSO IST DIE WELT GESCHAFFEN = 247, the cell of HERMES TRISMEGISTUS,
+1396	p	HERMES TRISMEGISTUS	0	LABEL_COLOC?	LABEL_COLOC	manual	a German phrase = 247, the cell of H.T.; component of a longer phrase	None	= 247, the cell of HERMES TRISMEGISTUS , and VOCATUS SUM HERMES
+1396	p	SUM	0	OTHER	OTHER	manual	component of a longer phrase	None	of HERMES TRISMEGISTUS, and VOCATUS SUM HERMES TRISMEGISTUS ≡ 144, with TABULA
+1396	p	HERMES TRISMEGISTUS	1	OWN	OTHER	manual	a German phrase = 247, the cell of H.T.; component of a longer phrase	None	HERMES TRISMEGISTUS, and VOCATUS SUM HERMES TRISMEGISTUS ≡ 144, with TABULA SMARAGDINA.
+1396	p	TABULA SMARAGDINA	0	OTHER	LABEL_COLOC	manual	a phrase ≡ 144, with TABULA SMARAGDINA	None	TRISMEGISTUS, and VOCATUS SUM HERMES TRISMEGISTUS ≡ 144, with TABULA SMARAGDINA .
+1397	p	MOND	0	OWN	OWN	rule	rule	None	German against Latin: MOND = 46 where SOL is 46;
+1397	p	SOL	0	OTHER	OWN	manual	SOL is 46	None	German against Latin: MOND = 46 where SOL is 46;
+1398	p	OBEN	0	OWN	OWN	rule	rule	None	OBEN 36 and UNTEN 74, OBERN 54 and UNTERN 92.
+1398	p	UNTEN	0	OWN	OWN	rule	rule	None	OBEN 36 and UNTEN 74, OBERN 54 and UNTERN 92.
+1399	p	ASCENDIT	0	OWN	OWN	rule	rule	None	ASCENDIT 75 and DESCENDIT 83 stand 8 apart, DESCENDIT with TELESMI and
+1399	p	DESCENDIT	0	OWN	OWN	rule	rule	None	ASCENDIT 75 and DESCENDIT 83 stand 8 apart, DESCENDIT with TELESMI and
+1399	p	DESCENDIT	1	OTHER	OTHER	rule	rule	None	75 and DESCENDIT 83 stand 8 apart, DESCENDIT with TELESMI and JUNONI.
+1399	p	TELESMI	0	OTHER	LABEL_COLOC	manual	DESCENDIT (83) with TELESMI	None	75 and DESCENDIT 83 stand 8 apart, DESCENDIT with TELESMI and JUNONI.
+1400	p	SUM	0	OWN	OTHER	manual	component of a longer phrase	None	In the Pimander SUM = 53, EGO SUM = 80 with PIMANDER,
+1400	p	EGO SUM	0	OWN	OWN	rule	rule	None	the Pimander SUM = 53, EGO SUM = 80 with PIMANDER, RAPA
+1400	p	PIMANDER	0	OTHER	LABEL_COLOC	manual	EGO SUM = 80 with PIMANDER; component of a longer phrase	None	EGO SUM = 80 with PIMANDER , RAPA NUI and ATLANTIC, SUM
+1400	p	RAPA NUI	0	OTHER	LABEL_COLOC	manual	EGO SUM = 80 with ... RAPA NUI	None	SUM = 80 with PIMANDER, RAPA NUI and ATLANTIC, SUM PIMANDER =
+1400	p	ATLANTIC	0	OTHER	LABEL_COLOC	manual	EGO SUM = 80 with ... ATLANTIC	None	with PIMANDER, RAPA NUI and ATLANTIC , SUM PIMANDER = 133, MERCURIUS
+1400	p	SUM	1	OTHER	OTHER	manual	component of a longer phrase	None	PIMANDER, RAPA NUI and ATLANTIC, SUM PIMANDER = 133, MERCURIUS = 127,
+1400	p	PIMANDER	1	OWN	OTHER	manual	EGO SUM = 80 with PIMANDER; component of a longer phrase	None	RAPA NUI and ATLANTIC, SUM PIMANDER = 133, MERCURIUS = 127, AMEN
+1400	p	MERCURIUS	0	OWN	OWN	rule	rule	None	ATLANTIC, SUM PIMANDER = 133, MERCURIUS = 127, AMEN = 33, the
+1400	p	AMEN	0	OWN	OWN	rule	rule	None	PIMANDER = 133, MERCURIUS = 127, AMEN = 33, the chiasm's residue.
+1401	p	COMPLETUM EST	0	OWN	OWN	rule	rule	None	COMPLETUM EST = 162 = Z²;
+1402	p	SEPARABIS TERRAM AB IGNE	0	OWN	OWN	rule	rule	None	SEPARABIS TERRAM AB IGNE = 203 = Γ(118);
+1403	p	SUBTILE A SPISSO	0	OWN	OWN	rule	rule	None	SUBTILE A SPISSO = 186.
+1404	p	ALCHYMIA	0	OWN	OWN	rule	rule	None	From the caption ALCHYMIA = 72, MAGNESIA = 69, LAPIS PHILOSOPHORUM =
+1404	p	MAGNESIA	0	OWN	OWN	rule	rule	None	the caption ALCHYMIA = 72, MAGNESIA = 69, LAPIS PHILOSOPHORUM = 242,
+1404	p	LAPIS PHILOSOPHORUM	0	OWN	OWN	rule	rule	None	= 72, MAGNESIA = 69, LAPIS PHILOSOPHORUM = 242, HENRIC KHUNRATH =
+1404	p	HENRIC KHUNRATH	0	OWN	OWN	rule	rule	None	69, LAPIS PHILOSOPHORUM = 242, HENRIC KHUNRATH = 158, and AMPHITHEATRUM SAPIENTIAE
+1404	p	NEPTUNE	0	OTHER	OPERAND	manual	sum of four names	None	AETERNAE ≡ 64, as is SATURN + NEPTUNE + JUNO + VULCAN.
+1404	p	JUNO	0	OTHER	OPERAND	manual	sum of four names	None	AETERNAE ≡ 64, as is SATURN + NEPTUNE + JUNO + VULCAN.
+1404	p	VULCAN	0	OTHER	OPERAND	manual	sum of four names	None	≡ 64, as is SATURN + NEPTUNE + JUNO + VULCAN .
+1405	p	SUM	0	OTHER	LABEL_OP	manual	year 1595 ≡ 53 with SUM	None	editions: 1595 ≡ 53 with SUM , 1602 ≡ 60, 1609 ≡
+1405	p	SONNE	0	OTHER	LABEL_OP	manual	year 1609 ≡ 67 with SONNE	None	53 with SUM, 1602 ≡ 60, 1609 ≡ 67 with SONNE .
+1407	p	PYRANTIS	0	OTHER	OTHER	rule	rule	None	The user coined PYRANTIS from the caption's pyramidum and asked its relation
+1409	p	PYRANTIS	0	OTHER	OTHER	rule	rule	None	PYRANTIS is not a form of pyramis, whose stem is pyramid-, but
+1412	p	PYRANTIS	0	OWN	OWN	rule	rule	None	By letters PYRANTIS = 122 and ATLANTIS = 96, the shared ANTIS
+1412	p	ATLANTIS	0	OWN	OWN	rule	rule	None	letters PYRANTIS = 122 and ATLANTIS = 96, the shared ANTIS =
+1412	p	TOTH	0	LABEL_COLOC?	LABEL_COLOC	manual	ANTIS = 63, the cell of TOTH	None	96, the shared ANTIS = 63, the cell of TOTH and USER;
+1413	p	ATLANTIS	0	OWN	OWN	rule	rule	None	sum to 92 CHRONOS; and ATLANTIS = 5 × PYRANTIS, one tablet
+1413	p	PYRANTIS	0	OTHER	OPERAND	manual	ATLANTIS = 5 × PYRANTIS; own ring	None	and ATLANTIS = 5 × PYRANTIS , one tablet cell along the
+1413	p	PYRANTIS	1	OTHER	OWN	manual	ATLANTIS = 5 × PYRANTIS; own ring	None	step of the signed ring, PYRANTIS on ring 22 and ATLANTIS on
+1413	p	ATLANTIS	1	OTHER	OTHER	rule	rule	None	of the signed ring, PYRANTIS on ring 22 and ATLANTIS on 23.
+1414	p	ATLANTIS	0	OTHER	OPERAND	manual	input of the Atbash mirror	None	The Atbash mirror of ATLANTIS is 120, the cell of PYRAMIDUM.
+1414	p	PYRAMIDUM	0	LABEL_COLOC?	LABEL_OP	manual	Atbash mirror of ATLANTIS is 120, the cell of PYRAMIDUM	None	The Atbash mirror of ATLANTIS is 120, the cell of PYRAMIDUM .
+1415	p	PYRANTIS	0	OTHER	OTHER	rule	rule	None	PYRANTIS is a residue with roots 76 and 181, its fold 135
+1415	p	CONFLAGRATION	0	OTHER	LABEL_OP	manual	fold of PYRANTIS, 135, the letter sum of CONFLAGRATION	None	and the letter sum of CONFLAGRATION , its inverse 158 is HENRIC
+1415	p	HENRIC KHUNRATH	0	OTHER	LABEL_OP	manual	inverse 158 is HENRIC KHUNRATH	None	letter sum of CONFLAGRATION, its inverse 158 is HENRIC KHUNRATH by letters;
+1416	p	ATLANTIS	0	OTHER	OWN	manual	ATLANTIS's own readings	None	ATLANTIS is a non-residue, its inverse 83 the cell of TELESMI, its
+1416	p	TELESMI	0	LABEL_COLOC?	LABEL_OP	manual	inverse of ATLANTIS, 83, the cell of TELESMI	None	inverse 83 the cell of TELESMI , its half 48 that of
+1416	p	SAIS	0	LABEL_COLOC?	LABEL_OP	manual	half of ATLANTIS, 48, that of SAIS	None	the cell of TELESMI, its half 48 that of SAIS and IGNEM.
+1417	p	HERMES	0	LABEL_COLOC?	LABEL_COLOC	manual	stem ATLANT- = 68, the cell of HERMES	None	= 68, the cell of HERMES , PYRANT- = 94, the ending
+1418	p	PYRAMID	0	OTHER	OTHER	rule	rule	None	PYRAMID - = 86 TIKKUN = g⁻¹, and down the declension PYRAMIS
+1418	p	PYRAMIS	0	OWN	OWN	rule	rule	None	g⁻¹, and down the declension PYRAMIS 101, PYRAMIDIS 114, PYRAMIDI 95, PYRAMIDEM
+1418	p	PYRAMIDUM	0	OWN	OWN	rule	rule	None	104, PYRAMIDE 91, PYRAMIDES 110, PYRAMIDUM 120, PYRAMIDIBUS 137 EYE OF HORUS;
+1419	p	ATLAS	0	OWN	OWN	rule	rule	None	ATLAS 53, ATLANTI 77, ATLANTEM 86, ATLANTE 73, ATLANTES 92, ATLANTUM 102,
+1420	p	MAIA	0	OWN	OWN	rule	rule	None	MAIA = 24, PLEIADES = 71, PYROS, the Greek genitive of fire,
+1420	p	PLEIADES	0	OWN	OWN	rule	rule	None	MAIA = 24, PLEIADES = 71, PYROS, the Greek genitive of fire,
+1420	p	PYROS	0	OTHER	OTHER	rule	rule	None	= 24, PLEIADES = 71, PYROS , the Greek genitive of fire,
+1421	p	TETRAHEDRON	0	OWN	OWN	rule	rule	None	TETRAHEDRON = 128, PLATO = 64, POSEIDON = 97, PILLARS OF HERCULES
+1421	p	PILLARS OF HERCULES	0	OWN	OWN	rule	rule	None	128, PLATO = 64, POSEIDON = 97, PILLARS OF HERCULES = 199.
+1422	p	ECHIS	0	OWN	OWN	rule	rule	None	ECHIS = 44, ECHIS PYRAMIDUM = 164 = Γ(63), SCYTHALE PYRAMIDUM =
+1422	p	ECHIS PYRAMIDUM	0	OWN	OWN	rule	rule	None	ECHIS = 44, ECHIS PYRAMIDUM = 164 = Γ(63), SCYTHALE PYRAMIDUM =
+1422	p	PYRAMIDUM	0	OWN	OWN	rule	rule	None	= 164 = Γ(63), SCYTHALE PYRAMIDUM = 213 = 257 − 44,
+1442	p	HERMES	0	LABEL_COLOC?	LABEL_OP	manual	letter count 839 ≡ 68, the cell of HERMES	None	≡ 68, the cell of HERMES ; its sum is 10594 ≡
+1448	p	ZRN	0	PROPERTY?	PROPERTY	manual	a word ×4 = 104 named ZRN's φ part	None	TOTIUS, four times, is 104, ZRN 's φ part;
+1451	p	SOL	0	OTHER	OTHER	rule	rule	None	SOL , DIXI and HABEBIS are 46 and MUNDUS 92, the two
+1451	p	MUNDUS	0	OWN	OWN	rule	rule	None	and HABEBIS are 46 and MUNDUS 92, the two fixed points of
+1453	p	SUPERIUS	0	OTHER	OTHER	rule	rule	None	SUPERIUS , FORTITUDO and INFERIORUM are 128, and INFERIUS, VENTUS, SUBTILEM and
+1453	p	FORTITUDO	0	OTHER	OTHER	rule	rule	None	SUPERIUS, FORTITUDO and INFERIORUM are 128, and INFERIUS, VENTUS, SUBTILEM and VOCATUS
+1453	p	INFERIUS	0	OTHER	OTHER	rule	rule	None	and INFERIORUM are 128, and INFERIUS , VENTUS, SUBTILEM and VOCATUS 101.
+1453	p	VENTUS	0	OTHER	OTHER	rule	rule	None	and INFERIORUM are 128, and INFERIUS, VENTUS , SUBTILEM and VOCATUS 101.
+1454	p	HERMES	0	OTHER	OTHER	rule	rule	None	six are themselves tablet words: A, AB, TERRA, SINE, HERMES and TRISMEGISTUS.
+1454	p	TRISMEGISTUS	0	OTHER	OTHER	rule	rule	None	are themselves tablet words: A, AB, TERRA, SINE, HERMES and TRISMEGISTUS .
+1494	p	TARGET	0	OWN	OWN	rule	rule	None	BLOCK is 43 CHARM, TARGET 71 TEMPLE, MINER 59 SHIVA, MINING 66
+1591	tr	I AM	0	OTHER	LABEL_OP	manual	opcode 1 named I AM; second is a quoted phrase	1	1 | IDENT | I AM | acc ← pc. | "I
+1591	tr	I AM	1	OTHER	OTHER	manual	opcode 1 named I AM; second is a quoted phrase	1	acc ← pc. | " I AM word" with the fold partner
+2023	p	START	0	OTHER	OTHER	rule	rule	None	The JSON under Documents/ START has moved as well, and the three
+2024	tr	START	0	OTHER	OTHER	rule	rule	None	This directory's JSON, 555 | START JSON, 555 | Second copy's machine,
+2033	p	START	0	OTHER	OTHER	rule	rule	None	START reads cobalt 1388 K → 103 and nickel 650 K →
+2033	p	START	1	OTHER	OTHER	rule	rule	None	item 12; the machine takes cobalt from START and nickel from here.
+2034	p	START	0	OTHER	OTHER	rule	rule	None	is in this directory and the machine and not in START .
+2039	p	START	0	OTHER	OTHER	rule	rule	None	The START JSON is unchanged at 555 and still differs at its
+2046	p	START	0	OTHER	OTHER	rule	rule	None	this directory, not under Documents/ START , not in the second copy
+2046	p	START	1	OTHER	OTHER	rule	rule	None	not in any of the four older machine editions under START .
+2112	tr	START	0	OTHER	OTHER	rule	rule	None	of three letters or fewer; START and this directory differ at 75,
+2133	tr	I AM	0	OTHER	LABEL_OP	manual	Γ(∞) = 1 = I AM	1	HORUS; Γ(∞) = 1 = I AM ; 258 = 257 +
+2146	tr	AIM	0	OTHER	OTHER	rule	rule	None	I + M = 23, AIM at 23 and I AM at
+2146	tr	I AM	0	OTHER	OTHER	rule	rule	23	23, AIM at 23 and I AM at 1 in the tablet
+2147	tr	AIM	0	OTHER	OTHER	rule	rule	None	AIM and I AM: A + I + M = 23; dlog
+2147	tr	I AM	0	OTHER	OTHER	rule	rule	23	AIM and I AM : A + I + M = 23;
+2147	tr	AIM	1	OTHER	OTHER	rule	rule	None	· 9 · 13; b₁( AIM ) = 58, b₁(I AM) =
+2147	tr	I AM	1	OTHER	OTHER	rule	rule	None	13; b₁(AIM) = 58, b₁( I AM ) = 50, norms 41
+2147	tr	THAT	0	OWN	OWN	rule	rule	None	= 3⁻¹, w(69) = 256; THAT = 49 ≡ 58 × 23
+2147	tr	I AM THAT I AM	0	OWN	OWN	rule	rule	None	23 ≡ 58³, I AM THAT I AM = 95 with 46
+2147	tr	EHYEH	0	OWN	OWN	rule	rule	None	1 and 23⁻¹ = 190, EHYEH = ASHER = 51, EHYEH ASHER
+2147	tr	ASHER	0	OWN	OWN	rule	rule	None	23⁻¹ = 190, EHYEH = ASHER = 51, EHYEH ASHER EHYEH =
+2147	tr	EHYEH ASHER EHYEH	0	OWN	OWN	rule	rule	None	= ASHER = 51, EHYEH ASHER EHYEH = 153; the dlog cycle
+2147	tr	WHO	0	OWN	OWN	rule	rule	None	3087 → 8352 → 6174; WHO = 46, WHO AM I =
+2147	tr	WHO AM I	0	OWN	OWN	rule	rule	None	6174; WHO = 46, WHO AM I = 69 = 3 ×
+2147	tr	TARGET	0	OWN	OWN	rule	rule	None	dlog 29, Γ(69) = 65, TARGET = 71 with Atbash 91 ≡
+2148	tr	ZRN	0	OTHER	OTHER	rule	rule	None	mirror in the plane and ZRN : a + a′ = 27k
+2148	tr	AIM	0	OTHER	OTHER	rule	rule	None	≡ 27k(k + 1)/2 for AIM , I AM, RITO, EHYEH, ASHER
+2148	tr	I AM	0	OTHER	OTHER	rule	rule	None	27k(k + 1)/2 for AIM, I AM , RITO, EHYEH, ASHER and
+2148	tr	EHYEH	0	OTHER	OTHER	rule	rule	None	for AIM, I AM, RITO, EHYEH , ASHER and ZRN with the
+2148	tr	ASHER	0	OTHER	OTHER	rule	rule	None	AIM, I AM, RITO, EHYEH, ASHER and ZRN with the six mirror
+2148	tr	ZRN	1	OTHER	OTHER	rule	rule	None	AM, RITO, EHYEH, ASHER and ZRN with the six mirror points as
+2148	tr	ROTATE	0	OWN	OWN	rule	rule	None	218 × 13 ≡ 7; ROTATE 79 ≡ 104 × 23 and
+2148	tr	ROTATION	0	OWN	OWN	rule	rule	None	image of 23 under Γ, ROTATION 112, QUARTER TURN 173, TURN 73,
+2148	tr	QUARTER TURN	0	OWN	OWN	rule	rule	None	23 under Γ, ROTATION 112, QUARTER TURN 173, TURN 73, BECOMES 62,
+2148	tr	TURN	0	OWN	OWN	rule	rule	None	ROTATION 112, QUARTER TURN 173, TURN 73, BECOMES 62, START 78, HALF
+2148	tr	BECOMES	0	OWN	OWN	rule	rule	None	QUARTER TURN 173, TURN 73, BECOMES 62, START 78, HALF TURN 100;
+2148	tr	START	0	OWN	OWN	rule	rule	None	173, TURN 73, BECOMES 62, START 78, HALF TURN 100; 26 ×
+2148	tr	HALF TURN	0	OWN	OWN	rule	rule	None	73, BECOMES 62, START 78, HALF TURN 100; 26 × 16 ≡
+2148	tr	SCRIBE	0	OWN	OWN	rule	rule	None	other twelve as tabled; then SCRIBE = 56, TOTH = 63, THOTH
+2148	tr	TOTH	0	OWN	OWN	rule	rule	None	tabled; then SCRIBE = 56, TOTH = 63, THOTH = 71, TRISMEGISTUS
+2148	tr	THOTH	0	OWN	OWN	rule	rule	None	= 56, TOTH = 63, THOTH = 71, TRISMEGISTUS = 179 ≡
+2148	tr	TRISMEGISTUS	0	OWN	OWN	rule	rule	None	= 63, THOTH = 71, TRISMEGISTUS = 179 ≡ 71 × 17,
+2149	tr	TOTH	0	OTHER	OTHER	rule	rule	None	TOTH , THOTH and the rings: TOTH = 63 and THOTH =
+2149	tr	THOTH	0	OTHER	OTHER	rule	rule	None	TOTH, THOTH and the rings: TOTH = 63 and THOTH = 71
+2149	tr	TOTH	1	OWN	OWN	rule	rule	None	TOTH, THOTH and the rings: TOTH = 63 and THOTH = 71
+2149	tr	THOTH	1	OWN	OWN	rule	rule	None	rings: TOTH = 63 and THOTH = 71 with dlog, ray, character,
+2149	tr	TOTH	2	OTHER	OTHER	rule	rule	None	71 = 142 = b₁( TOTH ); 34830 = 258 × 135,
+2150	tr	SATURDAY	0	OWN	OWN	rule	rule	None	cells on the rings tabled; SATURDAY = 109 absent from the tablet
+2152	tr	INFERIUS	0	OWN	OWN	rule	rule	None	156 = 65 + 91; INFERIUS = 101 = 257 − 156,
+2152	tr	SUPERIUS	0	OWN	OWN	rule	rule	None	101 = 257 − 156, SUPERIUS = 128, 229 × 156 ≡
+2152	tr	SOL	0	OWN	OWN	rule	rule	None	+ 92, 118² ≡ 46; SOL 46, LUNA 48, TERRA 62, VENTUS
+2152	tr	LUNA	0	OWN	OWN	rule	rule	None	118² ≡ 46; SOL 46, LUNA 48, TERRA 62, VENTUS = KHUNRATH
+2152	tr	VENTUS	0	OWN	OWN	rule	rule	None	46, LUNA 48, TERRA 62, VENTUS = KHUNRATH = 101, TELESMI 83;
+2152	tr	KHUNRATH	0	OWN	OWN	rule	rule	None	48, TERRA 62, VENTUS = KHUNRATH = 101, TELESMI 83; VERUM SINE
+2152	tr	TELESMI	0	OWN	OWN	rule	rule	None	VENTUS = KHUNRATH = 101, TELESMI 83; VERUM SINE MENDACIO 190 with
+2152	tr	VERUM SINE MENDACIO	0	OWN	OWN	rule	rule	None	= 101, TELESMI 83; VERUM SINE MENDACIO 190 with 190 × 23
+2152	tr	CERTUM ET VERISSIMUM	0	OWN	OWN	rule	rule	None	× 23 ≡ 1, CERTUM ET VERISSIMUM 253, OPERATIO SOLIS 173, TABULA
+2152	tr	OPERATIO SOLIS	0	OWN	OWN	rule	rule	None	1, CERTUM ET VERISSIMUM 253, OPERATIO SOLIS 173, TABULA SMARAGDINA 144; BOUSTROPHEDON
+2152	tr	TABULA SMARAGDINA	0	OWN	OWN	rule	rule	None	VERISSIMUM 253, OPERATIO SOLIS 173, TABULA SMARAGDINA 144; BOUSTROPHEDON 172 mirroring to
+2152	tr	BOUSTROPHEDON	0	OWN	OWN	rule	rule	None	SOLIS 173, TABULA SMARAGDINA 144; BOUSTROPHEDON 172 mirroring to 179, ARUKU KURENGA
+2152	tr	ARUKU KURENGA	0	OWN	OWN	rule	rule	None	BOUSTROPHEDON 172 mirroring to 179, ARUKU KURENGA 149 with 149 × 69
+2152	tr	MAMARI	0	OWN	OWN	rule	rule	None	149 × 69 ≡ 1, MAMARI 55, PIMANDER = RAPA NUI =
+2152	tr	PIMANDER	0	OWN	OWN	rule	rule	None	69 ≡ 1, MAMARI 55, PIMANDER = RAPA NUI = 80, POIMANDRES
+2152	tr	RAPA NUI	0	OWN	OWN	rule	rule	None	1, MAMARI 55, PIMANDER = RAPA NUI = 80, POIMANDRES mirroring to
+2152	tr	POIMANDRES	0	OTHER	OTHER	rule	rule	None	= RAPA NUI = 80, POIMANDRES mirroring to 156; the four named
+2153	tr	PYRANTIS	0	OWN	OWN	manual	PYRANTIS 122	None	Pimander and caption as listed; PYRANTIS 122, ATLANTIS 96 = 5 ×
+2153	tr	ATLANTIS	0	OWN	OWN	rule	rule	None	caption as listed; PYRANTIS 122, ATLANTIS 96 = 5 × 122, ANTIS
+2153	tr	ATLANTIS	1	OWN	OWN	rule	rule	None	ATL 33, the mirror of ATLANTIS 120, 257 − 122 = 135
+2153	tr	CONFLAGRATION	0	OTHER	LABEL_OP	manual	257 − 122 = 135 = CONFLAGRATION	None	− 122 = 135 = CONFLAGRATION , 122 × 158 ≡ 1,
+2153	tr	MAIA	0	OWN	OWN	rule	rule	None	and both declensions as listed; MAIA 24, PLEIADES 71, PYROS 93; ECHIS
+2153	tr	PLEIADES	0	OWN	OWN	rule	rule	None	declensions as listed; MAIA 24, PLEIADES 71, PYROS 93; ECHIS 44, ECHIS
+2153	tr	PYROS	0	OWN	OWN	rule	rule	None	listed; MAIA 24, PLEIADES 71, PYROS 93; ECHIS 44, ECHIS PYRAMIDUM 164,
+2153	tr	ECHIS	0	OWN	OWN	rule	rule	None	24, PLEIADES 71, PYROS 93; ECHIS 44, ECHIS PYRAMIDUM 164, SCYTHALE PYRAMIDUM
+2153	tr	ECHIS PYRAMIDUM	0	OWN	OWN	rule	rule	None	71, PYROS 93; ECHIS 44, ECHIS PYRAMIDUM 164, SCYTHALE PYRAMIDUM 213, 1827
+2153	tr	PYRAMIDUM	0	OWN	OWN	rule	rule	None	44, ECHIS PYRAMIDUM 164, SCYTHALE PYRAMIDUM 213, 1827 ≡ 28; the fifteen
+2183	tr	START	0	OTHER	OTHER	rule	rule	None	D still has 451; the START JSON has 555 and differs at
+2186	tr	TOTH	0	OTHER	OTHER	rule	rule	None	Found when a reading of TOTH called 58050 the antipode. Replaced in
+2232	li	START	0	OTHER	OTHER	rule	rule	None	PDF; the copies under ~/Documents/ START named in the project rules, whose
+2251	li	START	0	OTHER	OTHER	rule	rule	None	words with 413 additions, the START JSON's moved Curie placements, and the
+2270	li	I AM	0	OTHER	LABEL_OP	manual	Γ(∞) = 1 = I AM	1	eye: Γ(∞) = 1 = I AM , Γ(137) = ∞ at
+2282	li	START	0	OTHER	OTHER	rule	rule	None	both this directory's copy and the pre-bismuth copy under Documents/ START .
+2299	li	I AM	0	OTHER	LABEL_OP	manual	Γ(∞) = 1 = I AM	1	Γ(∞) = 1 = I AM , Γ(137) = ∞ at the
+2310	li	AIM	0	OWN	OWN	rule	rule	None	the thirteen shortest-word chains with AIM = I AM at 23; two
+2310	li	I AM	0	OTHER	OTHER	rule	rule	23	shortest-word chains with AIM = I AM at 23; two ledger rows.
+2315	li	AIM	0	OTHER	OTHER	rule	rule	None	night: the extension fields gained AIM , I AM and the turn
+2315	li	I AM	0	OTHER	OTHER	rule	rule	None	the extension fields gained AIM, I AM and the turn of ZRN:
+2315	li	ZRN	0	OTHER	OTHER	rule	rule	None	AM and the turn of ZRN : the cell 23 as half
+2315	li	WHO AM I	0	OTHER	OTHER	rule	rule	None	the phrases by letters, WHO AM I and TARGET, the Atbash as
+2315	li	TARGET	0	OTHER	OTHER	rule	rule	None	letters, WHO AM I and TARGET , the Atbash as a point
+2315	li	EHYEH	0	OTHER	OTHER	rule	rule	None	plane, the Q pair of EHYEH and ASHER, ZRN under the three
+2315	li	ASHER	0	OTHER	OTHER	rule	rule	None	Q pair of EHYEH and ASHER , ZRN under the three maps
+2315	li	ZRN	1	OTHER	OTHER	rule	rule	None	pair of EHYEH and ASHER, ZRN under the three maps and as
+2317	li	SCRIBE	0	OTHER	OTHER	rule	rule	None	Four more followed, SCRIBE , TOTH, THOTH and TRISMEGISTUS, 1157 → 1161,
+2317	li	TOTH	0	OTHER	OTHER	rule	rule	None	Four more followed, SCRIBE, TOTH , THOTH and TRISMEGISTUS, 1157 → 1161,
+2317	li	THOTH	0	OTHER	OTHER	rule	rule	None	Four more followed, SCRIBE, TOTH, THOTH and TRISMEGISTUS, 1157 → 1161, the
+2317	li	TRISMEGISTUS	0	OTHER	OTHER	rule	rule	None	followed, SCRIBE, TOTH, THOTH and TRISMEGISTUS , 1157 → 1161, the same
+2318	li	AIM	0	OTHER	OTHER	rule	rule	None	2026-09-18, late night: the AIM subsection gained two paragraphs, TOTH and THOTH
+2318	li	TOTH	0	OTHER	OTHER	rule	rule	None	AIM subsection gained two paragraphs, TOTH and THOTH read through the field,
+2318	li	THOTH	0	OTHER	OTHER	rule	rule	None	gained two paragraphs, TOTH and THOTH read through the field, the readout
+2327	li	TOTH	0	OTHER	OTHER	rule	rule	None	ring 31 circled after RING TOTH , the layer off and on.
+2329	li	AIM	0	OTHER	OTHER	rule	rule	None	this review ×17 in the AIM subsection is now called multiplication by
+2331	li	AIM	0	OTHER	OTHER	rule	rule	None	2026-09-18, the rings' structure: the AIM subsection gained a paragraph and a
+2333	li	AIM	0	OTHER	OTHER	rule	rule	None	2026-09-18, the store: the AIM subsection gained RITO's ring, ring 18 as
+2335	li	AIM	0	OTHER	OTHER	rule	rule	None	the user's word: three blocks, AIM , I AM AND ZRN, TOTH
+2335	li	I AM	0	OTHER	OTHER	rule	rule	None	user's word: three blocks, AIM, I AM AND ZRN, TOTH AND THOTH,
+2335	li	ZRN	0	OTHER	OTHER	rule	rule	None	blocks, AIM, I AM AND ZRN , TOTH AND THOTH, and THE
+2335	li	TOTH	0	OTHER	OTHER	rule	rule	None	AIM, I AM AND ZRN, TOTH AND THOTH, and THE RINGS AND
+2335	li	THOTH	0	OTHER	OTHER	rule	rule	None	AM AND ZRN, TOTH AND THOTH , and THE RINGS AND THE
+2336	li	SUPERIUS	0	OTHER	OTHER	rule	rule	None	AS ABOVE SO BELOW with SUPERIUS and INFERIUS as its fold point,
+2336	li	INFERIUS	0	OTHER	OTHER	rule	rule	None	SO BELOW with SUPERIUS and INFERIUS as its fold point, fold and
+2336	li	RONGORONGO	0	OTHER	OTHER	rule	rule	None	and inverse, EMERALD TABLET and RONGORONGO summing to −1 with Γ(118) =
+2339	li	SUPERIUS	0	OTHER	OTHER	rule	rule	None	the day's earlier readings of SUPERIUS and INFERIUS hold in modern spelling
+2339	li	INFERIUS	0	OTHER	OTHER	rule	rule	None	earlier readings of SUPERIUS and INFERIUS hold in modern spelling only, and
+2340	li	ATLANTIS	0	OWN	OWN	rule	rule	None	corrected to Geoffroy Saint-Hilaire, and ATLANTIS = 5 × PYRANTIS; and the
+2340	li	PYRANTIS	0	OTHER	OPERAND	manual	ATLANTIS = 5 × PYRANTIS	None	and ATLANTIS = 5 × PYRANTIS ; and the Tabula sentence by
+2344	li	SUPERIUS	0	OTHER	OTHER	rule	rule	None	→ 1258 entries, among them SUPERIUS , INFERIUS, SOL, LUNA, VENTUS, TELESMI,
+2344	li	INFERIUS	0	OTHER	OTHER	rule	rule	None	1258 entries, among them SUPERIUS, INFERIUS , SOL, LUNA, VENTUS, TELESMI, TABULA
+2344	li	SOL	0	OTHER	OTHER	rule	rule	None	entries, among them SUPERIUS, INFERIUS, SOL , LUNA, VENTUS, TELESMI, TABULA SMARAGDINA,
+2344	li	LUNA	0	OTHER	OTHER	rule	rule	None	among them SUPERIUS, INFERIUS, SOL, LUNA , VENTUS, TELESMI, TABULA SMARAGDINA, SIC
+2344	li	VENTUS	0	OTHER	OTHER	rule	rule	None	them SUPERIUS, INFERIUS, SOL, LUNA, VENTUS , TELESMI, TABULA SMARAGDINA, SIC MUNDUS
+2344	li	TELESMI	0	OTHER	OTHER	rule	rule	None	SUPERIUS, INFERIUS, SOL, LUNA, VENTUS, TELESMI , TABULA SMARAGDINA, SIC MUNDUS CREATUS
+2344	li	TABULA SMARAGDINA	0	OTHER	OTHER	rule	rule	None	INFERIUS, SOL, LUNA, VENTUS, TELESMI, TABULA SMARAGDINA , SIC MUNDUS CREATUS EST,
+2344	li	SIC MUNDUS CREATUS EST	0	OTHER	OTHER	rule	rule	None	VENTUS, TELESMI, TABULA SMARAGDINA, SIC MUNDUS CREATUS EST , PIMANDER, EGO SUM,
+2344	li	PIMANDER	0	OTHER	OTHER	rule	rule	None	SMARAGDINA, SIC MUNDUS CREATUS EST, PIMANDER , EGO SUM, KHUNRATH, MAGNESIA, LAPIS
+2344	li	EGO SUM	0	OTHER	OTHER	rule	rule	None	SIC MUNDUS CREATUS EST, PIMANDER, EGO SUM , KHUNRATH, MAGNESIA, LAPIS PHILOSOPHORUM,
+2344	li	KHUNRATH	0	OTHER	OTHER	rule	rule	None	CREATUS EST, PIMANDER, EGO SUM, KHUNRATH , MAGNESIA, LAPIS PHILOSOPHORUM, PYRAMIDUM, PYRANTIS,
+2344	li	MAGNESIA	0	OTHER	OTHER	rule	rule	None	EST, PIMANDER, EGO SUM, KHUNRATH, MAGNESIA , LAPIS PHILOSOPHORUM, PYRAMIDUM, PYRANTIS, ATLANTIS,
+2344	li	LAPIS PHILOSOPHORUM	0	OTHER	OTHER	rule	rule	None	PIMANDER, EGO SUM, KHUNRATH, MAGNESIA, LAPIS PHILOSOPHORUM , PYRAMIDUM, PYRANTIS, ATLANTIS, ATLAS,
+2344	li	PYRAMIDUM	0	OTHER	OTHER	rule	rule	None	SUM, KHUNRATH, MAGNESIA, LAPIS PHILOSOPHORUM, PYRAMIDUM , PYRANTIS, ATLANTIS, ATLAS, MAIA, PLEIADES,
+2344	li	PYRANTIS	0	OTHER	OTHER	rule	rule	None	KHUNRATH, MAGNESIA, LAPIS PHILOSOPHORUM, PYRAMIDUM, PYRANTIS , ATLANTIS, ATLAS, MAIA, PLEIADES, TETRAHEDRON,
+2344	li	ATLANTIS	0	OTHER	OTHER	rule	rule	None	MAGNESIA, LAPIS PHILOSOPHORUM, PYRAMIDUM, PYRANTIS, ATLANTIS , ATLAS, MAIA, PLEIADES, TETRAHEDRON, TIMAEUS,
+2344	li	ATLAS	0	OTHER	OTHER	rule	rule	None	LAPIS PHILOSOPHORUM, PYRAMIDUM, PYRANTIS, ATLANTIS, ATLAS , MAIA, PLEIADES, TETRAHEDRON, TIMAEUS, ECHIS
+2344	li	MAIA	0	OTHER	OTHER	rule	rule	None	PHILOSOPHORUM, PYRAMIDUM, PYRANTIS, ATLANTIS, ATLAS, MAIA , PLEIADES, TETRAHEDRON, TIMAEUS, ECHIS PYRAMIDUM,
+2344	li	PLEIADES	0	OTHER	OTHER	rule	rule	None	PYRAMIDUM, PYRANTIS, ATLANTIS, ATLAS, MAIA, PLEIADES , TETRAHEDRON, TIMAEUS, ECHIS PYRAMIDUM, BOUSTROPHEDON,
+2344	li	TETRAHEDRON	0	OTHER	OTHER	rule	rule	None	PYRANTIS, ATLANTIS, ATLAS, MAIA, PLEIADES, TETRAHEDRON , TIMAEUS, ECHIS PYRAMIDUM, BOUSTROPHEDON, ARUKU
+2344	li	TIMAEUS	0	OTHER	OTHER	rule	rule	None	ATLANTIS, ATLAS, MAIA, PLEIADES, TETRAHEDRON, TIMAEUS , ECHIS PYRAMIDUM, BOUSTROPHEDON, ARUKU KURENGA,
+2344	li	ECHIS PYRAMIDUM	0	OTHER	OTHER	rule	rule	None	ATLAS, MAIA, PLEIADES, TETRAHEDRON, TIMAEUS, ECHIS PYRAMIDUM , BOUSTROPHEDON, ARUKU KURENGA, RAPA
+2344	li	BOUSTROPHEDON	0	OTHER	OTHER	rule	rule	None	PLEIADES, TETRAHEDRON, TIMAEUS, ECHIS PYRAMIDUM, BOUSTROPHEDON , ARUKU KURENGA, RAPA NUI and
+2344	li	ARUKU KURENGA	0	OTHER	OTHER	rule	rule	None	TETRAHEDRON, TIMAEUS, ECHIS PYRAMIDUM, BOUSTROPHEDON, ARUKU KURENGA , RAPA NUI and the
+2344	li	RAPA NUI	0	OTHER	OTHER	rule	rule	None	ECHIS PYRAMIDUM, BOUSTROPHEDON, ARUKU KURENGA, RAPA NUI and the German of the

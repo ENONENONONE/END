@@ -1,0 +1,1706 @@
+{
+ "per_word": {
+  "EDGE": {
+   "cells": [
+    21
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "AIM": {
+   "cells": [
+    23
+   ],
+   "step": "pre-existing",
+   "sentences_mentioning": 32,
+   "label_sentences": 5,
+   "label_or_possessive_sentences": 8,
+   "own_sentences": 7,
+   "occurrences": {
+    "OTHER": 22,
+    "NUM_LABEL": 5,
+    "OWN": 7,
+    "POSSESSIVE": 3,
+    "CELL_OF": 1
+   }
+  },
+  "I AM": {
+   "cells": [
+    23
+   ],
+   "step": "pre-aim->pre-rotate",
+   "sentences_mentioning": 25,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OTHER": 26,
+    "OWN": 1
+   }
+  },
+  "MAIA": {
+   "cells": [
+    24
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 1
+   }
+  },
+  "ERDE": {
+   "cells": [
+    32
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "AMEN": {
+   "cells": [
+    33
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "OBEN": {
+   "cells": [
+    36
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "ECHIS": {
+   "cells": [
+    44
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2
+   }
+  },
+  "ABOVE": {
+   "cells": [
+    45
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "MOND": {
+   "cells": [
+    46
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "SOL": {
+   "cells": [
+    46
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 5,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 3
+   }
+  },
+  "WHO": {
+   "cells": [
+    46
+   ],
+   "step": "pre-rotate->pre-toth",
+   "sentences_mentioning": 4,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3,
+    "OTHER": 1,
+    "NUM_LABEL": 1
+   }
+  },
+  "LUNA": {
+   "cells": [
+    48
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 1
+   }
+  },
+  "SAIS": {
+   "cells": [
+    48
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 0,
+   "occurrences": {
+    "CELL_OF": 1
+   }
+  },
+  "THAT": {
+   "cells": [
+    49
+   ],
+   "step": "pre-aim->pre-rotate",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3
+   }
+  },
+  "ASHER": {
+   "cells": [
+    51
+   ],
+   "step": "pre-aim->pre-rotate",
+   "sentences_mentioning": 11,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 2,
+   "own_sentences": 4,
+   "occurrences": {
+    "OWN": 4,
+    "OTHER": 5,
+    "POSSESSIVE": 2
+   }
+  },
+  "EHYEH": {
+   "cells": [
+    51
+   ],
+   "step": "pre-aim->pre-rotate",
+   "sentences_mentioning": 9,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 4,
+   "occurrences": {
+    "OWN": 4,
+    "OTHER": 5
+   }
+  },
+  "FLOOD": {
+   "cells": [
+    52
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "ATLAS": {
+   "cells": [
+    53
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1,
+    "OTHER": 1
+   }
+  },
+  "SABBATH": {
+   "cells": [
+    53
+   ],
+   "step": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "SUM": {
+   "cells": [
+    53
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OTHER": 3,
+    "OWN": 1
+   }
+  },
+  "DELUGE": {
+   "cells": [
+    54
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "MAMARI": {
+   "cells": [
+    55
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2
+   }
+  },
+  "SCRIBE": {
+   "cells": [
+    56
+   ],
+   "step": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 5,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OTHER": 4,
+    "OWN": 2
+   }
+  },
+  "TERM": {
+   "cells": [
+    56
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "BELOW": {
+   "cells": [
+    57
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "FEWER": {
+   "cells": [
+    57
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "MATER": {
+   "cells": [
+    57
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "IGNIS": {
+   "cells": [
+    58
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "ZRN": {
+   "cells": [
+    58
+   ],
+   "step": "pre-aim->pre-rotate",
+   "sentences_mentioning": 16,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 5,
+   "own_sentences": 4,
+   "occurrences": {
+    "OTHER": 10,
+    "OWN": 4,
+    "POSSESSIVE": 5
+   }
+  },
+  "HIMMEL": {
+   "cells": [
+    60
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "JUNO": {
+   "cells": [
+    60
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "PATER": {
+   "cells": [
+    60
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "BECOMES": {
+   "cells": [
+    62
+   ],
+   "step": "pre-rotate->pre-toth",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3
+   }
+  },
+  "BORDER": {
+   "cells": [
+    62
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "LIMIT": {
+   "cells": [
+    63
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "TOTH": {
+   "cells": [
+    63
+   ],
+   "step": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 15,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 3,
+   "own_sentences": 6,
+   "occurrences": {
+    "OTHER": 8,
+    "OWN": 6,
+    "POSSESSIVE": 2,
+    "CELL_OF": 1
+   }
+  },
+  "VATER": {
+   "cells": [
+    66
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "SONNE": {
+   "cells": [
+    67
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "HERMES": {
+   "cells": [
+    68
+   ],
+   "step": "pre-existing",
+   "sentences_mentioning": 5,
+   "label_sentences": 2,
+   "label_or_possessive_sentences": 2,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 3,
+    "CELL_OF": 2
+   }
+  },
+  "COELUM": {
+   "cells": [
+    69
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "MAGNESIA": {
+   "cells": [
+    69
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1,
+    "OTHER": 1
+   }
+  },
+  "RONGO": {
+   "cells": [
+    69
+   ],
+   "step": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 3
+   }
+  },
+  "WHO AM I": {
+   "cells": [
+    69
+   ],
+   "step": "pre-rotate->pre-toth",
+   "sentences_mentioning": 4,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3,
+    "OTHER": 1
+   }
+  },
+  "VIPER": {
+   "cells": [
+    70
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "WINDT": {
+   "cells": [
+    70
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "PLEIADES": {
+   "cells": [
+    71
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 1
+   }
+  },
+  "TARGET": {
+   "cells": [
+    71
+   ],
+   "step": "pre-rotate->pre-toth",
+   "sentences_mentioning": 7,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 4,
+   "occurrences": {
+    "OWN": 4,
+    "CELL_OF": 1,
+    "OTHER": 2
+   }
+  },
+  "THOTH": {
+   "cells": [
+    71
+   ],
+   "step": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 11,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 6,
+   "occurrences": {
+    "OTHER": 7,
+    "OWN": 6
+   }
+  },
+  "ALCHYMIA": {
+   "cells": [
+    72
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "EGYPT": {
+   "cells": [
+    73
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "TURN": {
+   "cells": [
+    73
+   ],
+   "step": "pre-rotate->pre-toth",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3
+   }
+  },
+  "VULCAN": {
+   "cells": [
+    73
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "UNTEN": {
+   "cells": [
+    74
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "ASCENDIT": {
+   "cells": [
+    75
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "SOLON": {
+   "cells": [
+    75
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "START": {
+   "cells": [
+    78
+   ],
+   "step": "pre-rotate->pre-toth",
+   "sentences_mentioning": 14,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3,
+    "OTHER": 13
+   }
+  },
+  "CRITIAS": {
+   "cells": [
+    79
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "ROTATE": {
+   "cells": [
+    79
+   ],
+   "step": "pre-rotate->pre-toth",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3
+   }
+  },
+  "ATLANTIC": {
+   "cells": [
+    80
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "EGO SUM": {
+   "cells": [
+    80
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1,
+    "OTHER": 1
+   }
+  },
+  "PIMANDER": {
+   "cells": [
+    80
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 4,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3,
+    "OTHER": 2
+   }
+  },
+  "RAPA NUI": {
+   "cells": [
+    80
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 4,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 2
+   }
+  },
+  "STERCKE": {
+   "cells": [
+    81
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "DESCENDIT": {
+   "cells": [
+    83
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1,
+    "OTHER": 1
+   }
+  },
+  "TELESMI": {
+   "cells": [
+    83
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 5,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 2,
+    "CELL_OF": 1
+   }
+  },
+  "PYRAMID": {
+   "cells": [
+    86
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "PHAETHON": {
+   "cells": [
+    87
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "TIMAEUS": {
+   "cells": [
+    88
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "SO BELOW": {
+   "cells": [
+    91
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 0,
+   "occurrences": {
+    "NUM_LABEL": 1
+   }
+  },
+  "MUNDUS": {
+   "cells": [
+    92
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "TERMINAL": {
+   "cells": [
+    92
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "PYROS": {
+   "cells": [
+    93
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OTHER": 1,
+    "OWN": 1
+   }
+  },
+  "I AM THAT I AM": {
+   "cells": [
+    95
+   ],
+   "step": "pre-aim->pre-rotate",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3
+   }
+  },
+  "NEPTUNE": {
+   "cells": [
+    95
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "ATLANTIS": {
+   "cells": [
+    96
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 7,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 4,
+   "occurrences": {
+    "OWN": 5,
+    "OTHER": 4
+   }
+  },
+  "MUTTER": {
+   "cells": [
+    97
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "SERPENT": {
+   "cells": [
+    97
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "WEISHEIT": {
+   "cells": [
+    98
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "BOUNDARY": {
+   "cells": [
+    100
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 2,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 1,
+   "occurrences": {
+    "CELL_OF": 1,
+    "OWN": 1
+   }
+  },
+  "HALF TURN": {
+   "cells": [
+    100
+   ],
+   "step": "pre-rotate->pre-toth",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3
+   }
+  },
+  "INFERIUS": {
+   "cells": [
+    101
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 8,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 3,
+    "OTHER": 6
+   }
+  },
+  "KHUNRATH": {
+   "cells": [
+    101
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OTHER": 2,
+    "OWN": 1
+   }
+  },
+  "PYRAMIS": {
+   "cells": [
+    101
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "VENTUS": {
+   "cells": [
+    101
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 4,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 2
+   }
+  },
+  "TERMINALIA": {
+   "cells": [
+    102
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "HORIZON": {
+   "cells": [
+    105
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "NUTRIX": {
+   "cells": [
+    106
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "SATURDAY": {
+   "cells": [
+    109
+   ],
+   "step": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OTHER": 2,
+    "OWN": 1
+   }
+  },
+  "ROTATION": {
+   "cells": [
+    112
+   ],
+   "step": "pre-rotate->pre-toth",
+   "sentences_mentioning": 4,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3,
+    "CELL_OF": 1
+   }
+  },
+  "POIMANDRES": {
+   "cells": [
+    114
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 2
+   }
+  },
+  "THRICE GREAT": {
+   "cells": [
+    114
+   ],
+   "step": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "TERMINUS": {
+   "cells": [
+    119
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "PYRAMIDUM": {
+   "cells": [
+    120
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 6,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 4,
+   "occurrences": {
+    "OWN": 4,
+    "CELL_OF": 1,
+    "OTHER": 1
+   }
+  },
+  "PYRANTIS": {
+   "cells": [
+    122
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 8,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OTHER": 7,
+    "OWN": 2
+   }
+  },
+  "MERCURIUS": {
+   "cells": [
+    127
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "FORTITUDO": {
+   "cells": [
+    128
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "SUPERIUS": {
+   "cells": [
+    128
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 7,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 6
+   }
+  },
+  "TETRAHEDRON": {
+   "cells": [
+    128
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1,
+    "OTHER": 1
+   }
+  },
+  "CONFLAGRATION": {
+   "cells": [
+    135
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 2
+   }
+  },
+  "RONGORONGO": {
+   "cells": [
+    138
+   ],
+   "step": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 5,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OTHER": 4,
+    "OWN": 1
+   }
+  },
+  "TRES PARTES": {
+   "cells": [
+    141
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "HUMIDUM RADICALE": {
+   "cells": [
+    142
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "TABULA SMARAGDINA": {
+   "cells": [
+    144
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 4,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 1,
+   "occurrences": {
+    "CELL_OF": 1,
+    "OTHER": 2,
+    "OWN": 1
+   }
+  },
+  "ARUKU KURENGA": {
+   "cells": [
+    149
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 1
+   }
+  },
+  "RERUM NATURA": {
+   "cells": [
+    150
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "EHYEH ASHER EHYEH": {
+   "cells": [
+    153
+   ],
+   "step": "pre-aim->pre-rotate",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3
+   }
+  },
+  "HENRIC KHUNRATH": {
+   "cells": [
+    158
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1,
+    "OTHER": 1
+   }
+  },
+  "COMPLETUM EST": {
+   "cells": [
+    162
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "ECHIS PYRAMIDUM": {
+   "cells": [
+    164
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 1
+   }
+  },
+  "BOUNDARY MARKER": {
+   "cells": [
+    166
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "BOUSTROPHEDON": {
+   "cells": [
+    172
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 1
+   }
+  },
+  "EINES EINIGEN DINGES": {
+   "cells": [
+    173
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "OPERATIO SOLIS": {
+   "cells": [
+    173
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 3,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2,
+    "OTHER": 1
+   }
+  },
+  "QUARTER TURN": {
+   "cells": [
+    173
+   ],
+   "step": "pre-rotate->pre-toth",
+   "sentences_mentioning": 5,
+   "label_sentences": 2,
+   "label_or_possessive_sentences": 2,
+   "own_sentences": 3,
+   "occurrences": {
+    "OWN": 3,
+    "CELL_OF": 2
+   }
+  },
+  "WERCKE DER SONNEN": {
+   "cells": [
+    173
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  },
+  "TRISMEGISTUS": {
+   "cells": [
+    179
+   ],
+   "step": "pre-toth->pre-rongorongo",
+   "sentences_mentioning": 8,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 2,
+   "occurrences": {
+    "OTHER": 6,
+    "OWN": 2,
+    "NUM_LABEL": 1
+   }
+  },
+  "SUBTILE A SPISSO": {
+   "cells": [
+    186
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "VERUM SINE MENDACIO": {
+   "cells": [
+    190
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2
+   }
+  },
+  "KOHAU RONGORONGO": {
+   "cells": [
+    194
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "PILLARS OF HERCULES": {
+   "cells": [
+    199
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "SEPARABIS TERRAM AB IGNE": {
+   "cells": [
+    203
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "FORTITUDO FORTIS": {
+   "cells": [
+    215
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "JUPITER TERMINUS": {
+   "cells": [
+    218
+   ],
+   "step": "pre-terminus->pre-aim",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "MENS DIVINAE POTENTIAE": {
+   "cells": [
+    220
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "DESIGNATIO PYRAMIDUM": {
+   "cells": [
+    223
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 0,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {}
+  },
+  "LAPIS PHILOSOPHORUM": {
+   "cells": [
+    242
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1,
+    "OTHER": 1
+   }
+  },
+  "ALSO IST DIE WELT GESCHAFFEN": {
+   "cells": [
+    247
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 1,
+   "occurrences": {
+    "OWN": 1
+   }
+  },
+  "HERMES TRISMEGISTUS": {
+   "cells": [
+    247
+   ],
+   "step": "pre-rongorongo->pre-plate",
+   "sentences_mentioning": 3,
+   "label_sentences": 1,
+   "label_or_possessive_sentences": 1,
+   "own_sentences": 1,
+   "occurrences": {
+    "OTHER": 2,
+    "CELL_OF": 1,
+    "OWN": 1
+   }
+  },
+  "CERTUM ET VERISSIMUM": {
+   "cells": [
+    253
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 2,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 2,
+   "occurrences": {
+    "OWN": 2
+   }
+  },
+  "SIC MUNDUS CREATUS EST": {
+   "cells": [
+    254
+   ],
+   "step": "pre-plate->current",
+   "sentences_mentioning": 1,
+   "label_sentences": 0,
+   "label_or_possessive_sentences": 0,
+   "own_sentences": 0,
+   "occurrences": {
+    "OTHER": 1
+   }
+  }
+ },
+ "totals": {
+  "sentences_total": 2403,
+  "added_words_mentioned": 90,
+  "added_words_with_label_use": 13,
+  "label_sentence_word_pairs": 14,
+  "distinct_sentences_with_any_label_use": 11,
+  "distinct_sentences_mentioning_any_added": 117,
+  "occurrence_classes_added": {
+   "CELL_OF": 11,
+   "OWN": 148,
+   "OTHER": 173,
+   "POSSESSIVE": 9,
+   "NUM_LABEL": 3
+  }
+ }
+}

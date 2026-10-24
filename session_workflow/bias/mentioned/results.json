@@ -1,0 +1,1207 @@
+{
+ "a": {
+  "review_distinct": 1059,
+  "review_tokens": 13315,
+  "key_distinct": 453,
+  "key_tokens": 2813,
+  "union_M": 1130,
+  "intersection": 382,
+  "review_only": 677,
+  "key_only": 71,
+  "max_review": 171964123434311021415378099468322303140,
+  "max_key": 19031147999601100800,
+  "variants_union_size": {
+   "unicode_glue": 1130,
+   "drop_decimal_fraction_runs": 1072,
+   "drop_whole_dates": 1130,
+   "keep_script_style": 1130
+  }
+ },
+ "b": {
+  "M": {
+   "0-256": {
+    "present": 257,
+    "size": 257,
+    "fraction": 1.0
+   },
+   "257-999": {
+    "present": 216,
+    "size": 743,
+    "fraction": 0.29071332436069985
+   },
+   "1000-9999": {
+    "present": 374,
+    "size": 9000,
+    "fraction": 0.041555555555555554
+   },
+   "10000-100000": {
+    "present": 155,
+    "size": 90001,
+    "fraction": 0.0017222030866323708
+   }
+  },
+  "review_only_set": {
+   "0-256": {
+    "present": 257,
+    "size": 257,
+    "fraction": 1.0
+   },
+   "257-999": {
+    "present": 211,
+    "size": 743,
+    "fraction": 0.2839838492597577
+   },
+   "1000-9999": {
+    "present": 344,
+    "size": 9000,
+    "fraction": 0.03822222222222222
+   },
+   "10000-100000": {
+    "present": 140,
+    "size": 90001,
+    "fraction": 0.00155553827179698
+   }
+  },
+  "key_only_set": {
+   "0-256": {
+    "present": 236,
+    "size": 257,
+    "fraction": 0.9182879377431906
+   },
+   "257-999": {
+    "present": 29,
+    "size": 743,
+    "fraction": 0.039030955585464336
+   },
+   "1000-9999": {
+    "present": 89,
+    "size": 9000,
+    "fraction": 0.009888888888888888
+   },
+   "10000-100000": {
+    "present": 61,
+    "size": 90001,
+    "fraction": 0.0006777702469972556
+   }
+  },
+  "variants": {
+   "unicode_glue": {
+    "0-256": 1.0,
+    "257-999": 0.29071332436069985,
+    "1000-9999": 0.041555555555555554,
+    "10000-100000": 0.0017222030866323708
+   },
+   "drop_decimal_fraction_runs": {
+    "0-256": 1.0,
+    "257-999": 0.26244952893674295,
+    "1000-9999": 0.03933333333333333,
+    "10000-100000": 0.0016555371606982144
+   },
+   "drop_whole_dates": {
+    "0-256": 1.0,
+    "257-999": 0.29071332436069985,
+    "1000-9999": 0.041555555555555554,
+    "10000-100000": 0.0017222030866323708
+   },
+   "keep_script_style": {
+    "0-256": 1.0,
+    "257-999": 0.29071332436069985,
+    "1000-9999": 0.041555555555555554,
+    "10000-100000": 0.0017222030866323708
+   }
+  },
+  "missing_0_256": [],
+  "above_100000": 128,
+  "per_hundred_200_1999": {
+   "200-299": 0.75,
+   "300-399": 0.43,
+   "400-499": 0.44,
+   "500-599": 0.31,
+   "600-699": 0.33,
+   "700-799": 0.17,
+   "800-899": 0.13,
+   "900-999": 0.17,
+   "1000-1099": 0.27,
+   "1100-1199": 0.22,
+   "1200-1299": 0.08,
+   "1300-1399": 0.08,
+   "1400-1499": 0.1,
+   "1500-1599": 0.06,
+   "1600-1699": 0.1,
+   "1700-1799": 0.08,
+   "1800-1899": 0.07,
+   "1900-1999": 0.13
+  }
+ },
+ "c": {
+  "cells": 257,
+  "total_words": 1258,
+  "min_words": 1,
+  "max_words": 16,
+  "cells_with_1": 26,
+  "empty_cells": [],
+  "p_random_sum_hits_word": 1.0,
+  "count_distribution": {
+   "1": 26,
+   "2": 50,
+   "3": 44,
+   "4": 22,
+   "5": 21,
+   "6": 17,
+   "7": 14,
+   "8": 20,
+   "9": 17,
+   "10": 11,
+   "11": 4,
+   "12": 7,
+   "13": 2,
+   "14": 1,
+   "16": 1
+  }
+ },
+ "d": {
+  "n_sentences": 15,
+  "rows": [
+   {
+    "i": 1,
+    "modern": 443,
+    "plate": 446,
+    "U": 3,
+    "J": 0,
+    "start": "Verum, sine mendacio, certum et verissim"
+   },
+   {
+    "i": 2,
+    "modern": 1436,
+    "plate": 1451,
+    "U": 15,
+    "J": 0,
+    "start": "Quod est inferius est sicut quod est sup"
+   },
+   {
+    "i": 3,
+    "modern": 1027,
+    "plate": 1036,
+    "U": 9,
+    "J": 0,
+    "start": "Et sicut omnes res fuerunt ab uno, medit"
+   },
+   {
+    "i": 4,
+    "modern": 1071,
+    "plate": 1079,
+    "U": 8,
+    "J": 0,
+    "start": "Pater eius est Sol, mater eius Luna; por"
+   },
+   {
+    "i": 5,
+    "modern": 442,
+    "plate": 444,
+    "U": 2,
+    "J": 0,
+    "start": "Pater omnis telesmi totius mundi est hic"
+   },
+   {
+    "i": 6,
+    "modern": 492,
+    "plate": 494,
+    "U": 2,
+    "J": 0,
+    "start": "Vis eius integra est, si versa fuerit in"
+   },
+   {
+    "i": 7,
+    "modern": 664,
+    "plate": 667,
+    "U": 3,
+    "J": 0,
+    "start": "Separabis terram ab igne, subtile a spis"
+   },
+   {
+    "i": 8,
+    "modern": 997,
+    "plate": 1003,
+    "U": 6,
+    "J": 0,
+    "start": "Ascendit a terra in coelum, iterumque de"
+   },
+   {
+    "i": 9,
+    "modern": 317,
+    "plate": 319,
+    "U": 2,
+    "J": 0,
+    "start": "Sic habebis gloriam totius mundi"
+   },
+   {
+    "i": 10,
+    "modern": 320,
+    "plate": 322,
+    "U": 2,
+    "J": 0,
+    "start": "Ideo fugiat a te omnis obscuritas"
+   },
+   {
+    "i": 11,
+    "modern": 1151,
+    "plate": 1157,
+    "U": 6,
+    "J": 0,
+    "start": "Hic est totius fortitudinis fortitudo fo"
+   },
+   {
+    "i": 12,
+    "modern": 254,
+    "plate": 257,
+    "U": 3,
+    "J": 0,
+    "start": "Sic mundus creatus est"
+   },
+   {
+    "i": 13,
+    "modern": 552,
+    "plate": 556,
+    "U": 4,
+    "J": 0,
+    "start": "Hinc erunt adaptationes mirabiles, quaru"
+   },
+   {
+    "i": 14,
+    "modern": 962,
+    "plate": 968,
+    "U": 6,
+    "J": 0,
+    "start": "Itaque vocatus sum Hermes Trismegistus, "
+   },
+   {
+    "i": 15,
+    "modern": 466,
+    "plate": 468,
+    "U": 2,
+    "J": 0,
+    "start": "Completum est quod dixi de operatione So"
+   }
+  ],
+  "hits": [
+   {
+    "sentence": 1,
+    "spelling": "modern",
+    "sum": 443,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 186,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 2,
+    "spelling": "modern",
+    "sum": 1436,
+    "range": "1000-9999",
+    "density": 0.041555555555555554,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 151,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 3,
+    "spelling": "modern",
+    "sum": 1027,
+    "range": "1000-9999",
+    "density": 0.041555555555555554,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 256,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 4,
+    "spelling": "modern",
+    "sum": 1071,
+    "range": "1000-9999",
+    "density": 0.041555555555555554,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 43,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 5,
+    "spelling": "modern",
+    "sum": 442,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 185,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 6,
+    "spelling": "modern",
+    "sum": 492,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 235,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 7,
+    "spelling": "modern",
+    "sum": 664,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 150,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 8,
+    "spelling": "modern",
+    "sum": 997,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 226,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 9,
+    "spelling": "modern",
+    "sum": 317,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 60,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 10,
+    "spelling": "modern",
+    "sum": 320,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 63,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 11,
+    "spelling": "modern",
+    "sum": 1151,
+    "range": "1000-9999",
+    "density": 0.041555555555555554,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 123,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 12,
+    "spelling": "modern",
+    "sum": 254,
+    "range": "0-256",
+    "density": 1.0,
+    "in_M": true,
+    "in_review": true,
+    "in_key": true,
+    "cell": 254,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 13,
+    "spelling": "modern",
+    "sum": 552,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 38,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 14,
+    "spelling": "modern",
+    "sum": 962,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 191,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 15,
+    "spelling": "modern",
+    "sum": 466,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 209,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 1,
+    "spelling": "plate",
+    "sum": 446,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 189,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 2,
+    "spelling": "plate",
+    "sum": 1451,
+    "range": "1000-9999",
+    "density": 0.041555555555555554,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 166,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 3,
+    "spelling": "plate",
+    "sum": 1036,
+    "range": "1000-9999",
+    "density": 0.041555555555555554,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 8,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 4,
+    "spelling": "plate",
+    "sum": 1079,
+    "range": "1000-9999",
+    "density": 0.041555555555555554,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 51,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 5,
+    "spelling": "plate",
+    "sum": 444,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 187,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 6,
+    "spelling": "plate",
+    "sum": 494,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 237,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 7,
+    "spelling": "plate",
+    "sum": 667,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 153,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 8,
+    "spelling": "plate",
+    "sum": 1003,
+    "range": "1000-9999",
+    "density": 0.041555555555555554,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 232,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 9,
+    "spelling": "plate",
+    "sum": 319,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 62,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 10,
+    "spelling": "plate",
+    "sum": 322,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 65,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 11,
+    "spelling": "plate",
+    "sum": 1157,
+    "range": "1000-9999",
+    "density": 0.041555555555555554,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 129,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 12,
+    "spelling": "plate",
+    "sum": 257,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": true,
+    "cell": 0,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 13,
+    "spelling": "plate",
+    "sum": 556,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 42,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 14,
+    "spelling": "plate",
+    "sum": 968,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 197,
+    "cell_in_M": true
+   },
+   {
+    "sentence": 15,
+    "spelling": "plate",
+    "sum": 468,
+    "range": "257-999",
+    "density": 0.29071332436069985,
+    "in_M": true,
+    "in_review": true,
+    "in_key": false,
+    "cell": 211,
+    "cell_in_M": true
+   }
+  ],
+  "observed_in_M": 30,
+  "expected": 7.188266487213996,
+  "variance": 4.482439970219229,
+  "p_tail_ge_obs": 6.870060832858915e-24,
+  "expected_local_per_hundred": 10.520000000000001,
+  "observed_modern": 15,
+  "observed_plate": 15,
+  "distinct_sums": 30,
+  "observed_in_review": 30,
+  "observed_in_key": 2,
+  "cells_in_M": 30,
+  "whole_modern": 10594,
+  "whole_plate": 10667,
+  "whole_modern_in_M": true,
+  "whole_plate_in_M": true,
+  "variants": {
+   "unicode_glue": 30,
+   "drop_decimal_fraction_runs": 30,
+   "drop_whole_dates": 30,
+   "keep_script_style": 30
+  },
+  "ints_only_in_removed_X1_block": [
+   317,
+   319,
+   320,
+   322,
+   442,
+   443,
+   444,
+   446,
+   466,
+   492,
+   494,
+   552,
+   664,
+   962,
+   997,
+   1036,
+   1071,
+   1079,
+   1151,
+   1436,
+   1451
+  ]
+ },
+ "d_excluding_writeup": {
+  "X1_table_and_summary_removed": {
+   "chars_removed": 4142,
+   "union_size": 1109,
+   "density": {
+    "0-256": 1.0,
+    "257-999": 0.27052489905787347,
+    "1000-9999": 0.04088888888888889,
+    "10000-100000": 0.0017222030866323708
+   },
+   "present": {
+    "0-256": 257,
+    "257-999": 201,
+    "1000-9999": 368,
+    "10000-100000": 155
+   },
+   "observed": 9,
+   "expected": 6.778497981157468,
+   "p_tail_ge_obs": 0.19948557661743108,
+   "p_le_obs": 0.9019195052356835,
+   "still_present": [
+    [
+     3,
+     "modern",
+     1027
+    ],
+    [
+     12,
+     "modern",
+     254
+    ],
+    [
+     7,
+     "plate",
+     667
+    ],
+    [
+     8,
+     "plate",
+     1003
+    ],
+    [
+     11,
+     "plate",
+     1157
+    ],
+    [
+     12,
+     "plate",
+     257
+    ],
+    [
+     13,
+     "plate",
+     556
+    ],
+    [
+     14,
+     "plate",
+     968
+    ],
+    [
+     15,
+     "plate",
+     468
+    ]
+   ],
+   "contexts": {
+    "3m:1027": "7 first appears at π index 484 = 257 + 227. 1027 ≡ 256 = BAAL SQUARE",
+    "12m:254": "ic bridge where the Pythagorean identity fails at 254 of 256 positions, a l",
+    "7p:667": "′, photographed 2026-09-10, the entries are sin 7.667 8445, tang 7.667 8492",
+    "8p:1003": "y Word Inverse Sidereal ratio 1.002738 1003 232 238 10 TOPOL",
+    "11p:1157": "140 with the eleven boundary words on 2026-09-18, 1157 entries, 1149 distin",
+    "12p:257": "s Summary File inventory The field GF(257) The binary refin",
+    "13p:556": " F4:50 6561 0b943776 14198 = 55·257 + 63 202 556 711 109.1 3143 at 1",
+    "14p:968": "ion, 554 after; 555 with RHENIUM Z on 2026-09-05, 968 on 2026-09-10 after t",
+    "15p:468": " 461 531 δ R10 588 249 γ R05 482 468 γ R11 610 220 δ "
+   }
+  },
+  "X2_plate_passage_removed": {
+   "chars_removed": 13281,
+   "union_size": 1107,
+   "density": {
+    "0-256": 1.0,
+    "257-999": 0.27052489905787347,
+    "1000-9999": 0.04066666666666666,
+    "10000-100000": 0.0017222030866323708
+   },
+   "present": {
+    "0-256": 257,
+    "257-999": 201,
+    "1000-9999": 366,
+    "10000-100000": 155
+   },
+   "observed": 9,
+   "expected": 6.776497981157469,
+   "p_tail_ge_obs": 0.19918550888936526,
+   "p_le_obs": 0.9021180750511618,
+   "still_present": [
+    [
+     3,
+     "modern",
+     1027
+    ],
+    [
+     12,
+     "modern",
+     254
+    ],
+    [
+     7,
+     "plate",
+     667
+    ],
+    [
+     8,
+     "plate",
+     1003
+    ],
+    [
+     11,
+     "plate",
+     1157
+    ],
+    [
+     12,
+     "plate",
+     257
+    ],
+    [
+     13,
+     "plate",
+     556
+    ],
+    [
+     14,
+     "plate",
+     968
+    ],
+    [
+     15,
+     "plate",
+     468
+    ]
+   ],
+   "contexts": {
+    "3m:1027": "7 first appears at π index 484 = 257 + 227. 1027 ≡ 256 = BAAL SQUARE",
+    "12m:254": "ic bridge where the Pythagorean identity fails at 254 of 256 positions, a l",
+    "7p:667": "′, photographed 2026-09-10, the entries are sin 7.667 8445, tang 7.667 8492",
+    "8p:1003": "y Word Inverse Sidereal ratio 1.002738 1003 232 238 10 TOPOL",
+    "11p:1157": "140 with the eleven boundary words on 2026-09-18, 1157 entries, 1149 distin",
+    "12p:257": "s Summary File inventory The field GF(257) The binary refin",
+    "13p:556": " F4:50 6561 0b943776 14198 = 55·257 + 63 202 556 711 109.1 3143 at 1",
+    "14p:968": "ion, 554 after; 555 with RHENIUM Z on 2026-09-05, 968 on 2026-09-10 after t",
+    "15p:468": " 461 531 δ R10 588 249 γ R05 482 468 γ R11 610 220 δ "
+   }
+  }
+ },
+ "e": {
+  "letter_sum_placed": 1135,
+  "value_placed": 123,
+  "words_without_letters": 0,
+  "words_with_digit_meeting_rule": [
+   [
+    "16",
+    "MC2"
+   ]
+  ],
+  "earlier_versions": {
+   "pre-terminus-20260918": {
+    "words": 1129,
+    "letter_sum": 1006,
+    "value": 123
+   },
+   "pre-aim-20260918": {
+    "words": 1140,
+    "letter_sum": 1017,
+    "value": 123
+   },
+   "pre-rotate-20260918": {
+    "words": 1147,
+    "letter_sum": 1024,
+    "value": 123
+   },
+   "pre-toth-20260918": {
+    "words": 1157,
+    "letter_sum": 1034,
+    "value": 123
+   },
+   "pre-rongorongo-20260919": {
+    "words": 1161,
+    "letter_sum": 1038,
+    "value": 123
+   },
+   "pre-plate-20260919": {
+    "words": 1167,
+    "letter_sum": 1044,
+    "value": 123
+   }
+  },
+  "value_placed_words": {
+   "0": [
+    "SEED",
+    "NULL"
+   ],
+   "1": [
+    "I AM",
+    "IDENTITY",
+    "HYDROGEN Z",
+    "BAAL"
+   ],
+   "2": [
+    "I EXIST",
+    "EXIST",
+    "EQUIPARTITION FACTOR",
+    "HELIUM Z"
+   ],
+   "3": [
+    "GENERATOR"
+   ],
+   "4": [
+    "MAGNETITE MOMENT"
+   ],
+   "5": [
+    "ANCHOR",
+    "QNR PRIME"
+   ],
+   "6": [
+    "B SITE NEIGHBORS",
+    "CARBON Z"
+   ],
+   "7": [
+    "PRIMORIAL GATE",
+    "NITROGEN Z"
+   ],
+   "8": [
+    "OXYGEN",
+    "OXYGEN Z",
+    "TELECOM WINDOW"
+   ],
+   "9": [
+    "GENERATOR SQUARED"
+   ],
+   "10": [
+    "SPINEL SUM",
+    "DECIBEL BASE"
+   ],
+   "12": [
+    "IRON MELTING"
+   ],
+   "14": [
+    "MAGNETITE QNR",
+    "SILICON Z"
+   ],
+   "15": [
+    "IRON CURIE"
+   ],
+   "16": [
+    "SQRT MINUS ONE",
+    "COS 0",
+    "STEFAN-BOLTZMANN",
+    "ABSOLUTE ZERO OFFSET"
+   ],
+   "18": [
+    "CHAI"
+   ],
+   "20": [
+    "VOLTAGE DECIBEL"
+   ],
+   "26": [
+    "IRON Z"
+   ],
+   "27": [
+    "GENERATOR CUBED"
+   ],
+   "29": [
+    "COPPER Z"
+   ],
+   "30": [
+    "PRIMORIAL P3"
+   ],
+   "35": [
+    "BOLTZMANN eV/K"
+   ],
+   "36": [
+    "GREEN PEAK"
+   ],
+   "37": [
+    "PROTON ELECTRON RATIO"
+   ],
+   "47": [
+    "SILVER Z"
+   ],
+   "50": [
+    "MAINS FREQUENCY EU"
+   ],
+   "57": [
+    "PI DIGITS"
+   ],
+   "60": [
+    "ELECTRON CHARGE",
+    "MAINS FREQUENCY"
+   ],
+   "63": [
+    "COPPER CONDUCTIVITY"
+   ],
+   "71": [
+    "SQRT 2 DIGITS"
+   ],
+   "73": [
+    "DISCRIMINANT"
+   ],
+   "75": [
+    "SHIFT",
+    "SODIUM D LINE",
+    "RHENIUM Z"
+   ],
+   "79": [
+    "SQUARE ROOT 73",
+    "GOLD Z"
+   ],
+   "80": [
+    "MERCURY Z"
+   ],
+   "81": [
+    "GENERATOR FOURTH"
+   ],
+   "82": [
+    "LEAD Z"
+   ],
+   "83": [
+    "BISMUTH Z"
+   ],
+   "86": [
+    "DEMAGNETIZING SPHERE",
+    "BRILLOUIN FACTOR"
+   ],
+   "87": [
+    "RESONANCE RATIO",
+    "WIFI FREQUENCY"
+   ],
+   "90": [
+    "QUARTER FOLD",
+    "GAS CONSTANT"
+   ],
+   "91": [
+    "DISC TIMES ED"
+   ],
+   "92": [
+    "URANIUM Z"
+   ],
+   "96": [
+    "MnO CURIE CONSTANT",
+    "BOLTZMANN k"
+   ],
+   "97": [
+    "TUNGSTEN MELTING"
+   ],
+   "100": [
+    "THREE SQUARED"
+   ],
+   "103": [
+    "COBALT CURIE"
+   ],
+   "108": [
+    "EARTH YEAR DAYS"
+   ],
+   "110": [
+    "ED25519 SHADOW"
+   ],
+   "111": [
+    "AVOGADRO"
+   ],
+   "114": [
+    "ELECTRON MASS"
+   ],
+   "116": [
+    "VACUUM PERMITTIVITY",
+    "BOILING WATER"
+   ],
+   "117": [
+    "NICKEL CURIE"
+   ],
+   "118": [
+    "COBALT CURIE"
+   ],
+   "120": [
+    "RICHARDSON CONSTANT"
+   ],
+   "122": [
+    "NEEL TEMPERATURE"
+   ],
+   "123": [
+    "FOLD OF DISC",
+    "VIOLET LIMIT"
+   ],
+   "124": [
+    "SOLAR SURFACE"
+   ],
+   "127": [
+    "MOON DISTANCE"
+   ],
+   "128": [
+    "SELF-FOLD"
+   ],
+   "129": [
+    "HALF"
+   ],
+   "131": [
+    "PROTON MASS"
+   ],
+   "134": [
+    "DISC SHADOW"
+   ],
+   "137": [
+    "FINE STRUCTURE INV"
+   ],
+   "142": [
+    "HYDROGEN ALPHA"
+   ],
+   "144": [
+    "MASS"
+   ],
+   "148": [
+    "HAGGAI"
+   ],
+   "150": [
+    "PHI DIGITS"
+   ],
+   "155": [
+    "CMB TEMPERATURE"
+   ],
+   "159": [
+    "SPEED OF LIGHT"
+   ],
+   "171": [
+    "LIGHT SPEED SHORT"
+   ],
+   "179": [
+    "EULER E DIGITS"
+   ],
+   "180": [
+    "DOMAIN WALL ANGLE"
+   ],
+   "181": [
+    "SATOSHI"
+   ],
+   "186": [
+    "RED LIMIT"
+   ],
+   "190": [
+    "SOLAR MASS DIGITS"
+   ],
+   "201": [
+    "PLANCK h"
+   ],
+   "210": [
+    "PRIMORIAL P4"
+   ],
+   "225": [
+    "IDENTITY"
+   ],
+   "226": [
+    "PLATINUM MELTING"
+   ],
+   "227": [
+    "LAMB OF GOD"
+   ],
+   "229": [
+    "VACUUM PERMEABILITY"
+   ],
+   "234": [
+    "CHINESE REMAINDER"
+   ],
+   "236": [
+    "BOSE EINSTEIN"
+   ],
+   "238": [
+    "FREE WILL"
+   ],
+   "239": [
+    "POWER AND GLORY"
+   ],
+   "241": [
+    "CONJUGATE J",
+    "DISC BITS"
+   ],
+   "243": [
+    "FIRE OF HOLY SPIRIT",
+    "GENERATOR FIFTH"
+   ],
+   "244": [
+    "SQRT 3 DIGITS"
+   ],
+   "249": [
+    "GRAVITATIONAL G",
+    "BIP39 WORDLIST"
+   ],
+   "253": [
+    "KILOBYTE"
+   ],
+   "256": [
+    "BAAL SQUARED",
+    "FOLD BOUNDARY",
+    "BYTE"
+   ]
+  },
+  "cells_with_a_value_placed_word": 91,
+  "cells_with_no_letter_sum_word": [
+   0,
+   225,
+   256
+  ]
+ }
+}

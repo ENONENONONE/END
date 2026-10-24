@@ -1,0 +1,10 @@
+pre-terminus-20260918      entries  1129  K33 word-test 854/1129 = 0.7564  words whose cell is in K33 142 (0.1258)
+pre-aim-20260918           entries  1140  K33 word-test 863/1140 = 0.7570  words whose cell is in K33 145 (0.1272)
+pre-rotate-20260918        entries  1147  K33 word-test 870/1147 = 0.7585  words whose cell is in K33 147 (0.1282)
+pre-toth-20260918          entries  1157  K33 word-test 878/1157 = 0.7589  words whose cell is in K33 150 (0.1296)
+pre-rongorongo-20260919    entries  1161  K33 word-test 881/1161 = 0.7588  words whose cell is in K33 150 (0.1292)
+pre-plate-20260919         entries  1167  K33 word-test 884/1167 = 0.7575  words whose cell is in K33 151 (0.1294)
+current                    entries  1258  K33 word-test 955/1258 = 0.7591  words whose cell is in K33 164 (0.1304)
+added since pre-plate: 91 word-test hits 71 0.7802
+full circle: covered 88.0 of 360, p=0.2444, expected of 21 5.133, P(>=7)=0.2370
+half circle 0-180 (n=0..21 windows): covered 46.0 of 180, p=0.2556, expected of 21 5.368, P(>=7)=0.2766

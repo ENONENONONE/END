@@ -1,0 +1,1082 @@
+[
+ {
+  "type": "otaiin",
+  "tokens": 151,
+  "k": 6,
+  "s": 68,
+  "b": 223,
+  "latin": [
+   "rimari"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "o",
+  "tokens": 78,
+  "k": 1,
+  "s": 15,
+  "b": 15,
+  "latin": [
+   "o"
+  ],
+  "exact": true,
+  "rawsame": true
+ },
+ {
+  "type": "sol",
+  "tokens": 50,
+  "k": 3,
+  "s": 46,
+  "b": 85,
+  "latin": [
+   "sol"
+  ],
+  "exact": true,
+  "rawsame": true
+ },
+ {
+  "type": "lshedy",
+  "tokens": 38,
+  "k": 6,
+  "s": 73,
+  "b": 264,
+  "latin": [
+   "lubens"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "tol",
+  "tokens": 31,
+  "k": 3,
+  "s": 47,
+  "b": 86,
+  "latin": [
+   "qui"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "oaiin",
+  "tokens": 27,
+  "k": 5,
+  "s": 48,
+  "b": 150,
+  "latin": [
+   "ignem"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "olkeeey",
+  "tokens": 11,
+  "k": 7,
+  "s": 78,
+  "b": 322,
+  "latin": [
+   "gravati"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "qoteol",
+  "tokens": 11,
+  "k": 6,
+  "s": 84,
+  "b": 274,
+  "latin": [
+   "ventre"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "arol",
+  "tokens": 9,
+  "k": 4,
+  "s": 46,
+  "b": 130,
+  "latin": [
+   "dixi"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "aram",
+  "tokens": 8,
+  "k": 4,
+  "s": 33,
+  "b": 92,
+  "latin": [
+   "ideo"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "oloiin",
+  "tokens": 5,
+  "k": 6,
+  "s": 74,
+  "b": 249,
+  "latin": [
+   "vocans"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "cphar",
+  "tokens": 4,
+  "k": 5,
+  "s": 46,
+  "b": 153,
+  "latin": [
+   "animi"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "qoiiin",
+  "tokens": 4,
+  "k": 6,
+  "s": 73,
+  "b": 239,
+  "latin": [
+   "vincet"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "sheet",
+  "tokens": 4,
+  "k": 5,
+  "s": 57,
+  "b": 170,
+  "latin": [
+   "mente"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "a",
+  "tokens": 3,
+  "k": 1,
+  "s": 1,
+  "b": 1,
+  "latin": [
+   "a"
+  ],
+  "exact": true,
+  "rawsame": true
+ },
+ {
+  "type": "sodaiin",
+  "tokens": 3,
+  "k": 7,
+  "s": 71,
+  "b": 262,
+  "latin": [
+   "erudiam"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "soral",
+  "tokens": 3,
+  "k": 5,
+  "s": 65,
+  "b": 167,
+  "latin": [
+   "versa"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "ykhey",
+  "tokens": 3,
+  "k": 5,
+  "s": 74,
+  "b": 216,
+  "latin": [
+   "solis"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "cheolkedy",
+  "tokens": 2,
+  "k": 9,
+  "s": 88,
+  "b": 512,
+  "latin": [
+   "fideliter"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "oldor",
+  "tokens": 2,
+  "k": 5,
+  "s": 64,
+  "b": 201,
+  "latin": [
+   "atque"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "oykeey",
+  "tokens": 2,
+  "k": 6,
+  "s": 86,
+  "b": 293,
+  "latin": [
+   "subito"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "pair",
+  "tokens": 2,
+  "k": 4,
+  "s": 44,
+  "b": 117,
+  "latin": [
+   "arte"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "qokcheo",
+  "tokens": 2,
+  "k": 7,
+  "s": 74,
+  "b": 267,
+  "latin": [
+   "integra"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "qokom",
+  "tokens": 2,
+  "k": 5,
+  "s": 71,
+  "b": 205,
+  "latin": [
+   "solet"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "qotydy",
+  "tokens": 2,
+  "k": 6,
+  "s": 106,
+  "b": 377,
+  "latin": [
+   "nutrix"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "shkair",
+  "tokens": 2,
+  "k": 6,
+  "s": 66,
+  "b": 225,
+  "latin": [
+   "formam"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "torchy",
+  "tokens": 2,
+  "k": 6,
+  "s": 89,
+  "b": 306,
+  "latin": [
+   "veluti"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "ykaiir",
+  "tokens": 2,
+  "k": 6,
+  "s": 73,
+  "b": 239,
+  "latin": [
+   "vincet"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "alaldy",
+  "tokens": 1,
+  "k": 6,
+  "s": 55,
+  "b": 246,
+  "latin": [
+   "debito"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "arodam",
+  "tokens": 1,
+  "k": 6,
+  "s": 52,
+  "b": 181,
+  "latin": [
+   "reddat"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "aroiiin",
+  "tokens": 1,
+  "k": 7,
+  "s": 75,
+  "b": 315,
+  "latin": [
+   "indeque"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "cheykeedy",
+  "tokens": 1,
+  "k": 9,
+  "s": 91,
+  "b": 511,
+  "latin": [
+   "admonente"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "chog",
+  "tokens": 1,
+  "k": 4,
+  "s": 33,
+  "b": 92,
+  "latin": [
+   "ideo"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "choltaiin",
+  "tokens": 1,
+  "k": 9,
+  "s": 91,
+  "b": 479,
+  "latin": [
+   "cogitarem"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "chotshe",
+  "tokens": 1,
+  "k": 7,
+  "s": 78,
+  "b": 322,
+  "latin": [
+   "gravati"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "dalals",
+  "tokens": 1,
+  "k": 6,
+  "s": 49,
+  "b": 220,
+  "latin": [
+   "habens"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "dokan",
+  "tokens": 1,
+  "k": 5,
+  "s": 45,
+  "b": 141,
+  "latin": [
+   "filii"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "dolo",
+  "tokens": 1,
+  "k": 4,
+  "s": 46,
+  "b": 130,
+  "latin": [
+   "dixi"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "dolsheol",
+  "tokens": 1,
+  "k": 8,
+  "s": 90,
+  "b": 417,
+  "latin": [
+   "pimandro"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "dosar",
+  "tokens": 1,
+  "k": 5,
+  "s": 57,
+  "b": 185,
+  "latin": [
+   "mater"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "dykaran",
+  "tokens": 1,
+  "k": 7,
+  "s": 74,
+  "b": 285,
+  "latin": [
+   "immensa"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "ekedy",
+  "tokens": 1,
+  "k": 5,
+  "s": 50,
+  "b": 183,
+  "latin": [
+   "aliis"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "es",
+  "tokens": 1,
+  "k": 2,
+  "s": 24,
+  "b": 43,
+  "latin": [
+   "es"
+  ],
+  "exact": true,
+  "rawsame": true
+ },
+ {
+  "type": "faiir",
+  "tokens": 1,
+  "k": 5,
+  "s": 43,
+  "b": 161,
+  "latin": [
+   "fecit"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "kchdar",
+  "tokens": 1,
+  "k": 6,
+  "s": 45,
+  "b": 170,
+  "latin": [
+   "fideli"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "koeam",
+  "tokens": 1,
+  "k": 5,
+  "s": 45,
+  "b": 125,
+  "latin": [
+   "fixae"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "koees",
+  "tokens": 1,
+  "k": 5,
+  "s": 55,
+  "b": 171,
+  "latin": [
+   "grati"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "kom",
+  "tokens": 1,
+  "k": 3,
+  "s": 39,
+  "b": 80,
+  "latin": [
+   "per"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "lag",
+  "tokens": 1,
+  "k": 3,
+  "s": 20,
+  "b": 35,
+  "latin": [
+   "hic"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "larorol",
+  "tokens": 1,
+  "k": 7,
+  "s": 91,
+  "b": 392,
+  "latin": [
+   "sanctum"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "lkeain",
+  "tokens": 1,
+  "k": 6,
+  "s": 52,
+  "b": 182,
+  "latin": [
+   "certae"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "llsan",
+  "tokens": 1,
+  "k": 5,
+  "s": 58,
+  "b": 167,
+  "latin": [
+   "asyla"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "lsheok",
+  "tokens": 1,
+  "k": 6,
+  "s": 70,
+  "b": 235,
+  "latin": [
+   "humido"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "ofchdamy",
+  "tokens": 1,
+  "k": 8,
+  "s": 75,
+  "b": 385,
+  "latin": [
+   "ascendit"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "okarody",
+  "tokens": 1,
+  "k": 7,
+  "s": 89,
+  "b": 386,
+  "latin": [
+   "cunctis"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "olkaiiin",
+  "tokens": 1,
+  "k": 8,
+  "s": 80,
+  "b": 350,
+  "latin": [
+   "pimander"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "olkeechdy",
+  "tokens": 1,
+  "k": 9,
+  "s": 88,
+  "b": 448,
+  "latin": [
+   "mirabiles"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "olohy",
+  "tokens": 1,
+  "k": 5,
+  "s": 75,
+  "b": 241,
+  "latin": [
+   "horum"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "oloro",
+  "tokens": 1,
+  "k": 5,
+  "s": 75,
+  "b": 231,
+  "latin": [
+   "rerum"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "opairorair",
+  "tokens": 1,
+  "k": 10,
+  "s": 120,
+  "b": 661,
+  "latin": [
+   "firmissime"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "opalkar",
+  "tokens": 1,
+  "k": 7,
+  "s": 74,
+  "b": 285,
+  "latin": [
+   "immensa"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "opoeey",
+  "tokens": 1,
+  "k": 6,
+  "s": 81,
+  "b": 287,
+  "latin": [
+   "instar"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "otaras",
+  "tokens": 1,
+  "k": 6,
+  "s": 74,
+  "b": 249,
+  "latin": [
+   "vocans"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "otches",
+  "tokens": 1,
+  "k": 6,
+  "s": 70,
+  "b": 235,
+  "latin": [
+   "humido"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "otchom",
+  "tokens": 1,
+  "k": 6,
+  "s": 74,
+  "b": 249,
+  "latin": [
+   "vocans"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "oteesody",
+  "tokens": 1,
+  "k": 8,
+  "s": 108,
+  "b": 503,
+  "latin": [
+   "sensibus"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "oteool",
+  "tokens": 1,
+  "k": 6,
+  "s": 82,
+  "b": 277,
+  "latin": [
+   "iunoni"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "pchom",
+  "tokens": 1,
+  "k": 5,
+  "s": 55,
+  "b": 171,
+  "latin": [
+   "grati"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "pokeey",
+  "tokens": 1,
+  "k": 6,
+  "s": 77,
+  "b": 274,
+  "latin": [
+   "passim"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "qochol",
+  "tokens": 1,
+  "k": 6,
+  "s": 70,
+  "b": 235,
+  "latin": [
+   "humido"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "qodary",
+  "tokens": 1,
+  "k": 6,
+  "s": 80,
+  "b": 303,
+  "latin": [
+   "merito"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "qoetal",
+  "tokens": 1,
+  "k": 6,
+  "s": 70,
+  "b": 219,
+  "latin": [
+   "nomine"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "qokeodsheey",
+  "tokens": 1,
+  "k": 11,
+  "s": 129,
+  "b": 766,
+  "latin": [
+   "imperatorie"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "qolkey",
+  "tokens": 1,
+  "k": 6,
+  "s": 85,
+  "b": 302,
+  "latin": [
+   "omnium"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "sairor",
+  "tokens": 1,
+  "k": 6,
+  "s": 80,
+  "b": 303,
+  "latin": [
+   "merito"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "salsain",
+  "tokens": 1,
+  "k": 7,
+  "s": 75,
+  "b": 290,
+  "latin": [
+   "gloriam"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "schos",
+  "tokens": 1,
+  "k": 5,
+  "s": 64,
+  "b": 204,
+  "latin": [
+   "cupio"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "shddy",
+  "tokens": 1,
+  "k": 5,
+  "s": 60,
+  "b": 188,
+  "latin": [
+   "pater"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "shdol",
+  "tokens": 1,
+  "k": 5,
+  "s": 58,
+  "b": 167,
+  "latin": [
+   "asyla"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "shkeol",
+  "tokens": 1,
+  "k": 6,
+  "s": 70,
+  "b": 235,
+  "latin": [
+   "humido"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "shokeedy",
+  "tokens": 1,
+  "k": 8,
+  "s": 92,
+  "b": 407,
+  "latin": [
+   "reperiat"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "sholos",
+  "tokens": 1,
+  "k": 6,
+  "s": 88,
+  "b": 317,
+  "latin": [
+   "operum"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "solor",
+  "tokens": 1,
+  "k": 5,
+  "s": 79,
+  "b": 235,
+  "latin": [
+   "verum"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "tchodol",
+  "tokens": 1,
+  "k": 7,
+  "s": 77,
+  "b": 304,
+  "latin": [
+   "hominem"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "told",
+  "tokens": 1,
+  "k": 4,
+  "s": 51,
+  "b": 102,
+  "latin": [
+   "quid"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "tolpchy",
+  "tokens": 1,
+  "k": 7,
+  "s": 99,
+  "b": 388,
+  "latin": [
+   "numinis"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "tsheey",
+  "tokens": 1,
+  "k": 6,
+  "s": 82,
+  "b": 277,
+  "latin": [
+   "iunoni"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "tu",
+  "tokens": 1,
+  "k": 2,
+  "s": 41,
+  "b": 62,
+  "latin": [
+   "tu"
+  ],
+  "exact": true,
+  "rawsame": true
+ },
+ {
+  "type": "vor",
+  "tokens": 1,
+  "k": 3,
+  "s": 55,
+  "b": 106,
+  "latin": [
+   "suo"
+  ],
+  "exact": false,
+  "rawsame": true
+ },
+ {
+  "type": "yaly",
+  "tokens": 1,
+  "k": 4,
+  "s": 63,
+  "b": 163,
+  "latin": [
+   "sinu"
+  ],
+  "exact": false,
+  "rawsame": true
+ }
+]

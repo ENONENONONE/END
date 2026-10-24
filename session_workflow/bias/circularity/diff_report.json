@@ -1,0 +1,1374 @@
+{
+ "steps": [
+  {
+   "from": "pre-terminus",
+   "to": "pre-aim",
+   "total_from": 1129,
+   "total_to": 1140,
+   "added_count": 11,
+   "removed_count": 0,
+   "added": [
+    {
+     "cell": 21,
+     "word": "EDGE",
+     "letter_sum_mod257": 21,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 56,
+     "word": "TERM",
+     "letter_sum_mod257": 56,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 62,
+     "word": "BORDER",
+     "letter_sum_mod257": 62,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 63,
+     "word": "LIMIT",
+     "letter_sum_mod257": 63,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 92,
+     "word": "TERMINAL",
+     "letter_sum_mod257": 92,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 100,
+     "word": "BOUNDARY",
+     "letter_sum_mod257": 100,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 102,
+     "word": "TERMINALIA",
+     "letter_sum_mod257": 102,
+     "letters": 10,
+     "sum_placed": true
+    },
+    {
+     "cell": 105,
+     "word": "HORIZON",
+     "letter_sum_mod257": 105,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 119,
+     "word": "TERMINUS",
+     "letter_sum_mod257": 119,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 166,
+     "word": "BOUNDARY MARKER",
+     "letter_sum_mod257": 166,
+     "letters": 14,
+     "sum_placed": true
+    },
+    {
+     "cell": 218,
+     "word": "JUPITER TERMINUS",
+     "letter_sum_mod257": 218,
+     "letters": 15,
+     "sum_placed": true
+    }
+   ],
+   "removed": []
+  },
+  {
+   "from": "pre-aim",
+   "to": "pre-rotate",
+   "total_from": 1140,
+   "total_to": 1147,
+   "added_count": 7,
+   "removed_count": 0,
+   "added": [
+    {
+     "cell": 23,
+     "word": "I AM",
+     "letter_sum_mod257": 23,
+     "letters": 3,
+     "sum_placed": true
+    },
+    {
+     "cell": 49,
+     "word": "THAT",
+     "letter_sum_mod257": 49,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 51,
+     "word": "ASHER",
+     "letter_sum_mod257": 51,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 51,
+     "word": "EHYEH",
+     "letter_sum_mod257": 51,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 58,
+     "word": "ZRN",
+     "letter_sum_mod257": 58,
+     "letters": 3,
+     "sum_placed": true
+    },
+    {
+     "cell": 95,
+     "word": "I AM THAT I AM",
+     "letter_sum_mod257": 95,
+     "letters": 10,
+     "sum_placed": true
+    },
+    {
+     "cell": 153,
+     "word": "EHYEH ASHER EHYEH",
+     "letter_sum_mod257": 153,
+     "letters": 15,
+     "sum_placed": true
+    }
+   ],
+   "removed": []
+  },
+  {
+   "from": "pre-rotate",
+   "to": "pre-toth",
+   "total_from": 1147,
+   "total_to": 1157,
+   "added_count": 10,
+   "removed_count": 0,
+   "added": [
+    {
+     "cell": 46,
+     "word": "WHO",
+     "letter_sum_mod257": 46,
+     "letters": 3,
+     "sum_placed": true
+    },
+    {
+     "cell": 62,
+     "word": "BECOMES",
+     "letter_sum_mod257": 62,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 69,
+     "word": "WHO AM I",
+     "letter_sum_mod257": 69,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 71,
+     "word": "TARGET",
+     "letter_sum_mod257": 71,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 73,
+     "word": "TURN",
+     "letter_sum_mod257": 73,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 78,
+     "word": "START",
+     "letter_sum_mod257": 78,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 79,
+     "word": "ROTATE",
+     "letter_sum_mod257": 79,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 100,
+     "word": "HALF TURN",
+     "letter_sum_mod257": 100,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 112,
+     "word": "ROTATION",
+     "letter_sum_mod257": 112,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 173,
+     "word": "QUARTER TURN",
+     "letter_sum_mod257": 173,
+     "letters": 11,
+     "sum_placed": true
+    }
+   ],
+   "removed": []
+  },
+  {
+   "from": "pre-toth",
+   "to": "pre-rongorongo",
+   "total_from": 1157,
+   "total_to": 1161,
+   "added_count": 4,
+   "removed_count": 0,
+   "added": [
+    {
+     "cell": 56,
+     "word": "SCRIBE",
+     "letter_sum_mod257": 56,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 63,
+     "word": "TOTH",
+     "letter_sum_mod257": 63,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 71,
+     "word": "THOTH",
+     "letter_sum_mod257": 71,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 179,
+     "word": "TRISMEGISTUS",
+     "letter_sum_mod257": 179,
+     "letters": 12,
+     "sum_placed": true
+    }
+   ],
+   "removed": []
+  },
+  {
+   "from": "pre-rongorongo",
+   "to": "pre-plate",
+   "total_from": 1161,
+   "total_to": 1167,
+   "added_count": 6,
+   "removed_count": 0,
+   "added": [
+    {
+     "cell": 53,
+     "word": "SABBATH",
+     "letter_sum_mod257": 53,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 69,
+     "word": "RONGO",
+     "letter_sum_mod257": 69,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 109,
+     "word": "SATURDAY",
+     "letter_sum_mod257": 109,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 114,
+     "word": "THRICE GREAT",
+     "letter_sum_mod257": 114,
+     "letters": 11,
+     "sum_placed": true
+    },
+    {
+     "cell": 138,
+     "word": "RONGORONGO",
+     "letter_sum_mod257": 138,
+     "letters": 10,
+     "sum_placed": true
+    },
+    {
+     "cell": 247,
+     "word": "HERMES TRISMEGISTUS",
+     "letter_sum_mod257": 247,
+     "letters": 18,
+     "sum_placed": true
+    }
+   ],
+   "removed": []
+  },
+  {
+   "from": "pre-plate",
+   "to": "current",
+   "total_from": 1167,
+   "total_to": 1258,
+   "added_count": 91,
+   "removed_count": 0,
+   "added": [
+    {
+     "cell": 24,
+     "word": "MAIA",
+     "letter_sum_mod257": 24,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 32,
+     "word": "ERDE",
+     "letter_sum_mod257": 32,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 33,
+     "word": "AMEN",
+     "letter_sum_mod257": 33,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 36,
+     "word": "OBEN",
+     "letter_sum_mod257": 36,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 44,
+     "word": "ECHIS",
+     "letter_sum_mod257": 44,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 45,
+     "word": "ABOVE",
+     "letter_sum_mod257": 45,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 46,
+     "word": "MOND",
+     "letter_sum_mod257": 46,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 46,
+     "word": "SOL",
+     "letter_sum_mod257": 46,
+     "letters": 3,
+     "sum_placed": true
+    },
+    {
+     "cell": 48,
+     "word": "LUNA",
+     "letter_sum_mod257": 48,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 48,
+     "word": "SAIS",
+     "letter_sum_mod257": 48,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 52,
+     "word": "FLOOD",
+     "letter_sum_mod257": 52,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 53,
+     "word": "ATLAS",
+     "letter_sum_mod257": 53,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 53,
+     "word": "SUM",
+     "letter_sum_mod257": 53,
+     "letters": 3,
+     "sum_placed": true
+    },
+    {
+     "cell": 54,
+     "word": "DELUGE",
+     "letter_sum_mod257": 54,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 55,
+     "word": "MAMARI",
+     "letter_sum_mod257": 55,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 57,
+     "word": "BELOW",
+     "letter_sum_mod257": 57,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 57,
+     "word": "FEWER",
+     "letter_sum_mod257": 57,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 57,
+     "word": "MATER",
+     "letter_sum_mod257": 57,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 58,
+     "word": "IGNIS",
+     "letter_sum_mod257": 58,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 60,
+     "word": "HIMMEL",
+     "letter_sum_mod257": 60,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 60,
+     "word": "JUNO",
+     "letter_sum_mod257": 60,
+     "letters": 4,
+     "sum_placed": true
+    },
+    {
+     "cell": 60,
+     "word": "PATER",
+     "letter_sum_mod257": 60,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 66,
+     "word": "VATER",
+     "letter_sum_mod257": 66,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 67,
+     "word": "SONNE",
+     "letter_sum_mod257": 67,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 69,
+     "word": "COELUM",
+     "letter_sum_mod257": 69,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 69,
+     "word": "MAGNESIA",
+     "letter_sum_mod257": 69,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 70,
+     "word": "VIPER",
+     "letter_sum_mod257": 70,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 70,
+     "word": "WINDT",
+     "letter_sum_mod257": 70,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 71,
+     "word": "PLEIADES",
+     "letter_sum_mod257": 71,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 72,
+     "word": "ALCHYMIA",
+     "letter_sum_mod257": 72,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 73,
+     "word": "EGYPT",
+     "letter_sum_mod257": 73,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 73,
+     "word": "VULCAN",
+     "letter_sum_mod257": 73,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 74,
+     "word": "UNTEN",
+     "letter_sum_mod257": 74,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 75,
+     "word": "ASCENDIT",
+     "letter_sum_mod257": 75,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 75,
+     "word": "SOLON",
+     "letter_sum_mod257": 75,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 79,
+     "word": "CRITIAS",
+     "letter_sum_mod257": 79,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 80,
+     "word": "ATLANTIC",
+     "letter_sum_mod257": 80,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 80,
+     "word": "EGO SUM",
+     "letter_sum_mod257": 80,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 80,
+     "word": "PIMANDER",
+     "letter_sum_mod257": 80,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 80,
+     "word": "RAPA NUI",
+     "letter_sum_mod257": 80,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 81,
+     "word": "STERCKE",
+     "letter_sum_mod257": 81,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 83,
+     "word": "DESCENDIT",
+     "letter_sum_mod257": 83,
+     "letters": 9,
+     "sum_placed": true
+    },
+    {
+     "cell": 83,
+     "word": "TELESMI",
+     "letter_sum_mod257": 83,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 86,
+     "word": "PYRAMID",
+     "letter_sum_mod257": 86,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 87,
+     "word": "PHAETHON",
+     "letter_sum_mod257": 87,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 88,
+     "word": "TIMAEUS",
+     "letter_sum_mod257": 88,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 91,
+     "word": "SO BELOW",
+     "letter_sum_mod257": 91,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 92,
+     "word": "MUNDUS",
+     "letter_sum_mod257": 92,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 93,
+     "word": "PYROS",
+     "letter_sum_mod257": 93,
+     "letters": 5,
+     "sum_placed": true
+    },
+    {
+     "cell": 95,
+     "word": "NEPTUNE",
+     "letter_sum_mod257": 95,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 96,
+     "word": "ATLANTIS",
+     "letter_sum_mod257": 96,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 97,
+     "word": "MUTTER",
+     "letter_sum_mod257": 97,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 97,
+     "word": "SERPENT",
+     "letter_sum_mod257": 97,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 98,
+     "word": "WEISHEIT",
+     "letter_sum_mod257": 98,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 101,
+     "word": "INFERIUS",
+     "letter_sum_mod257": 101,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 101,
+     "word": "KHUNRATH",
+     "letter_sum_mod257": 101,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 101,
+     "word": "PYRAMIS",
+     "letter_sum_mod257": 101,
+     "letters": 7,
+     "sum_placed": true
+    },
+    {
+     "cell": 101,
+     "word": "VENTUS",
+     "letter_sum_mod257": 101,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 106,
+     "word": "NUTRIX",
+     "letter_sum_mod257": 106,
+     "letters": 6,
+     "sum_placed": true
+    },
+    {
+     "cell": 114,
+     "word": "POIMANDRES",
+     "letter_sum_mod257": 114,
+     "letters": 10,
+     "sum_placed": true
+    },
+    {
+     "cell": 120,
+     "word": "PYRAMIDUM",
+     "letter_sum_mod257": 120,
+     "letters": 9,
+     "sum_placed": true
+    },
+    {
+     "cell": 122,
+     "word": "PYRANTIS",
+     "letter_sum_mod257": 122,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 127,
+     "word": "MERCURIUS",
+     "letter_sum_mod257": 127,
+     "letters": 9,
+     "sum_placed": true
+    },
+    {
+     "cell": 128,
+     "word": "FORTITUDO",
+     "letter_sum_mod257": 128,
+     "letters": 9,
+     "sum_placed": true
+    },
+    {
+     "cell": 128,
+     "word": "SUPERIUS",
+     "letter_sum_mod257": 128,
+     "letters": 8,
+     "sum_placed": true
+    },
+    {
+     "cell": 128,
+     "word": "TETRAHEDRON",
+     "letter_sum_mod257": 128,
+     "letters": 11,
+     "sum_placed": true
+    },
+    {
+     "cell": 135,
+     "word": "CONFLAGRATION",
+     "letter_sum_mod257": 135,
+     "letters": 13,
+     "sum_placed": true
+    },
+    {
+     "cell": 141,
+     "word": "TRES PARTES",
+     "letter_sum_mod257": 141,
+     "letters": 10,
+     "sum_placed": true
+    },
+    {
+     "cell": 142,
+     "word": "HUMIDUM RADICALE",
+     "letter_sum_mod257": 142,
+     "letters": 15,
+     "sum_placed": true
+    },
+    {
+     "cell": 144,
+     "word": "TABULA SMARAGDINA",
+     "letter_sum_mod257": 144,
+     "letters": 16,
+     "sum_placed": true
+    },
+    {
+     "cell": 149,
+     "word": "ARUKU KURENGA",
+     "letter_sum_mod257": 149,
+     "letters": 12,
+     "sum_placed": true
+    },
+    {
+     "cell": 150,
+     "word": "RERUM NATURA",
+     "letter_sum_mod257": 150,
+     "letters": 11,
+     "sum_placed": true
+    },
+    {
+     "cell": 158,
+     "word": "HENRIC KHUNRATH",
+     "letter_sum_mod257": 158,
+     "letters": 14,
+     "sum_placed": true
+    },
+    {
+     "cell": 162,
+     "word": "COMPLETUM EST",
+     "letter_sum_mod257": 162,
+     "letters": 12,
+     "sum_placed": true
+    },
+    {
+     "cell": 164,
+     "word": "ECHIS PYRAMIDUM",
+     "letter_sum_mod257": 164,
+     "letters": 14,
+     "sum_placed": true
+    },
+    {
+     "cell": 172,
+     "word": "BOUSTROPHEDON",
+     "letter_sum_mod257": 172,
+     "letters": 13,
+     "sum_placed": true
+    },
+    {
+     "cell": 173,
+     "word": "EINES EINIGEN DINGES",
+     "letter_sum_mod257": 173,
+     "letters": 18,
+     "sum_placed": true
+    },
+    {
+     "cell": 173,
+     "word": "OPERATIO SOLIS",
+     "letter_sum_mod257": 173,
+     "letters": 13,
+     "sum_placed": true
+    },
+    {
+     "cell": 173,
+     "word": "WERCKE DER SONNEN",
+     "letter_sum_mod257": 173,
+     "letters": 15,
+     "sum_placed": true
+    },
+    {
+     "cell": 186,
+     "word": "SUBTILE A SPISSO",
+     "letter_sum_mod257": 186,
+     "letters": 14,
+     "sum_placed": true
+    },
+    {
+     "cell": 190,
+     "word": "VERUM SINE MENDACIO",
+     "letter_sum_mod257": 190,
+     "letters": 17,
+     "sum_placed": true
+    },
+    {
+     "cell": 194,
+     "word": "KOHAU RONGORONGO",
+     "letter_sum_mod257": 194,
+     "letters": 15,
+     "sum_placed": true
+    },
+    {
+     "cell": 199,
+     "word": "PILLARS OF HERCULES",
+     "letter_sum_mod257": 199,
+     "letters": 17,
+     "sum_placed": true
+    },
+    {
+     "cell": 203,
+     "word": "SEPARABIS TERRAM AB IGNE",
+     "letter_sum_mod257": 203,
+     "letters": 21,
+     "sum_placed": true
+    },
+    {
+     "cell": 215,
+     "word": "FORTITUDO FORTIS",
+     "letter_sum_mod257": 215,
+     "letters": 15,
+     "sum_placed": true
+    },
+    {
+     "cell": 220,
+     "word": "MENS DIVINAE POTENTIAE",
+     "letter_sum_mod257": 220,
+     "letters": 20,
+     "sum_placed": true
+    },
+    {
+     "cell": 223,
+     "word": "DESIGNATIO PYRAMIDUM",
+     "letter_sum_mod257": 223,
+     "letters": 19,
+     "sum_placed": true
+    },
+    {
+     "cell": 242,
+     "word": "LAPIS PHILOSOPHORUM",
+     "letter_sum_mod257": 242,
+     "letters": 18,
+     "sum_placed": true
+    },
+    {
+     "cell": 247,
+     "word": "ALSO IST DIE WELT GESCHAFFEN",
+     "letter_sum_mod257": 247,
+     "letters": 24,
+     "sum_placed": true
+    },
+    {
+     "cell": 253,
+     "word": "CERTUM ET VERISSIMUM",
+     "letter_sum_mod257": 253,
+     "letters": 18,
+     "sum_placed": true
+    },
+    {
+     "cell": 254,
+     "word": "SIC MUNDUS CREATUS EST",
+     "letter_sum_mod257": 254,
+     "letters": 19,
+     "sum_placed": true
+    }
+   ],
+   "removed": []
+  }
+ ],
+ "b": {
+  "added_total": 129,
+  "sum_placed": 129,
+  "not_sum_placed": 0,
+  "fraction": "129/129",
+  "fraction_float": 1.0,
+  "not_sum_placed_list": [],
+  "per_step": [
+   {
+    "step": "pre-terminus->pre-aim",
+    "added": 11,
+    "sum_placed": 11
+   },
+   {
+    "step": "pre-aim->pre-rotate",
+    "added": 7,
+    "sum_placed": 7
+   },
+   {
+    "step": "pre-rotate->pre-toth",
+    "added": 10,
+    "sum_placed": 10
+   },
+   {
+    "step": "pre-toth->pre-rongorongo",
+    "added": 4,
+    "sum_placed": 4
+   },
+   {
+    "step": "pre-rongorongo->pre-plate",
+    "added": 6,
+    "sum_placed": 6
+   },
+   {
+    "step": "pre-plate->current",
+    "added": 91,
+    "sum_placed": 91
+   }
+  ],
+  "baseline_pre_terminus": {
+   "words": 1129,
+   "sum_placed": 1006,
+   "fraction_float": 0.8910540301151462
+  },
+  "current": {
+   "words": 1258,
+   "sum_placed": 1135,
+   "fraction_float": 0.9022257551669316
+  }
+ },
+ "d": {
+  "cells_gained_any_added_word": 87,
+  "fraction_of_257": 0.33852140077821014,
+  "cells_with_net_count_increase": 87,
+  "mean_words_per_cell_before": 4.392996108949417,
+  "mean_words_per_cell_after": 4.8949416342412455,
+  "gained_cells": [
+   21,
+   23,
+   24,
+   32,
+   33,
+   36,
+   44,
+   45,
+   46,
+   48,
+   49,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   60,
+   62,
+   63,
+   66,
+   67,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   78,
+   79,
+   80,
+   81,
+   83,
+   86,
+   87,
+   88,
+   91,
+   92,
+   93,
+   95,
+   96,
+   97,
+   98,
+   100,
+   101,
+   102,
+   105,
+   106,
+   109,
+   112,
+   114,
+   119,
+   120,
+   122,
+   127,
+   128,
+   135,
+   138,
+   141,
+   142,
+   144,
+   149,
+   150,
+   153,
+   158,
+   162,
+   164,
+   166,
+   172,
+   173,
+   179,
+   186,
+   190,
+   194,
+   199,
+   203,
+   215,
+   218,
+   220,
+   223,
+   242,
+   247,
+   253,
+   254
+  ],
+  "words_per_gained_cell": {
+   "21": 1,
+   "56": 2,
+   "62": 2,
+   "63": 2,
+   "92": 2,
+   "100": 2,
+   "102": 1,
+   "105": 1,
+   "119": 1,
+   "166": 1,
+   "218": 1,
+   "23": 1,
+   "49": 1,
+   "51": 2,
+   "58": 2,
+   "95": 2,
+   "153": 1,
+   "46": 3,
+   "69": 4,
+   "71": 3,
+   "73": 3,
+   "78": 1,
+   "79": 2,
+   "112": 1,
+   "173": 4,
+   "179": 1,
+   "53": 3,
+   "109": 1,
+   "114": 2,
+   "138": 1,
+   "247": 2,
+   "24": 1,
+   "32": 1,
+   "33": 1,
+   "36": 1,
+   "44": 1,
+   "45": 1,
+   "48": 2,
+   "52": 1,
+   "54": 1,
+   "55": 1,
+   "57": 3,
+   "60": 3,
+   "66": 1,
+   "67": 1,
+   "70": 2,
+   "72": 1,
+   "74": 1,
+   "75": 2,
+   "80": 4,
+   "81": 1,
+   "83": 2,
+   "86": 1,
+   "87": 1,
+   "88": 1,
+   "91": 1,
+   "93": 1,
+   "96": 1,
+   "97": 2,
+   "98": 1,
+   "101": 4,
+   "106": 1,
+   "120": 1,
+   "122": 1,
+   "127": 1,
+   "128": 3,
+   "135": 1,
+   "141": 1,
+   "142": 1,
+   "144": 1,
+   "149": 1,
+   "150": 1,
+   "158": 1,
+   "162": 1,
+   "164": 1,
+   "172": 1,
+   "186": 1,
+   "190": 1,
+   "194": 1,
+   "199": 1,
+   "203": 1,
+   "215": 1,
+   "220": 1,
+   "223": 1,
+   "242": 1,
+   "253": 1,
+   "254": 1
+  },
+  "gained_cells_mean_before": 5.563218390804598,
+  "gained_cells_mean_after": 7.045977011494253,
+  "empty_cells_before": 0,
+  "empty_cells_after": 0
+ },
+ "e": {
+  "added_total": 129,
+  "added_in_K": 22,
+  "added_in_K_nonzero": 22,
+  "expected_uniform_1_256": 16.125,
+  "expected_uniform_1_256_exact": "129/8",
+  "expected_uniform_0_256": 16.56420233463035,
+  "ratio_obs_to_exp_1_256": 1.3643410852713178,
+  "binomial_upper_tail_P(X>=obs)_p=32/256": 0.08037883154823257,
+  "distinct_K_cells_receiving": 14,
+  "in_K_list": [
+   {
+    "step": "pre-terminus->pre-aim",
+    "cell": 62,
+    "word": "BORDER"
+   },
+   {
+    "step": "pre-terminus->pre-aim",
+    "cell": 92,
+    "word": "TERMINAL"
+   },
+   {
+    "step": "pre-terminus->pre-aim",
+    "cell": 119,
+    "word": "TERMINUS"
+   },
+   {
+    "step": "pre-aim->pre-rotate",
+    "cell": 23,
+    "word": "I AM"
+   },
+   {
+    "step": "pre-aim->pre-rotate",
+    "cell": 153,
+    "word": "EHYEH ASHER EHYEH"
+   },
+   {
+    "step": "pre-rotate->pre-toth",
+    "cell": 46,
+    "word": "WHO"
+   },
+   {
+    "step": "pre-rotate->pre-toth",
+    "cell": 62,
+    "word": "BECOMES"
+   },
+   {
+    "step": "pre-rotate->pre-toth",
+    "cell": 73,
+    "word": "TURN"
+   },
+   {
+    "step": "pre-rongorongo->pre-plate",
+    "cell": 138,
+    "word": "RONGORONGO"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 44,
+    "word": "ECHIS"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 46,
+    "word": "MOND"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 46,
+    "word": "SOL"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 72,
+    "word": "ALCHYMIA"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 73,
+    "word": "EGYPT"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 73,
+    "word": "VULCAN"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 86,
+    "word": "PYRAMID"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 92,
+    "word": "MUNDUS"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 120,
+    "word": "PYRAMIDUM"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 128,
+    "word": "FORTITUDO"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 128,
+    "word": "SUPERIUS"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 128,
+    "word": "TETRAHEDRON"
+   },
+   {
+    "step": "pre-plate->current",
+    "cell": 142,
+    "word": "HUMIDUM RADICALE"
+   }
+  ],
+  "baseline_pre_terminus_words_in_K": 161,
+  "baseline_pre_terminus_fraction_in_K": 0.14260407440212577,
+  "K_fraction_of_257": 0.12840466926070038,
+  "per_step": [
+   {
+    "step": "pre-terminus->pre-aim",
+    "added": 11,
+    "in_K": 3
+   },
+   {
+    "step": "pre-aim->pre-rotate",
+    "added": 7,
+    "in_K": 2
+   },
+   {
+    "step": "pre-rotate->pre-toth",
+    "added": 10,
+    "in_K": 3
+   },
+   {
+    "step": "pre-toth->pre-rongorongo",
+    "added": 4,
+    "in_K": 0
+   },
+   {
+    "step": "pre-rongorongo->pre-plate",
+    "added": 6,
+    "in_K": 1
+   },
+   {
+    "step": "pre-plate->current",
+    "added": 91,
+    "in_K": 13
+   }
+  ],
+  "sum_placed_added_in_K": 22,
+  "sum_placed_expected_1_256": 16.125
+ },
+ "removed_total": 0,
+ "removed": []
+}

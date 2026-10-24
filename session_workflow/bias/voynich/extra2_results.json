@@ -1,0 +1,79 @@
+{
+ "1": {
+  "obs": 2,
+  "latin_anagram_mean": 2,
+  "voynich_anagram_mean": 2,
+  "tilt_sd_voynich": 0.0,
+  "tilt_sd_latin": 0.0
+ },
+ "2": {
+  "obs": 2,
+  "latin_anagram_mean": 2.247,
+  "voynich_anagram_mean": 2.527,
+  "tilt_sd_voynich": 5.24,
+  "tilt_sd_latin": 4.95
+ },
+ "3": {
+  "obs": 5,
+  "latin_anagram_mean": 4.617,
+  "voynich_anagram_mean": 4.773,
+  "tilt_sd_voynich": 10.05,
+  "tilt_sd_latin": 9.48
+ },
+ "4": {
+  "obs": 7,
+  "latin_anagram_mean": 7.707,
+  "voynich_anagram_mean": 7.87,
+  "tilt_sd_voynich": 15.27,
+  "tilt_sd_latin": 15.8
+ },
+ "5": {
+  "obs": 21,
+  "latin_anagram_mean": 16.237,
+  "voynich_anagram_mean": 16.333,
+  "tilt_sd_voynich": 21.55,
+  "tilt_sd_latin": 19.71
+ },
+ "6": {
+  "obs": 30,
+  "latin_anagram_mean": 15.887,
+  "voynich_anagram_mean": 16.43,
+  "tilt_sd_voynich": 28.49,
+  "tilt_sd_latin": 22.74
+ },
+ "7": {
+  "obs": 12,
+  "latin_anagram_mean": 13.16,
+  "voynich_anagram_mean": 13.7,
+  "tilt_sd_voynich": 33.98,
+  "tilt_sd_latin": 32.27
+ },
+ "8": {
+  "obs": 5,
+  "latin_anagram_mean": 4.677,
+  "voynich_anagram_mean": 4.787,
+  "tilt_sd_voynich": 39.04,
+  "tilt_sd_latin": 38.5
+ },
+ "9": {
+  "obs": 4,
+  "latin_anagram_mean": 2.343,
+  "voynich_anagram_mean": 2.087,
+  "tilt_sd_voynich": 45.56,
+  "tilt_sd_latin": 53.96
+ },
+ "10": {
+  "obs": 1,
+  "latin_anagram_mean": 0.783,
+  "voynich_anagram_mean": 0.8,
+  "tilt_sd_voynich": 52.74,
+  "tilt_sd_latin": 42.58
+ },
+ "11": {
+  "obs": 1,
+  "latin_anagram_mean": 0.233,
+  "voynich_anagram_mean": 0.257,
+  "tilt_sd_voynich": 54.62,
+  "tilt_sd_latin": 68.48
+ }
+}

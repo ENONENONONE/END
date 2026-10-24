@@ -1,0 +1,2264 @@
+{
+ "a1": [
+  {
+   "s": 1,
+   "modern": 443,
+   "VforU": 446,
+   "et_dropped": 418,
+   "que": 443,
+   "J": 443,
+   "n_et": 1,
+   "n_u": 3,
+   "words": 6,
+   "letters": 35
+  },
+  {
+   "s": 2,
+   "modern": 1436,
+   "VforU": 1451,
+   "et_dropped": 1411,
+   "que": 1436,
+   "J": 1436,
+   "n_et": 1,
+   "n_u": 15,
+   "words": 22,
+   "letters": 107
+  },
+  {
+   "s": 3,
+   "modern": 1027,
+   "VforU": 1036,
+   "et_dropped": 1002,
+   "que": 1027,
+   "J": 1027,
+   "n_et": 1,
+   "n_u": 9,
+   "words": 19,
+   "letters": 87
+  },
+  {
+   "s": 4,
+   "modern": 1071,
+   "VforU": 1079,
+   "et_dropped": 1071,
+   "que": 1071,
+   "J": 1071,
+   "n_et": 0,
+   "n_u": 8,
+   "words": 17,
+   "letters": 76
+  },
+  {
+   "s": 5,
+   "modern": 442,
+   "VforU": 444,
+   "et_dropped": 442,
+   "que": 442,
+   "J": 442,
+   "n_et": 0,
+   "n_u": 2,
+   "words": 7,
+   "letters": 34
+  },
+  {
+   "s": 6,
+   "modern": 492,
+   "VforU": 494,
+   "et_dropped": 492,
+   "que": 492,
+   "J": 492,
+   "n_et": 0,
+   "n_u": 2,
+   "words": 9,
+   "letters": 38
+  },
+  {
+   "s": 7,
+   "modern": 664,
+   "VforU": 667,
+   "et_dropped": 664,
+   "que": 664,
+   "J": 664,
+   "n_et": 0,
+   "n_u": 3,
+   "words": 11,
+   "letters": 58
+  },
+  {
+   "s": 8,
+   "modern": 997,
+   "VforU": 1003,
+   "et_dropped": 947,
+   "que": 997,
+   "J": 997,
+   "n_et": 2,
+   "n_u": 6,
+   "words": 15,
+   "letters": 82
+  },
+  {
+   "s": 9,
+   "modern": 317,
+   "VforU": 319,
+   "et_dropped": 317,
+   "que": 317,
+   "J": 317,
+   "n_et": 0,
+   "n_u": 2,
+   "words": 5,
+   "letters": 28
+  },
+  {
+   "s": 10,
+   "modern": 320,
+   "VforU": 322,
+   "et_dropped": 320,
+   "que": 320,
+   "J": 320,
+   "n_et": 0,
+   "n_u": 2,
+   "words": 6,
+   "letters": 28
+  },
+  {
+   "s": 11,
+   "modern": 1151,
+   "VforU": 1157,
+   "et_dropped": 1151,
+   "que": 1151,
+   "J": 1151,
+   "n_et": 0,
+   "n_u": 6,
+   "words": 14,
+   "letters": 90
+  },
+  {
+   "s": 12,
+   "modern": 254,
+   "VforU": 257,
+   "et_dropped": 254,
+   "que": 254,
+   "J": 254,
+   "n_et": 0,
+   "n_u": 3,
+   "words": 4,
+   "letters": 19
+  },
+  {
+   "s": 13,
+   "modern": 552,
+   "VforU": 556,
+   "et_dropped": 552,
+   "que": 552,
+   "J": 552,
+   "n_et": 0,
+   "n_u": 4,
+   "words": 8,
+   "letters": 47
+  },
+  {
+   "s": 14,
+   "modern": 962,
+   "VforU": 968,
+   "et_dropped": 962,
+   "que": 962,
+   "J": 962,
+   "n_et": 0,
+   "n_u": 6,
+   "words": 11,
+   "letters": 73
+  },
+  {
+   "s": 15,
+   "modern": 466,
+   "VforU": 468,
+   "et_dropped": 466,
+   "que": 466,
+   "J": 466,
+   "n_et": 0,
+   "n_u": 2,
+   "words": 7,
+   "letters": 37
+  }
+ ],
+ "a2": {
+  "que_words": [
+   "itaque",
+   "iterumque",
+   "omnemque"
+  ],
+  "j_rule_matches": []
+ },
+ "a3": {
+  "total_distinct": 34,
+  "sentences_hitK": 5,
+  "expected": 4.00440032043946,
+  "per": [
+   {
+    "s": 1,
+    "cells": [
+     161,
+     186,
+     189
+    ],
+    "inK": []
+   },
+   {
+    "s": 2,
+    "cells": [
+     126,
+     151,
+     166
+    ],
+    "inK": []
+   },
+   {
+    "s": 3,
+    "cells": [
+     8,
+     231,
+     256
+    ],
+    "inK": [
+     8,
+     256
+    ]
+   },
+   {
+    "s": 4,
+    "cells": [
+     43,
+     51
+    ],
+    "inK": []
+   },
+   {
+    "s": 5,
+    "cells": [
+     185,
+     187
+    ],
+    "inK": []
+   },
+   {
+    "s": 6,
+    "cells": [
+     235,
+     237
+    ],
+    "inK": []
+   },
+   {
+    "s": 7,
+    "cells": [
+     150,
+     153
+    ],
+    "inK": [
+     153
+    ]
+   },
+   {
+    "s": 8,
+    "cells": [
+     176,
+     226,
+     232
+    ],
+    "inK": []
+   },
+   {
+    "s": 9,
+    "cells": [
+     60,
+     62
+    ],
+    "inK": [
+     62
+    ]
+   },
+   {
+    "s": 10,
+    "cells": [
+     63,
+     65
+    ],
+    "inK": []
+   },
+   {
+    "s": 11,
+    "cells": [
+     123,
+     129
+    ],
+    "inK": [
+     129
+    ]
+   },
+   {
+    "s": 12,
+    "cells": [
+     0,
+     254
+    ],
+    "inK": [
+     0
+    ]
+   },
+   {
+    "s": 13,
+    "cells": [
+     38,
+     42
+    ],
+    "inK": []
+   },
+   {
+    "s": 14,
+    "cells": [
+     191,
+     197
+    ],
+    "inK": []
+   },
+   {
+    "s": 15,
+    "cells": [
+     209,
+     211
+    ],
+    "inK": []
+   }
+  ]
+ },
+ "a4": {
+  "total_distinct": 38,
+  "sentences_hitK": 5,
+  "expected": 4.347905113514507,
+  "per": [
+   {
+    "s": 1,
+    "cells": [
+     161,
+     164,
+     186,
+     189
+    ],
+    "inK": [],
+    "sums": [
+     418,
+     421,
+     443,
+     446
+    ]
+   },
+   {
+    "s": 2,
+    "cells": [
+     126,
+     141,
+     151,
+     166
+    ],
+    "inK": [],
+    "sums": [
+     1411,
+     1426,
+     1436,
+     1451
+    ]
+   },
+   {
+    "s": 3,
+    "cells": [
+     8,
+     231,
+     240,
+     256
+    ],
+    "inK": [
+     8,
+     240,
+     256
+    ],
+    "sums": [
+     1002,
+     1011,
+     1027,
+     1036
+    ]
+   },
+   {
+    "s": 4,
+    "cells": [
+     43,
+     51
+    ],
+    "inK": [],
+    "sums": [
+     1071,
+     1079
+    ]
+   },
+   {
+    "s": 5,
+    "cells": [
+     185,
+     187
+    ],
+    "inK": [],
+    "sums": [
+     442,
+     444
+    ]
+   },
+   {
+    "s": 6,
+    "cells": [
+     235,
+     237
+    ],
+    "inK": [],
+    "sums": [
+     492,
+     494
+    ]
+   },
+   {
+    "s": 7,
+    "cells": [
+     150,
+     153
+    ],
+    "inK": [
+     153
+    ],
+    "sums": [
+     664,
+     667
+    ]
+   },
+   {
+    "s": 8,
+    "cells": [
+     176,
+     182,
+     226,
+     232
+    ],
+    "inK": [],
+    "sums": [
+     947,
+     953,
+     997,
+     1003
+    ]
+   },
+   {
+    "s": 9,
+    "cells": [
+     60,
+     62
+    ],
+    "inK": [
+     62
+    ],
+    "sums": [
+     317,
+     319
+    ]
+   },
+   {
+    "s": 10,
+    "cells": [
+     63,
+     65
+    ],
+    "inK": [],
+    "sums": [
+     320,
+     322
+    ]
+   },
+   {
+    "s": 11,
+    "cells": [
+     123,
+     129
+    ],
+    "inK": [
+     129
+    ],
+    "sums": [
+     1151,
+     1157
+    ]
+   },
+   {
+    "s": 12,
+    "cells": [
+     0,
+     254
+    ],
+    "inK": [
+     0
+    ],
+    "sums": [
+     254,
+     257
+    ]
+   },
+   {
+    "s": 13,
+    "cells": [
+     38,
+     42
+    ],
+    "inK": [],
+    "sums": [
+     552,
+     556
+    ]
+   },
+   {
+    "s": 14,
+    "cells": [
+     191,
+     197
+    ],
+    "inK": [],
+    "sums": [
+     962,
+     968
+    ]
+   },
+   {
+    "s": 15,
+    "cells": [
+     209,
+     211
+    ],
+    "inK": [],
+    "sums": [
+     466,
+     468
+    ]
+   }
+  ]
+ },
+ "a5": [
+  [
+   3,
+   [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   1027
+  ],
+  [
+   3,
+   [
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   1027
+  ],
+  [
+   3,
+   [
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   1027
+  ],
+  [
+   3,
+   [
+    0,
+    0,
+    0,
+    1,
+    1
+   ],
+   1027
+  ],
+  [
+   3,
+   [
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   1027
+  ],
+  [
+   3,
+   [
+    0,
+    0,
+    1,
+    0,
+    1
+   ],
+   1027
+  ],
+  [
+   3,
+   [
+    0,
+    0,
+    1,
+    1,
+    0
+   ],
+   1027
+  ],
+  [
+   3,
+   [
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   1027
+  ],
+  [
+   12,
+   [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    0,
+    0,
+    1,
+    0
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    0,
+    0,
+    1,
+    1
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    0,
+    1,
+    0,
+    1
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    0,
+    1,
+    1,
+    0
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    0,
+    1,
+    1,
+    1
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    1,
+    0,
+    0,
+    1
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    1,
+    0,
+    1,
+    0
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    1,
+    0,
+    1,
+    1
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   257
+  ],
+  [
+   12,
+   [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   257
+  ]
+ ],
+ "a6": {
+  "total_distinct": 46,
+  "sentences_hitK": 6,
+  "expected": 4.963635452250742,
+  "per": [
+   {
+    "s": 1,
+    "cells": [
+     161,
+     164,
+     186,
+     189
+    ],
+    "inK": []
+   },
+   {
+    "s": 2,
+    "cells": [
+     126,
+     141,
+     151,
+     166
+    ],
+    "inK": []
+   },
+   {
+    "s": 3,
+    "cells": [
+     8,
+     231,
+     240,
+     256
+    ],
+    "inK": [
+     8,
+     240,
+     256
+    ]
+   },
+   {
+    "s": 4,
+    "cells": [
+     43,
+     46,
+     51,
+     54
+    ],
+    "inK": [
+     46
+    ]
+   },
+   {
+    "s": 5,
+    "cells": [
+     185,
+     187
+    ],
+    "inK": []
+   },
+   {
+    "s": 6,
+    "cells": [
+     235,
+     236,
+     237,
+     238
+    ],
+    "inK": []
+   },
+   {
+    "s": 7,
+    "cells": [
+     150,
+     153
+    ],
+    "inK": [
+     153
+    ]
+   },
+   {
+    "s": 8,
+    "cells": [
+     162,
+     168,
+     176,
+     182,
+     212,
+     218,
+     226,
+     232
+    ],
+    "inK": []
+   },
+   {
+    "s": 9,
+    "cells": [
+     60,
+     62
+    ],
+    "inK": [
+     62
+    ]
+   },
+   {
+    "s": 10,
+    "cells": [
+     63,
+     65
+    ],
+    "inK": []
+   },
+   {
+    "s": 11,
+    "cells": [
+     123,
+     129
+    ],
+    "inK": [
+     129
+    ]
+   },
+   {
+    "s": 12,
+    "cells": [
+     0,
+     254
+    ],
+    "inK": [
+     0
+    ]
+   },
+   {
+    "s": 13,
+    "cells": [
+     38,
+     42
+    ],
+    "inK": []
+   },
+   {
+    "s": 14,
+    "cells": [
+     191,
+     197
+    ],
+    "inK": []
+   },
+   {
+    "s": 15,
+    "cells": [
+     209,
+     211
+    ],
+    "inK": []
+   }
+  ]
+ },
+ "a7": {
+  "pairs": 38,
+  "pairs_hit": 30,
+  "frac": 0.7894736842105263,
+  "sentences_hit": 14,
+  "sentences_nohit": [
+   10
+  ],
+  "baseline_cells": 183,
+  "baseline_frac": 0.7120622568093385,
+  "min_read": 2,
+  "max_read": 13,
+  "mean_distinct": 11.743190661478598,
+  "reading_counts": {
+   "square": 10,
+   "x17": 10,
+   "double": 8,
+   "atbash": 7,
+   "self": 7,
+   "fold": 7,
+   "inverse": 7,
+   "x3": 6,
+   "sqrt": 6,
+   "dlog": 5,
+   "x5": 4,
+   "gamma": 4,
+   "half": 3
+  },
+  "exp_sentences": 14.070898883485652,
+  "pair_list": [
+   [
+    [
+     0,
+     256
+    ],
+    [
+     12
+    ]
+   ],
+   [
+    [
+     8,
+     28
+    ],
+    [
+     3
+    ]
+   ],
+   [
+    [
+     38,
+     203
+    ],
+    [
+     13
+    ]
+   ],
+   [
+    [
+     42,
+     199
+    ],
+    [
+     13
+    ]
+   ],
+   [
+    [
+     43,
+     210
+    ],
+    [
+     4
+    ]
+   ],
+   [
+    [
+     51,
+     202
+    ],
+    [
+     4
+    ]
+   ],
+   [
+    [
+     60,
+     182
+    ],
+    [
+     9
+    ]
+   ],
+   [
+    [
+     62,
+     180
+    ],
+    [
+     9
+    ]
+   ],
+   [
+    [
+     63,
+     179
+    ],
+    [
+     10
+    ]
+   ],
+   [
+    [
+     65,
+     177
+    ],
+    [
+     10
+    ]
+   ],
+   [
+    [
+     123,
+     251
+    ],
+    [
+     11
+    ]
+   ],
+   [
+    [
+     126,
+     139
+    ],
+    [
+     2
+    ]
+   ],
+   [
+    [
+     129,
+     245
+    ],
+    [
+     11
+    ]
+   ],
+   [
+    [
+     141,
+     124
+    ],
+    [
+     2
+    ]
+   ],
+   [
+    [
+     150,
+     131
+    ],
+    [
+     7
+    ]
+   ],
+   [
+    [
+     151,
+     168
+    ],
+    [
+     2
+    ]
+   ],
+   [
+    [
+     153,
+     128
+    ],
+    [
+     7
+    ]
+   ],
+   [
+    [
+     161,
+     216
+    ],
+    [
+     1
+    ]
+   ],
+   [
+    [
+     164,
+     213
+    ],
+    [
+     1
+    ]
+   ],
+   [
+    [
+     166,
+     153
+    ],
+    [
+     2
+    ]
+   ],
+   [
+    [
+     176,
+     131
+    ],
+    [
+     8
+    ]
+   ],
+   [
+    [
+     182,
+     125
+    ],
+    [
+     8
+    ]
+   ],
+   [
+    [
+     185,
+     219
+    ],
+    [
+     5
+    ]
+   ],
+   [
+    [
+     186,
+     245
+    ],
+    [
+     1
+    ]
+   ],
+   [
+    [
+     187,
+     217
+    ],
+    [
+     5
+    ]
+   ],
+   [
+    [
+     189,
+     242
+    ],
+    [
+     1
+    ]
+   ],
+   [
+    [
+     191,
+     238
+    ],
+    [
+     14
+    ]
+   ],
+   [
+    [
+     197,
+     232
+    ],
+    [
+     14
+    ]
+   ],
+   [
+    [
+     209,
+     19
+    ],
+    [
+     15
+    ]
+   ],
+   [
+    [
+     211,
+     17
+    ],
+    [
+     15
+    ]
+   ],
+   [
+    [
+     226,
+     189
+    ],
+    [
+     8
+    ]
+   ],
+   [
+    [
+     231,
+     8
+    ],
+    [
+     3
+    ]
+   ],
+   [
+    [
+     232,
+     183
+    ],
+    [
+     8
+    ]
+   ],
+   [
+    [
+     235,
+     20
+    ],
+    [
+     6
+    ]
+   ],
+   [
+    [
+     237,
+     18
+    ],
+    [
+     6
+    ]
+   ],
+   [
+    [
+     240,
+     256
+    ],
+    [
+     3
+    ]
+   ],
+   [
+    [
+     254,
+     2
+    ],
+    [
+     12
+    ]
+   ],
+   [
+    [
+     256,
+     37
+    ],
+    [
+     3
+    ]
+   ]
+  ]
+ },
+ "b1": {
+  "n": 108,
+  "total": 5359095,
+  "exact257": 27738,
+  "frac257": 0.0051758739115466326,
+  "exact514": 363,
+  "exact771": 0,
+  "exact1027": 0,
+  "multiples": 28101,
+  "inK": 735070,
+  "fracK": 0.1371630844386972,
+  "max_sum": 646,
+  "mode": 286,
+  "mode_count": 30305,
+  "rank257": 58,
+  "neighbours": {
+   "247": 25796,
+   "248": 25998,
+   "249": 26256,
+   "250": 26154,
+   "251": 26368,
+   "252": 26597,
+   "253": 26805,
+   "254": 26911,
+   "255": 27225,
+   "256": 27479,
+   "257": 27738,
+   "258": 27856,
+   "259": 28087,
+   "260": 28192,
+   "261": 28204,
+   "262": 28389,
+   "263": 28503,
+   "264": 28455,
+   "265": 28352,
+   "266": 28755,
+   "267": 28972
+  },
+  "mean_sum": 292.85185185185185,
+  "enum257": 27738,
+  "sol_luna_ventus_terra": [
+   46,
+   48,
+   101,
+   62
+  ]
+ },
+ "b2": {
+  "n": 108,
+  "total": 5359095,
+  "exact257": 27389,
+  "frac257": 0.005110750975677796,
+  "exact514": 405,
+  "exact771": 0,
+  "exact1027": 0,
+  "multiples": 27794,
+  "inK": 734488,
+  "fracK": 0.13705448401269243,
+  "max_sum": 651,
+  "mode": 286,
+  "mode_count": 30339,
+  "rank257": 60,
+  "neighbours": {
+   "247": 25233,
+   "248": 25065,
+   "249": 26138,
+   "250": 25608,
+   "251": 25974,
+   "252": 26438,
+   "253": 25842,
+   "254": 26806,
+   "255": 26641,
+   "256": 26527,
+   "257": 27389,
+   "258": 27067,
+   "259": 27738,
+   "260": 28055,
+   "261": 27265,
+   "262": 28228,
+   "263": 27995,
+   "264": 28033,
+   "265": 28581,
+   "266": 27808,
+   "267": 28618
+  },
+  "mean_sum": 294.77777777777777,
+  "sol_lvna_ventvs_terra": 259
+ },
+ "b3_nouns": {
+  "n": 37,
+  "total": 66045,
+  "exact257": 293,
+  "frac257": 0.004436369142251495,
+  "exact514": 13,
+  "exact771": 0,
+  "exact1027": 0,
+  "multiples": 306,
+  "inK": 9345,
+  "fracK": 0.14149443561208266,
+  "max_sum": 604,
+  "mode": 304,
+  "mode_count": 392,
+  "rank257": 102,
+  "neighbours": {
+   "247": 245,
+   "248": 258,
+   "249": 252,
+   "250": 253,
+   "251": 257,
+   "252": 265,
+   "253": 266,
+   "254": 269,
+   "255": 287,
+   "256": 272,
+   "257": 293,
+   "258": 297,
+   "259": 295,
+   "260": 292,
+   "261": 304,
+   "262": 293,
+   "263": 291,
+   "264": 301,
+   "265": 298,
+   "266": 310,
+   "267": 319
+  },
+  "mean_sum": 322.5945945945946
+ },
+ "b3_nouns_v": {
+  "n": 37,
+  "total": 66045,
+  "exact257": 268,
+  "frac257": 0.004057839351956999,
+  "exact514": 15,
+  "exact771": 0,
+  "exact1027": 0,
+  "multiples": 283,
+  "inK": 9207,
+  "fracK": 0.13940495116965707,
+  "max_sum": 607,
+  "mode": 318,
+  "mode_count": 398,
+  "rank257": 119,
+  "neighbours": {
+   "247": 255,
+   "248": 241,
+   "249": 270,
+   "250": 242,
+   "251": 254,
+   "252": 247,
+   "253": 270,
+   "254": 269,
+   "255": 277,
+   "256": 269,
+   "257": 268,
+   "258": 299,
+   "259": 279,
+   "260": 314,
+   "261": 269,
+   "262": 316,
+   "263": 291,
+   "264": 296,
+   "265": 283,
+   "266": 313,
+   "267": 309
+  },
+  "mean_sum": 324.0
+ },
+ "b3_nouns_adj": {
+  "n": 48,
+  "total": 194580,
+  "exact257": 565,
+  "frac257": 0.002903689998972145,
+  "exact514": 101,
+  "exact771": 0,
+  "exact1027": 0,
+  "multiples": 666,
+  "inK": 26832,
+  "fracK": 0.13789700894233733,
+  "max_sum": 646,
+  "mode": 337,
+  "mode_count": 1128,
+  "rank257": 167,
+  "neighbours": {
+   "247": 452,
+   "248": 463,
+   "249": 459,
+   "250": 466,
+   "251": 476,
+   "252": 499,
+   "253": 507,
+   "254": 511,
+   "255": 546,
+   "256": 546,
+   "257": 565,
+   "258": 575,
+   "259": 588,
+   "260": 573,
+   "261": 590,
+   "262": 605,
+   "263": 594,
+   "264": 608,
+   "265": 619,
+   "266": 659,
+   "267": 649
+  },
+  "mean_sum": 346.8333333333333
+ },
+ "b3_nouns_adj_v": {
+  "n": 48,
+  "total": 194580,
+  "exact257": 529,
+  "frac257": 0.002718676122931442,
+  "exact514": 92,
+  "exact771": 0,
+  "exact1027": 0,
+  "multiples": 621,
+  "inK": 26580,
+  "fracK": 0.13660191181005243,
+  "max_sum": 651,
+  "mode": 334,
+  "mode_count": 1150,
+  "rank257": 176,
+  "neighbours": {
+   "247": 444,
+   "248": 438,
+   "249": 477,
+   "250": 460,
+   "251": 453,
+   "252": 468,
+   "253": 491,
+   "254": 504,
+   "255": 520,
+   "256": 515,
+   "257": 529,
+   "258": 574,
+   "259": 541,
+   "260": 611,
+   "261": 547,
+   "262": 603,
+   "263": 596,
+   "264": 585,
+   "265": 584,
+   "266": 624,
+   "267": 639
+  },
+  "mean_sum": 348.8333333333333
+ },
+ "distinct_words": [
+  "a",
+  "ab",
+  "ad",
+  "adaptatione",
+  "adaptationes",
+  "ascendit",
+  "certum",
+  "coelum",
+  "completum",
+  "creatus",
+  "cum",
+  "de",
+  "descendit",
+  "dixi",
+  "eius",
+  "erunt",
+  "est",
+  "et",
+  "fortis",
+  "fortitudinis",
+  "fortitudo",
+  "fuerit",
+  "fuerunt",
+  "fugiat",
+  "gloriam",
+  "habebis",
+  "habens",
+  "hac",
+  "hermes",
+  "hic",
+  "hinc",
+  "ideo",
+  "igne",
+  "illud",
+  "in",
+  "inferiorum",
+  "inferius",
+  "ingenio",
+  "integra",
+  "itaque",
+  "iterumque",
+  "luna",
+  "magno",
+  "mater",
+  "meditatione",
+  "mendacio",
+  "mirabiles",
+  "miracula",
+  "modus",
+  "mundi",
+  "mundus",
+  "natae",
+  "nutrix",
+  "obscuritas",
+  "omnem",
+  "omnemque",
+  "omnes",
+  "omnis",
+  "operatione",
+  "partes",
+  "pater",
+  "penetrabit",
+  "perpetranda",
+  "philosophiae",
+  "portavit",
+  "quarum",
+  "quia",
+  "quod",
+  "re",
+  "recipit",
+  "rei",
+  "rem",
+  "res",
+  "separabis",
+  "si",
+  "sic",
+  "sicut",
+  "sine",
+  "sol",
+  "solidam",
+  "solis",
+  "spisso",
+  "suaviter",
+  "subtile",
+  "subtilem",
+  "sum",
+  "suo",
+  "superiorum",
+  "superius",
+  "te",
+  "telesmi",
+  "terra",
+  "terram",
+  "totius",
+  "tres",
+  "trismegistus",
+  "una",
+  "unius",
+  "uno",
+  "ventre",
+  "ventus",
+  "verissimum",
+  "versa",
+  "verum",
+  "vim",
+  "vincet",
+  "vis",
+  "vocatus"
+ ],
+ "c": {
+  "modern": {
+   "whole": {
+    "n_words": 161,
+    "n_spans": 13041,
+    "hits": {
+     "257": 4,
+     "514": 1,
+     "771": 1,
+     "1027": 4,
+     "1028": 2
+    },
+    "spans": {
+     "257": [
+      "omnes res natae fuerunt ab",
+      "est pater omnis telesmi",
+      "omnis telesmi totius",
+      "mundus creatus est hinc"
+     ],
+     "514": [
+      "omnem rem subtilem omnemque solidam penetrabit sic"
+     ],
+     "771": [
+      "omnem rem subtilem omnemque solidam penetrabit sic mundus creatus est hinc"
+     ],
+     "1027": [
+      "quod est superius est sicut quod est inferius ad perpetranda miracula rei unius et sicut omnes",
+      "et sicut omnes res fuerunt ab uno meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione",
+      "meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione pater eius est sol mater eius luna",
+      "pater eius est sol mater eius luna portavit illud ventus in ventre suo nutrix eius terra"
+     ],
+     "1028": [
+      "ascendit a terra in coelum iterumque descendit in terram et recipit vim superiorum et inferiorum sic",
+      "omnemque solidam penetrabit sic mundus creatus est hinc erunt adaptationes mirabiles quarum modus"
+     ]
+    },
+    "zero_mod": 48,
+    "ctrl_mean_200_1100": 2.346281908990011,
+    "ctrl_257_neigh": {
+     "250": 2,
+     "251": 1,
+     "252": 1,
+     "253": 1,
+     "254": 7,
+     "255": 1,
+     "256": 1,
+     "257": 4,
+     "258": 0,
+     "259": 0,
+     "260": 0,
+     "261": 4,
+     "262": 2,
+     "263": 4,
+     "264": 2
+    }
+   },
+   "within": {
+    "n_words": 161,
+    "n_spans": 1157,
+    "hits": {
+     "257": 2,
+     "514": 0,
+     "771": 0,
+     "1027": 2,
+     "1028": 0
+    },
+    "spans": {
+     "257": [
+      "omnes res natae fuerunt ab",
+      "omnis telesmi totius"
+     ],
+     "514": [],
+     "771": [],
+     "1027": [
+      "et sicut omnes res fuerunt ab uno meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione",
+      "pater eius est sol mater eius luna portavit illud ventus in ventre suo nutrix eius terra"
+     ],
+     "1028": []
+    },
+    "zero_mod": 2,
+    "ctrl_mean_200_1100": 0.8368479467258602,
+    "ctrl_257_neigh": {
+     "250": 2,
+     "251": 1,
+     "252": 1,
+     "253": 1,
+     "254": 6,
+     "255": 1,
+     "256": 1,
+     "257": 2,
+     "258": 0,
+     "259": 0,
+     "260": 0,
+     "261": 2,
+     "262": 1,
+     "263": 2,
+     "264": 1
+    }
+   }
+  },
+  "V": {
+   "whole": {
+    "n_words": 161,
+    "n_spans": 13041,
+    "hits": {
+     "257": 8,
+     "514": 2,
+     "771": 3,
+     "1027": 4,
+     "1028": 4
+    },
+    "spans": {
+     "257": [
+      "qvod est svperivs et",
+      "est svperivs et qvod",
+      "svperivs et qvod est",
+      "et qvod est svperivs",
+      "eivs est sol mater eivs",
+      "est pater omnis telesmi",
+      "sic habebis gloriam totivs",
+      "sic mvndvs creatvs est"
+     ],
+     "514": [
+      "hic vis eivs integra est si versa fverit in terram",
+      "svbtilem omnemqve solidam penetrabit sic mvndvs"
+     ],
+     "771": [
+      "svperivs est sicvt qvod est inferivs ad perpetranda miracvla rei vnivs",
+      "magno ingenio ascendit a terra in coelvm itervmqve descendit in terram et recipit",
+      "vincet omnem rem svbtilem omnemqve solidam penetrabit sic mvndvs creatvs"
+     ],
+     "1027": [
+      "ad perpetranda miracvla rei vnivs et sicvt omnes res fvervnt ab vno meditatione vnivs sic omnes res",
+      "ventvs in ventre svo nvtrix eivs terra est pater omnis telesmi totivs mvndi est hic vis",
+      "gloriam totivs mvndi ideo fvgiat a te omnis obscvritas hic est totivs fortitvdinis fortitvdo",
+      "est totivs fortitvdinis fortitvdo fortis qvia vincet omnem rem svbtilem omnemqve solidam"
+     ],
+     "1028": [
+      "et verissimvm qvod est inferivs est sicvt qvod est svperivs et qvod est svperivs est",
+      "svperivs et qvod est svperivs est sicvt qvod est inferivs ad perpetranda miracvla rei vnivs",
+      "nvtrix eivs terra est pater omnis telesmi totivs mvndi est hic vis eivs integra est si versa",
+      "pater omnis telesmi totivs mvndi est hic vis eivs integra est si versa fverit in terram separabis"
+     ]
+    },
+    "zero_mod": 66,
+    "ctrl_mean_200_1100": 2.331853496115427,
+    "ctrl_257_neigh": {
+     "250": 2,
+     "251": 4,
+     "252": 2,
+     "253": 0,
+     "254": 1,
+     "255": 2,
+     "256": 2,
+     "257": 8,
+     "258": 1,
+     "259": 1,
+     "260": 1,
+     "261": 1,
+     "262": 2,
+     "263": 2,
+     "264": 0
+    }
+   },
+   "within": {
+    "n_words": 161,
+    "n_spans": 1157,
+    "hits": {
+     "257": 7,
+     "514": 0,
+     "771": 1,
+     "1027": 1,
+     "1028": 1
+    },
+    "spans": {
+     "257": [
+      "qvod est svperivs et",
+      "est svperivs et qvod",
+      "svperivs et qvod est",
+      "et qvod est svperivs",
+      "eivs est sol mater eivs",
+      "sic habebis gloriam totivs",
+      "sic mvndvs creatvs est"
+     ],
+     "514": [],
+     "771": [
+      "svperivs est sicvt qvod est inferivs ad perpetranda miracvla rei vnivs"
+     ],
+     "1027": [
+      "est totivs fortitvdinis fortitvdo fortis qvia vincet omnem rem svbtilem omnemqve solidam"
+     ],
+     "1028": [
+      "svperivs et qvod est svperivs est sicvt qvod est inferivs ad perpetranda miracvla rei vnivs"
+     ]
+    },
+    "zero_mod": 9,
+    "ctrl_mean_200_1100": 0.8412874583795783,
+    "ctrl_257_neigh": {
+     "250": 1,
+     "251": 3,
+     "252": 2,
+     "253": 0,
+     "254": 1,
+     "255": 2,
+     "256": 1,
+     "257": 7,
+     "258": 1,
+     "259": 1,
+     "260": 0,
+     "261": 0,
+     "262": 1,
+     "263": 1,
+     "264": 0
+    }
+   }
+  },
+  "modern_noet": {
+   "whole": {
+    "n_words": 156,
+    "n_spans": 12246,
+    "hits": {
+     "257": 4,
+     "514": 1,
+     "771": 2,
+     "1027": 2,
+     "1028": 3
+    },
+    "spans": {
+     "257": [
+      "omnes res natae fuerunt ab",
+      "est pater omnis telesmi",
+      "omnis telesmi totius",
+      "mundus creatus est hinc"
+     ],
+     "514": [
+      "omnem rem subtilem omnemque solidam penetrabit sic"
+     ],
+     "771": [
+      "sicut quod est inferius ad perpetranda miracula rei unius sicut omnes res",
+      "omnem rem subtilem omnemque solidam penetrabit sic mundus creatus est hinc"
+     ],
+     "1027": [
+      "meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione pater eius est sol mater eius luna",
+      "pater eius est sol mater eius luna portavit illud ventus in ventre suo nutrix eius terra"
+     ],
+     "1028": [
+      "descendit in terram recipit vim superiorum inferiorum sic habebis gloriam totius mundi ideo fugiat a te",
+      "vim superiorum inferiorum sic habebis gloriam totius mundi ideo fugiat a te omnis obscuritas hic est",
+      "omnemque solidam penetrabit sic mundus creatus est hinc erunt adaptationes mirabiles quarum modus"
+     ]
+    },
+    "zero_mod": 40,
+    "ctrl_mean_200_1100": 2.2286348501664817,
+    "ctrl_257_neigh": {
+     "250": 2,
+     "251": 1,
+     "252": 1,
+     "253": 0,
+     "254": 4,
+     "255": 1,
+     "256": 1,
+     "257": 4,
+     "258": 0,
+     "259": 0,
+     "260": 0,
+     "261": 5,
+     "262": 2,
+     "263": 4,
+     "264": 3
+    }
+   },
+   "within": {
+    "n_words": 156,
+    "n_spans": 1081,
+    "hits": {
+     "257": 2,
+     "514": 0,
+     "771": 0,
+     "1027": 1,
+     "1028": 0
+    },
+    "spans": {
+     "257": [
+      "omnes res natae fuerunt ab",
+      "omnis telesmi totius"
+     ],
+     "514": [],
+     "771": [],
+     "1027": [
+      "pater eius est sol mater eius luna portavit illud ventus in ventre suo nutrix eius terra"
+     ],
+     "1028": []
+    },
+    "zero_mod": 2,
+    "ctrl_mean_200_1100": 0.7769145394006659,
+    "ctrl_257_neigh": {
+     "250": 2,
+     "251": 1,
+     "252": 1,
+     "253": 0,
+     "254": 2,
+     "255": 1,
+     "256": 1,
+     "257": 2,
+     "258": 0,
+     "259": 0,
+     "260": 0,
+     "261": 3,
+     "262": 1,
+     "263": 2,
+     "264": 1
+    }
+   }
+  },
+  "V_noet": {
+   "whole": {
+    "n_words": 156,
+    "n_spans": 12246,
+    "hits": {
+     "257": 5,
+     "514": 2,
+     "771": 4,
+     "1027": 4,
+     "1028": 2
+    },
+    "spans": {
+     "257": [
+      "rei vnivs sicvt omnes",
+      "eivs est sol mater eivs",
+      "est pater omnis telesmi",
+      "sic habebis gloriam totivs",
+      "sic mvndvs creatvs est"
+     ],
+     "514": [
+      "hic vis eivs integra est si versa fverit in terram",
+      "svbtilem omnemqve solidam penetrabit sic mvndvs"
+     ],
+     "771": [
+      "est inferivs est sicvt qvod est svperivs qvod est svperivs est",
+      "svperivs est sicvt qvod est inferivs ad perpetranda miracvla rei vnivs",
+      "miracvla rei vnivs sicvt omnes res fvervnt ab vno meditatione vnivs sic",
+      "vincet omnem rem svbtilem omnemqve solidam penetrabit sic mvndvs creatvs"
+     ],
+     "1027": [
+      "miracvla rei vnivs sicvt omnes res fvervnt ab vno meditatione vnivs sic omnes res natae fvervnt",
+      "ventvs in ventre svo nvtrix eivs terra est pater omnis telesmi totivs mvndi est hic vis",
+      "gloriam totivs mvndi ideo fvgiat a te omnis obscvritas hic est totivs fortitvdinis fortitvdo",
+      "est totivs fortitvdinis fortitvdo fortis qvia vincet omnem rem svbtilem omnemqve solidam"
+     ],
+     "1028": [
+      "nvtrix eivs terra est pater omnis telesmi totivs mvndi est hic vis eivs integra est si versa",
+      "pater omnis telesmi totivs mvndi est hic vis eivs integra est si versa fverit in terram separabis"
+     ]
+    },
+    "zero_mod": 45,
+    "ctrl_mean_200_1100": 2.2042175360710323,
+    "ctrl_257_neigh": {
+     "250": 1,
+     "251": 4,
+     "252": 2,
+     "253": 0,
+     "254": 1,
+     "255": 1,
+     "256": 2,
+     "257": 5,
+     "258": 1,
+     "259": 1,
+     "260": 1,
+     "261": 2,
+     "262": 2,
+     "263": 2,
+     "264": 0
+    }
+   },
+   "within": {
+    "n_words": 156,
+    "n_spans": 1081,
+    "hits": {
+     "257": 3,
+     "514": 0,
+     "771": 2,
+     "1027": 1,
+     "1028": 0
+    },
+    "spans": {
+     "257": [
+      "eivs est sol mater eivs",
+      "sic habebis gloriam totivs",
+      "sic mvndvs creatvs est"
+     ],
+     "514": [],
+     "771": [
+      "est inferivs est sicvt qvod est svperivs qvod est svperivs est",
+      "svperivs est sicvt qvod est inferivs ad perpetranda miracvla rei vnivs"
+     ],
+     "1027": [
+      "est totivs fortitvdinis fortitvdo fortis qvia vincet omnem rem svbtilem omnemqve solidam"
+     ],
+     "1028": []
+    },
+    "zero_mod": 5,
+    "ctrl_mean_200_1100": 0.7769145394006659,
+    "ctrl_257_neigh": {
+     "250": 1,
+     "251": 3,
+     "252": 2,
+     "253": 0,
+     "254": 1,
+     "255": 1,
+     "256": 1,
+     "257": 3,
+     "258": 1,
+     "259": 1,
+     "260": 0,
+     "261": 1,
+     "262": 1,
+     "263": 1,
+     "264": 0
+    }
+   }
+  }
+ },
+ "tablet_nwords": 1258,
+ "d": [
+  {
+   "a": "EHYEH",
+   "sa": 51,
+   "a_inK": false,
+   "a_tab": 51,
+   "b": "EHEIEH",
+   "sb": 40,
+   "b_inK": false,
+   "b_tab": null,
+   "differ": true
+  },
+  {
+   "a": "IUNONI",
+   "sa": 82,
+   "a_inK": false,
+   "a_tab": null,
+   "b": "JUNONI",
+   "sb": 83,
+   "b_inK": false,
+   "b_tab": null,
+   "differ": true
+  },
+  {
+   "a": "CAELUM",
+   "sa": 55,
+   "a_inK": false,
+   "a_tab": null,
+   "b": "COELUM",
+   "sb": 69,
+   "b_inK": false,
+   "b_tab": 69,
+   "differ": true
+  },
+  {
+   "a": "ALCHYMIA",
+   "sa": 72,
+   "a_inK": true,
+   "a_tab": 72,
+   "b": "ALCHIMIA",
+   "sb": 56,
+   "b_inK": false,
+   "b_tab": null,
+   "differ": true
+  },
+  {
+   "a": "PYRAMIDUM",
+   "sa": 120,
+   "a_inK": true,
+   "a_tab": 120,
+   "b": "PIRAMIDUM",
+   "sb": 104,
+   "b_inK": false,
+   "b_tab": null,
+   "differ": true
+  },
+  {
+   "a": "HENRIC",
+   "sa": 57,
+   "a_inK": false,
+   "a_tab": null,
+   "b": "HENRICUS",
+   "sb": 97,
+   "b_inK": false,
+   "b_tab": null,
+   "differ": true
+  },
+  {
+   "a": "KHUNRATH",
+   "sa": 101,
+   "a_inK": false,
+   "a_tab": 101,
+   "b": "KUNRATH",
+   "sb": 93,
+   "b_inK": false,
+   "b_tab": null,
+   "differ": true
+  }
+ ],
+ "d_extra": {
+  "IVNONI": {
+   "sum": 83,
+   "inK": false,
+   "tab": null
+  },
+  "CAELVM": {
+   "sum": 56,
+   "inK": false,
+   "tab": null
+  },
+  "COELVM": {
+   "sum": 70,
+   "inK": false,
+   "tab": null
+  },
+  "PYRAMIDVM": {
+   "sum": 121,
+   "inK": false,
+   "tab": null
+  },
+  "PIRAMIDVM": {
+   "sum": 105,
+   "inK": false,
+   "tab": null
+  },
+  "HENRICVS": {
+   "sum": 98,
+   "inK": false,
+   "tab": null
+  },
+  "KHVNRATH": {
+   "sum": 102,
+   "inK": false,
+   "tab": null
+  },
+  "KVNRATH": {
+   "sum": 94,
+   "inK": false,
+   "tab": null
+  },
+  "HENRIC KHUNRATH": {
+   "sum": 158,
+   "inK": false,
+   "tab": 158
+  },
+  "HENRICUS KHUNRATH": {
+   "sum": 198,
+   "inK": false,
+   "tab": null
+  },
+  "HENRICVS KHVNRATH": {
+   "sum": 200,
+   "inK": false,
+   "tab": null
+  }
+ },
+ "d_exp": 1.7976653696498055
+}

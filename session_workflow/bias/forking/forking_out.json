@@ -1,0 +1,2171 @@
+{
+ "baseline_cells_with_some_reading_in_K": 183,
+ "readings_per_cell_min_max": [
+  10,
+  13
+ ],
+ "distinct_reading_values_per_cell_mean": 11.7432,
+ "a_readings": {
+  "distinct_pairs": 38,
+  "pairs_with_reading_in_K": 30,
+  "sentences_with_reading_in_K": 14,
+  "expected_sentences_uniform_no_atbash": 14.070898883485654,
+  "reading_kind_counts": {
+   "x3": 6,
+   "sqrt": 8,
+   "square": 10,
+   "x17": 10,
+   "dlog": 5,
+   "x5": 4,
+   "atbash": 7,
+   "double": 8,
+   "inverse": 7,
+   "self": 7,
+   "fold": 7,
+   "gamma": 4,
+   "half": 3
+  },
+  "detail": [
+   [
+    1,
+    161,
+    216,
+    []
+   ],
+   [
+    1,
+    164,
+    213,
+    []
+   ],
+   [
+    1,
+    186,
+    245,
+    [
+     [
+      "x3",
+      44
+     ]
+    ]
+   ],
+   [
+    1,
+    189,
+    242,
+    [
+     [
+      "sqrt",
+      73
+     ],
+     [
+      "square",
+      255
+     ],
+     [
+      "x17",
+      129
+     ]
+    ]
+   ],
+   [
+    2,
+    126,
+    139,
+    [
+     [
+      "x17",
+      86
+     ]
+    ]
+   ],
+   [
+    2,
+    141,
+    124,
+    [
+     [
+      "dlog",
+      62
+     ],
+     [
+      "square",
+      92
+     ]
+    ]
+   ],
+   [
+    2,
+    151,
+    168,
+    [
+     [
+      "x5",
+      241
+     ]
+    ]
+   ],
+   [
+    2,
+    166,
+    153,
+    [
+     [
+      "atbash",
+      153
+     ],
+     [
+      "x3",
+      241
+     ]
+    ]
+   ],
+   [
+    3,
+    8,
+    28,
+    [
+     [
+      "double",
+      16
+     ],
+     [
+      "inverse",
+      225
+     ],
+     [
+      "self",
+      8
+     ],
+     [
+      "sqrt",
+      120
+     ],
+     [
+      "sqrt",
+      137
+     ],
+     [
+      "x17",
+      136
+     ]
+    ]
+   ],
+   [
+    3,
+    231,
+    8,
+    [
+     [
+      "atbash",
+      8
+     ],
+     [
+      "x17",
+      72
+     ]
+    ]
+   ],
+   [
+    3,
+    240,
+    256,
+    [
+     [
+      "atbash",
+      256
+     ],
+     [
+      "fold",
+      17
+     ],
+     [
+      "gamma",
+      86
+     ],
+     [
+      "half",
+      120
+     ],
+     [
+      "inverse",
+      136
+     ],
+     [
+      "self",
+      240
+     ],
+     [
+      "sqrt",
+      92
+     ],
+     [
+      "x17",
+      225
+     ]
+    ]
+   ],
+   [
+    3,
+    256,
+    37,
+    [
+     [
+      "dlog",
+      128
+     ],
+     [
+      "double",
+      255
+     ],
+     [
+      "fold",
+      1
+     ],
+     [
+      "half",
+      128
+     ],
+     [
+      "inverse",
+      256
+     ],
+     [
+      "self",
+      256
+     ],
+     [
+      "sqrt",
+      16
+     ],
+     [
+      "sqrt",
+      241
+     ],
+     [
+      "square",
+      1
+     ],
+     [
+      "x17",
+      240
+     ]
+    ]
+   ],
+   [
+    4,
+    43,
+    210,
+    [
+     [
+      "double",
+      86
+     ],
+     [
+      "x3",
+      129
+     ]
+    ]
+   ],
+   [
+    4,
+    51,
+    202,
+    [
+     [
+      "x3",
+      153
+     ],
+     [
+      "x5",
+      255
+     ]
+    ]
+   ],
+   [
+    5,
+    185,
+    219,
+    [
+     [
+      "fold",
+      72
+     ],
+     [
+      "square",
+      44
+     ]
+    ]
+   ],
+   [
+    5,
+    187,
+    217,
+    [
+     [
+      "double",
+      117
+     ],
+     [
+      "square",
+      17
+     ]
+    ]
+   ],
+   [
+    6,
+    235,
+    20,
+    [
+     [
+      "x17",
+      140
+     ]
+    ]
+   ],
+   [
+    6,
+    237,
+    18,
+    [
+     [
+      "dlog",
+      23
+     ]
+    ]
+   ],
+   [
+    7,
+    150,
+    131,
+    []
+   ],
+   [
+    7,
+    153,
+    128,
+    [
+     [
+      "atbash",
+      128
+     ],
+     [
+      "self",
+      153
+     ]
+    ]
+   ],
+   [
+    8,
+    176,
+    131,
+    [
+     [
+      "gamma",
+      153
+     ],
+     [
+      "inverse",
+      92
+     ],
+     [
+      "square",
+      136
+     ]
+    ]
+   ],
+   [
+    8,
+    182,
+    125,
+    []
+   ],
+   [
+    8,
+    226,
+    189,
+    []
+   ],
+   [
+    8,
+    232,
+    183,
+    [
+     [
+      "square",
+      111
+     ]
+    ]
+   ],
+   [
+    9,
+    60,
+    182,
+    [
+     [
+      "double",
+      120
+     ],
+     [
+      "sqrt",
+      46
+     ],
+     [
+      "square",
+      2
+     ]
+    ]
+   ],
+   [
+    9,
+    62,
+    180,
+    [
+     [
+      "self",
+      62
+     ]
+    ]
+   ],
+   [
+    10,
+    63,
+    179,
+    []
+   ],
+   [
+    10,
+    65,
+    177,
+    []
+   ],
+   [
+    11,
+    123,
+    251,
+    [
+     [
+      "inverse",
+      140
+     ]
+    ]
+   ],
+   [
+    11,
+    129,
+    245,
+    [
+     [
+      "double",
+      1
+     ],
+     [
+      "fold",
+      128
+     ],
+     [
+      "inverse",
+      2
+     ],
+     [
+      "self",
+      129
+     ],
+     [
+      "x17",
+      137
+     ]
+    ]
+   ],
+   [
+    12,
+    0,
+    256,
+    [
+     [
+      "atbash",
+      256
+     ],
+     [
+      "double",
+      0
+     ],
+     [
+      "fold",
+      0
+     ],
+     [
+      "gamma",
+      256
+     ],
+     [
+      "half",
+      0
+     ],
+     [
+      "self",
+      0
+     ],
+     [
+      "sqrt",
+      0
+     ],
+     [
+      "square",
+      0
+     ],
+     [
+      "x17",
+      0
+     ],
+     [
+      "x3",
+      0
+     ],
+     [
+      "x5",
+      0
+     ]
+    ]
+   ],
+   [
+    12,
+    254,
+    2,
+    [
+     [
+      "atbash",
+      2
+     ],
+     [
+      "dlog",
+      129
+     ],
+     [
+      "fold",
+      3
+     ]
+    ]
+   ],
+   [
+    13,
+    38,
+    203,
+    []
+   ],
+   [
+    13,
+    42,
+    199,
+    [
+     [
+      "inverse",
+      153
+     ]
+    ]
+   ],
+   [
+    14,
+    191,
+    238,
+    [
+     [
+      "dlog",
+      117
+     ],
+     [
+      "gamma",
+      225
+     ]
+    ]
+   ],
+   [
+    14,
+    197,
+    232,
+    [
+     [
+      "double",
+      137
+     ],
+     [
+      "square",
+      2
+     ],
+     [
+      "x17",
+      8
+     ]
+    ]
+   ],
+   [
+    15,
+    209,
+    19,
+    [
+     [
+      "x5",
+      17
+     ]
+    ]
+   ],
+   [
+    15,
+    211,
+    17,
+    [
+     [
+      "atbash",
+      17
+     ],
+     [
+      "fold",
+      46
+     ],
+     [
+      "x3",
+      119
+     ]
+    ]
+   ]
+  ]
+ },
+ "a": {
+  "rows": [
+   {
+    "sentence": 1,
+    "text": "Verum, sine mendacio, certum et verissimum.",
+    "sums": {
+     "modern": 443,
+     "V_for_U": 446,
+     "et_dropped": 418,
+     "que_split": 443,
+     "J_rule": 443
+    },
+    "single_cells": [
+     161,
+     186,
+     189
+    ],
+    "single_K": [],
+    "combo": {
+     "uv0_et0_j0": 443,
+     "uv0_et0_j1": 443,
+     "uv0_et1_j0": 418,
+     "uv0_et1_j1": 418,
+     "uv1_et0_j0": 446,
+     "uv1_et0_j1": 446,
+     "uv1_et1_j0": 421,
+     "uv1_et1_j1": 421
+    },
+    "combo_cells": [
+     161,
+     164,
+     186,
+     189
+    ],
+    "combo_K": [],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     161,
+     164,
+     186,
+     189
+    ],
+    "ext_K": [],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 1,
+    "n_u": 3,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 2,
+    "text": "Quod est inferius est sicut quod est superius, et quod est superius est sicut quod est inferius, ad perpetranda miracula rei unius.",
+    "sums": {
+     "modern": 1436,
+     "V_for_U": 1451,
+     "et_dropped": 1411,
+     "que_split": 1436,
+     "J_rule": 1436
+    },
+    "single_cells": [
+     126,
+     151,
+     166
+    ],
+    "single_K": [],
+    "combo": {
+     "uv0_et0_j0": 1436,
+     "uv0_et0_j1": 1436,
+     "uv0_et1_j0": 1411,
+     "uv0_et1_j1": 1411,
+     "uv1_et0_j0": 1451,
+     "uv1_et0_j1": 1451,
+     "uv1_et1_j0": 1426,
+     "uv1_et1_j1": 1426
+    },
+    "combo_cells": [
+     126,
+     141,
+     151,
+     166
+    ],
+    "combo_K": [],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     126,
+     141,
+     151,
+     166
+    ],
+    "ext_K": [],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 1,
+    "n_u": 15,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 3,
+    "text": "Et sicut omnes res fuerunt ab uno, meditatione unius, sic omnes res natae fuerunt ab hac una re, adaptatione.",
+    "sums": {
+     "modern": 1027,
+     "V_for_U": 1036,
+     "et_dropped": 1002,
+     "que_split": 1027,
+     "J_rule": 1027
+    },
+    "single_cells": [
+     8,
+     231,
+     256
+    ],
+    "single_K": [
+     8,
+     256
+    ],
+    "combo": {
+     "uv0_et0_j0": 1027,
+     "uv0_et0_j1": 1027,
+     "uv0_et1_j0": 1002,
+     "uv0_et1_j1": 1002,
+     "uv1_et0_j0": 1036,
+     "uv1_et0_j1": 1036,
+     "uv1_et1_j0": 1011,
+     "uv1_et1_j1": 1011
+    },
+    "combo_cells": [
+     8,
+     231,
+     240,
+     256
+    ],
+    "combo_K": [
+     8,
+     240,
+     256
+    ],
+    "exact_257_or_1027": [
+     1027
+    ],
+    "ext_cells": [
+     8,
+     231,
+     240,
+     256
+    ],
+    "ext_K": [
+     8,
+     240,
+     256
+    ],
+    "ext_exact_multiples_or_1027": [
+     1027
+    ],
+    "n_et": 1,
+    "n_u": 9,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 4,
+    "text": "Pater eius est Sol, mater eius Luna; portavit illud ventus in ventre suo; nutrix eius terra est.",
+    "sums": {
+     "modern": 1071,
+     "V_for_U": 1079,
+     "et_dropped": 1071,
+     "que_split": 1071,
+     "J_rule": 1071
+    },
+    "single_cells": [
+     43,
+     51
+    ],
+    "single_K": [],
+    "combo": {
+     "uv0_et0_j0": 1071,
+     "uv0_et0_j1": 1071,
+     "uv0_et1_j0": 1071,
+     "uv0_et1_j1": 1071,
+     "uv1_et0_j0": 1079,
+     "uv1_et0_j1": 1079,
+     "uv1_et1_j0": 1079,
+     "uv1_et1_j1": 1079
+    },
+    "combo_cells": [
+     43,
+     51
+    ],
+    "combo_K": [],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     43,
+     46,
+     51,
+     54
+    ],
+    "ext_K": [
+     46
+    ],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 0,
+    "n_u": 8,
+    "n_eius": 3,
+    "has_coelum": false
+   },
+   {
+    "sentence": 5,
+    "text": "Pater omnis telesmi totius mundi est hic.",
+    "sums": {
+     "modern": 442,
+     "V_for_U": 444,
+     "et_dropped": 442,
+     "que_split": 442,
+     "J_rule": 442
+    },
+    "single_cells": [
+     185,
+     187
+    ],
+    "single_K": [],
+    "combo": {
+     "uv0_et0_j0": 442,
+     "uv0_et0_j1": 442,
+     "uv0_et1_j0": 442,
+     "uv0_et1_j1": 442,
+     "uv1_et0_j0": 444,
+     "uv1_et0_j1": 444,
+     "uv1_et1_j0": 444,
+     "uv1_et1_j1": 444
+    },
+    "combo_cells": [
+     185,
+     187
+    ],
+    "combo_K": [],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     185,
+     187
+    ],
+    "ext_K": [],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 0,
+    "n_u": 2,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 6,
+    "text": "Vis eius integra est, si versa fuerit in terram.",
+    "sums": {
+     "modern": 492,
+     "V_for_U": 494,
+     "et_dropped": 492,
+     "que_split": 492,
+     "J_rule": 492
+    },
+    "single_cells": [
+     235,
+     237
+    ],
+    "single_K": [],
+    "combo": {
+     "uv0_et0_j0": 492,
+     "uv0_et0_j1": 492,
+     "uv0_et1_j0": 492,
+     "uv0_et1_j1": 492,
+     "uv1_et0_j0": 494,
+     "uv1_et0_j1": 494,
+     "uv1_et1_j0": 494,
+     "uv1_et1_j1": 494
+    },
+    "combo_cells": [
+     235,
+     237
+    ],
+    "combo_K": [],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     235,
+     236,
+     237,
+     238
+    ],
+    "ext_K": [],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 0,
+    "n_u": 2,
+    "n_eius": 1,
+    "has_coelum": false
+   },
+   {
+    "sentence": 7,
+    "text": "Separabis terram ab igne, subtile a spisso, suaviter cum magno ingenio.",
+    "sums": {
+     "modern": 664,
+     "V_for_U": 667,
+     "et_dropped": 664,
+     "que_split": 664,
+     "J_rule": 664
+    },
+    "single_cells": [
+     150,
+     153
+    ],
+    "single_K": [
+     153
+    ],
+    "combo": {
+     "uv0_et0_j0": 664,
+     "uv0_et0_j1": 664,
+     "uv0_et1_j0": 664,
+     "uv0_et1_j1": 664,
+     "uv1_et0_j0": 667,
+     "uv1_et0_j1": 667,
+     "uv1_et1_j0": 667,
+     "uv1_et1_j1": 667
+    },
+    "combo_cells": [
+     150,
+     153
+    ],
+    "combo_K": [
+     153
+    ],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     150,
+     153
+    ],
+    "ext_K": [
+     153
+    ],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 0,
+    "n_u": 3,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 8,
+    "text": "Ascendit a terra in coelum, iterumque descendit in terram, et recipit vim superiorum et inferiorum.",
+    "sums": {
+     "modern": 997,
+     "V_for_U": 1003,
+     "et_dropped": 947,
+     "que_split": 997,
+     "J_rule": 997
+    },
+    "single_cells": [
+     176,
+     226,
+     232
+    ],
+    "single_K": [],
+    "combo": {
+     "uv0_et0_j0": 997,
+     "uv0_et0_j1": 997,
+     "uv0_et1_j0": 947,
+     "uv0_et1_j1": 947,
+     "uv1_et0_j0": 1003,
+     "uv1_et0_j1": 1003,
+     "uv1_et1_j0": 953,
+     "uv1_et1_j1": 953
+    },
+    "combo_cells": [
+     176,
+     182,
+     226,
+     232
+    ],
+    "combo_K": [],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     162,
+     168,
+     176,
+     182,
+     212,
+     218,
+     226,
+     232
+    ],
+    "ext_K": [],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 2,
+    "n_u": 6,
+    "n_eius": 0,
+    "has_coelum": true
+   },
+   {
+    "sentence": 9,
+    "text": "Sic habebis gloriam totius mundi.",
+    "sums": {
+     "modern": 317,
+     "V_for_U": 319,
+     "et_dropped": 317,
+     "que_split": 317,
+     "J_rule": 317
+    },
+    "single_cells": [
+     60,
+     62
+    ],
+    "single_K": [
+     62
+    ],
+    "combo": {
+     "uv0_et0_j0": 317,
+     "uv0_et0_j1": 317,
+     "uv0_et1_j0": 317,
+     "uv0_et1_j1": 317,
+     "uv1_et0_j0": 319,
+     "uv1_et0_j1": 319,
+     "uv1_et1_j0": 319,
+     "uv1_et1_j1": 319
+    },
+    "combo_cells": [
+     60,
+     62
+    ],
+    "combo_K": [
+     62
+    ],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     60,
+     62
+    ],
+    "ext_K": [
+     62
+    ],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 0,
+    "n_u": 2,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 10,
+    "text": "Ideo fugiat a te omnis obscuritas.",
+    "sums": {
+     "modern": 320,
+     "V_for_U": 322,
+     "et_dropped": 320,
+     "que_split": 320,
+     "J_rule": 320
+    },
+    "single_cells": [
+     63,
+     65
+    ],
+    "single_K": [],
+    "combo": {
+     "uv0_et0_j0": 320,
+     "uv0_et0_j1": 320,
+     "uv0_et1_j0": 320,
+     "uv0_et1_j1": 320,
+     "uv1_et0_j0": 322,
+     "uv1_et0_j1": 322,
+     "uv1_et1_j0": 322,
+     "uv1_et1_j1": 322
+    },
+    "combo_cells": [
+     63,
+     65
+    ],
+    "combo_K": [],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     63,
+     65
+    ],
+    "ext_K": [],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 0,
+    "n_u": 2,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 11,
+    "text": "Hic est totius fortitudinis fortitudo fortis, quia vincet omnem rem subtilem, omnemque solidam penetrabit.",
+    "sums": {
+     "modern": 1151,
+     "V_for_U": 1157,
+     "et_dropped": 1151,
+     "que_split": 1151,
+     "J_rule": 1151
+    },
+    "single_cells": [
+     123,
+     129
+    ],
+    "single_K": [
+     129
+    ],
+    "combo": {
+     "uv0_et0_j0": 1151,
+     "uv0_et0_j1": 1151,
+     "uv0_et1_j0": 1151,
+     "uv0_et1_j1": 1151,
+     "uv1_et0_j0": 1157,
+     "uv1_et0_j1": 1157,
+     "uv1_et1_j0": 1157,
+     "uv1_et1_j1": 1157
+    },
+    "combo_cells": [
+     123,
+     129
+    ],
+    "combo_K": [
+     129
+    ],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     123,
+     129
+    ],
+    "ext_K": [
+     129
+    ],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 0,
+    "n_u": 6,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 12,
+    "text": "Sic mundus creatus est.",
+    "sums": {
+     "modern": 254,
+     "V_for_U": 257,
+     "et_dropped": 254,
+     "que_split": 254,
+     "J_rule": 254
+    },
+    "single_cells": [
+     0,
+     254
+    ],
+    "single_K": [
+     0
+    ],
+    "combo": {
+     "uv0_et0_j0": 254,
+     "uv0_et0_j1": 254,
+     "uv0_et1_j0": 254,
+     "uv0_et1_j1": 254,
+     "uv1_et0_j0": 257,
+     "uv1_et0_j1": 257,
+     "uv1_et1_j0": 257,
+     "uv1_et1_j1": 257
+    },
+    "combo_cells": [
+     0,
+     254
+    ],
+    "combo_K": [
+     0
+    ],
+    "exact_257_or_1027": [
+     257
+    ],
+    "ext_cells": [
+     0,
+     254
+    ],
+    "ext_K": [
+     0
+    ],
+    "ext_exact_multiples_or_1027": [
+     257
+    ],
+    "n_et": 0,
+    "n_u": 3,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 13,
+    "text": "Hinc erunt adaptationes mirabiles, quarum modus hic est.",
+    "sums": {
+     "modern": 552,
+     "V_for_U": 556,
+     "et_dropped": 552,
+     "que_split": 552,
+     "J_rule": 552
+    },
+    "single_cells": [
+     38,
+     42
+    ],
+    "single_K": [],
+    "combo": {
+     "uv0_et0_j0": 552,
+     "uv0_et0_j1": 552,
+     "uv0_et1_j0": 552,
+     "uv0_et1_j1": 552,
+     "uv1_et0_j0": 556,
+     "uv1_et0_j1": 556,
+     "uv1_et1_j0": 556,
+     "uv1_et1_j1": 556
+    },
+    "combo_cells": [
+     38,
+     42
+    ],
+    "combo_K": [],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     38,
+     42
+    ],
+    "ext_K": [],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 0,
+    "n_u": 4,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 14,
+    "text": "Itaque vocatus sum Hermes Trismegistus, habens tres partes philosophiae totius mundi.",
+    "sums": {
+     "modern": 962,
+     "V_for_U": 968,
+     "et_dropped": 962,
+     "que_split": 962,
+     "J_rule": 962
+    },
+    "single_cells": [
+     191,
+     197
+    ],
+    "single_K": [],
+    "combo": {
+     "uv0_et0_j0": 962,
+     "uv0_et0_j1": 962,
+     "uv0_et1_j0": 962,
+     "uv0_et1_j1": 962,
+     "uv1_et0_j0": 968,
+     "uv1_et0_j1": 968,
+     "uv1_et1_j0": 968,
+     "uv1_et1_j1": 968
+    },
+    "combo_cells": [
+     191,
+     197
+    ],
+    "combo_K": [],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     191,
+     197
+    ],
+    "ext_K": [],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 0,
+    "n_u": 6,
+    "n_eius": 0,
+    "has_coelum": false
+   },
+   {
+    "sentence": 15,
+    "text": "Completum est quod dixi de operatione Solis.",
+    "sums": {
+     "modern": 466,
+     "V_for_U": 468,
+     "et_dropped": 466,
+     "que_split": 466,
+     "J_rule": 466
+    },
+    "single_cells": [
+     209,
+     211
+    ],
+    "single_K": [],
+    "combo": {
+     "uv0_et0_j0": 466,
+     "uv0_et0_j1": 466,
+     "uv0_et1_j0": 466,
+     "uv0_et1_j1": 466,
+     "uv1_et0_j0": 468,
+     "uv1_et0_j1": 468,
+     "uv1_et1_j0": 468,
+     "uv1_et1_j1": 468
+    },
+    "combo_cells": [
+     209,
+     211
+    ],
+    "combo_K": [],
+    "exact_257_or_1027": [],
+    "ext_cells": [
+     209,
+     211
+    ],
+    "ext_K": [],
+    "ext_exact_multiples_or_1027": [],
+    "n_et": 0,
+    "n_u": 2,
+    "n_eius": 0,
+    "has_coelum": false
+   }
+  ],
+  "j_rule_words_changed": [],
+  "que_words": [
+   "itaque",
+   "iterumque",
+   "omnemque"
+  ],
+  "tot_single_cells": 34,
+  "tot_combo_cells": 38,
+  "tot_ext_cells": 46,
+  "sent_any_K_single": 5,
+  "sent_any_K_combo": 5,
+  "sent_any_K_ext": 6,
+  "expected_any_K_single": 4.00440032043946,
+  "expected_any_K_combo": 4.347905113514507,
+  "expected_any_K_ext": 4.96363545225074,
+  "reading_rows": [
+   [
+    1,
+    8,
+    4
+   ],
+   [
+    2,
+    8,
+    8
+   ],
+   [
+    3,
+    8,
+    8
+   ],
+   [
+    4,
+    8,
+    8
+   ],
+   [
+    5,
+    8,
+    8
+   ],
+   [
+    6,
+    8,
+    8
+   ],
+   [
+    7,
+    8,
+    4
+   ],
+   [
+    8,
+    8,
+    4
+   ],
+   [
+    9,
+    8,
+    8
+   ],
+   [
+    10,
+    8,
+    0
+   ],
+   [
+    11,
+    8,
+    8
+   ],
+   [
+    12,
+    8,
+    8
+   ],
+   [
+    13,
+    8,
+    4
+   ],
+   [
+    14,
+    8,
+    8
+   ],
+   [
+    15,
+    8,
+    8
+   ]
+  ]
+ },
+ "b": {
+  "modern_all": {
+   "n_words": 108,
+   "n_subsets": 5359095,
+   "exact_257": 27738,
+   "multiples_of_257": {
+    "257": 27738,
+    "514": 363
+   },
+   "multiples_total": 28101,
+   "in_K": 735070,
+   "in_K_frac": 0.1371630844386972,
+   "exact_other": {
+    "514": 363,
+    "771": 0,
+    "1027": 0
+   },
+   "max_sum": 646
+  },
+  "modern_nouns": {
+   "n_words": 37,
+   "n_subsets": 66045,
+   "exact_257": 293,
+   "multiples_of_257": {
+    "257": 293,
+    "514": 13
+   },
+   "multiples_total": 306,
+   "in_K": 9345,
+   "in_K_frac": 0.14149443561208266,
+   "exact_other": {
+    "514": 13,
+    "771": 0,
+    "1027": 0
+   },
+   "max_sum": 604
+  },
+  "modern_nouns_plus_substadj": {
+   "n_words": 48,
+   "n_subsets": 194580,
+   "exact_257": 565,
+   "multiples_of_257": {
+    "257": 565,
+    "514": 101
+   },
+   "multiples_total": 666,
+   "in_K": 26832,
+   "in_K_frac": 0.13789700894233733,
+   "exact_other": {
+    "514": 101,
+    "771": 0,
+    "1027": 0
+   },
+   "max_sum": 646
+  },
+  "V_all": {
+   "n_words": 108,
+   "n_subsets": 5359095,
+   "exact_257": 27389,
+   "multiples_of_257": {
+    "257": 27389,
+    "514": 405
+   },
+   "multiples_total": 27794,
+   "in_K": 734488,
+   "in_K_frac": 0.13705448401269243,
+   "exact_other": {
+    "514": 405,
+    "771": 0,
+    "1027": 0
+   },
+   "max_sum": 651
+  },
+  "V_nouns": {
+   "n_words": 37,
+   "n_subsets": 66045,
+   "exact_257": 268,
+   "multiples_of_257": {
+    "257": 268,
+    "514": 15
+   },
+   "multiples_total": 283,
+   "in_K": 9207,
+   "in_K_frac": 0.13940495116965707,
+   "exact_other": {
+    "514": 15,
+    "771": 0,
+    "1027": 0
+   },
+   "max_sum": 607
+  },
+  "modern_nouns_257_list": [
+   "adaptatione + coelum + rei + vis",
+   "adaptatione + coelum + rem + sol",
+   "adaptatione + gloriam + rei + vim",
+   "adaptatione + hermes + igne + luna",
+   "adaptatione + hermes + pater + re",
+   "adaptatione + igne + modus + vim",
+   "adaptatione + igne + rei + ventre",
+   "adaptatione + igne + res + solis",
+   "adaptatione + ingenio + rei + sol",
+   "adaptatione + ingenio + rem + res",
+   "adaptatione + luna + mater + sol",
+   "adaptatione + luna + mundi + res",
+   "adaptatione + mater + rei + terra",
+   "adaptatione + mater + vim + vis",
+   "adaptatione + miracula + re + vis",
+   "adaptatione + mundi + sol + vim",
+   "adaptatione + mundus + re + rem",
+   "adaptatione + re + ventre + vim",
+   "adaptatione + rei + rem + telesmi",
+   "adaptatione + rei + terram + vim",
+   "adaptationes + igne + mundi + rem",
+   "adaptationes + igne + re + solis",
+   "adaptationes + ingenio + re + rem",
+   "adaptationes + luna + mundi + re",
+   "adaptationes + mendacio + rei + rem",
+   "adaptationes + rem + sol + vis",
+   "adaptationes + res + sol + vim",
+   "coelum + gloriam + igne + miracula",
+   "coelum + hermes + luna + modus",
+   "coelum + hermes + miracula + res",
+   "coelum + hermes + rem + ventre",
+   "coelum + hermes + sol + solis",
+   "coelum + igne + miracula + terram",
+   "coelum + igne + mundi + mundus",
+   "coelum + igne + partes + solis",
+   "coelum + ingenio + mundus + re",
+   "coelum + ingenio + partes + rem",
+   "coelum + ingenio + rei + telesmi",
+   "coelum + luna + mater + telesmi",
+   "coelum + luna + miracula + terra",
+   "coelum + luna + mundi + partes",
+   "coelum + meditatione + re + vis",
+   "coelum + mendacio + miracula + sol",
+   "coelum + mendacio + mundus + rei",
+   "coelum + mendacio + re + ventus",
+   "coelum + mendacio + solis + vis",
+   "coelum + miracula + pater + vis",
+   "coelum + miracula + rem + solis",
+   "coelum + modus + rei + ventre",
+   "coelum + modus + res + solis",
+   "coelum + mundi + telesmi + vim",
+   "coelum + mundus + pater + rem",
+   "coelum + mundus + sol + vis",
+   "coelum + nutrix + rei + vis",
+   "coelum + nutrix + rem + sol",
+   "coelum + pater + ventre + vim",
+   "coelum + philosophiae + re + rei",
+   "coelum + res + terra + ventre",
+   "fortitudo + igne + luna + sol",
+   "fortitudo + igne + rei + terra",
+   "fortitudo + igne + vim + vis",
+   "fortitudo + mendacio + re + res",
+   "fortitudo + mundi + rei + rem",
+   "fortitudo + pater + re + sol",
+   "fortitudo + re + rei + solis",
+   "fortitudo + re + terra + vim",
+   "gloriam + hermes + igne + partes",
+   "gloriam + hermes + mendacio + vis",
+   "gloriam + hermes + miracula + rem",
+   "gloriam + hermes + modus + res",
+   "gloriam + igne + ingenio + solis",
+   "gloriam + igne + meditatione + rei",
+   "gloriam + igne + mendacio + telesmi",
+   "gloriam + igne + modus + terram",
+   "gloriam + igne + sol + ventus",
+   "gloriam + ingenio + luna + mundi",
+   "gloriam + luna + modus + terra",
+   "gloriam + luna + mundus + res",
+   "gloriam + luna + pater + solis",
+   "gloriam + luna + ventre + vis",
+   "gloriam + mater + mendacio + mundi",
+   "gloriam + mater + partes + sol",
+   "gloriam + mater + res + telesmi",
+   "gloriam + mater + terram + vis",
+   "gloriam + meditatione + re + vim",
+   "gloriam + mendacio + modus + sol",
+   "gloriam + mendacio + solis + vim",
+   "gloriam + miracula + modus + rei",
+   "gloriam + miracula + pater + vim",
+   "gloriam + miracula + res + terra",
+   "gloriam + modus + pater + vis",
+   "gloriam + modus + rem + solis",
+   "gloriam + mundi + partes + res",
+   "gloriam + mundi + sol + terram",
+   "gloriam + mundus + sol + vim",
+   "gloriam + nutrix + rei + vim",
+   "gloriam + obscuritas + re + rei",
+   "gloriam + re + terram + ventre",
+   "gloriam + rem + terra + ventre",
+   "gloriam + sol + solis + terra",
+   "hermes + igne + luna + nutrix",
+   "hermes + igne + mundus + terra",
+   "hermes + igne + operatione + rem",
+   "hermes + igne + partes + terram",
+   "hermes + ingenio + modus + vim",
+   "hermes + ingenio + rei + ventre",
+   "hermes + ingenio + res + solis",
+   "hermes + luna + mater + ventre",
+   "hermes + luna + operatione + re",
+   "hermes + luna + partes + terra",
+   "hermes + mater + modus + pater",
+   "hermes + meditatione + rei + res",
+   "hermes + mendacio + partes + sol",
+   "hermes + mendacio + res + telesmi",
+   "hermes + mendacio + terram + vis",
+   "hermes + miracula + mundi + vis",
+   "hermes + miracula + partes + rei",
+   "hermes + miracula + rem + terram",
+   "hermes + modus + res + terram",
+   "hermes + mundi + mundus + rem",
+   "hermes + mundi + ventre + vim",
+   "hermes + mundus + re + solis",
+   "hermes + nutrix + pater + re",
+   "hermes + partes + pater + vis",
+   "hermes + partes + rem + solis",
+   "hermes + pater + sol + telesmi",
+   "hermes + rei + solis + telesmi",
+   "hermes + res + sol + ventus",
+   "hermes + telesmi + terra + vim",
+   "igne + ingenio + luna + ventus",
+   "igne + ingenio + mater + mundus",
+   "igne + ingenio + solis + terram",
+   "igne + mater + meditatione + vis",
+   "igne + mater + mendacio + ventus",
+   "igne + mater + philosophiae + rei",
+   "igne + meditatione + mundi + sol",
+   "igne + meditatione + re + ventre",
+   "igne + meditatione + rei + terram",
+   "igne + mendacio + solis + ventre",
+   "igne + mendacio + telesmi + terram",
+   "igne + miracula + mundi + telesmi",
+   "igne + miracula + pater + ventre",
+   "igne + modus + nutrix + vim",
+   "igne + modus + obscuritas + re",
+   "igne + modus + operatione + rei",
+   "igne + mundi + pater + ventus",
+   "igne + mundus + sol + ventre",
+   "igne + nutrix + rei + ventre",
+   "igne + nutrix + res + solis",
+   "igne + operatione + pater + vim",
+   "igne + operatione + res + terra",
+   "igne + partes + pater + telesmi",
+   "igne + partes + res + ventus",
+   "igne + sol + terram + ventus",
+   "ingenio + luna + mater + partes",
+   "ingenio + luna + mendacio + modus",
+   "ingenio + luna + mundi + terram",
+   "ingenio + luna + mundus + vim",
+   "ingenio + luna + solis + terra",
+   "ingenio + mater + telesmi + vim",
+   "ingenio + meditatione + re + sol",
+   "ingenio + mendacio + miracula + res",
+   "ingenio + mendacio + rem + ventre",
+   "ingenio + mendacio + sol + solis",
+   "ingenio + miracula + pater + sol",
+   "ingenio + miracula + re + telesmi",
+   "ingenio + miracula + rei + solis",
+   "ingenio + miracula + terra + vim",
+   "ingenio + modus + terra + vis",
+   "ingenio + mundi + partes + vim",
+   "ingenio + mundus + pater + rei",
+   "ingenio + mundus + res + vis",
+   "ingenio + nutrix + rei + sol",
+   "ingenio + nutrix + rem + res",
+   "ingenio + pater + re + ventus",
+   "ingenio + pater + solis + vis",
+   "luna + mater + miracula + solis",
+   "luna + mater + mundus + pater",
+   "luna + mater + nutrix + sol",
+   "luna + meditatione + rei + terra",
+   "luna + meditatione + vim + vis",
+   "luna + mendacio + mundi + ventre",
+   "luna + mendacio + telesmi + terra",
+   "luna + mendacio + ventus + vim",
+   "luna + modus + rem + ventus",
+   "luna + modus + terra + terram",
+   "luna + mundi + nutrix + res",
+   "luna + mundus + res + terram",
+   "luna + obscuritas + rei + vis",
+   "luna + obscuritas + rem + sol",
+   "luna + partes + sol + ventre",
+   "luna + pater + solis + terram",
+   "luna + philosophiae + rei + vim",
+   "luna + res + telesmi + ventre",
+   "luna + sol + terra + ventus",
+   "luna + terram + ventre + vis",
+   "mater + meditatione + re + terra",
+   "mater + mendacio + mundi + terram",
+   "mater + mendacio + mundus + vim",
+   "mater + mendacio + solis + terra",
+   "mater + miracula + modus + vis",
+   "mater + miracula + pater + terra",
+   "mater + modus + mundus + rem",
+   "mater + modus + ventre + vim",
+   "mater + mundi + partes + pater",
+   "mater + mundus + sol + terra",
+   "mater + nutrix + rei + terra",
+   "mater + nutrix + vim + vis",
+   "mater + obscuritas + re + vis",
+   "mater + operatione + rei + vis",
+   "mater + operatione + rem + sol",
+   "mater + partes + sol + terram",
+   "mater + philosophiae + re + vim",
+   "mater + res + solis + ventre",
+   "mater + res + telesmi + terram",
+   "meditatione + mendacio + rei + sol",
+   "meditatione + mendacio + rem + res",
+   "meditatione + pater + rei + vis",
+   "meditatione + pater + rem + sol",
+   "meditatione + re + rem + telesmi",
+   "meditatione + re + terram + vim",
+   "meditatione + rei + rem + solis",
+   "meditatione + rem + terra + vim",
+   "mendacio + miracula + mundus + re",
+   "mendacio + miracula + partes + rem",
+   "mendacio + miracula + rei + telesmi",
+   "mendacio + modus + mundi + pater",
+   "mendacio + modus + partes + res",
+   "mendacio + modus + sol + terram",
+   "mendacio + pater + rei + ventus",
+   "mendacio + pater + telesmi + vis",
+   "mendacio + rem + solis + telesmi",
+   "mendacio + res + ventus + vis",
+   "mendacio + solis + terram + vim",
+   "miracula + modus + mundi + sol",
+   "miracula + modus + re + ventre",
+   "miracula + modus + rei + terram",
+   "miracula + mundi + solis + vim",
+   "miracula + nutrix + re + vis",
+   "miracula + pater + rem + telesmi",
+   "miracula + pater + terram + vim",
+   "miracula + rei + sol + ventus",
+   "miracula + rem + res + ventus",
+   "miracula + res + terra + terram",
+   "miracula + sol + telesmi + vis",
+   "modus + mundi + mundus + rei",
+   "modus + mundi + re + ventus",
+   "modus + mundi + solis + vis",
+   "modus + operatione + re + vim",
+   "modus + partes + pater + sol",
+   "modus + partes + re + telesmi",
+   "modus + partes + rei + solis",
+   "modus + partes + terra + vim",
+   "modus + pater + res + telesmi",
+   "modus + pater + terram + vis",
+   "modus + rem + solis + terram",
+   "mundi + mundus + pater + vim",
+   "mundi + mundus + res + terra",
+   "mundi + nutrix + sol + vim",
+   "mundi + obscuritas + re + sol",
+   "mundi + operatione + rei + sol",
+   "mundi + operatione + rem + res",
+   "mundi + partes + res + terram",
+   "mundi + pater + solis + terra",
+   "mundi + terra + ventre + vis",
+   "mundus + nutrix + re + rem",
+   "mundus + partes + rem + vis",
+   "mundus + partes + res + vim",
+   "mundus + rei + telesmi + vis",
+   "mundus + rem + sol + telesmi",
+   "mundus + sol + terram + vim",
+   "nutrix + re + ventre + vim",
+   "nutrix + rei + rem + telesmi",
+   "nutrix + rei + terram + vim",
+   "obscuritas + re + rei + terram",
+   "obscuritas + rei + rem + terra",
+   "obscuritas + rem + vim + vis",
+   "operatione + re + rei + ventre",
+   "operatione + re + res + solis",
+   "partes + pater + solis + vim",
+   "partes + rei + terra + ventre",
+   "partes + res + solis + terra",
+   "partes + ventre + vim + vis",
+   "pater + sol + ventus + vis",
+   "philosophiae + rei + res + vis",
+   "philosophiae + rem + res + sol",
+   "re + telesmi + ventus + vis",
+   "rei + solis + ventus + vis",
+   "rem + sol + solis + ventus",
+   "rem + terra + terram + ventre",
+   "sol + solis + terra + terram",
+   "sol + telesmi + ventre + vim",
+   "terra + ventus + vim + vis"
+  ],
+  "sol_luna_ventus_terra": [
+   46,
+   48,
+   101,
+   62
+  ],
+  "sol_luna_ventus_terra_V": [
+   46,
+   49,
+   102,
+   62
+  ],
+  "uniform_expected_in_K_frac": 0.12840466926070038
+ },
+ "c": {
+  "modern": {
+   "n_words": 161,
+   "n_spans": 13041,
+   "counts": {
+    "257": 4,
+    "514": 1,
+    "771": 1,
+    "1027": 4
+   },
+   "spans": {
+    "257": [
+     "omnes res natae fuerunt ab",
+     "est pater omnis telesmi",
+     "omnis telesmi totius",
+     "mundus creatus est hinc"
+    ],
+    "514": [
+     "omnem rem subtilem omnemque solidam penetrabit sic"
+    ],
+    "771": [
+     "omnem rem subtilem omnemque solidam penetrabit sic mundus creatus est hinc"
+    ],
+    "1027": [
+     "quod est superius est sicut quod est inferius ad perpetranda miracula rei unius et sicut omnes",
+     "et sicut omnes res fuerunt ab uno meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione",
+     "meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione pater eius est sol mater eius luna",
+     "pater eius est sol mater eius luna portavit illud ventus in ventre suo nutrix eius terra"
+    ]
+   },
+   "zero_mod_257": 48,
+   "within_sentence_spans": 1157,
+   "within_sentence_counts": {
+    "257": 2,
+    "514": 0,
+    "771": 0,
+    "1027": 2
+   }
+  },
+  "V_for_U": {
+   "n_words": 161,
+   "n_spans": 13041,
+   "counts": {
+    "257": 8,
+    "514": 2,
+    "771": 3,
+    "1027": 4
+   },
+   "spans": {
+    "257": [
+     "qvod est svperivs et",
+     "est svperivs et qvod",
+     "svperivs et qvod est",
+     "et qvod est svperivs",
+     "eivs est sol mater eivs",
+     "est pater omnis telesmi",
+     "sic habebis gloriam totivs",
+     "sic mvndvs creatvs est"
+    ],
+    "514": [
+     "hic vis eivs integra est si versa fverit in terram",
+     "svbtilem omnemqve solidam penetrabit sic mvndvs"
+    ],
+    "771": [
+     "svperivs est sicvt qvod est inferivs ad perpetranda miracvla rei vnivs",
+     "magno ingenio ascendit a terra in coelvm itervmqve descendit in terram et recipit",
+     "vincet omnem rem svbtilem omnemqve solidam penetrabit sic mvndvs creatvs"
+    ],
+    "1027": [
+     "ad perpetranda miracvla rei vnivs et sicvt omnes res fvervnt ab vno meditatione vnivs sic omnes res",
+     "ventvs in ventre svo nvtrix eivs terra est pater omnis telesmi totivs mvndi est hic vis",
+     "gloriam totivs mvndi ideo fvgiat a te omnis obscvritas hic est totivs fortitvdinis fortitvdo",
+     "est totivs fortitvdinis fortitvdo fortis qvia vincet omnem rem svbtilem omnemqve solidam"
+    ]
+   },
+   "zero_mod_257": 66,
+   "within_sentence_spans": 1157,
+   "within_sentence_counts": {
+    "257": 7,
+    "514": 0,
+    "771": 1,
+    "1027": 1
+   }
+  },
+  "V_for_U_et_dropped": {
+   "n_words": 156,
+   "n_spans": 12246,
+   "counts": {
+    "257": 5,
+    "514": 2,
+    "771": 4,
+    "1027": 4
+   },
+   "spans": {
+    "257": [
+     "rei vnivs sicvt omnes",
+     "eivs est sol mater eivs",
+     "est pater omnis telesmi",
+     "sic habebis gloriam totivs",
+     "sic mvndvs creatvs est"
+    ],
+    "514": [
+     "hic vis eivs integra est si versa fverit in terram",
+     "svbtilem omnemqve solidam penetrabit sic mvndvs"
+    ],
+    "771": [
+     "est inferivs est sicvt qvod est svperivs qvod est svperivs est",
+     "svperivs est sicvt qvod est inferivs ad perpetranda miracvla rei vnivs",
+     "miracvla rei vnivs sicvt omnes res fvervnt ab vno meditatione vnivs sic",
+     "vincet omnem rem svbtilem omnemqve solidam penetrabit sic mvndvs creatvs"
+    ],
+    "1027": [
+     "miracvla rei vnivs sicvt omnes res fvervnt ab vno meditatione vnivs sic omnes res natae fvervnt",
+     "ventvs in ventre svo nvtrix eivs terra est pater omnis telesmi totivs mvndi est hic vis",
+     "gloriam totivs mvndi ideo fvgiat a te omnis obscvritas hic est totivs fortitvdinis fortitvdo",
+     "est totivs fortitvdinis fortitvdo fortis qvia vincet omnem rem svbtilem omnemqve solidam"
+    ]
+   },
+   "zero_mod_257": 45,
+   "within_sentence_spans": 1081,
+   "within_sentence_counts": {
+    "257": 3,
+    "514": 0,
+    "771": 2,
+    "1027": 1
+   }
+  },
+  "et_dropped": {
+   "n_words": 156,
+   "n_spans": 12246,
+   "counts": {
+    "257": 4,
+    "514": 1,
+    "771": 2,
+    "1027": 2
+   },
+   "spans": {
+    "257": [
+     "omnes res natae fuerunt ab",
+     "est pater omnis telesmi",
+     "omnis telesmi totius",
+     "mundus creatus est hinc"
+    ],
+    "514": [
+     "omnem rem subtilem omnemque solidam penetrabit sic"
+    ],
+    "771": [
+     "sicut quod est inferius ad perpetranda miracula rei unius sicut omnes res",
+     "omnem rem subtilem omnemque solidam penetrabit sic mundus creatus est hinc"
+    ],
+    "1027": [
+     "meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione pater eius est sol mater eius luna",
+     "pater eius est sol mater eius luna portavit illud ventus in ventre suo nutrix eius terra"
+    ]
+   },
+   "zero_mod_257": 40,
+   "within_sentence_spans": 1081,
+   "within_sentence_counts": {
+    "257": 2,
+    "514": 0,
+    "771": 0,
+    "1027": 1
+   }
+  }
+ },
+ "d": {
+  "pairs": [
+   {
+    "a": "EHYEH",
+    "sa": 51,
+    "ca": 51,
+    "a_inK": false,
+    "a_tablet": 51,
+    "b": "EHEIEH",
+    "sb": 40,
+    "cb": 40,
+    "b_inK": false,
+    "b_tablet": null,
+    "differ": true
+   },
+   {
+    "a": "IUNONI",
+    "sa": 82,
+    "ca": 82,
+    "a_inK": false,
+    "a_tablet": null,
+    "b": "JUNONI",
+    "sb": 83,
+    "cb": 83,
+    "b_inK": false,
+    "b_tablet": null,
+    "differ": true
+   },
+   {
+    "a": "CAELUM",
+    "sa": 55,
+    "ca": 55,
+    "a_inK": false,
+    "a_tablet": null,
+    "b": "COELUM",
+    "sb": 69,
+    "cb": 69,
+    "b_inK": false,
+    "b_tablet": 69,
+    "differ": true
+   },
+   {
+    "a": "ALCHYMIA",
+    "sa": 72,
+    "ca": 72,
+    "a_inK": true,
+    "a_tablet": 72,
+    "b": "ALCHIMIA",
+    "sb": 56,
+    "cb": 56,
+    "b_inK": false,
+    "b_tablet": null,
+    "differ": true
+   },
+   {
+    "a": "PYRAMIDUM",
+    "sa": 120,
+    "ca": 120,
+    "a_inK": true,
+    "a_tablet": 120,
+    "b": "PIRAMIDUM",
+    "sb": 104,
+    "cb": 104,
+    "b_inK": false,
+    "b_tablet": null,
+    "differ": true
+   },
+   {
+    "a": "HENRIC",
+    "sa": 57,
+    "ca": 57,
+    "a_inK": false,
+    "a_tablet": null,
+    "b": "HENRICUS",
+    "sb": 97,
+    "cb": 97,
+    "b_inK": false,
+    "b_tablet": null,
+    "differ": true
+   },
+   {
+    "a": "KHUNRATH",
+    "sa": 101,
+    "ca": 101,
+    "a_inK": false,
+    "a_tablet": 101,
+    "b": "KUNRATH",
+    "sb": 93,
+    "cb": 93,
+    "b_inK": false,
+    "b_tablet": null,
+    "differ": true
+   }
+  ],
+  "extra_v": [
+   {
+    "w": "IVNONI",
+    "s": 83,
+    "c": 83,
+    "inK": false,
+    "tablet": null
+   },
+   {
+    "w": "CAELVM",
+    "s": 56,
+    "c": 56,
+    "inK": false,
+    "tablet": null
+   },
+   {
+    "w": "COELVM",
+    "s": 70,
+    "c": 70,
+    "inK": false,
+    "tablet": null
+   },
+   {
+    "w": "PYRAMIDVM",
+    "s": 121,
+    "c": 121,
+    "inK": false,
+    "tablet": null
+   },
+   {
+    "w": "PIRAMIDVM",
+    "s": 105,
+    "c": 105,
+    "inK": false,
+    "tablet": null
+   },
+   {
+    "w": "HENRICVS",
+    "s": 98,
+    "c": 98,
+    "inK": false,
+    "tablet": null
+   },
+   {
+    "w": "KHVNRATH",
+    "s": 102,
+    "c": 102,
+    "inK": false,
+    "tablet": null
+   },
+   {
+    "w": "KVNRATH",
+    "s": 94,
+    "c": 94,
+    "inK": false,
+    "tablet": null
+   },
+   {
+    "w": "HENRIC KHUNRATH",
+    "s": 158,
+    "c": 158,
+    "inK": false,
+    "tablet": 158
+   },
+   {
+    "w": "HENRICUS KHUNRATH",
+    "s": 198,
+    "c": 198,
+    "inK": false,
+    "tablet": null
+   },
+   {
+    "w": "HENRICVS KHVNRATH",
+    "s": 200,
+    "c": 200,
+    "inK": false,
+    "tablet": null
+   }
+  ]
+ }
+}
