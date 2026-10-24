@@ -1,0 +1,435 @@
+K has 33 cells; uniform-cell baseline share 33/257 = 0.1284
+plate-Latin vocabulary: 373 distinct lowercase forms from TITLE+TABULA+PIMANDER+CAPTION; uncertain (bracketed): ['propellium']
+distinct (k,s,b) keys 371 · distinct (k,s) keys 280
+excerpt rows used:
+  f1r.1 [@P0] .fachys.ykal.ar.ataiin.shol.shory.cthres.y.kor.sholdy
+  f1r.2 [+P0] sory.ckhar.or,y.kair.chtaiin.shar.ase.cthar.cthar,dan
+  f1r.3 [+P0] syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sy
+  f1r.4 [+P0] soiin.oteey.oteos,roloty.cthiar,daiin.okaiin.or.okan
+  f1r.5 [+P0] sair,y.chear.cthaiin.cphar.cfhaiin
+  f1r.6 [=Pt] ydaraishy.
+non-clean tokens dropped: []
+line word counts [10, 9, 9, 7, 5, 1], total 41
+every token (line: tokens):
+  L1: fachys, ykal, ar, ataiin, shol, shory, cthres, y, kor, sholdy
+  L2: sory, ckhar, ory, kair, chtaiin, shar, ase, cthar, cthardan
+  L3: syaiir, sheky, or, ykaiin, shod, cthoary, cthes, daraiin, sy
+  L4: soiin, oteey, oteosroloty, cthiardaiin, okaiin, or, okan
+  L5: sairy, chear, cthaiin, cphar, cfhaiin
+  L6: ydaraishy
+
+=== REAL excerpt f1r.1–f1r.6 ===
+  L1  sum 548 ≡ 34
+    EVA: fachys ykal ar ataiin shol shory cthres y kor sholdy
+    cell: 62* 49 19 54 54 85 73* 25 44* 83
+    R1:  FIBONACCI | LUKE | S | LOVE | LOVE | ESCHATON | WALLET | PI | BRIAN | PRAYER
+    R2:  RITO | LUKE | S | SUN | SUN | MATRIX | TURN | Y | RAY | PRAYER
+    R3:  (dignis) | (ipse) | — | — | (eius) | — | (vincet/itaque/lubens) | — | (est/vim) | (cuivis)
+    R3 gloss (RECALLED): (worthy (dat./abl. pl.)) | (himself, he himself) | — | — | (its, his, of it) | — | (will overcome / and so, therefore / willingly, gladly) | — | (is / power, force (acc.)) | (to anyone at all)
+  L2  sum 469 ≡ 212
+    EVA: sory ckhar ory kair chtaiin shar ase cthar cthardan
+    cell: 77 41 58 39 64 46* 25 50 69
+    R1:  CHRIST | OMEGA | BALDUR | TEN | ISRAEL | SHADDAI | PI | HIGGS | GLUON
+    R2:  HERTZ | BOX | TWO | TEN | ZERO | WHO | Y | JOY | GLUON
+    R3:  — | (natae) | — | (mihi) | (divinae/fidelis) | (dixi/hunc) | — | (magno/aliis) | (magnesia)
+    R3 gloss (RECALLED): — | (born (fem.)) | — | (to me) | (divine (gen./dat. fem.) / faithful) | (I have said / this (acc. masc.)) | — | (great (abl.) / others (dat./abl. pl.)) | (magnesia (alchemical matter))
+  L3  sum 542 ≡ 28
+    EVA: syaiir sheky or ykaiin shod cthoary cthes daraiin sy
+    cell: 81 68 33 69 46* 90 55 56 44*
+    R1:  HORUS | SOPHIA | HAGGAI | GLUON | SHADDAI | NAKAMOTO | HEAVEN | CARDANO | BRIAN
+    R2:  HORUS | LOGOS | DON | GLUON | WHO | OXYGEN | SKY | ISIS | RAY
+    R3:  (instar) | (cupis) | — | (coelum) | (dixi/hunc) | — | (grati) | — | —
+    R3 gloss (RECALLED): (likeness, in the manner of) | (you desire) | — | (heaven, sky) | (I have said / this (acc. masc.)) | — | (grateful (gen.)) | — | —
+  L4  sum 544 ≡ 30
+    EVA: soiin oteey oteosroloty cthiardaiin okaiin or okan
+    cell: 66 70 179 96 59 33 41
+    R1:  MOLOCH | LILITH | EXCOMMUNICATION | BEETHOVEN | SHIVA | HAGGAI | OMEGA
+    R2:  ENVY | PROOF | EULER E DIGITS | HYDROGEN | NULL | DON | BOX
+    R3:  (omnes/modum) | (omnis/logou) | — | — | — | — | —
+    R3 gloss (RECALLED): (all (pl.) / manner, way (acc.)) | (all, every / of the Word (Greek logou written in Latin letters)) | — | — | — | — | —
+  L5  sum 267 ≡ 10
+    EVA: sairy chear cthaiin cphar cfhaiin
+    cell: 72* 35 64 46* 50
+    R1:  BITCOIN | HAGAR | ISRAEL | SHADDAI | HIGGS
+    R2:  MONEY | EYE | ZERO | WHO | JOY
+    R3:  (sicut/modus) | — | (divinae/fidelis) | animi | —
+    R3 gloss (RECALLED): (just as, like / manner, way) | — | (divine (gen./dat. fem.) / faithful) | of the mind, of the soul | —
+  L6  sum 110 ≡ 110
+    EVA: ydaraishy
+    cell: 110
+    R1:  FRAMEWORK
+    R2:  PURPOSE
+    R3:  (terraeque/mementote)
+    R3 gloss (RECALLED): (and of the earth / remember! (pl. imperative))
+  words 41 · cell in K 8 (0.195) · R3 (k,s,b) 1 (0.024) · R3 (k,s) only 22 (0.537) · R3 none 18
+=== C1 words shuffled across the six lines (seed 101) ===
+  L1  sum 597 ≡ 83
+    EVA: shol or fachys y sheky sholdy shod ykal syaiir cthiardaiin
+    cell: 54 33 62* 25 68 83 46* 49 81 96
+    R1:  LOVE | HAGGAI | FIBONACCI | PI | SOPHIA | PRAYER | SHADDAI | LUKE | HORUS | BEETHOVEN
+    R2:  SUN | DON | RITO | Y | LOGOS | PRAYER | WHO | LUKE | HORUS | HYDROGEN
+    R3:  (eius) | — | (dignis) | — | (cupis) | (cuivis) | (dixi/hunc) | (ipse) | (instar) | —
+    R3 gloss (RECALLED): (its, his, of it) | — | (worthy (dat./abl. pl.)) | — | (you desire) | (to anyone at all) | (I have said / this (acc. masc.)) | (himself, he himself) | (likeness, in the manner of) | —
+  L2  sum 541 ≡ 27
+    EVA: ase daraiin sairy or cfhaiin oteosroloty chear ckhar cthar
+    cell: 25 56 72* 33 50 179 35 41 50
+    R1:  PI | CARDANO | BITCOIN | HAGGAI | HIGGS | EXCOMMUNICATION | HAGAR | OMEGA | HIGGS
+    R2:  Y | ISIS | MONEY | DON | JOY | EULER E DIGITS | EYE | BOX | JOY
+    R3:  — | — | (sicut/modus) | — | — | — | — | (natae) | (magno/aliis)
+    R3 gloss (RECALLED): — | — | (just as, like / manner, way) | — | — | — | — | (born (fem.)) | (great (abl.) / others (dat./abl. pl.))
+  L3  sum 544 ≡ 30
+    EVA: soiin cthoary shory sy kor ar cphar sory cthres
+    cell: 66 90 85 44* 44* 19 46* 77 73*
+    R1:  MOLOCH | NAKAMOTO | ESCHATON | BRIAN | BRIAN | S | SHADDAI | CHRIST | WALLET
+    R2:  ENVY | OXYGEN | MATRIX | RAY | RAY | S | WHO | HERTZ | TURN
+    R3:  (omnes/modum) | — | — | — | (est/vim) | — | animi | — | (vincet/itaque/lubens)
+    R3 gloss (RECALLED): (all (pl.) / manner, way (acc.)) | — | — | — | (is / power, force (acc.)) | — | of the mind, of the soul | — | (will overcome / and so, therefore / willingly, gladly)
+  L4  sum 442 ≡ 185
+    EVA: cthes ydaraishy shar cthardan chtaiin kair okaiin
+    cell: 55 110 46* 69 64 39 59
+    R1:  HEAVEN | FRAMEWORK | SHADDAI | GLUON | ISRAEL | TEN | SHIVA
+    R2:  SKY | PURPOSE | WHO | GLUON | ZERO | TEN | NULL
+    R3:  (grati) | (terraeque/mementote) | (dixi/hunc) | (magnesia) | (divinae/fidelis) | (mihi) | —
+    R3 gloss (RECALLED): (grateful (gen.)) | (and of the earth / remember! (pl. imperative)) | (I have said / this (acc. masc.)) | (magnesia (alchemical matter)) | (divine (gen./dat. fem.) / faithful) | (to me) | —
+  L5  sum 292 ≡ 35
+    EVA: ataiin oteey ykaiin okan ory
+    cell: 54 70 69 41 58
+    R1:  LOVE | LILITH | GLUON | OMEGA | BALDUR
+    R2:  SUN | PROOF | GLUON | BOX | TWO
+    R3:  — | (omnis/logou) | (coelum) | — | —
+    R3 gloss (RECALLED): — | (all, every / of the Word (Greek logou written in Latin letters)) | (heaven, sky) | — | —
+  L6  sum 64 ≡ 64
+    EVA: cthaiin
+    cell: 64
+    R1:  ISRAEL
+    R2:  ZERO
+    R3:  (divinae/fidelis)
+    R3 gloss (RECALLED): (divine (gen./dat. fem.) / faithful)
+  words 41 · cell in K 8 (0.195) · R3 (k,s,b) 1 (0.024) · R3 (k,s) only 22 (0.537) · R3 none 18
+=== C2 letters shuffled across all words, lengths kept (seed 102) ===
+  L1  sum 489 ≡ 232
+    EVA: tiseia roos ah nkkyre yche aorhn oartrn i acr naiphd
+    cell: 63 67 9 84 41 56 86* 9 22 52
+    R1:  MUON | SOUL | I | LEONARDO | OMEGA | CARDANO | TIKKUN | I | BABEL | DEVIL
+    R2:  TYR | SOUL | I | COSMOS | BOX | ISIS | TIKKUN | I | ALI | SIX
+    R3:  — | — | (de) | (ventre) | — | — | (subito) | — | (nec) | (certae/reddat)
+    R3 gloss (RECALLED): — | — | (of, from, about) | (belly, womb (abl.)) | — | — | (suddenly) | — | (nor, and not) | (certain, sure (fem.) / may render, may make)
+  L2  sum 498 ≡ 241  [K]
+    EVA: nirk ckdyo rao oihi aaisycy aryi ycr ccrho kenshiii
+    cell: 52 58 34 41 83 53 46* 47 84
+    R1:  DEVIL | BALDUR | FREE | OMEGA | PRAYER | CARBON | SHADDAI | ISAIAH | LEONARDO
+    R2:  SIX | TWO | ONE | BOX | PRAYER | GUY | WHO | JOHN | COSMOS
+    R3:  — | (illud/asyla) | — | — | (telesmi) | — | sol | — | —
+    R3 gloss (RECALLED): — | (that, it / sanctuaries, refuges) | — | — | (of the telesm (perfection, talismanic power)) | — | sun | — | —
+  L3  sum 493 ≡ 236
+    EVA: fiiaho taaah ft atihet oaoi lcaytrs dcoss yloshod rk
+    cell: 48 31 26 63 40 98 60 98 29
+    R1:  JAMES | JACOB | GOD | MUON | DAVID | LAZARUS | HOLY | LAZARUS | AAVE
+    R2:  BUY | GENE | Z | TYR | BOW | SUNSET | HOLY | SUNSET | DIP
+    R3:  — | (aciem) | — | — | (vide/tibi/orbe) | (optaris/honoris) | (pater/omnem) | (optaris/honoris) | (ex)
+    R3 gloss (RECALLED): — | (edge, keenness (acc.)) | — | — | (see! (imperative) / to you / world, circle (abl.)) | (you shall have wished (syncopated optaveris) / of honour) | (father / every, all (acc.)) | (you shall have wished (syncopated optaveris) / of honour) | (out of, from)
+  L4  sum 488 ≡ 231
+    EVA: aedoa kycre shaoeryhhsr hykatihchan hrinan si iynh
+    cell: 26 62* 144 108 64 28 56
+    R1:  GOD | FIBONACCI | MASS | SHAKESPEARE | ISRAEL | SHA | CARDANO
+    R2:  Z | RITO | MASS | DARK ENERGY | ZERO | SHA | ISIS
+    R3:  — | (terra) | (aestuantium) | — | (fugiat) | si | —
+    R3 gloss (RECALLED): — | (earth) | (of the seething, burning ones) | — | (let it flee, may flee) | if | —
+  L5  sum 398 ≡ 141
+    EVA: ashly iitls srayici ayotr oscatry
+    cell: 65 69 84 79 101
+    R1:  SEVEN | GLUON | LEONARDO | NIRVANA | AMPLITUDE
+    R2:  SEVEN | GLUON | COSMOS | GOLD Z | VENTUS
+    R3:  (versa) | — | — | (verum) | (vocatus)
+    R3 gloss (RECALLED): (turned) | — | — | (true; truly; but) | (called)
+  L6  sum 114 ≡ 114
+    EVA: aratsrdns
+    cell: 114
+    R1:  FREQUENCY
+    R2:  OVERTONE
+    R3:  (revelavit)
+    R3 gloss (RECALLED): (revealed)
+  words 41 · cell in K 3 (0.073) · R3 (k,s,b) 2 (0.049) · R3 (k,s) only 20 (0.488) · R3 none 19
+=== C3 six manuscript lines with the excerpt's word counts (seed 103) ===
+  source lines: f112r.37 (+P0); f77v.39 (+P0); f33r.7 (+P0); f96v.3 (+P0); f17v.9 (+P0); f84v.48 (+Pb)
+  pool sizes by word count: 10:549, 9:573, 9:573, 7:377, 5:339, 1:27
+  L1  sum 580 ≡ 66
+    EVA: pam okaiin olkedy okedy okeey okeedy keedar otear shkear qoky
+    cell: 30 59 72* 60 61 65 44* 59 62* 68
+    R1:  ARK | SHIVA | BITCOIN | HOLY | PSALM | SEVEN | BRIAN | SHIVA | FIBONACCI | SOPHIA
+    R2:  ARK | NULL | MONEY | HOLY | THOR | SEVEN | RAY | NULL | RITO | LOGOS
+    R3:  (ita) | — | — | (pater/omnem) | (mundi) | — | — | — | (dignis) | —
+    R3 gloss (RECALLED): (so, thus) | — | — | (father / every, all (acc.)) | (of the world) | — | — | — | (worthy (dat./abl. pl.)) | —
+  L2  sum 539 ≡ 25
+    EVA: dcheol kchedy soikhey qokal qokal shedy sholdy qotal dar
+    cell: 47 56 92* 56 56 61 83 65 23*
+    R1:  ISAIAH | CARDANO | CHRONOS | CARDANO | CARDANO | PSALM | PRAYER | SEVEN | CALEB
+    R2:  JOHN | ISIS | WATSON | ISIS | ISIS | THOR | PRAYER | SEVEN | AIM
+    R3:  (sacrae) | — | (futurae) | — | — | (mundi) | (cuivis) | (versa) | (iam)
+    R3 gloss (RECALLED): (sacred, holy (fem.)) | — | (future, to come (fem.)) | — | — | (of the world) | (to anyone at all) | (turned) | (already, now)
+  L3  sum 367 ≡ 110
+    EVA: dar chos aiin or aiin cheekaiin okain ar okeeey
+    cell: 23* 45 33 33 33 65 50 19 66
+    R1:  CALEB | ELIJAH | HAGGAI | HAGGAI | HAGGAI | SEVEN | HIGGS | S | MOLOCH
+    R2:  AIM | NOP | DON | DON | DON | SEVEN | JOY | S | ENVY
+    R3:  (iam) | (saxa/ergo) | (ideo/amen) | — | (ideo/amen) | — | (magno/aliis) | — | (formam)
+    R3 gloss (RECALLED): (already, now) | (rocks, stones / therefore; for the sake of) | (therefore / amen) | — | (therefore / amen) | — | (great (abl.) / others (dat./abl. pl.)) | — | (form, shape (acc.))
+  L4  sum 466 ≡ 209
+    EVA: dcheoteos cpheos sor chcthory cth ytchey daiin
+    cell: 94 66 52 100 31 86* 37
+    R1:  HAL FINNEY | MOLOCH | DEVIL | PAROUSIA | JACOB | TIKKUN | HADES
+    R2:  HARMONY | ENVY | SIX | QUARTER | GENE | TIKKUN | BUN
+    R3:  — | (formam) | — | — | (sic) | (subito) | —
+    R3 gloss (RECALLED): — | (form, shape (acc.)) | — | — | (thus, so) | (suddenly) | —
+  L5  sum 289 ≡ 32
+    EVA: ycheol shol kchol choltaiin ol
+    cell: 68 54 49 91 27
+    R1:  SOPHIA | LOVE | LUKE | SPIRIT | CAIN
+    R2:  LOGOS | SUN | LUKE | YIRZM | JOB
+    R3:  (hermes/rimari/amator) | (eius) | — | cogitarem | —
+    R3 gloss (RECALLED): (Hermes / to probe, to search out / lover) | (its, his, of it) | — | I was pondering, I might ponder | —
+  L6  sum 88 ≡ 88
+    EVA: dairoldy
+    cell: 88
+    R1:  ONE LOVE
+    R2:  TRUMP
+    R3:  (caelorum)
+    R3 gloss (RECALLED): (of the heavens)
+  words 41 · cell in K 7 (0.171) · R3 (k,s,b) 1 (0.024) · R3 (k,s) only 22 (0.537) · R3 none 18
+=== C4 TABULA first 6 sentences (Latin) read as if EVA ===
+  the TABULA section is one physical line in plate_latin.txt; its first six '.'-sentences are used as the six lines
+  note: every word of C4 is itself in the plate-Latin vocabulary, so R3 (k,s,b) matches itself
+  L1  sum 443 ≡ 186
+    EVA: verum sine mendacio certum et verissimum
+    cell: 79 47 64 80 25 148
+    R1:  NIRVANA | ISAIAH | ISRAEL | REBIRTH | PI | MORNING STAR
+    R2:  GOLD Z | JOHN | ZERO | EGO SUM | Y | HAGGAI
+    R3:  verum | sine | mendacio | certum | et | verissimum
+    R3 gloss (RECALLED): true; truly; but | without | falsehood, lie (abl.) | certain | and | most true
+  L2  sum 1436 ≡ 151
+    EVA: quod est inferius est sicut quod est superius et quod est superius est sicut quod est inferius ad perpetranda miracula rei unius
+    cell: 57 44* 101 44* 72* 57 44* 128* 25 57 44* 128* 44* 72* 57 44* 101 5 118 78 32 84
+    R1:  PLANCK | BRIAN | AMPLITUDE | BRIAN | BITCOIN | PLANCK | BRIAN | TRANSFERENCE | PI | PLANCK | BRIAN | TRANSFERENCE | BRIAN | BITCOIN | PLANCK | BRIAN | AMPLITUDE | E | EMERALD TABLET | GENESIS | EVE | LEONARDO
+    R2:  MOON | RAY | VENTUS | RAY | MONEY | MOON | RAY | SELF-FOLD | Y | MOON | RAY | SELF-FOLD | RAY | MONEY | MOON | RAY | VENTUS | E | SEPHIROTH | TROY | EVE | COSMOS
+    R3:  quod | est | inferius | est | sicut | quod | est | superius | et | quod | est | superius | est | sicut | quod | est | inferius | ad | perpetranda | miracula | rei | unius
+    R3 gloss (RECALLED): what, that which; because | is | lower, below | is | just as, like | what, that which; because | is | higher, above | and | what, that which; because | is | higher, above | is | just as, like | what, that which; because | is | lower, below | to, toward, for | to be accomplished | miracles, wonders | of the thing | of one
+  L3  sum 1027 ≡ 256  [K]
+    EVA: et sicut omnes res fuerunt ab uno meditatione unius sic omnes res natae fuerunt ab hac una re adaptatione
+    cell: 25 72* 66 42 105 3* 50 115 84 31 66 42 41 105 3* 12 36 23* 106
+    R1:  PI | BITCOIN | MOLOCH | MIT | TAPROOT | C | HIGGS | COMMANDMENT | LEONARDO | JACOB | MOLOCH | MIT | OMEGA | TAPROOT | C | L | IMAM | CALEB | NEFERTITI
+    R2:  Y | MONEY | ENVY | MIT | TAPROOT | C | JOY | HIGGS BOSON | COSMOS | GENE | ENVY | MIT | BOX | TAPROOT | C | L | OTA | AIM | NUTRIX
+    R3:  et | sicut | omnes | res | fuerunt | ab | uno | meditatione | unius | sic | omnes | res | natae | fuerunt | ab | hac | una | re | adaptatione
+    R3 gloss (RECALLED): and | just as, like | all (pl.) | thing, things | were, have been | from, by | one (abl.) | by meditation, by the thought | of one | thus, so | all (pl.) | thing, things | born (fem.) | were, have been | from, by | this (abl. fem.) | one (fem.) | thing (abl.) | by adaptation
+  L4  sum 1071 ≡ 43
+    EVA: pater eius est sol mater eius luna portavit illud ventus in ventre suo nutrix eius terra est
+    cell: 60 54 44* 46* 57 54 48 121 58 101 23* 84 55 106 54 62* 44*
+    R1:  HOLY | LOVE | BRIAN | SHADDAI | PLANCK | LOVE | JAMES | REVELATION | BALDUR | AMPLITUDE | CALEB | LEONARDO | HEAVEN | NEFERTITI | LOVE | FIBONACCI | BRIAN
+    R2:  HOLY | SUN | RAY | WHO | MOON | SUN | BUY | REVELATION | TWO | VENTUS | AIM | COSMOS | SKY | NUTRIX | SUN | RITO | RAY
+    R3:  pater | eius | est | sol | mater | eius | luna | portavit | illud | ventus | in | ventre | suo | nutrix | eius | terra | est
+    R3 gloss (RECALLED): father | its, his, of it | is | sun | mother | its, his, of it | moon | carried | that, it | wind | in, into | belly, womb (abl.) | its own, his own (abl.) | nurse | its, his, of it | earth | is
+  L5  sum 442 ≡ 185
+    EVA: pater omnis telesmi totius mundi est hic
+    cell: 60 70 83 104 61 44* 20
+    R1:  HOLY | LILITH | PRAYER | ANTHROPIC | PSALM | BRIAN | APC
+    R2:  HOLY | PROOF | PRAYER | SOLITON | THOR | RAY | APC
+    R3:  pater | omnis | telesmi | totius | mundi | est | hic
+    R3 gloss (RECALLED): father | all, every | of the telesm (perfection, talismanic power) | of the whole | of the world | is | here; this
+  L6  sum 492 ≡ 235
+    EVA: vis eius integra est si versa fuerit in terram
+    cell: 50 54 74 44* 28 65 79 23* 75
+    R1:  HIGGS | LOVE | CROSS | BRIAN | SHA | SEVEN | NIRVANA | CALEB | SHIFT
+    R2:  JOY | SUN | CROSS | RAY | SHA | SEVEN | GOLD Z | AIM | SHIFT
+    R3:  vis | eius | integra | est | si | versa | fuerit | in | terram
+    R3 gloss (RECALLED): power, force | its, his, of it | whole, entire | is | if | turned | shall have been | in, into | earth (acc.)
+  words 80 · cell in K 22 (0.275) · R3 (k,s,b) 80 (1.000) · R3 (k,s) only 0 (0.000) · R3 none 0
+=== C4-EN English glosses of the same 6 sentences (vl/tabula.py SENT) read as if EVA ===
+  supplementary: the task labels C4 'English' but names the Latin TABULA; both are given
+  L1  sum 485 ≡ 228
+    EVA: true without falsehood certain and most true
+    cell: 64 116 85 70 19 67 64
+    R1:  ISRAEL | BYZANTINE | ESCHATON | LILITH | S | SOUL | ISRAEL
+    R2:  ZERO | NEUTRINO | MATRIX | PROOF | S | SOUL | ZERO
+    R3:  — | — | — | (lapidis/decreto) | — | — | —
+    R3 gloss (RECALLED): — | — | — | (of the stone / by decree) | — | — | —
+  L2  sum 1066 ≡ 38
+    EVA: what is below is like what is above and what is above is like what is below to accomplish the miracles of the one thing
+    cell: 52 28 57 28 37 52 28 45 19 52 28 45 28 37 52 28 57 35 99 33 80 21 33 34 58
+    R1:  DEVIL | SHA | PLANCK | SHA | HADES | DEVIL | SHA | ELIJAH | S | DEVIL | SHA | ELIJAH | SHA | HADES | DEVIL | SHA | PLANCK | HAGAR | RAPTURE | HAGGAI | REBIRTH | DICE | HAGGAI | FREE | BALDUR
+    R2:  SIX | SHA | MOON | SHA | BUN | SIX | SHA | NOP | S | SIX | SHA | NOP | SHA | BUN | SIX | SHA | MOON | EYE | RAPTURE | DON | EGO SUM | BAR | DON | ONE | TWO
+    R3:  — | (si) | (mater/mente/novae) | (si) | — | — | (si) | (fixae/filii) | — | — | (si) | (fixae/filii) | (si) | — | — | (si) | (mater/mente/novae) | — | (iudicantem/sapientiae) | — | (erigerem/pimander/caeteris) | — | — | — | (illud/asyla)
+    R3 gloss (RECALLED): — | (if) | (mother / mind (abl.) / new (fem.)) | (if) | — | — | (if) | (fixed (fem.) / sons; of a son) | — | — | (if) | (fixed (fem.) / sons; of a son) | (if) | — | — | (if) | (mother / mind (abl.) / new (fem.)) | — | (judging (acc.) / of wisdom) | — | (I was raising, I might raise / Pimander (name) / the others, the rest (dat./abl. pl.)) | — | — | — | (that, it / sanctuaries, refuges)
+  L3  sum 1067 ≡ 39
+    EVA: and as all things were from one by the meditation of one so all things were born from this one thing by adaptation
+    cell: 19 20 25 77 51 52 34 27 33 110 21 34 34 25 77 51 49 52 56 34 58 27 101
+    R1:  S | APC | PI | CHRIST | NONCE | DEVIL | FREE | CAIN | HAGGAI | FRAMEWORK | DICE | FREE | FREE | PI | CHRIST | NONCE | LUKE | DEVIL | CARDANO | FREE | BALDUR | CAIN | AMPLITUDE
+    R2:  S | APC | Y | HERTZ | WAVE | SIX | ONE | JOB | DON | PURPOSE | BAR | ONE | ONE | Y | HERTZ | WAVE | LUKE | SIX | ISIS | ONE | TWO | JOB | VENTUS
+    R3:  — | — | — | (passim/aquino) | (quid/mens) | — | — | — | — | (penetrabit) | — | — | — | — | (passim/aquino) | (quid/mens) | (ipse) | — | — | — | (illud/asyla) | — | (codicesque)
+    R3 gloss (RECALLED): — | — | — | (everywhere, here and there / Aquino (place name, as in Thomas of Aquino)) | (what / mind) | — | — | — | — | (will penetrate) | — | — | — | — | (everywhere, here and there / Aquino (place name, as in Thomas of Aquino)) | (what / mind) | (himself, he himself) | — | — | — | (that, it / sanctuaries, refuges) | — | (and books, and codices)
+  L4  sum 973 ≡ 202
+    EVA: its father is the sun its mother the moon the wind carried it in its belly its nurse is the earth
+    cell: 48 58 28 33 54 48 79 33 57 33 50 58 29 23* 48 56 48 77 28 33 52
+    R1:  JAMES | BALDUR | SHA | HAGGAI | LOVE | JAMES | NIRVANA | HAGGAI | PLANCK | HAGGAI | HIGGS | BALDUR | AAVE | CALEB | JAMES | CARDANO | JAMES | CHRIST | SHA | HAGGAI | DEVIL
+    R2:  BUY | TWO | SHA | DON | SUN | BUY | GOLD Z | DON | MOON | DON | JOY | TWO | DIP | AIM | BUY | ISIS | BUY | HERTZ | SHA | DON | SIX
+    R3:  — | (audire) | (si) | — | (tum) | — | (fuerit/partes) | — | (quod) | — | (vere) | — | (ex) | in | — | — | — | — | (si) | — | (unice/omnia)
+    R3 gloss (RECALLED): — | (to hear) | (if) | — | (then) | — | (shall have been / parts) | — | (what, that which; because) | — | (truly) | — | (out of, from) | in, into | — | — | — | — | (if) | — | (uniquely, solely / all things)
+  L5  sum 534 ≡ 20
+    EVA: the father of all the perfection of the whole world is here
+    cell: 33 58 21 25 33 111* 21 33 63 72* 28 36
+    R1:  HAGGAI | BALDUR | DICE | PI | HAGGAI | CONFUCIUS | DICE | HAGGAI | MUON | BITCOIN | SHA | IMAM
+    R2:  DON | TWO | BAR | Y | DON | RECOVERY | BAR | DON | TYR | MONEY | SHA | OTA
+    R3:  — | (audire) | — | — | — | (permanente) | — | — | — | (sicut/modus) | (si) | —
+    R3 gloss (RECALLED): — | (to hear) | — | — | — | (remaining, enduring (abl.)) | — | — | — | (just as, like / manner, way) | (if) | —
+  L6  sum 480 ≡ 223
+    EVA: its power is whole if it is turned into earth
+    cell: 48 77 28 63 15* 29 28 82 58 52
+    R1:  JAMES | CHRIST | SHA | MUON | O | AAVE | SHA | ARMAGEDDON | BALDUR | DEVIL
+    R2:  BUY | HERTZ | SHA | TYR | O | DIP | SHA | LEAD Z | TWO | SIX
+    R3:  — | — | (si) | — | — | (ex) | (si) | (iunoni/artium) | — | (unice/omnia)
+    R3 gloss (RECALLED): — | — | (if) | — | — | (out of, from) | (if) | (to Juno / of the arts) | — | (uniquely, solely / all things)
+  words 98 · cell in K 4 (0.041) · R3 (k,s,b) 1 (0.010) · R3 (k,s) only 40 (0.408) · R3 none 57
+=== C2 distribution over 1000 draws (seeds 1000–1999) ===
+  share_in_K: mean 0.1277 sd 0.0497 median 0.12195121951219512 min 0.0 max 0.2926829268292683 · real 0.1951219512195122 · draws below 875, equal 63, above 62
+    histogram (count in K of 41 : draws): 0:4, 1:21, 2:55, 3:127, 4:158, 5:196, 6:184, 7:130, 8:63, 9:38, 10:15, 11:7, 12:2
+  r3_ksb_count: mean 0.7820 sd 0.8721 median 1.0 min 0 max 4 · real 1 · draws below 461, equal 344, above 195
+    histogram (value : draws): 0:461, 1:344, 2:151, 3:40, 4:4
+  r3_ks_count: mean 18.4020 sd 3.1838 median 18.0 min 9 max 28 · real 22 · draws below 837, equal 68, above 95
+    histogram (value : draws): 9:3, 10:5, 11:9, 12:12, 13:23, 14:48, 15:78, 16:98, 17:119, 18:133, 19:114, 20:103, 21:92, 22:68, 23:38, 24:23, 25:20, 26:5, 27:6, 28:3
+
+Latin forms used in R3 renderings (135), section of first occurrence, gloss RECALLED:
+  dignis         (6, 62, 258)     [CAPTION]  worthy (dat./abl. pl.)
+  ipse           (4, 49, 118)     [PIMANDER]  himself, he himself
+  eius           (4, 54, 162)     [TABULA]  its, his, of it
+  vincet         (6, 73, 239)     [TABULA]  will overcome
+  itaque         (6, 73, 255)     [TABULA]  and so, therefore
+  lubens         (6, 73, 264)     [CAPTION]  willingly, gladly
+  est            (3, 44, 103)     [TABULA]  is
+  vim            (3, 44, 79)      [TABULA]  power, force (acc.)
+  cuivis         (6, 83, 319)     [PIMANDER]  to anyone at all
+  natae          (5, 41, 105)     [TABULA]  born (fem.)
+  mihi           (4, 39, 91)      [PIMANDER]  to me
+  divinae        (7, 64, 235)     [PIMANDER]  divine (gen./dat. fem.)
+  fidelis        (7, 64, 303)     [CAPTION]  faithful
+  dixi           (4, 46, 130)     [TABULA]  I have said
+  hunc           (4, 46, 104)     [PIMANDER]  this (acc. masc.)
+  magno          (5, 50, 167)     [TABULA]  great (abl.)
+  aliis          (5, 50, 183)     [CAPTION]  others (dat./abl. pl.)
+  magnesia       (8, 69, 302)     [CAPTION]  magnesia (alchemical matter)
+  instar         (6, 81, 287)     [CAPTION]  likeness, in the manner of
+  cupis          (5, 68, 224)     [PIMANDER]  you desire
+  coelum         (6, 69, 279)     [TABULA]  heaven, sky
+  grati          (5, 55, 171)     [CAPTION]  grateful (gen.)
+  omnes          (5, 66, 198)     [TABULA]  all (pl.)
+  modum          (5, 66, 204)     [PIMANDER]  manner, way (acc.)
+  omnis          (5, 70, 214)     [TABULA]  all, every
+  logou          (5, 70, 228)     [CAPTION]  of the Word (Greek logou written in Latin letters)
+  sicut          (5, 72, 230)     [TABULA]  just as, like
+  modus          (5, 72, 234)     [TABULA]  manner, way
+  animi          (5, 46, 153)     [CAPTION]  of the mind, of the soul
+  terraeque      (9, 110, 523)    [CAPTION]  and of the earth
+  mementote      (9, 110, 582)    [CAPTION]  remember! (pl. imperative)
+  de             (2, 9, 14)       [TABULA]  of, from, about
+  ventre         (6, 84, 274)     [TABULA]  belly, womb (abl.)
+  subito         (6, 86, 293)     [PIMANDER]  suddenly
+  nec            (3, 22, 33)      [CAPTION]  nor, and not
+  certae         (6, 52, 182)     [CAPTION]  certain, sure (fem.)
+  reddat         (6, 52, 181)     [CAPTION]  may render, may make
+  illud          (5, 58, 173)     [TABULA]  that, it
+  asyla          (5, 58, 167)     [CAPTION]  sanctuaries, refuges
+  telesmi        (7, 83, 322)     [TABULA]  of the telesm (perfection, talismanic power)
+  sol            (3, 46, 85)      [TABULA]  sun
+  aciem          (5, 31, 119)     [PIMANDER]  edge, keenness (acc.)
+  vide           (4, 40, 72)      [PIMANDER]  see! (imperative)
+  tibi           (4, 40, 80)      [PIMANDER]  to you
+  orbe           (4, 40, 77)      [CAPTION]  world, circle (abl.)
+  optaris        (7, 98, 388)     [PIMANDER]  you shall have wished (syncopated optaveris)
+  honoris        (7, 98, 417)     [CAPTION]  of honour
+  pater          (5, 60, 188)     [TABULA]  father
+  omnem          (5, 60, 168)     [TABULA]  every, all (acc.)
+  ex             (2, 29, 53)      [CAPTION]  out of, from
+  terra          (5, 62, 161)     [TABULA]  earth
+  aestuantium    (11, 144, 951)   [CAPTION]  of the seething, burning ones
+  fugiat         (6, 64, 230)     [TABULA]  let it flee, may flee
+  si             (2, 28, 37)      [TABULA]  if
+  versa          (5, 65, 167)     [TABULA]  turned
+  verum          (5, 79, 235)     [TABULA]  true; truly; but
+  vocatus        (7, 101, 424)    [TABULA]  called
+  revelavit      (9, 114, 586)    [PIMANDER]  revealed
+  ita            (3, 30, 52)      [CAPTION]  so, thus
+  mundi          (5, 61, 158)     [TABULA]  of the world
+  sacrae         (6, 47, 137)     [CAPTION]  sacred, holy (fem.)
+  futurae        (7, 92, 323)     [CAPTION]  future, to come (fem.)
+  iam            (3, 23, 50)      [PIMANDER]  already, now
+  saxa           (4, 45, 97)      [CAPTION]  rocks, stones
+  ergo           (4, 45, 122)     [CAPTION]  therefore; for the sake of
+  ideo           (4, 33, 92)      [TABULA]  therefore
+  amen           (4, 33, 98)      [PIMANDER]  amen
+  formam         (6, 66, 225)     [PIMANDER]  form, shape (acc.)
+  sic            (3, 31, 46)      [TABULA]  thus, so
+  hermes         (6, 68, 263)     [TABULA]  Hermes
+  rimari         (6, 68, 223)     [CAPTION]  to probe, to search out
+  amator         (6, 68, 293)     [CAPTION]  lover
+  cogitarem      (9, 91, 479)     [PIMANDER]  I was pondering, I might ponder
+  caelorum       (8, 88, 502)     [CAPTION]  of the heavens
+  sine           (4, 47, 99)      [TABULA]  without
+  mendacio       (8, 64, 287)     [TABULA]  falsehood, lie (abl.)
+  certum         (6, 80, 330)     [TABULA]  certain
+  et             (2, 25, 45)      [TABULA]  and
+  verissimum     (10, 148, 817)   [TABULA]  most true
+  quod           (4, 57, 120)     [TABULA]  what, that which; because
+  inferius       (8, 101, 518)    [TABULA]  lower, below
+  superius       (8, 128, 572)    [TABULA]  higher, above
+  ad             (2, 5, 9)        [TABULA]  to, toward, for
+  perpetranda    (11, 118, 600)   [TABULA]  to be accomplished
+  miracula       (8, 78, 322)     [TABULA]  miracles, wonders
+  rei            (3, 32, 55)      [TABULA]  of the thing
+  unius          (5, 84, 255)     [TABULA]  of one
+  res            (3, 42, 85)      [TABULA]  thing, things
+  fuerunt        (7, 105, 464)    [TABULA]  were, have been
+  ab             (2, 3, 5)        [TABULA]  from, by
+  uno            (3, 50, 94)      [TABULA]  one (abl.)
+  meditatione    (11, 115, 719)   [TABULA]  by meditation, by the thought
+  hac            (3, 12, 19)      [TABULA]  this (abl. fem.)
+  una            (3, 36, 52)      [TABULA]  one (fem.)
+  re             (2, 23, 28)      [TABULA]  thing (abl.)
+  adaptatione    (11, 106, 724)   [TABULA]  by adaptation
+  mater          (5, 57, 185)     [TABULA]  mother
+  luna           (4, 48, 100)     [TABULA]  moon
+  portavit       (8, 121, 540)    [TABULA]  carried
+  ventus         (6, 101, 373)    [TABULA]  wind
+  in             (2, 23, 37)      [TABULA]  in, into
+  suo            (3, 55, 106)     [TABULA]  its own, his own (abl.)
+  nutrix         (6, 106, 377)    [TABULA]  nurse
+  totius         (6, 104, 365)    [TABULA]  of the whole
+  hic            (3, 20, 35)      [TABULA]  here; this
+  vis            (3, 50, 97)      [TABULA]  power, force
+  integra        (7, 74, 267)     [TABULA]  whole, entire
+  fuerit         (6, 79, 300)     [TABULA]  shall have been
+  terram         (6, 75, 239)     [TABULA]  earth (acc.)
+  lapidis        (7, 70, 305)     [CAPTION]  of the stone
+  decreto        (7, 70, 345)     [CAPTION]  by decree
+  mente          (5, 57, 170)     [PIMANDER]  mind (abl.)
+  novae          (5, 57, 139)     [CAPTION]  new (fem.)
+  fixae          (5, 45, 125)     [CAPTION]  fixed (fem.)
+  filii          (5, 45, 141)     [CAPTION]  sons; of a son
+  iudicantem     (10, 99, 553)    [CAPTION]  judging (acc.)
+  sapientiae     (10, 99, 485)    [CAPTION]  of wisdom
+  erigerem       (8, 80, 368)     [PIMANDER]  I was raising, I might raise
+  pimander       (8, 80, 350)     [PIMANDER]  Pimander (name)
+  caeteris       (8, 80, 448)     [CAPTION]  the others, the rest (dat./abl. pl.)
+  passim         (6, 77, 274)     [CAPTION]  everywhere, here and there
+  aquino         (6, 77, 294)     [CAPTION]  Aquino (place name, as in Thomas of Aquino)
+  quid           (4, 51, 102)     [PIMANDER]  what
+  mens           (4, 51, 141)     [PIMANDER]  mind
+  penetrabit     (10, 110, 600)   [TABULA]  will penetrate
+  codicesque     (10, 101, 634)   [CAPTION]  and books, and codices
+  audire         (6, 58, 211)     [PIMANDER]  to hear
+  tum            (3, 54, 101)     [PIMANDER]  then
+  partes         (6, 79, 291)     [TABULA]  parts
+  vere           (4, 50, 106)     [CAPTION]  truly
+  unice          (5, 52, 113)     [CAPTION]  uniquely, solely
+  omnia          (5, 52, 124)     [CAPTION]  all things
+  permanente     (10, 111, 598)   [CAPTION]  remaining, enduring (abl.)
+  iunoni         (6, 82, 277)     [CAPTION]  to Juno
+  artium         (6, 82, 316)     [CAPTION]  of the arts
+missing glosses: []
+cells where 'shortest' by letter count differs from shortest by string length: [79, 80, 82, 108, 115, 128, 146, 149, 154, 158, 159, 161, 172, 179, 187, 191, 211]
